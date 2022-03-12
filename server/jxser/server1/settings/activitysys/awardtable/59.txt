@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+59	Tói ®­êng	"return {tbProp={6,1,2227,1,0,0},nExpiredTime=20100315,}"	1	50.000000	562	11	
+59	Gõng	"return {tbProp={6,1,2228,1,0,0},nExpiredTime=20100315,}"	1	50.000000	563	11	

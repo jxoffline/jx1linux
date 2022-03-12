@@ -1,0 +1,28 @@
+Name	Quality	Genre	Detail	Particular	Level	GoodsFive	Magiclevel	ItemValue	ItemRate
+tªn vËt phÈm 	cã ph¶i lµ Hoµng Kim hay kh«ng? 	Lo¹i lín	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	§¼ng cÊp Ma Ph¸p	L­îng gi¸ trÞ 	Tû lÖ 
+R­¬ng cò 	0	6	1	902	1	0	0	150000	0
+ThÇn bÝ kho¸ng th¹ch	0	6	1	398	1	0	0	5000	10
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 4	0	6	1	147	4	0	0	13500	600
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 5	0	6	1	147	5	0	0	16500	200
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 6	0	6	1	147	6	0	0	31500	60
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 7	0	6	1	147	7	0	0	18385	10
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 8	0	6	1	147	8	0	0	6302	1
+Phóc Duyªn Lé (TiÓu) 	0	6	1	122	1	0	0	3000	1500
+Phóc Duyªn Lé (Trung) 	0	6	1	123	1	0	0	9000	1515
+Phóc Duyªn Lé (§¹i) 	0	6	1	124	1	0	0	90000	3500
+Tiªn Th¶o Lé 	0	6	1	71	1	0	0	87860	2271.5
+Tinh Hång B¶o Th¹ch	0	4	353	1	1	0	0	4500	10
+Lam Thñy Tinh	0	4	238	1	1	0	0	12000	100
+Lôc Thñy Tinh	0	4	240	1	1	0	0	12000	100
+Tö Thñy Tinh	0	4	239	1	1	0	0	12000	100
+TÈy Tñy Kinh	0	6	1	22	1	0	0	7500	5
+Vâ L©m MËt TÞch	0	6	1	26	1	0	0	10000	5
+§Þnh Quèc Thanh Sa Tr­êng Sam	1	159	1	1	1	0	0	9000	2
+§Þnh Quèc ¤ Sa Ph¸t Qu¸n	1	160	1	1	1	0	0	8000	1
+§Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	1	161	1	1	1	0	0	3000	2
+§Þnh Quèc Tö §»ng Hé uyÓn	1	162	1	1	1	0	0	3000	2
+§Þnh Quèc Ng©n Tµm Yªu ®¸i	1	163	1	1	1	0	0	3000	2
+An Bang B¨ng Tinh Th¹ch H¹ng Liªn	1	164	1	1	1	0	0	15000	0.5
+An Bang Cóc Hoa Th¹ch ChØ hoµn	1	165	1	1	1	0	0	6000	1
+An Bang §iÒn Hoµng Th¹ch Ngäc Béi	1	166	1	1	1	0	0	3000	1
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	1	167	1	1	1	0	0	8000	1

@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+33	K—o chi’c gÀy	"return {tbProp={6,1,2195,1,0,0},nExpiredTime=20100125,}"	1	80	192	9	
+33	Qu∂ t∏o Æ·	"return {tbProp={6,1,2194,1,0,0},nExpiredTime=20100125,}"	1	20	193	9	

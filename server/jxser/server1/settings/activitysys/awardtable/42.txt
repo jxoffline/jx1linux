@@ -1,0 +1,26 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+42	ThÇn N«ng Ch©n §¬n	"return {tbProp={6,1,2113,1,0,0},}"	1	1	233	11	
+42	Ngò Hµnh Kú Th¹ch	"return {tbProp={6,1,2125,1,0,0},}"	1	34.56	234	11	
+42	Bao l× x×	"return {tbProp={6,1,2221,1,0,0},nExpiredTime=20100322,pFun=function() LG_ApplyDoScript(1, [[]], [[]], [[\script\event\msg2allworld.lua]], [[battle_msg2allworld]], format([[Chóc mõng <color=yellow>%s<color> ®· nhËn ®­îc <color=yellow>%s<color> ]],GetName(),[[Bao l× x×]]) , [[]], [[]]) end}"	1	9.5	235	11	
+42	NÕn C¸t T­êng	"return {tbProp={6,1,2235,1,0,0},nExpiredTime=20100329,}"	1	4	236	11	
+42	NÕn Nh­ ý	"return {tbProp={6,1,2236,1,0,0},nExpiredTime=20100329,}"	1	4	237	11	
+42	T¨ng m·o kim bµi	"return {tbProp={6,1,2203,1,0,0},}"	1	0.5	238	11	
+42	U lung kim bµi	"return {tbProp={6,1,2204,1,0,0},}"	1	0.3	239	11	
+42	Ma s¸t kim bµi	"return {tbProp={6,1,2205,1,0,0},}"	1	0.3	240	11	
+42	§Þch kh¸i kim bµi	"return {tbProp={6,1,2206,1,0,0},}"	1	0.5	241	11	
+42	H¸m Thiªn Kim Bµi	"return {tbProp={6,1,2237,1,0,0},}"	1	1.3	242	11	
+42	S©m Hoang Kim Bµi	"return {tbProp={6,1,2238,1,0,0},}"	1	1.3	243	11	
+42	BÝch H¶i Kim Bµi	"return {tbProp={6,1,2239,1,0,0},}"	1	0.6	244	11	
+42	V« Ma Kim Bµi	"return {tbProp={6,1,2240,1,0,0},}"	1	1.5	245	11	
+42	L¨ng Nh¹c Kim Bµi	"return {tbProp={6,1,2241,1,0,0},}"	1	1.5	246	11	
+42	S­¬ng Tinh Kim Bµi	"return {tbProp={6,1,2242,1,0,0},}"	1	1	249	11	
+42	Khiªu chiÕn LÔ bao	"return {tbProp={6,1,2006,1,0,0},}"	1	7	250	11	
+42	§¹i M· Hæ B¾c Kinh Chi Méng	"return {tbProp={0,197},nQuality=1,pFun=function() LG_ApplyDoScript(1, [[]], [[]], [[\script\event\msg2allworld.lua]], [[battle_msg2allworld]], format([[Chóc mõng <color=yellow>%s<color> ®· nhËn ®­îc <color=yellow>%s<color>]],GetName(),[[Kim quang b¾c kinh chi méng]]) , [[]], [[]]) end}"	1	0.02	253	11	
+42	§¹i M· Hæ Nha §iÓn Chi Hån	"return {tbProp={0,202},nQuality=1,pFun=function() LG_ApplyDoScript(1, [[]], [[]], [[\script\event\msg2allworld.lua]], [[battle_msg2allworld]], format([[Chóc mõng <color=yellow>%s<color> ®· nhËn ®­îc <color=yellow>%s<color>]],GetName(),[[Kim quang nh· ®iÓn chi hån]]) , [[]], [[]]) end}"	1	0.02	254	11	
+42	ThÇn bÝ kho¸ng th¹ch	"return {tbProp={6,1,398,1,0,0},pFun=function() LG_ApplyDoScript(1, [[]], [[]], [[\script\event\msg2allworld.lua]], [[battle_msg2allworld]], format([[Chóc mõng <color=yellow>%s<color> ®· nhËn ®­îc <color=yellow>%s<color>]],GetName(),[[ThÇn bÝ kho¸ng th¹ch]]) , [[]], [[]]) end}"	1	0.3	255	11	
+42	HuyÒn tinh kho¸ng th¹ch cÊp 6	"return {tbProp={6,1,147,6,0,0},}"	1	5	256	11	
+42	HuyÒn tinh kho¸ng th¹ch cÊp 7	"return {tbProp={6,1,147,7,0,0},}"	1	3	257	11	
+42	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {tbProp={6,1,147,8,0,0},}"	1	1	258	11	
+42	Tµi Léc Hång Bao	"return {tbProp={6,1,2223,1,0,0},nExpiredTime=20100322,}"	1	10.2	261	11	
+42	Bïa b¸t qu¸i	"return {tbProp={6,1,2224,1,0,0},nExpiredTime=20100329,}"	1	4.6	267	11	
+42	ThiÖp chóc xu©n	"return {tbProp={6,1,2222,1,0,0},nExpiredTime=20100322,}"	1	7	281	11	

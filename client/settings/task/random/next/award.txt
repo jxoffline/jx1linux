@@ -1,0 +1,135 @@
+TaskName	AwardType	AwardText	Genre	Detail	Particular	Level	GoodsFive	Quality	RandomSeed	GoodsNum	MoneyNum	ExpNum	ReputeNum	AwardTask	SelectEvent	ArrayID	ArrayRate	AilledAward
+Tªn nhiÖm vô 	Lo¹i h×nh phÇn th­ëng	tªn phÇn th­ëng	Tæng lo¹i	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	Trang bŞ Hoµng Kim	H¹t ngÉu nhiªn	Sè l­îng vËt phÈm	TiÒn	kinh nghiÖm 	Danh väng	Tªn nhiÖm vô b¾t ®Çu	Chän ngÉu nhiªn trong sù kiÖn	ID ph©n bè 	tû lÖ ph©n bè 	hÖ thèng phÇn th­ëng
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	vËt phÈm 	Phóc Duyªn Lé (TiÓu) 	6	1	122	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	vËt phÈm 	Phóc Duyªn Lé (Trung) 	6	1	123	1	0			1						1	50	
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	vËt phÈm 	Phóc Duyªn Lé (§¹i) 	6	1	124	1	0			1						1	15	
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp S¸t Thñ Gi¶n	vËt phÈm 	HuyÒn Tinh cÊp 4	6	1	147	4	0			1						1	85	
+NgÉu nhiªn_MËt §å_Thu thËp S¸t Thñ Gi¶n	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	14	
+NgÉu nhiªn_MËt §å_Thu thËp S¸t Thñ Gi¶n	vËt phÈm 	HuyÒn Tinh cÊp 6	6	1	147	6	0			1						1	1	
+NgÉu nhiªn_MËt §å_Thu thËp S¸t Thñ Gi¶n	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp Kho¸ng Th¹ch	vËt phÈm 	HuyÒn Tinh cÊp 4	6	1	147	4	0			1						1	85	
+NgÉu nhiªn_MËt §å_Thu thËp Kho¸ng Th¹ch	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	14	
+NgÉu nhiªn_MËt §å_Thu thËp Kho¸ng Th¹ch	vËt phÈm 	HuyÒn Tinh cÊp 6	6	1	147	6	0			1						1	1	
+NgÉu nhiªn_MËt §å_Thu thËp Kho¸ng Th¹ch	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	vËt phÈm 	B¸ch Qu¶ Lé 	6	1	73	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	vËt phÈm 	Thiªn s¬n  B¶o Lé 	6	1	72	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	vËt phÈm 	Tiªn Th¶o Lé 	6	1	71	1	0			1						1	40	
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	vËt phÈm 	Phóc Duyªn Lé (§¹i) 	6	1	124	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	kinh nghiÖm 	500.000 kinh nghiÖm										500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (§­êng M«n) 	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	95	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (§­êng M«n) 	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (§­êng M«n) 	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (§­êng M«n) 	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Ngò §éc) 	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	96	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Ngò §éc) 	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Ngò §éc) 	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Ngò §éc) 	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Nga Mi) 	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	94	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Nga Mi) 	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Nga Mi) 	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Nga Mi) 	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËpThóy Yªn MËt tŞch kü n¨ng	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	98	
+NgÉu nhiªn_MËt §å_Thu thËpThóy Yªn MËt tŞch kü n¨ng	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	1	
+NgÉu nhiªn_MËt §å_Thu thËpThóy Yªn MËt tŞch kü n¨ng	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	1	
+NgÉu nhiªn_MËt §å_Thu thËpThóy Yªn MËt tŞch kü n¨ng	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËpC¸i Bang MËt tŞch kü n¨ng	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	95	
+NgÉu nhiªn_MËt §å_Thu thËpC¸i Bang MËt tŞch kü n¨ng	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËpC¸i Bang MËt tŞch kü n¨ng	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËpC¸i Bang MËt tŞch kü n¨ng	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn NhÉn	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	94	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn NhÉn	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn NhÉn	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn NhÉn	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËpVâ §ang MËt tŞch kü n¨ng	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	95	
+NgÉu nhiªn_MËt §å_Thu thËpVâ §ang MËt tŞch kü n¨ng	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËpVâ §ang MËt tŞch kü n¨ng	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËpVâ §ang MËt tŞch kü n¨ng	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng C«n L«n	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	96	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng C«n L«n	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng C«n L«n	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	2	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng C«n L«n	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp ThiÕu L©m MËt tŞch kü n¨ng	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	90	
+NgÉu nhiªn_MËt §å_Thu thËp ThiÕu L©m MËt tŞch kü n¨ng	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp ThiÕu L©m MËt tŞch kü n¨ng	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp ThiÕu L©m MËt tŞch kü n¨ng	kinh nghiÖm 	1000000 kinh nghiÖm										1000000						
+
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn V­¬ng	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	94	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn V­¬ng	vËt phÈm 	TÈy Tñy Kinh	6	1	22	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn V­¬ng	vËt phÈm 	Vâ L©m MËt TŞch	6	1	26	1	0			1						1	3	
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn V­¬ng	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	vËt phÈm 	Tinh Hång B¶o Th¹ch	4	353	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	vËt phÈm 	Lôc Thñy Tinh	4	240	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	vËt phÈm 	Tinh Hång B¶o Th¹ch	4	353	1	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	vËt phÈm 	Lôc Thñy Tinh	4	240	1	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	vËt phÈm 	Tinh Hång B¶o Th¹ch	4	353	1	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	vËt phÈm 	Tö Thñy Tinh	4	239	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	vËt phÈm 	Lôc Thñy Tinh	4	240	1	1	0			1						1	20	
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm	vËt phÈm 	Tiªn Th¶o Lé 	6	1	71	1	0			1						1	80	
+NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp §¹i Phong §ao	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp Kim C« Bæng	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp Ph¸ Thiªn Kİch	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp Ph¸ Thiªn Chïy	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp B¸ V­¬ng Tiªu	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp Tóy NguyÖt §ao	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+NgÉu nhiªn_MËt §å_Thu thËp Khæng T­íc Linh	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm
+
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	vËt phÈm 	Tiªn Th¶o Lé 	6	1	71	1	0			1						1	25	
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	40	
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	5	
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	vËt phÈm 	Tiªn Th¶o Lé 	6	1	71	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	30	
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	vËt phÈm 	ThÇn bİ kho¸ng th¹ch	6	1	398	1	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËpHé Th©n phï 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn
+NgÉu nhiªn_MËt §å_Thu thËp H­¬ng Nang	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Béi	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn
+
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 	vËt phÈm 	Tiªn Th¶o Lé 	6	1	71	1	0			1						1	80	
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 	vËt phÈm 	HuyÒn tinh cÊp 5	6	1	147	5	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 	vËt phÈm 	Lam Thñy Tinh	4	238	1	1	0			1						1	10	
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 	kinh nghiÖm 	1500000 kinh nghiÖm										1500000						
+
+NgÉu nhiªn_MËt §å_Thu thËp Hé uyÓn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 
+NgÉu nhiªn_MËt §å_Thu thËp Th«ng Thiªn Ph¸t Qu¸n	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 
+NgÉu nhiªn_MËt §å_Thu thËp YÓm NhËt Kh«i	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 
+NgÉu nhiªn_MËt §å_Thu thËp B¹ch Kim yªu ®¸i	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 
+NgÉu nhiªn_MËt §å_Thu thËpThiªn Tµm Ngoa	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 
+NgÉu nhiªn_MËt §å_Thu thËp Phi Phông Ngoa	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 

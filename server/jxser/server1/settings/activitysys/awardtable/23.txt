@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+23	Huy“n tinh kho∏ng thπch c p 6	"return {tbProp={6,1,147,6,0,0},}"	3	100	142	4
+23	Khi™u chi’n l÷nh	"return {tbProp={6,1,1499,-1,0,0},}"	5	100	143	4

@@ -1,0 +1,18 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+26	ThÇn N«ng Ch©n §¬n	"return {tbProp={6,1,2113,1,0,0},nExpiredTime=20091210,}"	1	5.000000	148	4
+26	Ngò Hµnh Kú Th¹ch	"return {tbProp={6,1,2125,1,0,0},}"	1	26.000000	149	4
+26	S¸ch ®Þa lý	"return {tbProp={6,1,2172,1,0,0},nExpiredTime=20100201,}"	1	10.000000	150	4
+26	Tiªn Th¶o Lé ®Æc biÖt	"return {tbProp={6,1,1181,1,0,0},}"	1	5.000000	151	4
+26	Hoµn Mü Kim Bµi	"return {tbProp={6,1,2129,1,0,0},}"	1	9.100000	152	4
+26	KÖ s¸ch	"return {tbProp={6,1,2171,1,0,0},nExpiredTime=20091210,}"	1	0.8000000	153	4
+26	Khiªu chiÕn LÔ bao	"return {tbProp={6,1,2006,1,0,0},}"	1	10.740000	154	4
+26	NÕn B¸t tr©n phóc nguyÖt	"return {tbProp={6,1,1817,1,0,0},}"	1	10.000000	155	4
+26	Phi Tèc hoµn	"return {tbProp={6,0,6,1,0,0},}"	1	5.000000	156	4
+26	§¹i Lùc hoµn	"return {tbProp={6,0,3,1,0,0},}"	1	5.000000	157	4
+26	§¹i M· Hæ B¾c Kinh Chi Méng	"return {tbProp={0,197},nQuality=1,}"	1	0.005000000	158	4
+26	§¹i M· Hæ Nha §iÓn Chi Hån	"return {tbProp={0,202},nQuality=1,}"	1	0.005000000	159	4
+26	Thiªn S¬n TuyÕt Liªn	"return {tbProp={6,1,1431,1,0,0},}"	1	0.05000000	160	4
+26	ThÇn bÝ kho¸ng th¹ch	"return {tbProp={6,1,398,1,0,0},}"	1	0.3000000	161	4
+26	HuyÒn tinh kho¸ng th¹ch cÊp 6	"return {tbProp={6,1,147,6,0,0},}"	1	7.000000	162	4
+26	HuyÒn tinh kho¸ng th¹ch cÊp 7	"return {tbProp={6,1,147,7,0,0},}"	1	5.000000	163	4
+26	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {tbProp={6,1,147,8,0,0},}"	1	1.000000	164	4

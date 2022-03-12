@@ -1,0 +1,17 @@
+Name	Feature	Price
+Sa Di phôc	0	0
+NguyÖn B¹ch Cµ Sa 	1	0
+ThÊt B¶o Cµ Sa	2	0
+Cæn y	6	0
+Ng­ NhÉn y	7	0
+Thiªn NhÉn MËt Trang	8	0
+Th« Bè tr­êng bµo	9	0
+Ng©n T¬ Bµo	10	0
+Gi¸ng Sa Bµo	11	0
+Táa Tö gi¸p	12	0
+S¬n V¨n Tù gi¸p	13	0
+§­êng Nghª gi¸p	14	0
+Lan Bè y	15	0
+¸o v¶i th« 	18	0
+HuyÒn Hoµng ®o¶n gi¸p	19	0
+TuyÒn Long bµo	20	0

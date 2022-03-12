@@ -1,0 +1,51 @@
+NAME	GENRE	DETAILTYPE	PARTICULAR	VALUE%
+Cöu TiÕt X­¬ng VÜ Ngoa	0	5	0	80
+Thiªn Tµm Ngoa	0	5	1	100
+Kim Lò hµi	0	5	2	40
+Phi Phông Ngoa	0	5	3	50
+Thiªn Tµm Yªu §¸i	0	6	0	80
+B¹ch Kim Yªu §¸i	0	6	1	100
+Tú L« m·o	0	7	0	70
+Ngò l·o qu¸n	0	7	1	40
+Tu La Ph¸t kÕt	0	7	2	85
+Th«ng Thiªn Ph¸t Qu¸n	0	7	3	100
+YÓm NhËt kh«i	0	7	4	90
+TrÝch Tinh hoµn	0	7	5	80
+¤ Tµm M·o	0	7	6	50
+Quan ¢m Ph¸t Qu¸n	0	7	7	35
+¢m D­¬ng V« Cùc qu¸n	0	7	8	25
+HuyÒn Tª DiÖn Tr¸o	0	7	9	40
+Long HuyÕt §Çu hoµn	0	7	10	35
+Long L©n Kh«i	0	7	11	25
+Thanh Tinh Thoa	0	7	12	50
+Kim Phông TriÓn SÝ 	0	7	13	35
+Long Phông HuyÕt Ngäc Tr¹c	0	8	0	60
+Thiªn Tµm Hé UyÓn	0	8	1	100
+ThÊt B¶o Cµ Sa	0	2	0	60
+Ch©n Vò Th¸nh Y	0	2	1	35
+Thiªn NhÉn MËt Trang	0	2	2	80
+Gi¸ng Sa Bµo	0	2	3	95
+§­êng Nghª gi¸p	0	2	4	100
+V¹n L­u Quy T«ng Y	0	2	5	50
+TuyÒn Long bµo	0	2	6	45
+ThÊt B¶o cµ sa 	0	2	7	30
+Long Tiªu ®¹o y	0	2	8	15
+Cöu VÜ B¹ch Hå trang	0	2	9	45
+TrÇm H­¬ng sam	0	2	10	30
+TÝch LÞch Kim Phông gi¸p	0	2	11	50
+V¹n Chóng TÒ T©m Y	0	2	12	25
+L­u Tiªn QuÇn	0	2	13	20
+ThÊt B¶o Cµ Sa	0	2	14	60
+Ch©n Vò Th¸nh Y	0	2	15	35
+Thiªn NhÉn MËt Trang	0	2	16	80
+Gi¸ng Sa Bµo	0	2	17	95
+§­êng Nghª gi¸p	0	2	18	100
+V¹n L­u Quy T«ng Y	0	2	19	50
+TuyÒn Long bµo	0	2	20	45
+ThÊt B¶o cµ sa 	0	2	21	30
+Long Tiªu ®¹o y	0	2	22	15
+Cöu VÜ B¹ch Hå trang	0	2	23	45
+TrÇm H­¬ng sam	0	2	24	30
+TÝch LÞch Kim Phông gi¸p	0	2	25	50
+V¹n Chóng TÒ T©m Y	0	2	26	25
+L­u Tiªn QuÇn	0	2	27	20

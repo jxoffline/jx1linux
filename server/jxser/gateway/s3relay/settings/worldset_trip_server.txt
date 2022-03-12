@@ -1,0 +1,4 @@
+MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAMESVR_SET_6	GAMESVR_SET_7	GAMESVR_SET_8	GAMESVR_SET_9	GAMESVR_SET_10	GAMESVR_SET_11	GAMESVR_SET_12	GAMESVR_SET_13	GAMESVR_SET_14	GAMESVR_SET_15	GAMESVR_SET_16	±¸×¢
+972	1		2	4	1	1	7	1		7							§iÓm b¸o danh Tèng Kim liªn server (s¬)
+973	1		1	1	3	3	3	2		3							§iÓm b¸o danh Tèng Kim liªn server (trung)
+974	1		3	3	2	2	2	3		2							§iÓm b¸o danh Tèng Kim liªn server (cao)

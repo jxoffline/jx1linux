@@ -1,0 +1,7 @@
+TaskName	Rate10	Rate20	Rate30	Rate40	Rate50	Rate60	Rate70	Rate80	Rate90	Rate100
+Lo¹i h×nh nhiÖm vô 	cÊp ®é 10	cÊp ®é 20	cÊp ®é 30	cÊp ®é 40	cÊp ®é 50	 cÊp ®é 60	cÊp ®é 70	cÊp ®é 80	cÊp ®é 90	cÊp ®é 100
+NgÉu nhiªn_§èi tho¹i_Thóy Yªn Hµ Mé TuyÕt	100	100	100	100	100	100	100	100	100	100
+NgÉu nhiªn_§èi tho¹i__ Chñ d­îc ®iÕm (T­¬ng D­¬ng) 	100	100	100	100	100	100	100	100	100	100
+NgÉu nhiªn_§èi tho¹i_VÖ binh nha m«n	100	100	100	100	100	100	100	100	100	100
+NgÉu nhiªn_§èi tho¹i_Häc trß thî rÌn (Thµnh §«) 	100	100	100	100	100	100	100	100	100	100
+NgÉu nhiªn_§èi tho¹i_ T©n NhŞ ThÈm (Thµnh §«) 	100	100	100	100	100	100	100	100	100	100

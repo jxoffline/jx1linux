@@ -1,0 +1,33 @@
+Id	WeaponType	SkillId
+1	Tay kh«ng	53
+2	®¬n thñ kiÕm 1	53
+3	®¬n thñ kiÕm 2	53
+4	®¬n thñ kiÕm 3	53
+5	®¬n thñ ®ao 1	53
+6	®¬n thñ ®ao 2	53
+7	®¬n thñ ®ao 3	53
+8	Lo¹i tr­êng th­¬ng 1	1
+9	Lo¹i tr­êng th­¬ng 2	1
+10	Lo¹i tr­êng th­¬ng 3	1
+11	Lo¹i tr­êng c«n 1	1
+12	Lo¹i tr­êng c«n 2	1
+13	Lo¹i tr­êng c«n 3	1
+14	Lo¹i Song kiÕm 1	53
+15	Lo¹i Song kiÕm 2	53
+16	Lo¹i Song kiÕm 3	53
+17	Lo¹i Song chïy 1	53
+18	Lo¹i Song chïy 2	53
+19	Lo¹i Song chïy 3	53
+20	¸m khÝ 	2
+21	®¬n thñ kiÕm 4	53
+22	®¬n thñ kiÕm 5	53
+23	®¬n thñ ®ao 4	53
+24	®¬n thñ ®ao 5	53
+25	Lo¹i tr­êng th­¬ng 4	1
+26	Lo¹i tr­êng th­¬ng 5	1
+27	Lo¹i tr­êng c«n 4	1
+28	Lo¹i tr­êng c«n 5	1
+29	Lo¹i Song kiÕm 4	53
+30	Lo¹i Song kiÕm 5	53
+31	Lo¹i Song chïy 4	53
+32	Lo¹i Song chïy 5	53

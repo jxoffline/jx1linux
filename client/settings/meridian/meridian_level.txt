@@ -1,0 +1,129 @@
+Ñ¨Î»Ãû³Æ	ËùÊô¾­ÂöID	Ñ¨Î»ID£¨Í¬Ê±Ò²ÊÇµÈ¼¶£©	Ê§°Ü»ØÍËµ½¼¸¼¶	³É¹¦¸ÅÂÊ£¨¸ÅÂÊ»ùÊý10000£©	ËµÃ÷ÎÄ×Ö	Ä§·¨ÊôÐÔID_1	Ä§·¨ÊôÐÔID_2	Ä§·¨ÊôÐÔID_3	ÏûºÄÕæÔªÊýÁ¿	ÏûºÄ»¤Âöµ¤ÊýÁ¿
+Thõa KhÊp	1	1	0	9000	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2897	0	0	2000	1000
+Thõa T­¬ng	1	2	0	8800	Néi c«ng	2905	0	0	1600	800
+Liªm TuyÒn	1	3	1	8600	Th©n ph¸p	2914	0	0	1400	700
+Thiªn §ét	1	4	2	8400	Søc m¹nh	2922	0	0	1200	600
+TuyÒn Ki	1	5	3	8200	Giíi h¹n sinh mÖnh %	2931	0	0	1000	500
+Hoa C¸i	1	6	4	8000	HiÖu qu¶ håi phôc sinh mÖnh	2939	0	0	1000	500
+Tö Cung	1	7	5	7800	TrÞ sè c­êng hãa ngò hµnh	2948	0	0	1000	500
+Ngäc §­êng	1	8	6	7600	TrÞ sè nh­îc hãa ngò hµnh	2956	0	0	1000	500
+§·n Trung	1	9	7	7400	Toµn kh¸ng	2965	0	0	1000	500
+Trung §×nh	1	10	8	7200	Bá qua kh¸ng tÊt c¶	2973	0	0	1000	500
+C­u VÜ	1	11	9	7000	T¨ng lùc s¸t th­¬ng	2982	0	0	1000	500
+Cù KhuyÕt	1	12	10	6800	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2990	0	0	1000	500
+Th­îng O¶n	1	13	11	6600	Träng KÝch	2999	0	0	1000	500
+Trung O¶n	1	14	12	6400	Träng KÝch tuyÖt ®èi	3007	0	0	1000	500
+KiÕn LÝ	1	15	13	6200	Hãa Gi¶i s¸t th­¬ng	3016	0	0	1000	500
+H¹ O¶n	1	16	14	6000	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3024	0	0	1000	500
+TiÒn §×nh	2	1	0	9000	Hãa Gi¶i s¸t th­¬ng	3009	0	0	2000	1000
+B¸ch Héi	2	2	0	8800	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3017	0	0	1600	800
+HËu §×nh	2	3	1	8600	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2898	0	0	1400	700
+C­êng Gian	2	4	2	8400	Néi c«ng	2906	0	0	1200	600
+N·o Hé	2	5	3	8200	Th©n ph¸p	2915	0	0	1000	500
+Phong Phñ	2	6	4	8000	Søc m¹nh	2923	0	0	1000	500
+Nha M«n	2	7	5	7800	Giíi h¹n sinh mÖnh %	2932	0	0	1000	500
+§¹i Trïy	2	8	6	7600	HiÖu qu¶ håi phôc sinh mÖnh	2940	0	0	1000	500
+Dao §¹o	2	9	7	7400	TrÞ sè c­êng hãa ngò hµnh	2949	0	0	1000	500
+Th©n Trô	2	10	8	7200	TrÞ sè nh­îc hãa ngò hµnh	2957	0	0	1000	500
+ThÇn §¹o	2	11	9	7000	Toµn kh¸ng	2966	0	0	1000	500
+Linh §µi	2	12	10	6800	Bá qua kh¸ng tÊt c¶	2974	0	0	1000	500
+ChÝ D­¬ng	2	13	11	6600	T¨ng lùc s¸t th­¬ng	2983	0	0	1000	500
+C©n Sóc	2	14	12	6400	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2991	0	0	1000	500
+Trung Xu	2	15	13	6200	Träng KÝch	3000	0	0	1000	500
+TÝch Trung	2	16	14	6000	Träng KÝch tuyÖt ®èi	3008	0	0	1000	500
+U M«n	3	1	0	9000	Träng KÝch	2993	0	0	2000	1000
+Th«ng Cèc	3	2	0	8800	Träng KÝch tuyÖt ®èi	3001	0	0	1600	800
+¢m §«	3	3	1	8600	Hãa Gi¶i s¸t th­¬ng	3010	0	0	1400	700
+Th¹ch Quan	3	4	2	8400	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3018	0	0	1200	600
+Th­¬ng Khóc	3	5	3	8200	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2899	0	0	1000	500
+KhÝ Xung	3	6	4	8000	Néi c«ng	2907	0	0	1000	500
+Manh Du	3	7	5	7800	Th©n ph¸p	2916	0	0	1000	500
+Trung Chó	3	8	6	7600	Søc m¹nh	2924	0	0	1000	500
+Tø M·n	3	9	7	7400	Giíi h¹n sinh mÖnh %	2933	0	0	1000	500
+KhÝ HuyÖt	3	10	8	7200	HiÖu qu¶ håi phôc sinh mÖnh	2941	0	0	1000	500
+§¹i H¸ch	3	11	9	7000	TrÞ sè c­êng hãa ngò hµnh	2950	0	0	1000	500
+Hoµnh Cèt	3	12	10	6800	TrÞ sè nh­îc hãa ngò hµnh	2958	0	0	1000	500
+Th¸i Êt	3	13	11	6600	Toµn kh¸ng	2967	0	0	1000	500
+Quan M«n	3	14	12	6400	Bá qua kh¸ng tÊt c¶	2975	0	0	1000	500
+Quy Lai	3	15	13	6200	T¨ng lùc s¸t th­¬ng	2984	0	0	1000	500
+Thñy §¹o	3	16	14	6000	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2992	0	0	1000	500
+Ngò Xu	4	1	0	9000	T¨ng lùc s¸t th­¬ng	2977	0	0	2000	1000
+Thiªn Xung	4	2	0	8800	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2985	0	0	1600	800
+Môc Song	4	3	1	8600	Träng KÝch	2994	0	0	1400	700
+Thõa Linh	4	4	2	8400	Träng KÝch tuyÖt ®èi	3002	0	0	1200	600
+Quang Minh	4	5	3	8200	Hãa Gi¶i s¸t th­¬ng	3011	0	0	1000	500
+HuyÒn Chung	4	6	4	8000	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3019	0	0	1000	500
+Duy §¹o	4	7	5	7800	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2900	0	0	1000	500
+Phï B¹ch	4	8	6	7600	Néi c«ng	2908	0	0	1000	500
+Hoµn Cèt	4	9	7	7400	Th©n ph¸p	2917	0	0	1000	500
+Bæn ThÇn	4	10	8	7200	Søc m¹nh	2925	0	0	1000	500
+D­¬ng B¹ch	4	11	9	7000	Giíi h¹n sinh mÖnh %	2934	0	0	1000	500
+ChÝnh Doanh	4	12	10	6800	HiÖu qu¶ håi phôc sinh mÖnh	2942	0	0	1000	500
+N·o Kh«ng	4	13	11	6600	TrÞ sè c­êng hãa ngò hµnh	2951	0	0	1000	500
+Ngo¹i Khiªu	4	14	12	6400	TrÞ sè nh­îc hãa ngò hµnh	2959	0	0	1000	500
+Khiªu Kh­	4	15	13	6200	Toµn kh¸ng	2968	0	0	1000	500
+D­¬ng Phô	4	16	14	6000	Bá qua kh¸ng tÊt c¶	2976	0	0	1000	500
+T×nh Minh	5	1	0	9000	Toµn kh¸ng	2961	0	0	2000	1000
+Nh©n Nghªnh	5	2	0	8800	Bá qua kh¸ng tÊt c¶	2969	0	0	1600	800
+Bån KhuyÕt	5	3	1	8600	T¨ng lùc s¸t th­¬ng	2978	0	0	1400	700
+Nhò C¨n	5	4	2	8400	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2986	0	0	1200	600
+VÞ Kinh	5	5	3	8200	Träng KÝch	2995	0	0	1000	500
+ThËn Kinh	5	6	4	8000	Träng KÝch tuyÖt ®èi	3003	0	0	1000	500
+¢m Cèc	5	7	5	7800	Hãa Gi¶i s¸t th­¬ng	3012	0	0	1000	500
+Giao TÝn	5	8	6	7600	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3020	0	0	1000	500
+ChiÕu H¶i	5	9	7	7400	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2901	0	0	1000	500
+Nhiªn Cèc	5	10	8	7200	Néi c«ng	2909	0	0	1000	500
+Hoµnh Cèc	5	11	9	7000	Th©n ph¸p	2918	0	0	1000	500
+¢m KhÝ Xung	5	12	10	6800	Søc m¹nh	2926	0	0	1000	500
+BÊt Dung	5	13	11	6600	Giíi h¹n sinh mÖnh %	2935	0	0	1000	500
+L­¬ng M«n	5	14	12	6400	HiÖu qu¶ håi phôc sinh mÖnh	2943	0	0	1000	500
+Hoµnh T×	5	15	13	6200	TrÞ sè c­êng hãa ngò hµnh	2952	0	0	1000	500
+Phong Long	5	16	14	6000	TrÞ sè nh­îc hãa ngò hµnh	2960	0	0	1000	500
+Phong Tr×	6	1	0	9000	TrÞ sè c­êng hãa ngò hµnh	2945	0	0	2000	1000
+T×nh Minh	6	2	0	8800	TrÞ sè nh­îc hãa ngò hµnh	2953	0	0	1600	800
+Thõa KhÊp	6	3	1	8600	Toµn kh¸ng	2962	0	0	1400	700
+Cù Liªu	6	4	2	8400	Bá qua kh¸ng tÊt c¶	2970	0	0	1200	600
+§Þa Th­¬ng	6	5	3	8200	T¨ng lùc s¸t th­¬ng	2979	0	0	1000	500
+Thiªn Liªu	6	6	4	8000	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2987	0	0	1000	500
+Cù Cèt	6	7	5	7800	Träng KÝch	2996	0	0	1000	500
+Kiªn Liªu	6	8	6	7600	Träng KÝch tuyÖt ®èi	3004	0	0	1000	500
+Phô D­¬ng	6	9	7	7400	Hãa Gi¶i s¸t th­¬ng	3013	0	0	1000	500
+Th©n M¹ch	6	10	8	7200	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3021	0	0	1000	500
+Béc Tham	6	11	9	7000	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2902	0	0	1000	500
+C­ Liªu	6	12	10	6800	Néi c«ng	2910	0	0	1000	500
+Ngò Xø	6	13	11	6600	Th©n ph¸p	2919	0	0	1000	500
+Thõa Quang	6	14	12	6400	Søc m¹nh	2927	0	0	1000	500
+L¹c Tøc	6	15	13	6200	Giíi h¹n sinh mÖnh %	2936	0	0	1000	500
+Thõa S¬n	6	16	14	6000	HiÖu qu¶ håi phôc sinh mÖnh	2944	0	0	1000	500
+Néi Quan	7	1	0	9000	Giíi h¹n sinh mÖnh %	2929	0	0	2000	1000
+Liªm TuyÒn	7	2	0	8800	HiÖu qu¶ håi phôc sinh mÖnh	2937	0	0	1600	800
+Thiªn §ét	7	3	1	8600	TrÞ sè c­êng hãa ngò hµnh	2946	0	0	1400	700
+Kú M«n	7	4	2	8400	TrÞ sè nh­îc hãa ngò hµnh	2954	0	0	1200	600
+Phóc Ai	7	5	3	8200	Toµn kh¸ng	2963	0	0	1000	500
+§¹i Hoµnh	7	6	4	8000	Bá qua kh¸ng tÊt c¶	2971	0	0	1000	500
+Phñ X¸	7	7	5	7800	T¨ng lùc s¸t th­¬ng	2980	0	0	1000	500
+Xung M«n	7	8	6	7600	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2988	0	0	1000	500
+Tróc T©n	7	9	7	7400	Träng KÝch	2997	0	0	1000	500
+ThiÓu Xung	7	10	8	7200	Träng KÝch tuyÖt ®èi	3005	0	0	1000	500
+ThiÓu Phñ	7	11	9	7000	Hãa Gi¶i s¸t th­¬ng	3014	0	0	1000	500
+ThÇn M«n	7	12	10	6800	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3022	0	0	1000	500
+Thñy Ph©n	7	13	11	6600	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2903	0	0	1000	500
+KhÝ H¶i	7	14	12	6400	Néi c«ng	2911	0	0	1000	500
+Trung Cùc	7	15	13	6200	Th©n ph¸p	2920	0	0	1000	500
+Khóc Cèt	7	16	14	6000	Søc m¹nh	2928	0	0	1000	500
+Ngo¹i Quan	8	1	0	9000	Th©n ph¸p	2913	0	0	2000	1000
+¸ M«n	8	2	0	8800	Søc m¹nh	2921	0	0	1600	800
+Phong Phñ	8	3	1	8600	Giíi h¹n sinh mÖnh %	2930	0	0	1400	700
+Phong Tr×	8	4	2	8400	HiÖu qu¶ håi phôc sinh mÖnh	2938	0	0	1200	600
+N·o Kh«ng	8	5	3	8200	TrÞ sè c­êng hãa ngò hµnh	2947	0	0	1000	500
+Thõa Linh	8	6	4	8000	TrÞ sè nh­îc hãa ngò hµnh	2955	0	0	1000	500
+ChÝnh Doanh	8	7	5	7800	Toµn kh¸ng	2964	0	0	1000	500
+Môc Song	8	8	6	7600	Bá qua kh¸ng tÊt c¶	2972	0	0	1000	500
+§Çu L©m KhÊp	8	9	7	7400	T¨ng lùc s¸t th­¬ng	2981	0	0	1000	500
+D­¬ng B¹ch	8	10	8	7200	Bæ sung ®èi víi kü n¨ng c«ng kÝch	2989	0	0	1000	500
+Bæn ThÇn	8	11	9	7000	Träng KÝch	2998	0	0	1000	500
+§Çu Duy	8	12	10	6800	Träng KÝch tuyÖt ®èi	3006	0	0	1000	500
+Kiªn TÞnh	8	13	11	6600	Hãa Gi¶i s¸t th­¬ng	3015	0	0	1000	500
+Thiªn Liªu	8	14	12	6400	TriÖt tiªu hãa gi¶i s¸t th­¬ng	3023	0	0	1000	500
+No·n Du	8	15	13	6200	ViÖc nµy. ta cßn ph¶i vÒ suy nghÜ l¹i 	2904	0	0	1000	500
+D­¬ng Giao	8	16	14	6000	Néi c«ng	2912	0	0	1000	500

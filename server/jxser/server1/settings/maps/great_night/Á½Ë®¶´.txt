@@ -1,0 +1,2 @@
+map_ID	nPosX	nPosY
+181	1501	3097

@@ -1,0 +1,85 @@
+Name	Quality	Genre	Detail	Particular	Level	GoodsFive	LimitTime	ItemRate	IsPublic
+Name	Quality	Genre	Detail	Particular	Level	GoodsFive	LimitTime	ItemRate	IsPublic
+[§Þnh thêi] Méng Long Kim Ty ChÝnh Hång Cµ Sa	1	221					72	3000	1
+[§Þnh thêi] Phôc Ma Tö Kim C«n	1	225					72	3000	1
+[§Þnh thêi] Tø Kh«ng Gi¸ng Ma Giíi §ao	1	230					72	3000	1
+[§Þnh thêi] H·m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	1	235					72	3000	1
+[§Þnh thêi] Tôc NghiÖp B«n L«i Toµn Long Th­¬ng	1	240					72	3000	1
+[§Þnh thêi] Ngù Long L­îng Ng©n B¶o §ao	1	245					72	3000	1
+[§Þnh thêi] V« Gian û Thiªn KiÕm	1	250					72	3000	1
+[§Þnh thêi] V« Ma TÈy T­îng Ngäc KhÊu	1	258					72	3000	1
+[§Þnh thêi] V« TrÇn Thanh T©m H­íng ThiÖn Ch©u	1	261					72	3000	1
+[§Þnh thêi] Thª Hoµng Phông Nghi §ao	1	265					72	3000	1
+[§Þnh thêi] BÝch H¶i Uyªn ¦¬ng Liªn Hoµn §ao	1	270					72	3000	1
+[§Þnh thêi] U Long MÆc Thï NhuyÔn L÷	1	279					72	3000	1
+[§Þnh thêi] Minh Hoan Tµ S¸t §éc §ao	1	280					72	3000	1
+[§Þnh thêi] Chó Phäc DiÖt L«i C¶nh Phï	1	286					72	3000	1
+[§Þnh thêi] B¨ng Hµn §µn ChØ Phi §ao	1	290					72	3000	1
+[§Þnh thêi] Thiªn Quang Hoa Vò M¹n Thiªn	1	295					72	3000	1
+[§Þnh thêi] S©m Hoang Phi Tinh §o¹t Hån	1	300					72	3000	1
+[§Þnh thêi] §Þa Ph¸ch H¾c DiÖm Xung Thiªn Liªn	1	306					72	3000	1
+[§Þnh thêi] §ång Cøu Gi¸ng Long C¸i Y	1	311					72	3000	1
+[§Þnh thêi] §Þch Kh¸i Lôc Ngäc Tr­îng	1	315					72	3000	1
+[§Þnh thêi] Ma S¸t Quû Cèc U Minh Th­¬ng	1	320					72	3000	1
+[§Þnh thêi] Ma Hoµng Kim Gi¸p Kh«i	1	325					72	3000	1
+[§Þnh thêi] Ma Hoµng S¬n H¶i Phi Hång L÷	1	334					72	3000	1
+[§Þnh thêi] L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	1	338					72	3000	1
+[§Þnh thêi] CËp Phong Ch©n Vâ KiÕm	1	340					72	3000	1
+[§Þnh thêi] S¬n Tinh Thiªn Niªn Hµn ThiÕt	1	345					72	3000	1
+[§Þnh thêi] L«i Khung Thiªn §Þa Hé Phï	1	351					72	3000	1
+[§Þnh thêi] Vô Ho¸n B¾c Minh §¹o Qu¸n	1	355					72	3000	1
+§Þnh Quèc Thanh Sa Tr­êng Sam	1	159						1000	1
+§Þnh Quèc ¤ Sa Ph¸t Qu¸n	1	160						1000	1
+§Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	1	161						2000	0
+§Þnh Quèc Tö §»ng Hé uyÓn	1	162						2000	0
+§Þnh Quèc Ng©n Tµm Yªu ®¸i	1	163						2000	0
+An Bang B¨ng Tinh Th¹ch H¹ng Liªn	1	164						1000	1
+An Bang Cóc Hoa Th¹ch ChØ hoµn	1	165						1000	1
+An Bang §iÒn Hoµng Th¹ch Ngäc Béi	1	166						1000	1
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	1	167						1000	1
+HiÖp Cèt ThiÕt HuyÕt Sam	1	186						1000	0
+HiÖp Cèt T×nh ý KÕt	1	189						1000	1
+Nhu T×nh C©n Quèc Nghª Th­êng	1	190						100	1
+Nhu T×nh  TuÖ T©m Ngäc Béi	1	193						1000	0
+ThÇn bÝ kho¸ng th¹ch	0	6	1	398	1	0		1290	1
+BÝ kÝp vâ l©m	0	6	1	26	1	0		2000	0
+TÈy Tñy Kinh	0	6	1	22	1	0		2000	0
+Tö Thñy Tinh	0	4	239	1	1	0		40000	0
+Lam Thñy Tinh	0	4	238	1	1	0		40000	0
+Lôc Thñy Tinh	0	4	240	1	1	0		40000	0
+Tinh Hång B¶o Th¹ch	0	4	353	1	1	0		40000	0
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 10	0	6	1	147	10	0		10	1
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 9	0	6	1	147	9	0		100	1
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 8	0	6	1	147	8	0		1500	1
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 7	0	6	1	147	7	0		30000	0
+Hép §¹i B¹ch C©u Hoµn	0	6	1	970	10	0		20000	0
+Hép §¹i B¹ch C©u hoµn	0	6	1	971	10	0		20000	0
+MÆt n¹ - H¹ Thµnh	0	0	11	260	1	0		24000	0
+MÆt n¹ - T« Tõ Hinh	0	0	11	261	1	0		24000	0
+MÆt n¹ - §­êng Thiªn T©m	0	0	11	262	1	0		24000	0
+MÆt n¹ - T©n Niªn HiÖp Kh¸ch	0	0	11	244	1	0		24000	0
+MÆt n¹ - T©n Niªn HiÖp N÷ 	0	0	11	245	1	0		24000	0
+MÆt n¹ - TuÇn Léc	0	0	11	247	1	0		24000	0
+MÆt n¹ - Tr­¬ng T«ng ChÝnh	0	0	11	139	1	0		24000	0
+MÆt n¹ - DiÖu Nh­ 	0	0	11	140	1	0		24000	0
+MÆt n¹ - LiÔu Thanh Thanh	0	0	11	141	1	0		24000	0
+MÆt n¹ - PhiÕn Kh¸ch	0	0	11	142	1	0		24000	0
+MÆt n¹ - Lam Y Y	0	0	11	143	1	0		24000	0
+MÆt n¹ - Cæ B¸ch	0	0	11	144	1	0		24000	0
+MÆt n¹ - §¹o Thanh Ch©n Nh©n	0	0	11	145	1	0		24000	0
+MÆt n¹ - Gia LuËt TÞ Ly	0	0	11	146	1	0		24000	0
+MÆt n¹ - Hoµn Nhan TuyÕt Y	0	0	11	147	1	0		24000	0
+MÆt n¹ - §oan Méc DuÖ 	0	0	11	148	1	0		24000	0
+MÆt n¹ - Chung Linh Tó 	0	0	11	149	1	0		24000	0
+MÆt n¹ - Hµ Linh Phiªu	0	0	11	150	1	0		24000	0
+MÆt n¹ - M¹nh Th­¬ng L­¬ng	0	0	11	151	1	0		24000	0
+MÆt n¹ - V­¬ng T¸ 	0	0	11	208	1	0		24000	0
+MÆt n¹ - HuyÒn Gi¸c §¹i S­ 	0	0	11	209	1	0		24000	0
+MÆt n¹ - §­êng BÊt NhiÔm	0	0	11	210	1	0		20000	0
+MÆt n¹ - B¹ch Doanh Doanh	0	0	11	211	1	0		20000	0
+MÆt n¹ - Thanh TuyÖt S­ Th¸i	0	0	11	212	1	0		20000	0
+MÆt n¹ - Yªn HiÓu Tr¸i	0	0	11	213	1	0		20000	0
+MÆt n¹ - Hµ Nh©n Ng· 	0	0	11	214	1	0		20000	0
+MÆt n¹ - §¬n T­ Nam	0	0	11	215	1	0		20000	0
+MÆt n¹ - TuyÒn C¬ Tö 	0	0	11	216	1	0		20000	0
+MÆt n¹ - Hµn M«ng	0	0	11	217	1	0		20000	0

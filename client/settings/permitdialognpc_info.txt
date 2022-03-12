@@ -1,0 +1,145 @@
+NPCName	MapId	TireLimit
+TiÒn sø V­¬ng T¸ 	60	1
+H÷u sø D­¬ng Hå 	59	1
+T¶ sø Cæ B¸ch	59	1
+Thiªn Hé ph¸p Lé V©n ViÔn	61	1
+§Þa Hé ph¸p H¹ Thµnh	59	1
+Thiªn V­¬ng Bang Ch?D­¬ng Anh	62	1
+Tr­¬ng TiÓu TuyÒn 	176	1
+Ph­¬ngTr­îng T?Nh©n	109	1
+HuyÒn Bi	105	1
+HuyÒn Gi¸c	103	1
+HuyÒnT?	104	1
+HuyÒn Nan	110	1
+ThiÕu L©m §Ö t?Th­êng B¸ch L?	2	1
+ThiÕu L©m §Ö t?L?§Þch Phong 	2	1
+B¹ch Bµo TÈu §­êng H¹c	31	1
+§­êng NhÊt TrÇn	34	1
+Ch­ëng m«n §­êng Cõu	33	1
+§­êng BÊt NhiÔm	36	1
+Tiªu Nhiªm TÈu §­êng V©n	30	1
+TuyÖt Xu©n TÈu §­êng D· 	32	1
+Truy Hån TÈu §­êng Nhµn	29	1
+§­êng Nguyªn 	20	1
+Tang Chu	186	1
+B¹ch Doanh Doanh	188	1
+§å DÞ 	184	1
+V©n BÊt Tµ 	185	1
+Thang BËt	187	1
+H¾c DiÖn Lang Qu©n	189	1
+Uy DuÉn Ch©n 	174	1
+V?§ang ch­ëng m«n §¹o NhÊt Ch©n nh©n	84	1
+Diªu Th¹ch M«n	86	1
+Chu V©n TuyÒn	81	1
+Tõ §¹i Nh¹c	85	1
+§¬n T­ Nam	87	1
+Lý Thiªn Môc	81	1
+TiÓu Hµn	131	1
+Th¸n Tøc L·o Nh©n	131	1
+Chu KhuyÕt	131	1
+Thanh Liªn Tö 	139	1
+Ngäc Hoµnh Tö 	137	1
+TuyÒn C¬ Tö 	138	1
+DiÖu Èn	16	1
+DiÖu Nh­ 	15	1
+Ánh TuyÕt Tiªn T?Môc V©n T?	13	1
+B¸i NguyÖt Tiªn T?T?T?Hinh	18	1
+Nga My Ch­ëng M«n Thanh  HiÓu S?Th¸i	17	1
+Tiªu B?B?	11	1
+Do·n Hµm Yªn	161	1
+Yªn HiÓu Tr¸i	160	1
+Hµ Mé TuyÕt	155	1
+Xu©n H­¬ng bµ bµ 	154	1
+§oµn T?Thµnh 	162	1
+Háa §­êng §­êng chñ Ngét Ng¹o	49	1
+NhËt NguyÖt §µn chñ ¤ Hîp T¸t	45	1
+Phong §­êng §­êng chñ Hoµn Nhan TuyÕt Y	49	1
+H÷u Hé ph¸p Gia Lôc Tþ Ly	49	1
+T¶ Hé ph¸p §oan Méc DuÖ 	49	1
+Thiªn NhÉn gi¸o ch?Hoµn Nhan Hïng LiÖt	49	1
+L­u Viªn Ngo¹i	37	1
+Hµ Nh©n Ng· 	115	1
+§Ö tö C¸i Bang	115	1
+M¹nh Th­¬ng L­¬ng	115	1
+La Khu«ng Sinh	115	1
+Ngôy LiÔu ¤ng	115	1
+Xµ Tam Tr­îng	115	1
+Giíi V?T?	9	1
+Long Ngò	0	1
+Ng¹o V©n T«ng 	0	1
+Ph?Nam B¨ng 	0	1
+Th¸c B¹t Hoµi Xuyªn	0	1
+M¹c SÇu	0	1
+LiÔu Nam V©n 	0	1
+Ç°Ê¹Íõ×ô	60	1
+ÓÒÊ¹Ñîºþ	59	1
+×óÊ¹¹Å°Ø	59	1
+Ìì»¤·¨Â·ÔÆÔ¶	61	1
+µØ»¤·¨ÏÄ³Ï	59	1
+ÌìÍõ°ïÖ÷Ñîçø	62	1
+ÕÅÐ¡Èª	176	1
+·½ÕÉÐþÒò	109	1
+Ðþ±¯	105	1
+Ðþ¾õ	103	1
+Ðþ´È	104	1
+ÐþÄÑ	110	1
+ÉÙÁÖµÜ×Ó³£°ÙÀï	2	1
+ÉÙÁÖµÜ×Ó¼¾µÑ·ç	2	1
+°×ÅÛÛÅÌÆº×	31	1
+ÌÆÒ»³¾	34	1
+ÕÆÃÅÌÆ³ð	33	1
+ÌÆ²»È¾	36	1
+½¹÷×ÛÅÌÆÔÆ	30	1
+¾ø´ºÛÅÌÆÒ°	32	1
+×·»êÛÅÌÆÏÐ	29	1
+ÌÆÔª	20	1
+É£Öé	186	1
+°×Ó¨Ó¨	188	1
+ÍÀÒì	184	1
+ÔÆ²»Ð°	185	1
+ÌÀåö	187	1
+ºÚÃæÀÉ¾ý	189	1
+ÆÝÔÊÕæ	174	1
+Îäµ±ÕÆÃÅµÀÒ»ÕæÈË	84	1
+Ò¦Ê¯ÃÅ	86	1
+ÖÜÔÆÈª	81	1
+Ðìá·ÔÀ	85	1
+µ¥Ë¼ÄÏ	87	1
+ÀîÌìÄ¿	81	1
+Ð¡º®	131	1
+Ì¾Ï¢ÀÏÈË	131	1
+ÖìÈ±	131	1
+ÇàÁ«×Ó	139	1
+Óñºâ×Ó	137	1
+è¯çá×Ó	138	1
+ÃîÒþ	16	1
+ÃîÈç	15	1
+¡°Ó³Ñ©ÏÉ×Ó¡±ÄÂÔÆ´È	13	1
+¡°°ÝÔÂÏÉ×Ó¡±ËÕ´ÊÜ°	18	1
+¶ëáÒÕÆÃÅÇåÏþÊ¦Ì«	17	1
+Ð¤ÆÅÆÅ	11	1
+Òüº¬ÑÌ	161	1
+æÌÏþÙ»	160	1
+ºÎÄºÑ©	155	1
+´ºÏãÆÅÆÅ	154	1
+¶ÎË¼³É	162	1
+»ðÌÃÌÃÖ÷Ø£°½	49	1
+ÈÕÔÂÌ³Ö÷ÎÚºÏÈø	45	1
+·çÌÃÌÃÖ÷ÍêÑÕÑ©ÒÂ	49	1
+ÓÒ»¤·¨Ò®ÂÉ±ÙÀë	49	1
+×ó»¤·¨¶ËÄ¾î£	49	1
+ÌìÈÌ½ÌÖ÷ÍêÑÕºêÁÒ	49	1
+ÁõÔ±Íâ	37	1
+ºÎÈËÎÒ	115	1
+Ø¤°ïµÜ×Ó	115	1
+ÃÏ²ÔÀË	115	1
+ÂÞ¿ïÉú	115	1
+ÎºÁËÎÌ	115	1
+ÙÜÈýÕÉ	115	1
+½çÎÞÐ°	9	1
+ÁúÎå	0	1
+°ÁÔÆ×Ú	0	1
+¸µÄÏ±ù	0	1
+ÍØ°Ï»³´¨	0	1
+Äª³î	0	1
+ÁøÄÏÔÆ	0	1

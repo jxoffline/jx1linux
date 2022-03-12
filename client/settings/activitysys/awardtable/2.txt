@@ -1,0 +1,7 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+2	Quµ Ngò Hoa Ngäc Lé	"return {szName=\"ÌØĞ§Îå»¨ÓñÂ¶Íè½õÄÒ\",tbProp={6,1,1333,1,0,0},nUsageTime=10080,}"	10	100	13	
+2	Hép §ång hµnh MËt tŞch (Kü n¨ng thÕ giíi) 	"return {szName=\"Í¬°é¼¼ÄÜÊé´óÀñ°ü£¨¹«¹²¼¼ÄÜ£©\",tbProp={6,1,964,1,0,0},}"	1	100	14	
+2	Phóc Duyªn Lé (Trung) 	"return {szName=\"¸£ÔµÂ¶£¨ÖĞ£©\",tbProp={6,1,123,1,0,0},}"	5	100	15	
+2	B¸ch Qu¶ Lé 	"return {szName=\"°Ù¹ûÂ¶\",tbProp={6,1,73,1,0,0},}"	10	100	16	
+2	Thæ ®Şa phï (sö dông v« h¹n) 	"return {szName=\"»Ø³Ç·û£¨ÎŞÏŞÊ¹ÓÃ£©\",tbProp={6,1,438,1,0,0},nExpiredTime=10080,}"	1	100	17	
+2	B¶o hép vËn may	"return {szName=\"Õä²ØĞÒÔËÉÙÏÀ±¦ºĞ\",tbProp={6,1,2083,3,0,0},}"	1	100	18	

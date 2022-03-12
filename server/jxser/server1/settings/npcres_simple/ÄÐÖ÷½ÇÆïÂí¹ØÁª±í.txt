@@ -1,0 +1,86 @@
+EqType	FightStand	NormalStand1	NormalStand2	FightWalk	NormalWalk	FightRun	NormalRun	Wound	Die	Attack1	Attack2	Magic	SitDown	JunpFly
+Tay kh«ng	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song chïy 1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song chïy 2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song chïy 3	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+¸m khÝ 	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideMagic	RideMagic	RideMagic		
+®¬n thñ kiÕm 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song chïy 4	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song chïy 5	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶6(½ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶7(Ë®Ïµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶8(Ä¾Ïµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶9(ÍÁÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£6(Ë®Ïµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£7(ÍÁÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹Àà6(½ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹Àà7(»ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷Àà6(½ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷Àà7(»ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«½£Àà6(Ë®Ïµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«´¸Àà6(½ðÏµ)	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-½ð	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-Ë®	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-Ä¾	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-»ð	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷-½ð¹÷	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷-»ð¹÷	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹-½ðÇ¹	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹-»ðÇ¹	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-½ð	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-Ä¾	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-Ë®	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ»ðµ¶-»ð	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-À×	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£-Ë®	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£-À×	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖÀ×½£-À×	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«´¸-½ð	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«µ¶-Ë®	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ»ðµ¶-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖÀ×½£-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«´¸-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«µ¶-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«×¦-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+¿ÕÊÖ-·¢¹â1	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖµ¶-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ½£-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖ»ðµ¶-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+µ¥ÊÖÀ×½£-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤¹÷-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+³¤Ç¹-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«´¸-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«µ¶-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«²øÊÖ-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Ë«×¦-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+¿ÕÊÖ-·¢¹â2	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Null														

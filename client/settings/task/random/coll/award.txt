@@ -1,0 +1,73 @@
+TaskName	AwardType	AwardText	Genre	Detail	Particular	Level	GoodsFive	Quality	RandomSeed	GoodsNum	MoneyNum	ExpNum	ReputeNum	AwardTask	SelectEvent	ArrayID	ArrayRate	AilledAward
+Tªn nhiÖm vô 	Lo¹i h×nh phÇn th­ëng	tªn phÇn th­ëng	Tæng lo¹i	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	Trang bŞ Hoµng Kim	H¹t ngÉu nhiªn	Sè l­îng vËt phÈm	TiÒn	kinh nghiÖm 	Danh väng	Tªn nhiÖm vô b¾t ®Çu	Chän ngÉu nhiªn trong sù kiÖn	ID ph©n bè 	tû lÖ ph©n bè 	hÖ thèng phÇn th­ëng
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	25	
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	40	
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	5	
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp_Gia Bµo hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_Cao ThiÓm hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_Cao Trung hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_B¨ng Phßng hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_L«i phßng hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_Háa phßng hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+NgÉu nhiªn_Thu thËp_§éc phßng hoµn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Tr­êng MÖnh hoµn
+
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	25	
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	40	
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	5	
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	15	
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	45	
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	10	
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp_Phï Dung Nguyªn Th¹ch 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 
+NgÉu nhiªn_Thu thËp_Chung Nhò Nguyªn Th¹ch 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Khæng T­íc Nguyªn Th¹ch 
+
+NgÉu nhiªn_Thu thËp_MËt Ng©n Nguyªn Kho¸ng	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng
+NgÉu nhiªn_Thu thËp_Chu Sa Nguyªn Kho¸ng	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_HuyÒn ThiÕt Nguyªn Kho¸ng
+
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	15	
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	40	
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	15	
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp__S¸t Thñ Gi¶n cÊp 90 (Méc) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 
+NgÉu nhiªn_Thu thËp_ S¸t Thñ Gi¶n cÊp 90 (Thñy) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 
+NgÉu nhiªn_Thu thËp_ S¸t Thñ Gi¶n cÊp 90 (Háa) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 
+NgÉu nhiªn_Thu thËp_ S¸t Thñ Gi¶n cÊp 90 (Thæ) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_S¸t Thñ Gi¶n cÊp 90 (Kim) 
+
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	25	
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	40	
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	5	
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_Ph¸o Hoa	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp_T©m T©m	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Ph¸o Hoa
+NgÉu nhiªn_Thu thËp_Thiªn s¬n  B¶o Lé 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Ph¸o Hoa
+NgÉu nhiªn_Thu thËp_B¸ch Qu¶ Lé 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_Thu thËp_Ph¸o Hoa
+
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	15	
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	35	
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	40	
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	10	
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_Thu thËp_TiÓu Phóc Duyªn	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	5	
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	5	
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	35	
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	55	
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	65	
+NgÉu nhiªn_Thu thËp_§¹i Phóc Duyªn	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	35	

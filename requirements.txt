@@ -1,0 +1,13 @@
+Yêu cầu hệ thống
+-------------------
+
+Phần cứng:
+- Tối thiểu: 8GB RAM, ổ cứng trống ít nhất 20GB. Máy có hỗ trợ ảo hoá.
+- Chuẩn: 16GB RAM, ổ cứng trống ít nhất 40GB. Máy có hỗ trợ ảo hoá.
+
+Phần mềm và hệ thống
+- Windows 8, 7, Vista, XP, 2000, 9x.
+- VMWare 15 hoặc 16.
+- Microsoft Visual C++ 2005 Redistributable Package (x86).
+	- Gói thư viện C++ 2005 này có thể đã được cài sẵn nếu máy bạn từng cài nhiều game khác trước đó. Có thể kiểm tra xem đã cài chưa ở Control Panel > Programs and Features.
+	- Nếu chưa có trên máy. Tải về tại https://www.microsoft.com/en-us/download/confirmation.aspx?id=26347

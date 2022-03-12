@@ -1,0 +1,5 @@
+[MAIN]
+elementnum=1
+[0]
+elementtype=4000004
+position=1744.88,3405.35,0

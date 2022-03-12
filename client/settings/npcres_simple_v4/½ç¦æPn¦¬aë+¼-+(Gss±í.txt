@@ -1,0 +1,7 @@
+状态	图形文件名
+队伍开放状态	\spr\npcres\style\menustate01.spr
+交易开放状态	\spr\npcres\style\menustate02.spr
+交易进行状态	\spr\npcres\style\menustate03.spr
+睡眠状态	\spr\npcres\style\menustate04.spr
+摆摊状态	\spr\npcres\style\menustate02.spr
+摆摊交易状态	\spr\npcres\style\menustate03.spr

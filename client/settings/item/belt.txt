@@ -1,0 +1,21 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+Ng­u B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash01.spr	32	2	1	Lo¹i d©y l­ng b»ng da tr©u th«ng th­êng. 		50	1	0	30	7 	7 	31	15	15																36	1	32	20 	33	0						
+Lang B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash02.spr	32	2	1	Lµm b»ng da sãi, mÒm dÎo linh ho¹t. 		300	2	0	30	12 	12 	31	15	15																36	8	32	29 	33	0						
+¤ §»ng Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash03.spr	32	2	1	KÕt tõ lo¹i d©y m©y 100 n¨m, r¾n ch¾c v« cïng. 		800	3	0	30	18 	18 	31	15	15																36	14	32	39 	33	0						
+M·ng B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash04.spr	32	2	1	Lµm tõ da M·ng xµ, ®Ñp vµ ch¾c v« cïng. 		1800	4	0	30	24 	24 	31	15	15																36	20	32	49 	33	0						
+Ng¹c B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash05.spr	32	2	1	Lµm tõ da c¸ sÊu, ®Ñp vµ ch¾c v« cïng, cã thÓ dïng lµm binh khİ. 		3000	5	0	30	30 	30 	31	15	15																36	27	32	59 	33	0						
+T­îng B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash06.spr	32	2	1	Lµm tõ da voi, dµy vµ ch¾c v« cïng. 		4500	6	0	30	36 	36 	31	15	15																36	33	32	69 	33	0						
+Sa B× Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash07.spr	32	2	1	Lµm tõ da c¸ mËp, ®ao tªn khã mµ xuyªn thñng. 		5400	7	0	30	42 	42 	31	15	15																36	40	32	79 	33	0						
+Tª Gi¸c Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash08.spr	32	2	1	Lµm tõ da Tª Gi¸c, ®ao kiÕm th­êng khã mµ xuyªn thñng. 		7000	8	0	30	48 	48 	31	15	15																36	47	32	89 	33	0						
+Long L©n Yªu §¸i	0	6	0	\spr\item\equip\sash\obj-sash09.spr	32	2	1	Lµm tõ da Kú L©n, kh¶ n¨ng phßng thñ cùc tèt. 		9500	9	0	30	54 	54 	31	15	15																36	54	32	99 	33	0						
+Thiªn tµm yªu ®¸i	0	6	0	\spr\item\equip\sash\obj-sash10.spr	32	2	1	KÕt b»ng t¬ Thiªn TÇm, ®ao th­¬ng bÊt nhËp, kh«ng sî löa. 		12000	10	0	30	60 	60 	31	15	15																36	60	32	109 	33	0						
+Tinh §ång Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash11.spr	33	2	1	D©y l­ng nÆng vµ ch¾c ch¾n		330	1	0	30	17 	17 	31	15	15																36	1	32	30 	33	0						
+Tİch Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash12.spr	33	2	1	D©y l­ng b»ng thiÕc, nhÑ nh­ng ch¾c ch¾n		900	2	0	30	28 	28 	31	15	15																36	8	32	44 	33	0						
+Hoµng §ång Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash13.spr	33	2	1	D©y l­ng b»ng §ång ®á, nhÑ nh­ng ch¾c ch¾n. 		2400	3	0	30	42 	42 	31	15	15																36	14	32	59 	33	0						
+ThiÕt Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash14.spr	33	2	1	D©y l­ng b»ng s¾t, bÒn v÷ng v« song. 		3700	4	0	30	56 	56 	31	15	15																36	20	32	74 	33	0						
+Tinh §ång Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash15.spr	33	2	1	D©y l­ng b»ng §ång, tuy ch¾c ch¾n nh­ng l¹i kh«ng ®Ñp. 		5400	5	0	30	70 	70 	31	15	15																36	27	32	89 	33	0						
+Ng©n Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash16.spr	33	2	1	Day l­ng b»ng B¹ch Ng©n, võa dÎo võa ch¾c. 		7400	6	0	30	84 	84 	31	15	15																36	33	32	104 	33	0
+MËt Ng©n Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash17.spr	33	2	1	KÕt hîp gi÷a B¹ch ng©n vµ B¹ch Kim, kh¶ n¨ng phßng ngù rÊt tèt. 		9800	7	0	30	98 	98 	31	15	15																36	40	32	119 	33	0
+KimYªu ®¸i	0	6	1	\spr\item\equip\sash\obj-sash18.spr	33	2	1	Hoµng Kim Yªu §¸i, kh«ng chØ ®Ñp mµ cßn cã kh¶ n¨ng phßng ngù. 		14000	8	0	30	112 	112 	31	15	15																36	47	32	134 	33	0
+¤ Ng©n Yªu §¸i	0	6	1	\spr\item\equip\sash\obj-sash19.spr	33	2	1	§­îc lµm tõ l«ng Kim ¤, cùc kú hiÕm, tİnh dÎo siªu viÖt. 		17000	9	0	30	126 	126 	31	15	15																36	54	32	149 	33	0
+B¹ch Kim yªu ®¸i	0	6	1	\spr\item\equip\sash\obj-sash20.spr	33	2	1	Lµm tõ lo¹i B¹ch Kim cùc kú quı hiÕm, kh¶ n¨ng phßng ngù h¬n h¼n c¸c lo¹i hîp kim kh¸c. 		20000	10	0	30	140 	140 	31	15	15																36	60	32	164 	33	0

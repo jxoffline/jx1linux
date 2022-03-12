@@ -1,0 +1,22 @@
+BATTLE_MAP_ID	MAP_NAME_1	MAP_NAME_2	MAP_NAME_3	MAP_NAME_4	MAP_NAME_5	MAP_NAME_6	MAP_NAME_7	MAP_NAME_8	MAP_NAME_9	MAP_NAME_10
+1	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+2	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+3	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+4	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+5	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+6	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+7	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+8	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+9	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+10	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+11	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+12	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+13	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+14	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+15	Quèc chiÕn Hoµng Sa L©m									
+16	Quèc chiÕn Hoµng Sa L©m									
+17	Quèc chiÕn Hoµng Sa L©m									
+18	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+19	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+20	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						
+21	Hoµng Sa L©m Ngao ChiÕn	LiÔu Nguyªn ChiÕn	Ngò Ph­¬ng Nguyªn ChiÕn	B¹ch M«n Nguyªn ChiÕn						

@@ -1,0 +1,318 @@
+[SkillName]
+Type=String
+StaticName = Tªn chiªu thøc
+
+[SkillId]
+Type=Number
+StaticName = m· sè kü n¨ng
+Value=0
+
+[SkillStyle]
+Type=IndexList
+StaticName = Lo¹i kü n¨ng
+Value=Lo¹i bÉy/lo¹i chiÕn ®Êu/lo¹i chñ ®éng/lo¹i bÞ ®éng/lo¹i bïa chó/lo¹i luyÖn ®éc/lo¹i t¨ng ®éc/
+DefaultValue=0
+
+
+[IsPhysical]
+Type=IndexList
+StaticName = Kü n¨ng VËt lý 
+Value = Sai/§óng
+
+[IsAura]
+Type=IndexList
+StaticName = Kü n¨ng Hç trî 
+Value = Sai/§óng
+
+
+[WaitTime]
+Type=Number
+StaticName = Thêi gian ph¸t xuÊt 1 chiªu
+
+
+[StateSpecialId]
+Type=Number
+StaticName = hiÖu qu¶ tr¹ng th¸i kü n¨ng
+
+
+[SkillIcon]
+Type=String
+StaticName = icon kü n¨ng
+
+[PreCastSpr]
+Type=String
+StaticName = ThuyÕt minh ¶nh ®éng
+DefaultValue=
+
+[LRSkill]
+Type=IndexList
+StaticName = Kü n¨ng chuét tr¸i, ph¶i
+Value = Tr¸i, ph¶i ®Òu ®­îc/Chuét tr¸i/Chuét ph¶i/®Òu kh«ng ®­îc
+
+
+[NeedShadow]
+Type=IndexList
+StaticName = m¶nh vôn yªu cÇu
+Value = Sai/§óng
+
+
+
+[MaxShadowNum]
+Type=Number
+StaticName = Sè l­îng m¶nh vôn
+
+
+[AttackRadius]
+Type=Number
+StaticName  =  Ph¹m vi c«ng kÝch 
+Value=1
+
+
+
+[MslsGenerate]
+Type=IndexList
+StaticName = Ph­¬ng thøc næ bÉy
+Value = phæ th«ng/cïng lóc s¶n sinh/theo thø tù/ngÉu nhiªn/ngÉu nhiªn ®ång thêi/tõ trung t©m ph¸t t¸n
+
+[MslsGenerateData]
+Type=Number
+StaticName = Sè l­îng bÉy ®Æt
+Value=1
+
+[CharClass]
+Type=IndexList
+StaticName  =  thuéc tÝnh nh©n vËt 
+Value = V« hÖ/Kim/Thñy/Méc/Háa/Thæ 
+
+
+[MisslesForm]
+Type=IndexList
+StaticName = c¸ch thøc ®Æt bÉy
+Value = h×nh phiÕn/h×nh tia/m¶nh vôn/h×nh trßn/ngÉu nhiªn/khu vùc/®Þnh ®iÓm/b¶n th©n
+
+
+[ChildSkillId]
+Type=Number
+StaticName = m· sè kü n¨ng
+
+[ChildSkillLevel]
+Type=Number
+StaticName = §¼ng cÊp kü n¨ng
+
+[ChildSkillNum]
+Type=Number
+StaticName = Sè l­îng kü n¨ng
+Value=1
+
+[BaseSkill]
+Type=IndexList
+StaticName = Kü n¨ng c¬ b¶n
+Value = Sai/§óng
+DefaultValue=1
+
+[CharAnimId]
+Type=Number
+StaticName = Sè hiÖu ¶nh ®éng nh©n vËt
+
+[EventSkillLevel]
+Type=Number
+StaticName = §¼ng cÊp kü n¨ng
+Value=1
+
+[IsMelee]
+Type=IndexList
+StaticName = Cã ph¶i kü n¨ng chiÕn ®Êu
+Value = Sai/§óng
+
+
+[SkillCostType]
+Type=IndexList
+StaticName = Tiªu hao kü n¨ng
+Value=MANA|LIFE|STAMINA|MONEY
+
+[CostValue]
+Type=Number
+StaticName = TrÞ sè tiªu hao
+Value=0
+
+[TimePerCast]
+Type=Number
+StaticName = Thêi gian gi·n c¸ch xuÊt chiªu
+Value=
+
+
+[TargetOnly]
+Type=IndexList
+StaticName = C«ng kÝch môc tiªu
+Value = Sai/§óng
+
+
+[TargetEnemy]
+Type=IndexList
+StaticName = ®©m th¼ng vµo ®èi ph­¬ng
+Value = Sai/§óng
+
+
+[TargetAlly]
+Type=IndexList
+StaticName = ®©m th¼ng vµo ®èi ph­¬ng
+Value = Sai/§óng
+
+
+[TargetObj]
+Type=IndexList
+StaticName = ®©m th¼ng vµo ®èi ph­¬ng
+Value = Sai/§óng
+
+
+[ByMissle]
+Type=IndexList
+StaticName = do bÉy næ ra
+Value = Sai/§óng
+
+
+[IsUseAR]
+Type=IndexList
+StaticName = TØ lÖ thµnh c«ng
+Value = Sai/§óng
+
+
+[StartEvent]
+Type=IndexList
+StaticName = B¾t ®Çu sù kiÖn
+Value = Sai/§óng
+
+
+[StartSkillId]
+Type=Number
+StaticName = Më m· sè kü n¨ng
+Value=0
+
+
+[FlyEvent]
+Type=IndexList
+StaticName = Khëi ®éng sù kiÖn
+Value = Sai/§óng
+
+
+[FlySkillId]
+Type=Number
+StaticName = khëi ®éng m· sè kü n¨ng
+Value=
+
+
+[FlyEventTime]
+Type=Number
+StaticName = Thêi gian thi triÓn chiªu thøc
+Value=
+
+
+[CollideEvent]
+Type=IndexList
+StaticName = Sù kiÖn trïng lÆp
+Value = Sai/§óng
+
+
+[CollideSkillId]
+Type=Number
+StaticName =  m· sè kü n¨ng trïng lÆp
+Value=
+
+
+[VanishedEvent]
+Type=IndexList
+StaticName = Hñy bá sù kiÖn
+Value = Sai/§óng
+
+
+[VanishedSkillId]
+Type=Number
+StaticName = MÊt tµi kho¶n
+Value=
+
+
+[Param1]
+Type=Number
+StaticName = Tham sè 1
+Value=
+
+
+[Param1Memo]
+Type=String
+StaticName = Tham sè 1 Chó thÝch
+Value=
+
+
+[Param2]
+Type=Number
+StaticName = Tham sè 2
+Value=
+
+
+[Param2Memo]
+Type=String
+StaticName = Tham sè 2 Chó thÝch
+Value=
+
+[LvlSetScript]
+Type=String
+
+[LvlSetting1]
+Type=String
+
+[LvlData1]
+Type=String
+
+[LvlSetting2]
+Type=String
+
+[LvlData2]
+Type=String
+
+[LvlSetting3]
+Type=String
+
+[LvlData3]
+Type=String
+
+[LvlSetting4]
+Type=String
+
+[LvlData4]
+Type=String
+
+[LvlSetting5]
+Type=String
+
+[LvlData5]
+Type=String
+
+[LvlSetting6]
+Type=String
+
+[LvlData6]
+Type=String
+
+[LvlSetting7]
+Type=String
+
+[LvlData7]
+Type=String
+
+[LvlSetting8]
+Type=String
+
+[LvlData8]
+Type=String
+
+[LvlSetting9]
+Type=String
+
+[LvlData9]
+Type=String
+
+[LvlSetting10]
+Type=String
+
+[LvlData10]
+Type=String

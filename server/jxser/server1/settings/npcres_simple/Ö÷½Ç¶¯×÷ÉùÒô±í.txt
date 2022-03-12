@@ -1,0 +1,47 @@
+ActionName	MainMan	MainLady
+FreeStand1		
+FreeStand2		
+FreeStand3		
+MeleeWStand		
+RangeWStand		
+DoubleWStand		
+FreeWalk	sound_m39.wav	sound_m39.wav
+NormalWalk	sound_m39.wav	sound_m39.wav
+MeleeWWalk	sound_m39.wav	sound_m39.wav
+RangeWWalk	sound_m39.wav	sound_m39.wav
+DoubleWWalk	sound_m39.wav	sound_m39.wav
+FreeRun	sound_m40.wav	sound_m40.wav
+NormalRun	sound_m40.wav	sound_m40.wav
+MeleeWRun	sound_m40.wav	sound_m40.wav
+RangeWRun	sound_m40.wav	sound_m40.wav
+DoubleWRun	sound_m40.wav	sound_m40.wav
+FreeWound	sound_m01.wav	sound_m20.wav
+MeleeWWound	sound_m01.wav	sound_m20.wav
+RangeWWound	sound_m01.wav	sound_m20.wav
+DoubleWWound	sound_m01.wav	sound_m20.wav
+FreeDie	sound_m02.wav	sound_m21.wav
+MeleeWDie	sound_m02.wav	sound_m21.wav
+MeleeWDie	sound_m02.wav	sound_m21.wav
+DoubleWDie	sound_m02.wav	sound_m21.wav
+FreeAttack	sound_m03.wav	sound_m22.wav
+MeleeWPuncture	sound_m04.wav	sound_m23.wav
+MeleeWCut	sound_m05.wav	sound_m24.wav
+RangeWPuncture	sound_m06.wav	sound_m25.wav
+RangeWCut	sound_m07.wav	sound_m26.wav
+DoubleWPull	sound_m08.wav	sound_m27.wav
+DoubleWPound	sound_m09.wav	sound_m28.wav
+DartThrow	sound_m10.wav	sound_m29.wav
+FreeMagic	sound_m11.wav	sound_m30.wav
+MeleeWMagic	sound_m11.wav	sound_m30.wav
+RangeWMagic	sound_m11.wav	sound_m30.wav
+DoubleWMagic	sound_m11.wav	sound_m30.wav
+SitDown		
+JumpFly	sound_m12.wav	sound_m31.wav
+RideStand		
+RideWalk	sound_m13.wav	sound_m32.wav
+RideRun	sound_m14.wav	sound_m33.wav
+RideCut	sound_m15.wav	sound_m34.wav
+RidePuncture	sound_m16.wav	sound_m35.wav
+RideMagic	sound_m17.wav	sound_m36.wav
+RideWound	sound_m18.wav	sound_m37.wav
+RideDie	sound_m19.wav	sound_m38.wav

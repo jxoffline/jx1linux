@@ -1,0 +1,6 @@
+MSG_NOTFINISH = "Ch­a hoµn thµnh nhiÖm vô ®­îc giao."
+MSG_ONE_ITEM = "Mçi lÇn chØ bá mét vËt phÈm vµo."
+MSG_NOTQUEST = "Ng­¬i hiÖn kh«ng cã nhiÖm vô nµo ®Ó hñy."
+MSG_RECV_QUEST = "Chóc mõng ®¹i hiÖp nhËn ®­îc nhiÖm vô:  "
+MSG_COMPLETE_Q = "Chóc mõng ®¹i hiÖp ®· hoµn thµnh nhiÖm vô."
+MSG_CANCEL_QUEST = "§· hñy nhiÖm vô:  "

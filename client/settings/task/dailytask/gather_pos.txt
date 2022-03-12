@@ -1,0 +1,17 @@
+MapId	X	Y	NpcRes	NpcName	NpcScript	TaskId
+11	3367	5120	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3376	5119	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3367	5129	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3352	5125	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+162	1778	2974	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1788	2974	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1794	2960	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1798	2952	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+80	1862	3184	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1857	3188	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1879	3188	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1878	3201	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+1	1483	3476	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1487	3485	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1495	3478	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1497	3489	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4

@@ -1,0 +1,4 @@
+动作编号(注意，目前程序支持最大种类是20，超过的话必须通知程序修改)	动作名	资源文件
+1	Upgrade	\spr\skill\补充\mag_spe_升级.spr
+2	ReNew	\spr\skill\补充\mag_spe_重生.spr
+3	Group	\spr\skill\补充\mag_spe_组队.spr

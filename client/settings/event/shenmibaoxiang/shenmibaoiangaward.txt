@@ -1,0 +1,261 @@
+szName	nQuality	nItemGenre	nDetailType	nParticularType	nLevel	nSeries	nLuckly	nRate
+Phiªn Vò 	0	0	10	7	1	5	0	40
+Phi V©n	0	0	10	8	1	5	0	40000
+Kim Quang B¾c Kinh Chi Méng	1	0	197	0	0	0	0	100
+Kim Quang Nh· §iÓn Chi Hån	1	0	202	0	0	0	0	100
+ThÇn bÝ kho¸ng th¹ch	0	6	1	398	1	0	0	50000
+HuyÒn tinh kho¸ng th¹ch cÊp 6	0	6	1	147	6	0	0	150000
+HuyÒn tinh kho¸ng th¹ch cÊp 7	0	6	1	147	7	0	0	223220
+HuyÒn tinh kho¸ng th¹ch cÊp 8	0	6	1	147	8	0	0	20000
+NÕn B¸t tr©n phóc nguyÖt	0	6	1	1817	1	0	0	300000
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (1/6)	0	4	1146	1	1	0	0	240
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (2/6)	0	4	1147	1	1	0	0	240
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (3/6)	0	4	1148	1	1	0	0	240
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (4/6)	0	4	1149	1	1	0	0	240
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (5/6)	0	4	1150	1	1	0	0	240
+M¶nh Tôc NghiÖp B¹ch Hæ V« Song KhÊu (6/6)	0	4	1151	1	1	0	0	240
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (1/6)	0	4	1194	1	1	0	0	180
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (2/6)	0	4	1195	1	1	0	0	180
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (3/6)	0	4	1196	1	1	0	0	180
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (4/6)	0	4	1197	1	1	0	0	180
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (5/6)	0	4	1198	1	1	0	0	180
+M¶nh Vô Ho¸n Hñ Cèt Hé UyÓn (6/6)	0	4	1199	1	1	0	0	180
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (1/6)	0	4	1091	1	1	0	0	450
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (2/6)	0	4	1092	1	1	0	0	450
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (3/6)	0	4	1093	1	1	0	0	450
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (4/6)	0	4	1094	1	1	0	0	450
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (5/6)	0	4	1095	1	1	0	0	450
+M¶nh §Þch Kh¸i CÈu TÝch B× Hé UyÓn (6/6)	0	4	1096	1	1	0	0	450
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (1/6)	0	4	1134	1	1	0	0	180
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (2/6)	0	4	1135	1	1	0	0	180
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (3/6)	0	4	1136	1	1	0	0	180
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (4/6)	0	4	1137	1	1	0	0	180
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (5/6)	0	4	1138	1	1	0	0	180
+M¶nh Tø Kh«ng Hé Ph¸p Yªu §¸i (6/6)	0	4	1139	1	1	0	0	180
+M¶nh V« Gian PhÊt V©n Ty §¸i (1/6)	0	4	1158	1	1	0	0	360
+M¶nh V« Gian PhÊt V©n Ty §¸i (2/6)	0	4	1159	1	1	0	0	360
+M¶nh V« Gian PhÊt V©n Ty §¸i (3/6)	0	4	1160	1	1	0	0	360
+M¶nh V« Gian PhÊt V©n Ty §¸i (4/6)	0	4	1161	1	1	0	0	360
+M¶nh V« Gian PhÊt V©n Ty §¸i (5/6)	0	4	1162	1	1	0	0	360
+M¶nh V« Gian PhÊt V©n Ty §¸i (6/6)	0	4	1163	1	1	0	0	360
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (1/6)	0	4	1206	1	1	0	0	180
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (2/6)	0	4	1207	1	1	0	0	180
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (3/6)	0	4	1208	1	1	0	0	180
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (4/6)	0	4	1209	1	1	0	0	180
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (5/6)	0	4	1210	1	1	0	0	180
+M¶nh B¨ng Hµn T©m TiÔn Yªu KhÊu (6/6)	0	4	1211	1	1	0	0	180
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (1/6)	0	4	1260	1	1	0	0	1200
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (2/6)	0	4	1261	1	1	0	0	1200
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (3/6)	0	4	1262	1	1	0	0	1200
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (4/6)	0	4	1263	1	1	0	0	1200
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (5/6)	0	4	1264	1	1	0	0	1200
+M¶nh L¨ng Nh¹c Né L«i Ph¸p Giíi (6/6)	0	4	1265	1	1	0	0	1200
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(1/6)	0	4	1176	1	1	0	0	120
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(2/6)	0	4	1177	1	1	0	0	120
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(3/6)	0	4	1178	1	1	0	0	120
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(4/6)	0	4	1179	1	1	0	0	120
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(5/6)	0	4	1180	1	1	0	0	120
+M¶nh Thª Hoµng Phong TuyÕt B¹ch V©n Yªu §¸i(6/6)	0	4	1181	1	1	0	0	120
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (1/6)	0	4	1272	1	1	0	0	60
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (2/6)	0	4	1273	1	1	0	0	60
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (3/6)	0	4	1274	1	1	0	0	60
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (4/6)	0	4	1275	1	1	0	0	60
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (5/6)	0	4	1276	1	1	0	0	60
+M¶nh S­¬ng Tinh Thanh Phong L÷ §¸i (6/6)	0	4	1277	1	1	0	0	60
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (1/6)	0	4	1097	1	1	0	0	120
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (2/6)	0	4	1098	1	1	0	0	120
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (3/6)	0	4	1099	1	1	0	0	120
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (4/6)	0	4	1100	1	1	0	0	120
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (5/6)	0	4	1101	1	1	0	0	120
+M¶nh Ma S¸t Tµn D­¬ng ¸nh HuyÕt Gi¸p (6/6)	0	4	1102	1	1	0	0	120
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (1/9) 	0	4	585	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (2/9) 	0	4	586	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (3/9) 	0	4	587	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (4/9) 	0	4	588	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (5/9) 	0	4	589	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (6/9) 	0	4	590	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (7/9) 	0	4	591	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (8/9) 	0	4	592	1	1	0	0	1200
+M¶nh Tø Kh«ng Gi¸ng Ma Giíi ®ao (9/9) 	0	4	593	1	1	0	0	1200
+M¶nh Phôc Ma Tö Kim C«n (1/9) 	0	4	576	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (2/9) 	0	4	577	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (3/9) 	0	4	578	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (4/9) 	0	4	579	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (5/9) 	0	4	580	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (6/9) 	0	4	581	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (7/9) 	0	4	582	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (8/9) 	0	4	583	1	1	0	0	900
+M¶nh Phôc Ma Tö Kim C«n (9/9) 	0	4	584	1	1	0	0	900
+M¶nh §¹i Nh·n ThÇn Chïy (1/9) 	0	4	594	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (2/9) 	0	4	595	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (3/9) 	0	4	596	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (4/9) 	0	4	597	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (5/9) 	0	4	598	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (6/9) 	0	4	599	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (7/9) 	0	4	600	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (8/9) 	0	4	601	1	1	0	0	960
+M¶nh §¹i Nh·n ThÇn Chïy (9/9) 	0	4	602	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (1/9) 	0	4	603	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (2/9) 	0	4	604	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (3/9) 	0	4	605	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (4/9) 	0	4	606	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (5/9) 	0	4	607	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (6/9) 	0	4	608	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (7/9) 	0	4	609	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (8/9) 	0	4	610	1	1	0	0	960
+M¶nh B«n L«i Toµn Long Th­¬ng (9/9) 	0	4	611	1	1	0	0	960
+M¶nh L­îng Ng©n B¶o §ao (1/9) 	0	4	612	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (2/9) 	0	4	613	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (3/9) 	0	4	614	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (4/9) 	0	4	615	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (5/9) 	0	4	616	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (6/9) 	0	4	617	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (7/9) 	0	4	618	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (8/9) 	0	4	619	1	1	0	0	1200
+M¶nh L­îng Ng©n B¶o §ao (9/9) 	0	4	620	1	1	0	0	1200
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (1/6) 	0	4	825	1	1	0	0	1800
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (2/6) 	0	4	826	1	1	0	0	1800
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (3/6) 	0	4	827	1	1	0	0	1800
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (4/6) 	0	4	828	1	1	0	0	1800
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (5/6) 	0	4	829	1	1	0	0	1800
+M¶nh U Lung Kim Xµ Ph¸t ®¸i (6/6) 	0	4	830	1	1	0	0	1800
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (1/9) 	0	4	648	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (2/9) 	0	4	649	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (3/9) 	0	4	650	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (4/9) 	0	4	651	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (5/9) 	0	4	652	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (6/9) 	0	4	653	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (7/9) 	0	4	654	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (8/9) 	0	4	655	1	1	0	0	1200
+M¶nh Minh ¶o Tµ S¸t §éc NhËn (9/9) 	0	4	656	1	1	0	0	1200
+M¶nh Hoa Vò M¹n Thiªn (1/9) 	0	4	657	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (2/9) 	0	4	658	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (3/9) 	0	4	659	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (4/9) 	0	4	660	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (5/9) 	0	4	661	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (6/9) 	0	4	662	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (7/9) 	0	4	663	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (8/9) 	0	4	664	1	1	0	0	120
+M¶nh Hoa Vò M¹n Thiªn (9/9) 	0	4	665	1	1	0	0	120
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (1/9)	0	4	980	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (2/9)	0	4	981	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (3/9)	0	4	982	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (4/9)	0	4	983	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (5/9)	0	4	984	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (6/9)	0	4	985	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (7/9)	0	4	986	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (8/9)	0	4	987	1	1	0	0	1200
+M¶nh B¨ng Hµn §µn ChØ Phi §ao (9/9)	0	4	988	1	1	0	0	1200
+M¶nh Phi Tinh §o¹t Hån (1/9) 	0	4	666	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (2/9) 	0	4	667	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (3/9) 	0	4	668	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (4/9) 	0	4	669	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (5/9) 	0	4	670	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (6/9) 	0	4	671	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (7/9) 	0	4	672	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (8/9) 	0	4	673	1	1	0	0	900
+M¶nh Phi Tinh §o¹t Hån (9/9) 	0	4	674	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (1/6) 	0	4	801	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (2/6) 	0	4	802	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (3/6) 	0	4	803	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (4/6) 	0	4	804	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (5/6) 	0	4	805	1	1	0	0	900
+M¶nh TÈy T­îng Ngäc KhÊu (6/6) 	0	4	806	1	1	0	0	900
+M¶nh Hång Truy NhuyÔn Th¸p hµi (1/6) 	0	4	807	1	1	0	0	1200
+M¶nh Hång Truy NhuyÔn Th¸p hµi (2/6) 	0	4	808	1	1	0	0	1200
+M¶nh Hång Truy NhuyÔn Th¸p hµi (3/6) 	0	4	809	1	1	0	0	1200
+M¶nh Hång Truy NhuyÔn Th¸p hµi (4/6) 	0	4	810	1	1	0	0	1200
+M¶nh Hång Truy NhuyÔn Th¸p hµi (5/6) 	0	4	811	1	1	0	0	1200
+M¶nh Hång Truy NhuyÔn Th¸p hµi (6/6) 	0	4	812	1	1	0	0	1200
+M¶nh V« Gian û Thiªn KiÕm (1/9) 	0	4	621	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (2/9) 	0	4	622	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (3/9) 	0	4	623	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (4/9) 	0	4	624	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (5/9) 	0	4	625	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (6/9) 	0	4	626	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (7/9) 	0	4	627	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (8/9) 	0	4	628	1	1	0	0	600
+M¶nh V« Gian û Thiªn KiÕm (9/9) 	0	4	629	1	1	0	0	600
+M¶nh Tª Hoµng Phông NghÜa §ao (1/9) 	0	4	630	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (2/9) 	0	4	631	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (3/9) 	0	4	632	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (4/9) 	0	4	633	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (5/9) 	0	4	634	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (6/9) 	0	4	635	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (7/9) 	0	4	636	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (8/9) 	0	4	637	1	1	0	0	1200
+M¶nh Tª Hoµng Phông NghÜa §ao (9/9) 	0	4	638	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (1/6)	0	4	1055	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (2/6)	0	4	1056	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (3/6)	0	4	1057	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (4/6)	0	4	1058	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (5/6)	0	4	1059	1	1	0	0	1200
+M¶nh Thª Hoµng B¨ng Tuy CÈm UyÓn (6/6)	0	4	1060	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (1/9) 	0	4	684	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (2/9) 	0	4	685	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (3/9) 	0	4	686	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (4/9) 	0	4	687	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (5/9) 	0	4	688	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (6/9) 	0	4	689	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (7/9) 	0	4	690	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (8/9) 	0	4	691	1	1	0	0	1200
+M¶nh U Minh Th­¬ng (9/9) 	0	4	692	1	1	0	0	1200
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (1/6) 	0	4	873	1	1	0	0	1800
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (2/6) 	0	4	874	1	1	0	0	1800
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (3/6) 	0	4	875	1	1	0	0	1800
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (4/6) 	0	4	876	1	1	0	0	1800
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (5/6) 	0	4	877	1	1	0	0	1800
+M¶nh Ma ThÞ s¬n  H¶i Phi Hång Lý (6/6) 	0	4	878	1	1	0	0	1800
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (1/6) 	0	4	849	1	1	0	0	3600
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (2/6) 	0	4	850	1	1	0	0	3600
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (3/6) 	0	4	851	1	1	0	0	3600
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (4/6) 	0	4	852	1	1	0	0	3600
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (5/6) 	0	4	853	1	1	0	0	3600
+M¶nh §ång Cõu Gi¸ng Long C¸i Y (6/6) 	0	4	854	1	1	0	0	3600
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (1/6) 	0	4	855	1	1	0	0	960
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (2/6) 	0	4	856	1	1	0	0	960
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (3/6) 	0	4	857	1	1	0	0	960
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (4/6) 	0	4	858	1	1	0	0	960
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (5/6) 	0	4	859	1	1	0	0	960
+M¶nh §ång Cõu Kh¸ng Long Hé UyÓn (6/6) 	0	4	860	1	1	0	0	960
+M¶nh Lôc Ngäc Tr­îng (1/9) 	0	4	675	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (2/9) 	0	4	676	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (3/9) 	0	4	677	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (4/9) 	0	4	678	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (5/9) 	0	4	679	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (6/9) 	0	4	680	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (7/9) 	0	4	681	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (8/9) 	0	4	682	1	1	0	0	840
+M¶nh Lôc Ngäc Tr­îng (9/9) 	0	4	683	1	1	0	0	840
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (1/6)	0	4	1004	1	1	0	0	240
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (2/6)	0	4	1005	1	1	0	0	240
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (3/6)	0	4	1006	1	1	0	0	240
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (4/6)	0	4	1007	1	1	0	0	240
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (5/6)	0	4	1008	1	1	0	0	240
+M¶nh L«i Khung Hµn Tïng B¨ng B¸ch Qu¸n (6/6)	0	4	1009	1	1	0	0	240
+M¶nh Thiªn Niªn Hµn ThiÕt (1/9) 	0	4	702	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (2/9) 	0	4	703	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (3/9) 	0	4	704	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (4/9) 	0	4	705	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (5/9) 	0	4	706	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (6/9) 	0	4	707	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (7/9) 	0	4	708	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (8/9) 	0	4	709	1	1	0	0	960
+M¶nh Thiªn Niªn Hµn ThiÕt (9/9) 	0	4	710	1	1	0	0	960
+M¶nh Ch©n Vò KiÕm (1/9) 	0	4	693	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (2/9) 	0	4	694	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (3/9) 	0	4	695	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (4/9) 	0	4	696	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (5/9) 	0	4	697	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (6/9) 	0	4	698	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (7/9) 	0	4	699	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (8/9) 	0	4	700	1	1	0	0	360
+M¶nh Ch©n Vò KiÕm (9/9) 	0	4	701	1	1	0	0	360
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (1/6) 	0	4	879	1	1	0	0	600
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (2/6) 	0	4	880	1	1	0	0	600
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (3/6) 	0	4	881	1	1	0	0	600
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (4/6) 	0	4	882	1	1	0	0	600
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (5/6) 	0	4	883	1	1	0	0	600
+M¶nh L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi (6/6) 	0	4	884	1	1	0	0	600
+²»ÖÐ½±	-1	-1	-1	-1	-1	-1	-1	0
+×Ü¼Æ	-1	-1	-1	-1	-1	-1	-1	1000000

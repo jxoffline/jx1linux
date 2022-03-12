@@ -1,0 +1,141 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼þÃû	¶ÔÓ¦Îï¼þË÷Òý	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåÐÐÊôÐÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµþ·Å	»ù´¡ÊôÐÔ1ÀàÐÍ	»ù´¡ÊôÐÔ1×îÐ¡Öµ	»ù´¡ÊôÐÔ1×î´óÖµ	»ù´¡ÊôÐÔ2ÀàÐÍ	»ù´¡ÊôÐÔ2×îÐ¡Öµ	»ù´¡ÊôÐÔ2×î´óÖµ	»ù´¡ÊôÐÔ3ÀàÐÍ	»ù´¡ÊôÐÔ3×îÐ¡Öµ	»ù´¡ÊôÐÔ3×î´óÖµ	»ù´¡ÊôÐÔ4ÀàÐÍ	»ù´¡ÊôÐÔ4×îÐ¡Öµ	»ù´¡ÊôÐÔ4×î´óÖµ	»ù´¡ÊôÐÔ5ÀàÐÍ	»ù´¡ÊôÐÔ5×îÐ¡Öµ	»ù´¡ÊôÐÔ5×î´óÖµ	»ù´¡ÊôÐÔ6ÀàÐÍ	»ù´¡ÊôÐÔ6×îÐ¡Öµ	»ù´¡ÊôÐÔ6×î´óÖµ	»ù´¡ÊôÐÔ7ÀàÐÍ	»ù´¡ÊôÐÔ7×îÐ¡Öµ	»ù´¡ÊôÐÔ7×î´óÖµ	ÐèÇóÊôÐÔ1ÀàÐÍ	ÐèÇóÊôÐÔ1ÊýÖµ	ÐèÇóÊôÐÔ2ÀàÐÍ	ÐèÇóÊôÐÔ2ÊýÖµ	ÐèÇóÊôÐÔ3ÀàÐÍ	ÐèÇóÊôÐÔ3ÊýÖµ	ÐèÇóÊôÐÔ4ÀàÐÍ	ÐèÇóÊôÐÔ4ÊýÖµ	ÐèÇóÊôÐÔ5ÀàÐÍ	ÐèÇóÊôÐÔ5ÊýÖµ	ÐèÇóÊôÐÔ6ÀàÐÍ	ÐèÇóÊôÐÔ6ÊýÖµ
+Sa Di phôc	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	T¨ng y dµnh cho c¸c tiÓu Sa Di võa nhËp m«n		100	1	0	30	50	50	31	15	15																36	1	32	30 					38	0		
+T¨ng y	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	Y phôc t¨ng nh©n th­êng mÆc		400	2	0	30	100	100	31	20	20																36	7	32	50 					38	0		
+B¸ch N¹p y	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-2.spr	22	2	3	Th­êng phôc chñ yÕu cña c¸c T¨ng nh©n H¸n triÒu		800	3	0	30	150	150	31	25	25																36	13	32	70 					38	0		
+An ®µ héi	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-3.spr	22	2	3	Cßn gäi lµ Ngò §iÒu y, ¸o cña c¸c t¨ng nh©n mÆc trong nh÷ng lóc th«ng th­êng		1000	4	0	30	200	200	31	30	30																36	19	32	90 					38	0		
+UÊt §a La T¨ng	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-1.spr	22	2	3	Cßn gäi lµ ThÊt §iÒu y, ¸o cña c¸c t¨ng nh©n mÆc trong nh÷ng lóc trang nghiªm		2000	5	0	30	250	250	31	35	35																36	26	32	110 					38	0		
+T¨ng Giµ y (n÷)	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-2.spr	22	2	3	LÔ phôc cña T¨ng nh©n, mÆc trong nh÷ng lóc trang nghiªm		3000	6	0	30	300	300	31	40	40																36	33	32	130 					38	0		
+nguyÖn b¹ch cµ sa (n÷)	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-3.spr	22	2	3	Cßn gäi lµ ThÊt §iÒu y, y phôc cña c¸c t¨ng nh©n chøc vÞ cao		4000	7	0	30	250	250	31	45	45																36	40	32	150 					38	0		
+Minh tÜnh cµ sa (n÷)	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-1.spr	22	2	3	Y phôc th­êng ngµy cña c¸c vÞ cao t¨ng		5000	8	0	30	400	400	31	50	50																36	46	32	170 					38	0		
+Kim L« cµ sa(n÷)	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-2.spr	22	2	3	b¶o vËt cña PhËt m«n		7500	9	0	30	450	450	31	55	55																36	53	32	190 					38	0		
+ThÊt B¶o Cµ Sa	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-3.spr	22	2	3	Lµ "PhËt m«n chi b¶o", do PhËt Tæ tÆng cho §­êng Tam T¹ng khi ®i thØnh kinh		10000	10	0	30	500	500	31	60	60																36	60	32	210 					38	0		
+¸o kho¸c cña §¹o sÜ 	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	Lµ y phôc cña c¸c ®¹o sÜ th­êng mÆc khi luyÖn vâ 		100	1	0	30	30	30	31	15	15																36	1	32	20 					38	0	37	4
+§¹o sÜ tr­êng bµo	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	Y phôc th­êng ngµy cña §¹o sÜ 		300	2	0	30	60	60	31	20	20																36	7	32	30 					38	0	37	4
+TÜnh y	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-2.spr	24	2	3	LÔ phôc cña c¸c §¹o sÜ th­êng mÆc khi lµm phÐp		600	3	0	30	90	90	31	25	25																36	13	32	40 					38	0	37	4
+Thanh Tïng Ph¸p bµo	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-3.spr	24	2	3	Y phôc cña nh÷ng ®¹o sÜ míi nhËp m«n		900	4	0	30	120	120	31	30	30																36	19	32	50 					38	0	37	4
+Thiªn s­ ®¹o bµo	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-1.spr	24	2	3	Y phôc chØ dµnh cho nh÷ng ng­êi ®¹o h¹nh th©m s©u, ®­îc t«n danh Thiªn S­ 		1600	5	0	30	150	150	31	35	35																36	26	32	60 					38	0	37	4
+HuyÒn Vâ ph¸p y	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-2.spr	24	2	3	TËp hîp linh khÝ HuyÒn Vâ, "HuyÒn m«n chi b¶o"		2500	6	0	30	180	180	31	40	40																36	33	32	70 					38	0	37	4
+ThÊt B¶o H¹ y	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-3.spr	24	2	3	Trong bªn ngoµi cã vÎ tÇm th­êng, nh­ng thùc chÊt lµ mét "b¶o y"		3500	7	0	30	210	210	31	45	45																36	40	32	80 					38	0	37	4
+Tam Thanh Bµo	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-1.spr	24	2	3	Ph¶n tµ quy ch¸nh, ng­êi mÆc nã lu«n cã lßng thiÖn t©m. 		4500	8	0	30	240	240	31	50	50																36	46	32	90 					38	0	37	4
+Thiªn Niªn H¹c S­ëng	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-2.spr	24	2	3	Dïng l«ng H¹c ®Ó ®iÓm xuyÕn xung quanh, ®©y chÝnh lµ sù t­îng tr­ng cho trÝ huÖ. 		6000	9	0	30	270	270	31	55	55																36	53	32	100 					38	0	37	4
+Ch©n Vò Th¸nh Y	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-3.spr	24	2	3	MÆc vµo sÏ gióp ta t¨ng nhanh thÇn lùc		8000	10	0	30	300	300	31	60	60																36	60	32	110 					38	0	37	4
+Cæn y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	¸o dµnh cho c¸c s¸t thñ cÊp thÊp nhÊt Èn giÊu th©n phËn		100	1	0	30	80	80	31	20	20																36	1	32	30 	33	20 			38	0		
+TÕ Tróc Cæn y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	Cæn y ®­îc ®Æc chÕ 		500	2	0	30	135	135	31	25	25																36	7	32	50 	33	30 			38	0		
+ThÝch Kh¸ch y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-2.spr	22	2	3	Còng gièng nh­ Cæn y nh­ng cã nhiÒu tói ®Ó chøa ¸m khÝ. 		1000	3	0	30	190	190	31	30	30																36	13	32	70 	33	40 			38	0		
+Méng mÞ y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-3.spr	22	2	3	Dïng c¸c vËt liÖu ®Æc biÖt mµ chÕ thµnh, sö dông linh ho¹t. 		2500	4	0	30	245	245	31	35	35																36	19	32	90 	33	50 			38	0		
+V« S¾c y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-1.spr	22	2	3	Cã thÓ tµng h×nh ®i vµo nhiÒu n¬i, thÝch hîp cho s¸t thñ 		6000	5	0	30	300	300	31	40	40																36	26	32	110 	33	60 			38	0		
+Ng­ NhÉn y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-2.spr	22	2	3	Trang bÞ cho c¸c s¸t thñ cÊp cao. 		10000	6	0	30	355	355	31	45	45																36	33	32	130 	33	70 			38	0		
+Liªn V©n y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-3.spr	22	2	3	Y phôc hiÕm cã, tÝnh linh ho¹t vµ tÝnh phßng ngù cùc cao		15000	7	0	30	410	410	31	50	50																36	40	32	150 	33	80 			38	0		
+Thiªn Méng y	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-1.spr	22	2	3	Ng­êi mÆc vµo h×nh bãng gièng nh­ trong m¬, kh«ng thÓ b¾t ®­îc		20000	8	0	30	465	465	31	55	55																36	46	32	170 	33	90 			38	0		
+V« Dung KÝnh y	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-2.spr	22	2	3	Lµ thø ¸o mµ c¸c thÝch kh¸ch ®Òu thÝch trang bÞ, cã thÓ giÊu ®­îc nhiÒu ¸m khÝ. 		25000	9	0	30	520	520	31	60	60																36	53	32	190 	33	100 			38	0		
+Thiªn NhÉn MËt Trang	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-3.spr	22	2	3	TËp trung s¸t khÝ v« biªn, gÆp thÇn giÕt thÇn, gÆp PhËt giÕt PhËt. 		30000	10	0	30	575	575	31	65	65																36	60	32	210 	33	110 			38	0		
+Th« Bè tr­êng bµo	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	Do c¸c lo¹i v¶i th« dÖt thµnh		100	1	0	30	50	50	31	20	20																36	1	32	30 	33	30 			38	0		
+Khinh C¸t sam	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	T¬ C¸t dÖt thµnh, ch¾c ch¾n khã xuyªn. 		400	2	0	30	100	100	31	26	26																36	7	32	45 	33	45 			38	0
+¶ÐÅÛ 	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-2.spr	22	2	3	CÈm ®o¹n dÖt thµnh, mÒm m¹i tho¶i m¸i. 		800	3	0	30	150	150	31	32	32																36	13	32	60 	33	60 			38	0
+DËt HiÖp y	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-3.spr	22	2	3	ThÝch hîp víi c¸c hiÖp kh¸ch, nhÑ nhµng linh ho¹t. 		2000	4	0	30	200	200	31	38	38																36	19	32	75 	33	75 			38	0
+NhiÖm HiÖp phôc	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-1.spr	22	2	3	Lµ lo¹i y phôc mµ c¸c hiÖp kh¸ch ë Ngò L¨ng th­êng mÆc. 		5000	5	0	30	250	250	31	44	44																36	26	32	90 	33	90 			38	0
+L­u Th¸i Phôc	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-2.spr	22	2	3	D¸ng vÎ nho nh·, mÒm m¹i mµ nghiªm trang. 		7000	6	0	30	300	300	31	50	50																36	33	32	105 	33	105 			38	0
+Ng©n T¬ Bµo	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	Dïng Tµm t¬ phèi hîp víi Ng©n t¬ chÕ thµnh, cã kh¶ n¨ng phßng ngù cùc tèt. 		9000	7	0	30	350	350	31	56	56																36	40	32	120 	33	120 			38	0
+Tö Kim bµo	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-1.spr	22	2	3	Dïng Tµm t¬ phèi hîp víi Kim t¬ chÕ thµnh, võa danh quý võa cã thÓ hé th©n. 		12000	8	0	30	400	400	31	62	62																36	46	32	135 	33	135 			38	0
+Hµn S­¬ng bµo	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-2.spr	22	2	3	Dïng Tµm t¬ phèi hîp víi B¹ch Kim t¬ chÕ thµnh, danh quý v« cïng. 		16000	9	0	30	450	450	31	68	68																36	53	32	150 	33	150 			38	0
+Gi¸ng Sa Bµo	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-3.spr	22	2	3	Dïng Gi¸ng Sa chÕ thµnh, dïng cho c¸c bËc ®Õ v­¬ng, cao quý khã t¶. 		20000	10	0	30	500	500	31	74	74																36	60	32	165 	33	165 			38	0
+Táa Tö gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Trang bÞ cho nh÷ng sÜ tèt trong qu©n ®éi, søc phßng ngù kÐm. 		400	1	0	30	90	90	31	30	30																36	1	32	35 					38	0
+L­ìng §¸ng Kh¶i	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Do hai m¶nh tr­íc sau hîp thµnh, thêi Phæ §­êng th­êng thÊy. 		1000	2	0	30	150	150	31	37	37																36	7	32	60 					38	0
+Minh Quang Kh¶i	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-2.spr	23	2	3	Lo¹i ¸o gi¸p th­êng trang bÞ cho binh sÜ thêi §­êng. 		2500	3	0	30	210	210	31	44	44																36	13	32	85 					38	0
+TÕ L©n gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-3.spr	23	2	3	Do nhiÒu miÕng thÐp máng ghÐp thµnh, gän nhÑ linh ho¹t. 		5000	4	0	30	270	270	31	51	51																36	19	32	110 					38	0
+¤ Chïy gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-1.spr	23	2	3	¸o gi¸p nh­ h×nh d¸ng qu¹, gän nhÑ linh ho¹t. 		10000	5	0	30	330	330	31	58	58																36	26	32	135 					38	0
+S¬n V¨n Tù gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-2.spr	23	2	3	Lµ mét m¶nh ¸o gi¸p. gi÷a låi, hai bªn lâm, c«ng dông chèng tªn. 		16000	6	0	30	390	390	31	65	65																36	33	32	160 					38	0
+Gi¶i Tr¹i gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-3.spr	23	2	3	Dïng toµn da cña qu¸i thó vµ da Gi¶i Tr¹i kÕt thµnh, kiªn cè v« cïng. 		25000	7	0	30	450	450	31	72	72																36	40	32	185 					38	0
+Toan Nghª gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-1.spr	23	2	3	Lµ lo¹i ¸o gi¸p cña c¸c danh t­íng, ®ao tªn kh«ng thÓ xuyªn thñng. 		32000	8	0	30	510	510	31	79	79																36	46	32	210 					38	0
+Táa Tö Hoµng Kim gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-2.spr	23	2	3	Thiªn h¹ vang danh, ®ao tªn kh«ng thÓ ph¹m vµo da		40000	9	0	30	570	570	31	86	86																36	53	32	235 					38	0
+§­êng Nghª gi¸p	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-3.spr	23	2	3	truyÒn thiÕt ®©y lµ hé th©n b¶o gi¸p cña L· ¤n HÇu, lµ hé ph¸p cùc phÈm		50000	10	0	30	630	630	31	93	93																36	60	32	260 					38	0
+Lan Bè y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	lµ thø v¶i b»ng vâ c©y, chØ mÆc nh÷ng lóc b×nh th­êng		100	1	0	30	20	20	31	12	12																36	1	32	0 					38	0
+Phæ th«ng C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	Lµ y phôc cña nh÷ng ng­êi ¨n mµy b×nh th­êng, gièng nh­ Bè y, cã rÊt nhiÒu tói		250	2	0	30	90	90	31	16	16																36	7	32	45 			39	6	38	0
+¸o ¨n mµy	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-2.spr	22	2	3	Lµ y phôc cña nh÷ng ng­êi ¨n mµy b×nh th­êng, dµnh cho ng­êi cÊp thÊp nhÊt		500	3	0	30	140	140	31	20	20																36	13	32	60 			39	6	38	0
+Thæ Ma C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-3.spr	22	2	3	Lµ y phôc cña nh÷ng ng­êi ¨n mµy b×nh th­ênglµm b»ng vá c©y		800	4	0	30	185	185	31	24	24																36	19	32	75 			39	6	38	0
+TÇm Ma C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-1.spr	22	2	3	Th­êng phôc cña C¸i Bang tr­ëng l·o, tinh chÕ tõ nh÷ng c©y TÇm Ma. 		1200	5	0	30	230	230	31	28	28																36	26	32	90 			39	6	38	0
+Háa Ma C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-2.spr	22	2	3	Th­êng phôc cña C¸i Bang tr­ëng l·o, dïng vá c©y Háa Ma chÕ thµnh, T­¬ng ®èi kiªn cè. 		1800	6	0	30	270	270	31	32	32																36	33	32	105 			39	6	38	0
+ThËp ph­¬ng C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-3.spr	22	2	3	Th­êng phôc cña C¸i Bang tr­ëng l·o, réng mµ kh«ng d­, thÝch hîp chiÕn ®Êu		2500	7	0	30	315	315	31	36	36																36	40	32	120 			39	6	38	0
+B¸ch kÕt C¸i y	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-1.spr	22	2	3	Th­êng phôc cña c¸c tr­ëng l·o 9 tói, chØ cã bang chñ vµ tr­ëng l·o 9 tói míi ®­îc dïng		3200	8	0	30	360	360	31	40	40																36	46	32	135 			39	6	38	0
+TriÒn T¬ Thiªn KÕt phôc	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-2.spr	22	2	3	Do v« vµn sîi t¬ kÕt thµnh, ng­êi mÆc vµo sÏ cã thiÖn tÝnh		4000	9	0	30	405	405	31	44	44																36	53	32	150 			39	6	38	0
+V¹n L­u Quy T«ng Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-3.spr	22	2	3	Y phôc dµnh cho bang chñ C¸i Bang vµ c¸c vÞ tr­ëng l·o 10 tói, t­îng tr­ng cho vâ c«ng vµ ®ia vÞ. 		5000	10	0	30	450	450	31	48	48																36	60	32	165 			39	6	38	0
+¸o v¶i th« 	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	¸o v¶i th« s¬, kh«ng cã tªn gäi		100	1	0	30	30	30	31	15	15																36	1	32	0 					38	0
+¸o v¶i th« 	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	¸o v¶i th« s¬, kh«ng cã tªn gäi		100	2	0	30	30	30	31	20	20																36	1	32	0 					38	0
+¸o v¶i th« 	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	¸o v¶i th« s¬, kh«ng cã tªn gäi		100	3	0	30	30	30	31	25	25																36	1	32	0 					38	0
+¸o v¶i th« 	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	¸o v¶i th« s¬, kh«ng cã tªn gäi		100	4	0	30	30	30	31	30	30																36	1	32	0 					38	0
+Hoµng CÈm ®o¶n y	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-1.spr	22	2	3	CÈm y tinh chÕ, gän nhÑ linh ho¹t. 		6000	5	0	30	150	150	31	35	35																36	26	32	0 					38	0
+Chøc gi¸p ®o¶n sam	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-2.spr	22	2	3	Bªn trong cã kh¶m gi¸p, cã kh¶ n¨ng phßng ngù. 		10000	6	0	30	180	180	31	40	40																36	33	32	0 					38	0
+HuyÒn Hoµng ®o¶n gi¸p	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-3.spr	22	2	3	Bªn ngoµi lµ ¸o, bªn trong thùc chÊt lµ mét ¸o gi¸p, søc phßng ngù cù h¹n. 		15000	7	0	30	210	210	31	45	45																36	40	32	0 					38	0
+BÝch Hoa Bµo	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-1.spr	22	2	3	DÖt tõ t¬ BÝch Tµm, mÒm m¹i 		20000	8	0	30	240	240	31	50	50																36	46	32	0 					38	0
+T­¬ng Nh­ bµo	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-2.spr	22	2	3	¸o nµy sÏ lµm cho ng­êi mÆc nã cã mét khÝ ph¸ch bÊt phµm		25000	9	0	30	270	270	31	55	55																36	53	32	0 					38	0
+TuyÒn Long bµo	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-3.spr	22	2	3	Ph¶i hao søc cña 100 ng­êi thî rÌn lµm trong m­êi n¨m		30000	10	0	30	300	300	31	60	60																36	60	32	0 					38	0
+Sa Ni phôc	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	T¨ng y dµnh cho c¸c tiÓu Sa Di võa nhËp m«n		100	1	0	30	50	50	31	15	15																36	1	32	15 					38	1
+T¨ng y(N÷)	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	Y phôc t¨ng nh©n th­êng mÆc		400	2	0	30	100	100	31	20	20																36	7	32	30 					38	1
+B¸ch N¹p y	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-2.spr	22	2	3	Th­êng phôc chñ yÕu cña c¸c T¨ng nh©n H¸n triÒu		800	3	0	30	150	150	31	25	25																36	13	32	45 					38	1
+An ®µ héi	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-3.spr	22	2	3	Cßn gäi lµ Ngò §iÒu y, ¸o cña c¸c t¨ng nh©n mÆc trong nh÷ng lóc th«ng th­êng		1000	4	0	30	200	200	31	30	30																36	19	32	60 					38	1
+UÊt §a La T¨ng	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-1.spr	22	2	3	Cßn gäi lµ ThÊt §iÒu y, ¸o cña c¸c t¨ng nh©n mÆc trong nh÷ng lóc trang nghiªm		2000	5	0	30	250	250	31	35	35																36	26	32	75 					38	1
+T¨ng Giµ y	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-2.spr	22	2	3	LÔ phôc cña T¨ng nh©n, mÆc trong nh÷ng lóc trang nghiªm		3000	6	0	30	300	300	31	40	40																36	33	32	90 					38	1
+nguyÖn b¹ch cµ sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-3.spr	22	2	3	Cßn gäi lµ ThÊt §iÒu y, y phôc cña c¸c t¨ng nh©n chøc vÞ cao		4000	7	0	30	350	350	31	45	45																36	40	32	105 					38	1
+Minh tÜnh cµ sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-1.spr	22	2	3	Y phôc th­êng ngµy cña c¸c vÞ cao t¨ng		5000	8	0	30	400	400	31	50	50																36	46	32	120 					38	1
+Kim L« cµ sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-2.spr	22	2	3	b¶o vËt cña PhËt m«n		7500	9	0	30	450	450	31	55	55																36	53	32	135 					38	1
+ThÊt B¶o Cµ Sa (n÷)	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-3.spr	22	2	3	Lµ "PhËt m«n chi b¶o", do PhËt Tæ tÆng cho §­êng Tam T¹ng khi ®i thØnh kinh		10000	10	0	30	500	500	31	60	60																36	60	32	150 					38	1		
+N÷ thøc ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phôc th­êng nhËt cña c¸c n÷ ®¹o sÜ. 		100	1	0	30	30	30	31	15	15																36	1	32	20 					38	1	37	4
+Tu Ch©n ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phôc lµm viÖc cña c¸c n÷ ®¹o sÜ nghÌo		300	2	0	30	60	60	31	20	20																36	7	32	30 					38	1	37	4
+Háa Hoµn ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-2.spr	24	2	3	§¹o y cao cÊp ®­îc lµm tõ v¶i Háa Hoµn		600	3	0	30	90	90	31	25	25																36	13	32	40 					38	1	37	4
+BÝch Hµ ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-3.spr	24	2	3	Mµu s¾c thanh tho¸t, tuy lµ ®¹o y nh­ng còng kh«ng kÐm phÇn linh ®éng		900	4	0	30	120	120	31	30	30																36	19	32	50 					38	1	37	4
+B¸t qu¸i ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-1.spr	24	2	3	Y phôc cña nh÷ng ®¹o sÜ míi nhËp m«n		1600	5	0	30	150	150	31	35	35																36	26	32	60 					38	1	37	4
+Hµn Mai ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-2.spr	24	2	3	TuyÖt phÈm ®¹o y cña c¸c n÷ ®¹o sÜ, tuy nghiªm trang mµ thanh tho¸t		2500	6	0	30	180	180	31	40	40																36	33	32	70 					38	1	37	4
+V« Cùc §¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-3.spr	24	2	3	§¹i thµnh v« dông, ®¹i ®¹o v« cùc. 		3500	7	0	30	210	210	31	45	45																36	40	32	80 					38	1	37	4
+§Þa Duyªn ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-1.spr	24	2	3	Lµ mét b¶o y cã chøa ¢m Linh khÝ. 		4500	8	0	30	240	240	31	50	50																36	46	32	90 					38	1	37	4
+B¨ng Tµm ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-2.spr	24	2	3	T¬ cña B¨ng Tµm kÕt thµnh, ng­êi mÆc vµo cèt c¸ch nh­ thÇn tiªn		6000	9	0	30	270	270	31	55	55																36	53	32	100 					38	1	37	4
+Long Tiªu ®¹o y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-3.spr	24	2	3	§¹o y ®­îc kÕt b»ng nhiÒu thø lôa quý, cèt c¸ch phi th­êng, cã thÓ xem lµ b¶o bèi. 		8000	10	0	30	300	300	31	60	60																36	60	32	110 					38	1	37	4
+Thôc CÈm y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	KÕt b»ng thø t¬ ®iÒu cña vïng tû Xuyªn, ch¾c ch¾n khã xuyªn		100	1	0	30	80	80	31	20	20																36	1	32	30 	33	20 			38	1		
+L¨ng T¬ y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	Lµ n÷ y cao cÊp dÖt b¼ng t¬ th­îng h¹ng. 		500	2	0	30	135	135	31	26	26																36	7	32	50 	33	25 			38	1		
+CÈm Träng y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-2.spr	24	2	3	Lµ n÷ y cao cÊp dÖt b¼ng t¬ th­îng h¹ng. 		1000	3	0	30	190	190	31	32	32																36	13	32	70 	33	30 			38	1		
+Linh Xµ y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-3.spr	24	2	3	Gièng nh­ kho¸t trªn ng­êi mét tÊm da r¾n, cö ®éng cùc kú linh ho¹t		2500	4	0	30	245	245	31	38	38																36	19	32	90 	33	35 			38	1		
+HuyÒn Ly y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-1.spr	24	2	3	N÷ phôc, ®­îc may b»ng da r¸i c¸. 		6000	5	0	30	300	300	31	44	44																36	26	32	110 	33	40 			38	1		
+H¾c B¸o y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-2.spr	24	2	3	¸o ®­îc may tõ da H¾c B¸o, mÒm m¹i mµ phó quý c¸c danh gia väng téc. 		10000	6	0	30	355	355	31	50	50																36	33	32	130 	33	45 			38	1
+Hæ B× y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-3.spr	24	2	3	May b»ng da hæ, mÆc vµo khÝ lùc t¨ng lªn, cùc kú hiÕm thÊy. 		15000	7	0	30	410	410	31	56	56																36	40	32	150 	33	50 			38	1
+VËn Nghª th­êng	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-1.spr	24	2	3	MÒm dÎo l¶ l­ít, dÔ ®éng lßng ng­êi		20000	8	0	30	465	465	31	62	62																36	46	32	170 	33	55 			38	1
+Mª Hån Th­êng	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-2.spr	24	2	3	KhiÕn cho ng­êi kh¸c ph¶i hån phi ph¸ch l¹c khi nh×n thÊy, tiÒm Èn ma lùc		25000	9	0	30	520	520	31	68	68																36	53	32	190 	33	60 			38	1
+Cöu VÜ B¹ch Hå trang	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-3.spr	24	2	3	§­îc may tõ ®u«i cña 9 con Hå Ly tinh, mÆc vµo n¨ng lùc v« song		30000	10	0	30	575	575	31	74	74																36	60	32	210 	33	65 			38	1
+CÈm Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phôc ®­îc chÕ tõ nh÷ng lo¹i v¶i th«ng th­êng. 		100	1	0	30	50	50	31	20	20																36	1	32	30	33	30			38	1
+Khëi Ly sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phôc ®Ñp nh­ hoa t­¬i cña n÷ ®¹o sÜ. 		400	2	0	30	100	100	31	26	26																36	7	32	45	33	45			38	1
+Hoa Sa sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-2.spr	24	2	3	Y phôc ®­îc kÕt tõ nhiÒu sîi t¬ cña hoa. 		800	3	0	30	150	150	31	32	32																36	13	32	60	33	60			38	1
+Thôc CÈm Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-3.spr	24	2	3	Lµ lo¹i y phôc ®­îc chÕ thµnh tõ nhiÒu lo¹i th¶o ®Þa. 		2000	4	0	30	200	200	31	38	38																36	19	32	75	33	75			38	1
+Tèng CÈm Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-1.spr	24	2	3	Lµ lo¹i y phôc ®­îc chÕ thµnh tõ nhiÒu lo¹i th¶o ®Þa næi tiÕng ë T« Ch©u. 		5000	5	0	30	250	250	31	44	44																36	26	32	90	33	90			38	1
+V©n CÈm Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-2.spr	24	2	3	Lµ lo¹i y phôc ®­îc chÕ thµnh tõ nhiÒu lo¹i th¶o ®Þa næi tiÕng ë Kim L¨ng		7000	6	0	30	300	300	31	50	50																36	33	32	105	33	105			38	1
+Thanh La sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-3.spr	24	2	3	Bªn ngoµi lµ ¸o nh­ng bªn trong lµ gi¸p, kh¶ n¨ng phßng ngù rÊt tèt		9000	7	0	30	250	250	31	56	56																36	40	32	120	33	120			38	1
+TÊt Sa sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-1.spr	24	2	3	Dïng toµn lµ nh÷ng th¶o d­îc quý chÕ thµnh, Cã kh¶ n¨ng phßng ngù rÊt tèt. 		12000	8	0	30	400	400	31	62	62																36	46	32	135	33	135			38	1
+L¨ng La sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-2.spr	24	2	3	Dïng toµn lµ nh÷ng th¶o d­îc quý chÕ thµnh, ®Ñp ®Ï l¹ kú. 		16000	9	0	30	450	450	31	68	68																36	53	32	150	33	150			38	1
+TrÇm H­¬ng sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-3.spr	24	2	3	Trong ¸o lu«n ph¶ng phÊt mïi trÇm h­¬ng, nh­ tiªn n÷ gi¸ng trÇn. 		20000	10	0	30	500	500	31	74	74																36	60	32	165	33	165			38	1
+Kh¶m ThiÕt n÷ gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	¸o gi¸p th«ng th­êng cña n÷ giíi. 		400	1	0	30	90	90	31	30	30																36	1	32	35 					38	1
+Thanh §ång n÷ gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	Lµ ¸o gi¸p cña n÷, ®­îc kÕt b»ng ngh÷ng miÕng ®ång xanh, cã kh¶ n¨ng phßng ngù cùc tèt. 		1000	2	0	30	150	150	31	37	37																36	7	32	60 					38	1
+B¹ch NhÜ gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-2.spr	25	2	3	Lµ lo¹i ¸o gi¸p th­êng thÊy cña c¸c n÷ t­íng. 		2500	3	0	30	210	210	31	44	44																36	13	32	85 					38	1
+Lam YÕn Cang gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-3.spr	25	2	3	Lµ ¸o gi¸p ®­îc kÕt b»ng nh÷ng miÕng thÐp cù máng, khã mµ t×m thÊy		5000	4	0	30	270	270	31	51	51																36	19	32	110 					38	1
+Hång NhÜ gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-1.spr	25	2	3	Lµ lo¹i ¸o gi¸p cao cÊp cña c¸c n÷ t­íng. 		10000	5	0	30	330	330	31	58	58																36	26	32	135 					38	1
+XÝch Nh¹n gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-2.spr	25	2	3	¸o gi¸p ®­îc kÕt b»ng l«ng Nh¹n ®á, n÷ tÝnh th­êng hay dïng. 		16000	6	0	30	390	390	31	65	65																36	33	32	160 					38	1
+HuyÕt §ång gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-3.spr	25	2	3	ChÕ t¹o bÝ truyÒn, mµu ®á huyÒn bÝ. 		25000	7	0	30	450	450	31	72	72																36	40	32	185 					38	1
+Lan Ng©n gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-1.spr	25	2	3	Lan Ng©n t¹o thµnh, nhÑ mµ ch¾c ch¾n. 		32000	8	0	30	510	510	31	79	79																36	46	32	210 					38	1
+HuyÒn ThiÕt TuyÕt Ng©n gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-2.spr	25	2	3	Lµ lo¹i gi¸p kÕt hîp ThiÕt vµ B¹c, c¸c n÷ t­íng th­êng rÊt thÝch dïng. 		40000	9	0	30	570	570	31	86	86																36	53	32	235 					38	1
+TÝch LÞch Kim Phông gi¸p	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-3.spr	25	2	3	Hé gi¸p cña Môc QuÕ Anh, theo truyÒn thuyÕt lµ do Th¸nh MÉu ban tÆng. 		50000	10	0	30	630	630	31	93	93																36	60	32	260 					38	1
+Ph¸ Ma y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	Lµ lo¹i ¸o ®­îc lµm tõ vá c©y Ma thô. 		100	1	0	30	20	20	31	12	12																36	1	32	0					38	1
+Ph¸ Miªn y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	Lµ lo¹i ¸o ®­îc kÕt b»ng b«ng. 		250	2	0	30	90	90	31	16	16																36	7	32	45			39	6	38	1
+Ph¸ Cæn y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-2.spr	24	2	3	Lµ lo¹i Cæn y nh­ng bªn ngoµi h¬i gièng Ph¸ Miªn y. 		500	3	0	30	140	140	31	20	20																36	13	32	60			39	6	38	1
+B¹ch Bæ y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-3.spr	24	2	3	Lo¹i ¸o ®­îc kÕt l¹i tõ nh÷ng ¸o cò r¸ch kh¸c. 		800	4	0	30	185	185	31	24	24																36	19	32	75			39	6	38	1
+Thiªn bæ y	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-1.spr	24	2	3	Lo¹i ¸o ®­îc may tõ v« sè ¸o cò r¸ch kh¸c, dµy vµ Êm. 		1200	5	0	30	230	230	31	28	28																36	26	32	90			39	6	38	1
+D­¬ng B× gi¸p	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-2.spr	24	2	3	Dïng da dª vµ Ma Bè hîp thµnh, tÝnh phßng ngù rÊt cao. 		1800	6	0	30	270	270	31	32	32																36	33	32	105			39	6	38	1
+Ng­u B× gi¸p	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-3.spr	24	2	3	Dïng da tr©u vµ Ma Bè hîp thµnh, tÝnh phßng ngù rÊt cao. 		2500	7	0	30	315	315	31	36	36																36	40	32	120			39	6	38	1
+Tö Thö y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-1.spr	24	2	3	Dïng da mµu tÝm cña loµi chuét kú dÞ, tÝnh phßng ngù rÊt cao. 		3200	8	0	30	360	360	31	40	40																36	46	32	135			39	6	38	1
+Kh«i §iªu y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-2.spr	24	2	3	KÕt tõ ®u«i cña d· §iªu, tr«ng cã vÎ cò kü nh­ng søc phßng ngù phi th­êng. 		4000	9	0	30	405	405	31	44	44																36	53	32	150			39	6	38	1
+V¹n Chóng TÒ T©m Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-3.spr	24	2	3	ThÓ hiÖn tinh thÇn ®oµn kÕt cña C¸i bang, trªn d­íi ®ång lßng, viÖc g× còng xong. 		5000	10	0	30	450	450	31	48	48																36	60	32	165			39	6	38	1
+B¹ch §iÖp quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Lµ lo¹i th­êng phôc cña n÷ giíi. 		100	1	0	30	40	40	31	20	20																36	1	32	0 	33	20 			38	1
+Thanh La quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Lo¹i quÇn ¸o ®­îc dÖt b»ng nh÷ng lo¹i t¬ th­êng. 		100	2	0	30	80	80	31	25	25																36	7	32	0 	33	30 			38	1
+Chøc CÈm Th¹ch Lùu quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	DÖt b»ng cÈm Tó Hoa, gi¸ trÞ phi phµm. 		100	3	0	30	120	120	31	30	30																36	13	32	0 	33	40 			38	1
+Song §iÖp Tó La quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	DÖt b»ng cÈm Tó Hoa, cèt c¸ch quý ph¸i. 		100	4	0	30	160	160	31	35	35																36	19	32	0 	33	50 			38	1
+B¸ch ¤ quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-1.spr	24	2	3	DÖt b»ng l«ng cña 100 con qu¹, cùc kú hiÕm thÊy. 		6000	5	0	30	200	200	31	40	40																36	26	32	0 	33	60 			38	1
+NguyÖt Hoa quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-2.spr	24	2	3	Lo¹i quÇn ph¸t ra ¸nh s¸ng kú ¶o nh­ ¸nh s¸ng tr¨ng. 		10000	6	0	30	240	240	31	45	45																36	33	32	0 	33	70 			38	1
+Phong VÜ quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-3.spr	24	2	3	DÖt b»ng l«ng §æng T­íc, võa cao quý võa cã tÝnh n¨ng b¶o vÖ. 		15000	7	0	30	280	280	31	50	50																36	40	32	0 	33	80 			38	1
+Kinh B¶o quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-1.spr	24	2	3	Lo¹i y phôc ®­îc kh¶m b»ng nhiÒu lo¹i n÷ trang quý. 		20000	8	0	30	320	320	31	55	55																36	46	32	0 	33	90 			38	1
+B¸ch Phong TriÒu D­¬ng quÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-2.spr	24	2	3	¸nh s¸ng huyÒn diÖu nh­ buæi chiÒu tµ. 		25000	9	0	30	360	360	31	60	60																36	53	32	0 	33	100 			38	1
+L­u Tiªn QuÇn	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-3.spr	24	2	3	TruyÒn thuyÕt nãi r»ng ®©y lµ do TriÖu Phi YÕn thêi H¸n tù tay lµm ra, mÆc vµo nh­ ®ang du tiªn. 		30000	10	0	30	400	400	31	65	65																36	60	32	0 	33	110 			38	1

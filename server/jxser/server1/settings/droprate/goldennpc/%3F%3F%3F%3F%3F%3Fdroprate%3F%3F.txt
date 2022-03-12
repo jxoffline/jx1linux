@@ -1,0 +1,21 @@
+ÇØÁêµØÏÂ3²ã --80_13droprate.ini
+Ò©Íõ¶´3²ã   --80_12droprate.ini
+ÑãÊ¯¶´ÃÔ¹¬  --80_13droprate.ini
+ÇåÏª¶´ÃÔ¹¬  --80_04droprate.ini
+Cæ D­¬ng ®éng --80_12droprate.ini 
+±ùºÓ¶´ÃÔ¹¬  --80_04droprate.ini
+ÎŞÃû¶´ÃÔ¹¬  --80_34droprate.ini
+D­¬ng Trung ®éng --80_12droprate.ini 
+Á½Ë®¶´ÃÔ¹¬  --80_04droprate.ini
+ÎäÁê¶´ÃÔ¹¬  --80_13droprate.ini
+Ü½ÈØ¶´ÃÔ¹¬  --80_02droprate.ini
+·ÉÌì¶´ÃÔ¹¬  --80_02droprate.ini
+É³Ä®µØ±í    --80_01234droprate.ini
+
+ĞùÔ¯¶´ÃÔ¹¬  --90_34droprate.ini
+¼ö¾Õ¶´ÃÜ¹¬  --90_02droprate.ini
+ò¿ÓÈ¶´ÃÔ¹¬  --90_02droprate.ini
+Ò©Íõ¶´ËÄ²ã  --90_13droprate.ini
+É³Ä®É½¶´1   --90_01234droprate.ini
+É³Ä®É½¶´2   --90_01234droprate.ini
+É³Ä®É½¶´3   --90_01234droprate.ini

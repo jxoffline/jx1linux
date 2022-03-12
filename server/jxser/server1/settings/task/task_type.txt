@@ -1,0 +1,5 @@
+TaskType	ConditionFile	EntityFile	AwardFile	TalkFile
+NgÉu nhiªn_§èi tho¹i	settings\task\random\talk\condition.txt	settings\task\random\talk\entity.txt	settings\task\random\talk\award.txt	settings\task\random\talk\talk.txt
+NgÉu nhiªn_Thu thËp	settings\task\random\coll\condition.txt	settings\task\random\coll\entity.txt	settings\task\random\coll\award.txt	settings\task\random\coll\talk.txt
+NgÉu nhiªn_S¸t qu¸i	settings\task\random\kill\condition.txt	settings\task\random\kill\entity.txt	settings\task\random\kill\award.txt	settings\task\random\kill\talk.txt
+NgÉu nhiªn_MËt §å	settings\task\random\next\condition.txt	settings\task\random\next\entity.txt	settings\task\random\next\award.txt	settings\task\random\next\talk.txt

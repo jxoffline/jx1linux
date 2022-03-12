@@ -1,0 +1,37 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+79	Phó Quý CÈm H¹p	{tbProp={6,1,2402,1,0,0},nExpiredTime=20100823,}	1	1	708	18	
+79	Tiªn Th¶o Lé 	{tbProp={6,1,71,1,0,0},}	1	5	709	18	
+79	Phóc Duyªn Lé (TiÓu) 	{tbProp={6,1,122,1,0,0},}	1	5	710	18	
+79	Phi Tèc hoµn	{tbProp={6,0,6,1,0,0},}	1	2	711	18	
+79	§¹i Lùc hoµn	{tbProp={6,0,3,1,0,0},}	1	2	712	18	
+79	Bµn Nh­îc T©m Kinh	{tbProp={6,1,12,1,0,0},}	1	0.4	713	18	
+79	Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	{tbProp={6,1,37,1,0,0},}	1	0.2	714	18	
+79	Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	{tbProp={6,1,38,1,0,0},}	1	0.2	715	18	
+79	Thiªn V­¬ng §ao ph¸p.QuyÓn 3	{tbProp={6,1,39,1,0,0},}	1	0.2	716	18	
+79	ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	{tbProp={6,1,56,1,0,0},}	1	0.2	717	18	
+79	ThiÕu L©m C«n ph¸p. QuyÓn 2	{tbProp={6,1,57,1,0,0},}	1	0.2	718	18	
+79	ThiÕu L©m §ao ph¸p. QuyÓn 3	{tbProp={6,1,58,1,0,0},}	1	0.2	719	18	
+79	Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	{tbProp={6,1,45,1,0,0},}	1	0.2	720	18	
+79	Phi Tiªu thuËt. Cöu Cung Phi Tinh	{tbProp={6,1,46,1,0,0},}	1	0.2	721	18	
+79	Tô TiÔn thuËt. B¹o Vò Lª Hoa	{tbProp={6,1,27,1,0,0},}	1	0.2	722	18	
+79	H·m TÜnh thuËt.Lo¹n Hoµn KÝch	{tbProp={6,1,28,1,0,0},}	1	0.2	723	18	
+79	Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	{tbProp={6,1,47,1,0,0},}	1	0.2	724	18	
+79	Ngò §éc §ao ph¸p. QuyÓn 2	{tbProp={6,1,48,1,0,0},}	1	0.2	725	18	
+79	Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	{tbProp={6,1,49,1,0,0},}	1	0.2	726	18	
+79	DiÖt KiÕm MËt TÞch	{tbProp={6,1,42,1,0,0},}	1	0.2	727	18	
+79	Nga Mi  PhËt Quang Ch­ëng MËt TÞch	{tbProp={6,1,43,1,0,0},}	1	0.2	728	18	
+79	Phæ §é MËt TÞch	{tbProp={6,1,59,1,0,0},}	1	0.2	729	18	
+79	Thóy Yªn §ao ph¸p	{tbProp={6,1,40,1,0,0},}	1	0.2	730	18	
+79	Thóy Yªn Song ®ao	{tbProp={6,1,41,1,0,0},}	1	0.2	731	18	
+79	C¸i Bang Ch­ëng Ph¸p	{tbProp={6,1,54,1,0,0},}	1	0.2	732	18	
+79	C¸i Bang C«n ph¸p	{tbProp={6,1,55,1,0,0},}	1	0.2	733	18	
+79	L­u Tinh. §ao ph¸p	{tbProp={6,1,36,1,0,0},}	1	0.2	735	18	
+79	NhiÕp Hån. Chó thuËt	{tbProp={6,1,53,1,0,0},}	1	0.2	736	18	
+79	Th¸i Cùc QuyÒn Phæ. QuyÓn 3	{tbProp={6,1,33,1,0,0},}	1	0.2	737	18	
+79	Th¸i Cùc KiÕm Phæ. QuyÓn 2	{tbProp={6,1,34,1,0,0},}	1	0.2	738	18	
+79	Ngù Phong thuËt	{tbProp={6,1,50,1,0,0},}	1	0.2	739	18	
+79	Ngù L«i thuËt	{tbProp={6,1,51,1,0,0},}	1	0.2	740	18	
+79	Ngù T©m thuËt	{tbProp={6,1,52,1,0,0},}	1	0.2	741	18	
+79	TiÒn	"return {nRepute=1}"	1	28	742	18	
+79	TiÒn	"return {nRepute=2}"	1	26	743	18	
+79	TiÒn	"return {nRepute=3}"	1	25	744	18	

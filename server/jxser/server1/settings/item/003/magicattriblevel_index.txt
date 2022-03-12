@@ -1,0 +1,49 @@
+MAGIC_ID	MAGATTRLVL_START	MAGATTRLVL_END	DESC	FIT_EQUIP	REMARK
+126	1	10	T¨ng s¸t th­¬ng vËt lı hÖ Ngo¹i c«ng 	Vò khİ 	MAGATTRLVL_START vµ MAGATTRLVL_END ®Òu lµ biÓu thŞ ®¼ng cÊp thuéc tİnh, gi¶m 1 so víi magicattriblevel. Txt
+166	11	20	T¨ng c«ng kİch chİnh x¸c 	Vò khİ 	
+115	21	30	T¨ng tèc ®é xuÊt chiªu hÖ Ngo¹i c«ng	Vò khİ 	
+58	31	40	Bá qua tèc ®é di chuyÓn cña ®èi ph­¬ng	Vò khİ 	
+43	41	50	Kh«ng thÓ ph¸ hñy	Kh«ng thÓ kh¶m n¹m 	
+150	51	60	T¨ng phßng thñ vËt lı 	Kh«ng thÓ kh¶m n¹m	
+111	61	70	T¨ng tèc ®é di chuyÓn	hµi	
+117	71	80	T¨ng ph¶n ®ßn cËn chiÕn	Y phôc	
+113	81	90	Gi¶m thêi gian bŞ th­¬ng 	Y phôc	
+112	91	100	T¨ng ph¹m vi s¸t th­¬ng	Kh«ng thÓ kh¶m n¹m	
+139	101	110	T¨ng ®¼ng cÊp tÊt c¶ vò khİ 	NhÉn,  Vò khİ 	
+114	111	120	Kh¸ng tÊt c¶	D©y chuyÒn	
+136	121	130	Hót sinh lùc ®èi ph­¬ng	Vò khİ 	
+137	131	140	Hót Néi lùc ®èi ph­¬ng	Vò khİ 	
+85	141	150	Sinh lùc t¨ng 	TÊt c¶ c¸c trang bŞ 	
+89	151	160	Néi lùc t¨ng 	TÊt c¶ c¸c trang bŞ 
+93	161	170	ThÓ lùc t¨ng 	TÊt c¶ c¸c trang bŞ 
+88	171	180	Mçi nöa gi©y Sinh lùc håi phôc 	Y phôc, hµi, Yªu ®¸i, M·o, Hé uyÓn
+92	181	190	Mçi n÷a gi©y Néi lùc håi phôc 	§ai th¾t
+96	191	200	Mçi n÷a gi©y ThÓ lùc håi phôc 	NhÉn, D©y chuyÒn
+97	201	210	Søc m¹nh t¨ng 	NhÉn, D©y chuyÒn, §ai th¾t
+121	211	220	T¨ng s¸t th­¬ng VËt lı hÖ Ngo¹i c«ng 	Vò khİ 
+125	221	230	T¨ng ®éc s¸t hÖ Ngo¹i c«ng 	Vò khİ 
+123	231	240	T¨ng b¨ng s¸t hÖ Ngo¹i c«ng 	Vò khİ 
+122	241	250	T¨ng b¨ng háa hÖ Ngo¹i c«ng 	Vò khİ 
+124	251	260	T¨ng b¨ng L«i hÖ Ngo¹i c«ng 	Vò khİ 
+134	261	270	chuyÓn hãa s¸t th­¬ng thµnh Néi lùc	Y phôc, hµi, Yªu ®¸i, M·o, Hé uyÓn
+104	271	280	Phßng thñ t¨ng 	Y phôc, hµi, Yªu ®¸i, M·o, Hé uyÓn
+101	281	290	Phßng ®éc t¨ng 	TÊt c¶ c¸c trang bŞ 
+105	291	300	Phßng b¨ng t¨ng 	TÊt c¶ c¸c trang bŞ 
+102	301	310	Phßng háa t¨ng 	TÊt c¶ c¸c trang bŞ 
+103	311	320	Phßng L«i t¨ng 	TÊt c¶ c¸c trang bŞ 
+99	321	330	T¨ng Ngo¹i c«ng	TÊt c¶ c¸c trang bŞ 
+110	331	340	Gi¶m cho¸ng 	TÊt c¶ c¸c trang bŞ 
+135	341	350	T¨ng May m¾n 	NhÉn, §ai th¾t, D©y chuyÒn
+106	351	360	Gi¶m ®éng t¸c lµm chËm	TÊt c¶ c¸c trang bŞ 
+98	361	370	T¨ng th©n ph¸p	Y phôc, hµi, Yªu ®¸i, M·o, Hé uyÓn, NhÉn, D©y chuyÒn, §ai th¾t
+108	371	380	gi¶m thêi gian tróng ®éc	TÊt c¶ c¸c trang bŞ 
+140	381	390	T¨ng ®¼ng cÊp kü n¨ng hÖ Kim	Kh«ng thÓ kh¶m n¹m
+142	391	400	T¨ng ®¼ng cÊp kü n¨ng hÖ Thñy	Kh«ng thÓ kh¶m n¹m
+141	401	410	T¨ng ®¼ng cÊp kü n¨ng hÖ Méc	Kh«ng thÓ kh¶m n¹m
+143	411	420	T¨ng ®¼ng cÊp kü n¨ng hÖ Háa	Kh«ng thÓ kh¶m n¹m
+144	421	430	T¨ng ®¼ng cÊp kü n¨ng hÖ Thæ 	Kh«ng thÓ kh¶m n¹m
+168	431	440	T¨ng s¸t th­¬ng VËt lı hÖ Néi c«ng	Vò khİ 
+169	441	450	T¨ng B¨ng s¸t hÖ Néi c«ng	Vò khİ 
+170	451	460	T¨ng Ho¶ s¸t hÖ Néi c«ng	Vò khİ 
+171	461	470	T¨ng L«i s¸t hÖ Néi c«ng	Vò khİ 
+172	471	480	T¨ng s¸t th­¬ng §éc hÖ Néi c«ng	Vò khİ 

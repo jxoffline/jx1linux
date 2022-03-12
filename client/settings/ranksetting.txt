@@ -1,0 +1,98 @@
+RANKID	RANKSTR
+1	T¶o §Þa T¨ng
+2	Hé ViÖn Vâ T¨ng
+3	Hé Tù Kim Cang 
+4	Hé Ph¸p La H¸n
+5	TruyÒn Kinh La H¸n
+6	Phôc Ma Thiªn V­¬ng 
+7	§¹o §ång
+8	Nhµn T¶n §¹o S­ 
+9	Thanh Tu §¹o S­ 
+10	TuÇn S¬n §¹o Nh©n
+11	NhËp Quan §¹o Nh©n
+12	Ch­ëng Kinh §¹o Nh©n
+13	Bè Y Ni
+14	Vò Y Ni
+15	CÈm Y Ni
+16	B¹ch Liªn Tiªn Tö 
+17	Thanh Liªn Tiªn Tö 
+18	T¶n Hoa Thiªn N÷ 
+19	PhÊt TrÇn §Ö Tö 
+20	Phông KiÕm §Ö Tö 
+21	Tö Vi Hé Ph¸p
+22	Th¸i Vi Hé Ph¸p
+23	Thiªn Vi Hé Ph¸p
+24	Thô Phï Thiªn T­íng
+25	T¹p dÞch
+26	Lµng D
+27	Hé ViÖn
+28	Giíi TiÒn Hé VÖ
+29	NhËp C¸c §Ö Tö
+30	Tû L·o M«n Nh©n
+31	Hoa T×
+32	Tam PhÈm Hoa Sø
+33	NhÞ PhÈm Hoa Sø
+34	NhÊt PhÈm Hoa Sø
+35	Hoa Tiªn
+36	Hoa Tinh
+37	V« §¹i §Ö Tö
+38	ChÊp §¹i §Ö Tö
+39	ChÊp B¸t §Ö Tö
+40	ChÊp Bæng §Ö Tö
+41	Long §Çu
+42	§¹i Long §Çu
+43	ThÞ vÖ
+44	 ThÞ vÖ tr­ëng
+45	Thñ Tr¹i H·n T­íng
+46	Ch­ëng §¸ §Çu LÜnh
+47	Thñy §¹o Thèng LÜnh
+48	Hé §¶o T­íng Qu©n
+49	Ngò §éc §ång Tö
+50	§o¹t Hån T¶n Nh©n
+51	Th«i MÖnh Sø Gi¶
+52	H¾c ¸m Diªm La
+53	V« §éng La S¸t
+54	Co §éc T«n Gi¶
+55	S¸t Thñ
+56	V« ¶nh S¸t Thñ
+57	Tö SÜ
+58	U Minh Tö SÜ
+59	Ch­ëng Kú Sø
+60	Hé Gi¸o Sø
+61	V« Danh TiÓu Bèi
+62	V« L­îng Gi¶i T«n
+63	HuyÒn Vâ ThÇn ThÞ
+64	Kim §Ønh Th¸nh N÷
+65	Tiªn Phï Ch©n Qu©n
+66	Thiªn Thñ ThÇn VÖ
+67	Hoa ThÇn
+68	Tiªu Dao ThÇn C¸i
+69	K×nh Thiªn Nguyªn So¸i
+70	U Minh Quû Sø
+71	T¸t M·n Ph¸p V­¬ng
+72	Hé Ph¸p Tr­ëng L·o
+73	HuyÒn Vâ Ch©n Nh©n
+74	Th¸nh n÷
+75	Hé Ph¸i Ch©n Qu©n
+76	Lôc C¸c Tr­ëng L·o
+77	Hoa ThÇn Sø
+78	Cöu §¹i Tr­ëng L·o
+79	TrÊn Bang Nguyªn So¸i
+80	U Minh Quû V­¬ng
+81	Th¸nh Gi¸o Tr­ëng L·o
+82	Th­ §ång
+83	§Ö tö phông trµ
+84	§Ö tö T­ MÆc
+85	§Ö tö chÊp kiÕm
+86	§an Thanh Sø
+87	DÞch Thu Sø
+88	Lôc NghÖ TruyÒn Nh©n
+89	Th¸i Häc C¸c Chñ
+90	HËu Qu©n
+91	Trung Qu©n
+92	Ph¸ §Þch Qu©n
+93	§¹p B¹ch Qu©n
+94	Du DÞch Qu©n
+95	Th¾ng TiÖp Qu©n
+96	Bèi Ng«i Qu©n
+97	ThÇn Hµnh Qu©n

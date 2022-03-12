@@ -1,0 +1,15 @@
+NpcAction
+FightStand
+NormalStand1
+NormalStand2
+FightWalk
+NormalWalk
+FightRun
+NormalRun
+Wound
+Die
+Attack1
+Attack2
+Magic
+SitDown
+JunpFly

@@ -1,0 +1,243 @@
+Ãû³Æ	ItemGenre	DetailType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ParticularType
+Thóy Vò tr©m	4	0	\spr\item\questkey\taskobj001.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+§¹i M¹n ®µ la hoa	4	1	\spr\item\questkey\taskobj002.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+C¸ Ng©n TuyÕt	4	2	\spr\item\questkey\taskobj003.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Bİch th­êng Phông §iÖp 	4	3	\spr\item\questkey\taskobj004.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Trïng ®á 	4	4	\spr\item\questkey\taskobj005.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Vò §ång Quan ©m 	4	5	\spr\item\questkey\taskobj006.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Kh¨n t¬ cÊm ®Şa 	4	6	\spr\item\questkey\taskobj007.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+X­¬ng ®Çu l¹c ®µ	4	7	\spr\item\questkey\taskobj008.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Kim T¬ HÇu	4	8	\spr\item\questkey\taskobj009.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+HuyÕt Hån ThÇn KiÕm	4	9	\spr\item\questkey\taskobj010.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+1 nóm tãc	4	10	\spr\item\questkey\taskobj011.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Phôc Hy táa 	4	11	\spr\item\questkey\taskobj012.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Viªm §Õ táa 	4	12	\spr\item\questkey\taskobj013.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+ThiÕu H¹o táa 	4	13	\spr\item\questkey\taskobj014.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Chuyªn Hóc táa 	4	14	\spr\item\questkey\taskobj015.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Hoµng ®Õ táa 	4	15	\spr\item\questkey\taskobj016.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ngò S¾c Th¹ch 	4	16	\spr\item\questkey\taskobj017.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+B¹ch Ngäc Nh­ ı 	4	17	\spr\item\questkey\taskobj018.spr	41	1	1	VËt chøng ®Ó gia  nhËp Nga Mi.	0
+M¶nh g­¬ng (tr¸i)	4	18	\spr\item\questkey\taskobj019.spr	41	1	1	M¶nh g­¬ng bªn tr¸i. VËt phÈm nhiÖm vô.	0
+M¶nh g­¬ng (ph¶i)	4	19	\spr\item\questkey\taskobj019-1.spr	41	1	1	M¶nh g­¬ng bªn ph¶i.VËt phÈm nhiÖm vô.	0
+G­¬ng §ång	4	20	\spr\item\questkey\taskobj020.spr	41	1	1	1 tÊm g­¬ng §ång hoµn chØnh.	0
+Phï Dung CÈm Kª ®å	4	21	\spr\item\questkey\taskobj021.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+B¸ch §iÓu TriÒu Phông	4	22	\spr\item\questkey\taskobj022.spr	41	1	1	VËt phÈm nhiÖm vô. 	0
+Kim TuyÕn Tó T­îng Kim Cang Kinh 	4	23	\spr\item\questkey\taskobj023.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+Yªn Ngäc ChØ hoµn 	4	24	\spr\item\questkey\taskobj024.spr	41	1	1	Tİn vËt cña ch­ëng m«n Nga mi. VËt phÈm nhiÖm vô 	0
+Toµn th¹ch 	4	25	\spr\item\questkey\taskobj025.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Kim Liªn hoa 	4	26	\spr\item\questkey\taskobj026.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+B¸t Nh· Ba La MËt T©m kinh	4	27	\spr\item\questkey\taskobj027.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+DŞch Cèt Kinh	4	28	\spr\item\questkey\taskobj028.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+1 x©u Trµng h¹t 	4	29	\spr\item\questkey\taskobj029.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+ThiÒn tr­îng 	4	30	\spr\item\questkey\taskobj030.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Méc ng­ 	4	31	\spr\item\questkey\taskobj031.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+B¸t nhµ s­ 	4	32	\spr\item\questkey\taskobj032.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+GËy Tróc  xanh 	4	33	\spr\item\questkey\taskobj033.spr	41	1	2	Tİn vËt gia nhËp §­êng m«n 	0
+GËy Tróc tr¾ng 	4	34	\spr\item\questkey\taskobj034.spr	41	1	2	Tİn vËt gia nhËp §­êng m«n.	0
+GËy Tróc Tİm 	4	35	\spr\item\questkey\taskobj035.spr	41	1	2	Tİn vËt gia nhËp §­êng m«n.	0
+Ma Vò Ch©m	4	36	\spr\item\questkey\taskobj036.spr	41	1	2	§­êng M«n §éc M«n ¸m khİ.	0
+Kh¨n t¬ Qu¸i th¹ch trËn 1 	4	37	\spr\item\questkey\taskobj040.spr	41	1	1	Trªn kh¨n cã thªu ch÷ “ThiÖn” 	0
+Kh¨n t¬ Qu¸i th¹ch trËn 2 	4	38	\spr\item\questkey\taskobj038.spr	41	1	1	Trªn kh¨n cã thªu ch÷ “SÊm” 	0
+Kh¨n t¬ Qu¸i th¹ch trËn 3 	4	39	\spr\item\questkey\taskobj037.spr	41	1	1	Trªn kh¨n cã thªu ch÷ “Gi¶” 	0
+Kh¨n t¬ Qu¸i th¹ch trËn 4	4	40	\spr\item\questkey\taskobj039.spr	41	1	1	Trªn kh¨n cã thªu ch÷ “Tö” 	0
+Kim H¹ng Khuyªn	4	41	\spr\item\questkey\taskobj041.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+Háa Khİ Phæ 	4	42	\spr\item\questkey\taskobj042.spr	41	1	1	§­êng M«n MËt tŞch, vËt phÈm nhiÖm vô.	0
+Da Cãc	4	43	\spr\item\questkey\taskobj043.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+Gan R¾n ®éc	4	44	\spr\item\questkey\taskobj044.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+Hoa Anh Tóc	4	45	\spr\item\questkey\taskobj045.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+§u«i RÕt ®éc 	4	46	\spr\item\questkey\taskobj046.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+§Çu Thiªn tµm 	4	47	\spr\item\questkey\taskobj047.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+¸m Khİ Phæ 	4	48	\spr\item\questkey\taskobj048.spr	41	1	1	§­êng M«n MËt tŞch, ghi t©t c¶ c¸c bİ quyÕt chÕ t¹o ¸m khİ.	0
+ThÊt Tinh TuyÖt MÖnh KiÕm 	4	49	\spr\item\questkey\taskobj049.spr	41	1	1	Mét thanh kiÕm ®· rØ sĞt.	0
+Vò V­¬ng KiÕm 	4	50	\spr\item\questkey\taskobj050.spr	41	1	1	Mét thanh b¶o kiÕm cæ, ®­îc l­u gi÷ trªn Hoa s¬n  .	0
+M¶nh lÖnh bµi 1 	4	51	\spr\item\questkey\taskobj051-1.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 2 	4	52	\spr\item\questkey\taskobj051-2.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 3 	4	53	\spr\item\questkey\taskobj051-3.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 4	4	54	\spr\item\questkey\taskobj051-4.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 5	4	55	\spr\item\questkey\taskobj051-5.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 6	4	56	\spr\item\questkey\taskobj051-6.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+M¶nh lÖnh bµi 7	4	57	\spr\item\questkey\taskobj051.spr	41	1	2	VËt phÈm nhiÖm vô 	0
+NhËt NguyÖt Song lu©n 	4	58	\spr\item\questkey\taskobj052.spr	41	1	1	Thiªn NhÉn ®éc m«n binh khİ.	0
+C¸p HuyÕt Hång 	4	59	\spr\item\questkey\taskobj053.spr	41	1	1	Lo¹i b¶o th¹ch mµu hång huyÕt.	0
+B¨ng Tinh Lam 	4	60	\spr\item\questkey\taskobj054.spr	41	1	1	1 lo¹i b¶o th¹ch mµu xanh.	0
+Tæ MÉu Lôc  	4	61	\spr\item\questkey\taskobj055.spr	41	1	1	1 lo¹i b¶o th¹ch mµu lôc.	0
+V©n Méng Tö 	4	62	\spr\item\questkey\taskobj056.spr	41	1	1	1 lo¹i b¶o th¹ch mµu tİm.	0
+Ng©n tr©m	4	63	\spr\item\questkey\taskobj057.spr	41	1	2	Mét chiÕc Ng©n tr©m cña n÷ giíi.	0
+H­¬ng nang	4	64	\spr\item\questkey\taskobj058.spr	41	1	2	VËt phÈm nhiÖm vô.	0
+Thïng gç 	4	65	\spr\item\questkey\taskobj059.spr	41	1	1	VËt phÈm nhiÖm vô.	0
+Thiªn Tµm §¹o bµo bŞ r¸ch	4	66	\spr\item\questkey\taskobj060.spr	41	1	2	ChiÕc ®¹o bµo bŞ sãi c¾n r¸ch.	0
+Thiªn Tµm 	4	67	\spr\item\questkey\taskobj061.spr	41	1	1	Loµi t»m mµu tr¾ng, t¬ ch¾c v« song.	0
+Thiªn Tµm §¹o bµo ®· v¸ hoµn chØnh	4	68	\spr\item\questkey\taskobj062.spr	41	1	2	ChiÕc ®¹o bµo ®· v¸ hoµn chØnh 	0
+Ngäc Thanh Ch©n Kinh 	4	69	\spr\item\questkey\taskobj063.spr	41	1	1	§¹o gi¸o Tam Thanh B¶o §iÓn..	0
+Th­îng Thanh Ch©n Kinh 	4	70	\spr\item\questkey\taskobj064.spr	41	1	1	§¹o gi¸o Tam Thanh B¶o §iÓn..	0
+Th¸i Thanh Ch©n Kinh 	4	71	\spr\item\questkey\taskobj065.spr	41	1	1	§¹o gi¸o Tam Thanh B¶o §iÓn..	0
+R©u c»m 	4	72	\spr\item\questkey\taskobj066.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+C¸i Qu¹t  	4	73	\spr\item\questkey\taskobj067.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Thñ ph¸ch 	4	74	\spr\item\questkey\taskobj068.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ban chØ 	4	75	\spr\item\questkey\taskobj069.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+HuÖ TuyÒn Töu	4	76	\spr\item\questkey\taskobj070.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Kim L¨ng Xu©n	4	77	\spr\item\questkey\taskobj071.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+B¸ch Hoa Nh­ìng	4	78	\spr\item\questkey\taskobj072.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Kinh Hoa Lé 	4	79	\spr\item\questkey\taskobj073.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Song C©u §¹i Khóc	4	80	\spr\item\questkey\taskobj074.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+V¨n th­ 	4	81	\spr\item\questkey\taskobj075.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+s¬n  Hµ X· T¾c §å 	4	82	\spr\item\questkey\taskobj076.spr	41	2	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i 	4	83	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+1 chiÕc l«ng Khæng t­íc 	4	84	\spr\item\questkey\taskobj078.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+§Çu ng­êi  	4	85	\spr\item\questkey\taskobj079.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+NhÖn	4	86	\spr\item\questkey\taskobj080.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Méc H­¬ng §Ønh 	4	87	\spr\item\questkey\taskobj081.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ngäc San h« 	4	88	\spr\item\questkey\taskobj082.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+TrÊn gi¸o chi b¶o	4	89	\spr\item\questkey\taskobj083.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Bång Lai Xu©n	4	90	\spr\item\questkey\taskobj084.spr	41	1	1	Lµ “Tiªn Töu” ë §éng §×nh Hå, mïi vŞ th¬m nång, nuèt råi vÉn cßn tiÕc, rÊt thİch hîp víi c¸c vŞ ®¹i h¸n.	0
+Kª HuyÕt Th¹ch 	4	91	\spr\item\questkey\taskobj085.spr	41	1	1	Lo¹i b¶o th¹ch quı hiÕm, cã thÓ xua ®uæi tµ ma	0
+Mét l¸ cê GÊm	4	92	\spr\item\questkey\taskobj086.spr	41	1	2	Mét l¸ cê GÊm mµu hång, phİa trªn cã thªu 4 ch÷ Vµng “Yªu d©n nh­ con”.	0
+Háa Tİch DŞch L©n PhiÕn	4	93	\spr\item\questkey\taskobj087.spr	41	1	1	Mét tÊm da cã thÓ dïng ®Ó may ¸o gi¸p.	0
+Lôc Thñ Quy	4	94	\spr\item\questkey\taskobj088.spr	41	1	1	Mét lo¹i ®éng vËt quı hiÕm, vá nã cøng cã thÓ thÓ sö dông nhiÒu ph­¬ng diÖn.	0
+Ngò s¾c th¹ch	4	95	\spr\item\questkey\taskobj089.spr	41	1	1	T­îng tr­ng cho h¹nh phóc, an b×nh. Ph¸t ra hµo quang ngò s¾c lung linh	0
+Thiªn V­¬ng di th­ 	4	96	\spr\item\questkey\taskobj090.spr	41	1	1	MËt th­ cña Thiªn V­¬ng Bang, ghi l¹i c¸c ph­¬ng thøc bè trËn	0
+Th­ tİn, MËt tİn, mËt hµm 	4	97	\spr\item\questkey\taskobj091.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ch×a khãa 1 	4	98	\spr\item\questkey\taskobj092.spr	41	1	1	Dïng më b¶o r­¬ng lÊy “Háa Khİ Phæ “.	0
+Ch×a khãa 2 	4	99	\spr\item\questkey\taskobj092-1.spr	41	1	1	Ch×a khãa ®Ó lªn tÇng 2 Tróc T¬ ®éng.	0
+Ch×a khãa 3 	4	100	\spr\item\questkey\taskobj092-2.spr	41	1	1	Ch×a khãa ®Ó lªn tÇng 3 Tróc T¬ ®éng 	0
+Ch×a khãa Thiªn V­¬ng bang	4	101	\spr\item\questkey\taskobj092-3.spr	41	1	1	Dïng ®Ó më b¶o r­¬ng.	0
+Ch×a khãa Th¸nh ®éng 	4	102	\spr\item\questkey\taskobj092-4.spr	41	1	1	Dïng ®Ó më b¶o r­¬ng trong Th¸nh ®éng. 	0
+Ch×a khãa 	4	103	\spr\item\questkey\taskobj092-5.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ch×a khãa 	4	104	\spr\item\questkey\taskobj092-6.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ch×a khãa 	4	105	\spr\item\questkey\taskobj092.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+T×nh hoa	4	106	\spr\item\questkey\taskobj093.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+§­¬ng Quy 	4	107	\spr\item\questkey\taskobj094.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+Xuyªn Khung 	4	108	\spr\item\questkey\taskobj095.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+Ma Hoµng 	4	109	\spr\item\questkey\taskobj096.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+Hoµi TÊt 	4	110	\spr\item\questkey\taskobj097.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+D¹ Minh Ch©u	4	111	\spr\item\questkey\taskobj098.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tö Môc Tóc 	4	112	\spr\item\questkey\taskobj099.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+§Şa CÈm Th¶o 	4	113	\spr\item\questkey\taskobj100.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+ThiÕn Th¶o 	4	114	\spr\item\questkey\taskobj101.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Hæ NhÜ Th¶o 	4	115	\spr\item\questkey\taskobj102.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Linh Chi	4	116	\spr\item\questkey\taskobj103.spr	41	1	1	Tiªn d­îc, t¨ng c­êng khİ lùc.Dïng nhiÒu sÏ tr­êng thä, cã c«ng hiÖu c¶i tö hoµn sinh 	0
+s¬n  Lı Hång 	4	117	\spr\item\questkey\taskobj104.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+L­îng Ng©n Kho¸ng	4	118	\spr\item\questkey\taskobj105.spr	41	1	1	Lo¹i kho¸ng th¹ch cã thÓ dïng ®Ó v¸ g­¬ng §ång	0
+§ïi gµ 	4	119	\spr\item\questkey\taskobj106.spr	41	1	1	VËt phÈm ®Ó dô Háa hå.	0
+Háa Hå 	4	120	\spr\item\questkey\taskobj107.spr	41	1	1	Lo¹i c¸o th©n nhá vµ dµi, nhanh nhÑn ®¸ng yªu.	0
+Xİch §ång Kho¸ng	4	121	\spr\item\questkey\taskobj108.spr	41	1	1	1 lo¹i kho¸ng th¹ch .	0
+Qu¶ng Ho¾c H­¬ng 	4	122	\spr\item\questkey\taskobj109.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Gµ n­íng 	4	123	\spr\item\questkey\taskobj110.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+§¸ 	4	124	\spr\item\questkey\taskobj111.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+TiÓu Hoµng cÈu 	4	125	\spr\item\questkey\taskobj112.spr	41	1	1	Lo¹i chã hoang nhá, l«ng mµu vµng	0
+TiÓu Kh«i l­ 	4	126	\spr\item\questkey\taskobj113.spr	41	1	1	Lo¹i La lóc nhá l«ng cã mµu x¸m tro	0
+§o¹n KiÕm 'YÓm NhËt'	4	127	\spr\item\questkey\taskobj114.spr	41	1	2	1 thanh kiÕm cæ 	0
+§o¹n KiÕm “§o¹n Thñy” 	4	128	\spr\item\questkey\taskobj115.spr	41	1	2	1 thanh kiÕm cæ 	0
+§o¹n KiÕm “ChuyÓn Ph¸ch” 	4	129	\spr\item\questkey\taskobj116.spr	41	1	2	1 thanh kiÕm cæ  .	0
+§o¹n KiÕm “Khø Tµ “ 	4	130	\spr\item\questkey\taskobj117.spr	41	1	2	1 thanh kiÕm cæ.	0
+§o¹n KiÕm “DiÖt Hån” 	4	131	\spr\item\questkey\taskobj118.spr	41	1	2	1 thanh kiÕm cæ.	0
+S¸ch da dª 	4	132	\spr\item\questkey\taskobj119.spr	41	1	1	Mét quyÓn mËt th­ giÊu trong th¸nh ®éng Thiªn NhÉn gi¸o.	0
+Häa mi th¶o	4	133	\spr\item\questkey\taskobj120.spr	41	1	2	Lo¹i th¶o méc chØ sèng ë c¸c vïng s¬n  c­íc hoang d·.	0
+Hîp hoan 	4	134	\spr\item\questkey\taskobj121.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+HuyÒn S©m	4	135	\spr\item\questkey\taskobj122.spr	41	1	1	Lo¹i d­îc liÖu, cã thÓ th¨ng ©m gi¸ng háa, gi¶i ®éc nhuËn tr­êng.	0
+Phßng Kû 	4	136	\spr\item\questkey\taskobj123.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+Chu Sa 	4	137	\spr\item\questkey\taskobj124.spr	41	1	1	Mét lo¹i d­îc liÖu trong §«ng Y .	0
+Tõ ThiÕt Kho¸ng	4	138	\spr\item\questkey\taskobj125.spr	41	1	1	1 lo¹i kho¸ng th¹ch .	0
+LÖnh bµi th«ng hµnh	4	139	\spr\item\questkey\taskobj126.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+MËt gÊu 	4	140	\spr\item\questkey\taskobj127.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+1 bao Tİn th¹ch 	4	141	\spr\item\questkey\taskobj128.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+X¹ H­¬ng	4	142	\spr\item\questkey\taskobj129.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Nh·n Kİnh V­¬ng M·ng Xµ 	4	143	\spr\item\questkey\taskobj130.spr	41	2	1	VËt phÈm nhiÖm vô  	0
+Hµ Thñ ¤ 	4	144	\spr\item\questkey\taskobj131.spr	41	1	1	Lo¹i d­îc liÖu, cã thÓ tr¸ng d­¬ng c­êng cèt, ®en tãc tr¾ng da..	0
+Thiªn V­¬ng lÖnh 	4	145	\spr\item\questkey\taskobj132.spr	41	1	1	Trªn kh¾c 2 ch÷ “Thiªn V­¬ng”, lµ tİn vËt vña bang ph¸i.	0
+Thá 	4	146	\spr\item\questkey\taskobj133.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+B¹ch Hoa Xµ ThiÖt th¶o	4	147	\spr\item\questkey\taskobj134.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+H¹t sen	4	148	\spr\item\questkey\taskobj135.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+3 qu¶ trøng gµ 	4	149	\spr\item\questkey\taskobj136.spr	41	1	1	Lo¹i trøng gµ th«ng th­êng.	0
+5 con trïng ®á 	4	150	\spr\item\questkey\taskobj137.spr	41	1	1	Lo¹i Trïng ®á th­êng thÊy.	0
+§¸ to	4	151	\spr\item\questkey\taskobj138.spr	41	2	2	VËt phÈm nhiÖm vô  	0
+C«ng v¨n T­¬ng D­¬ng - Phông T­êng 	4	152	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n  tõ T­¬ng D­¬ng ®­a ®Õn Phông T­êng  	0
+C«ng v¨n Phông T­êng - §¹i Lı  	4	153	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ Phông T­êng ®­a ®Õn §¹i Lı  	0
+C«ng v¨n Phông T­êng - L©m An  	4	154	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ Phông T­êng ®­a ®Õn L©m An  	0
+C«ng v¨n Thµnh §« - BiÖn Kinh 	4	155	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ Thµnh §« ®­a ®Õn BiÖn Kinh  	0
+C«ng v¨n §¹i Lı - T­¬ng D­¬ng  	4	156	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ §¹i Lı ®­a ®Õn T­¬ng D­¬ng  	0
+C«ng v¨n §¹i Lı - D­¬ng Ch©u  	4	157	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ §¹i Lı ®­a ®Õn D­¬ng Ch©u  	0
+C«ng v¨n T­¬ng D­¬ng - Thµnh §«  	4	158	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ T­¬ng D­¬ng ®­a ®Õn Thµnh §« 	0
+Thiªn NhÉn MËt th­ 	4	159	\spr\item\questkey\taskobj091.spr	41	1	1	1 bøc mËt th­.	0
+Ch×a khãa ThiÕt Th¸p 1 	4	160	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa më  c¬ quan thø nhÊt	0
+Ch×a khãa ThiÕt Th¸p 2 	4	161	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa më  c¬ quan thø 2.	0
+Ch×a khãa ThiÕt Th¸p 3 	4	162	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa më  c¬ quan thø 3.	0
+Th­ tİn cña ch­ëng m«n Vâ §ang	4	163	\spr\item\questkey\taskobj091.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+Th­ håi ©m cña NhuËn N­¬ng 	4	164	\spr\item\questkey\taskobj091.spr	41	1	1	VËt phÈm nhiÖm vô 	0
+NhÉn M· n·o	4	165	\spr\item\equip\ring\obj-ring09.spr	41	1	1	Mét chiÕc nhÉn M· N·o	0
+Linh X¹ H­¬ng Nang	4	166	\spr\item\equip\waist\obj-waist08.spr	41	1	2	Mét tói Linh X¹ h­¬ng	0
+¦ng T×nh Hé Th©n phï 	4	167	\spr\item\equip\nick\obj-neck14.spr	41	2	1	1 c¸i ¦ng T×nh Hé Th©n phï.	0
+Bİch Tû Giíi ChØ 	4	168	\spr\item\equip\ring\obj-ring04.spr	41	1	1	Mét chiÕc Bİch Tû Giíi ChØ, 	0
+C«ng v¨n D­¬ng Ch©u - Phông T­êng  	4	169	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ D­¬ng Ch©u ®­a ®Õn Phông T­êng 	0
+C«ng v¨n BiÖn Kinh - §¹i Lı  	4	170	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ BiÖn Kinh ®­a ®Õn §¹i Lı  	0
+C«ng v¨n Thµnh §« - L©m An  	4	171	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ Thµnh §« ®­a ®Õn L©m An  	0
+C«ng v¨n L©m An - BiÖn Kinh  	4	172	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ L©m An ®­a ®Õn BiÖn Kinh  	0
+C«ng v¨n L©m An - T­¬ng D­¬ng 	4	173	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ L©m An ®­a ®Õn T­¬ng D­¬ng  	0
+C«ng v¨n BiÖn Kinh - D­¬ng Ch©u  	4	174	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ BiÖn Kinh ®­a ®Õn D­¬ng Ch©u  	0
+C«ng v¨n D­¬ng Ch©u - Thµnh §«  	4	175	\spr\item\questkey\taskobj075.spr	41	1	1	C«ng v¨n tõ D­¬ng Ch©u ®­a ®Õn Thµnh §« 	0
+Giµn n¸ 	4	176	\spr\item\questkey\taskobj139.spr	41	1	1	Mét c¸i giµn n¸ võa lµm xong	0
+Ch¹c c©y	4	177	\spr\item\questkey\taskobj142.spr	41	1	1	Nh¸nh c©y cã h×nh ch÷ Y.	0
+Da tr©u	4	178	\spr\item\questkey\taskobj143.spr	41	1	1	Lo¹i da Tr©u thuéc theo c¸ch th«ng th­êng 	0
+Xuyªn Bèi hoµn	4	179	\spr\item\questkey\taskobj144.spr	41	1	1	Lo¹i thuèc th­êng dïng ®Ó trŞ ho	0
+Tú Bµ hoµn	4	180	\spr\item\questkey\taskobj144.spr	41	1	1	Lo¹i thuèc th­êng dïng ®Ó trŞ phong hµn.	0
+Hoa tai 	4	181	\spr\item\questkey\taskobj145.spr	41	1	1	Mét ®«i khuyªn tai nhá b»ng vµng.	0
+Tö Yªn Ngäc Béi 	4	182	\spr\item\questkey\taskobj140.spr	41	1	1	Mét miÕng Thóy Ngäc Ngäc Béi ®· cò, ®iªu kh¶m rÊt ®Ñp	0
+Tranh ch÷ 	4	183	\spr\item\questkey\taskobj141.spr	41	1	1	Mét bøc tranh ch÷ cæ x­a 	0
+KimYªu ®¸i	4	184	\spr\item\equip\sash\obj-sash09.spr	41	2	1	VËt phÈm nhiÖm vô  	0
+Hæ Cèt	4	185	\spr\item\questkey\taskobj146.spr	41	1	1	D­îc liÖu th­êng dïng trong §«ng Y.	0
+X¹ H­¬ng Hæ Cèt Cao	4	186	\spr\item\questkey\taskobj147.spr	41	1	1	Lo¹i §«ng d­îc chuyªn trŞ c¸c chøng viªm khíp	0
+Ngò H­¬ng ®Ëu hñ 	4	187	\spr\item\questkey\taskobj148.spr	41	1	1	Mãn ¨n næi tiÕng ë Chu Tiªn trÊn	0
+Kª ThÇn Lôc 	4	188	\spr\item\questkey\taskobj075.spr	41	1	1	Mét d¹ng tiÓu thuyÕt thÇn qu¸i thêi Tèng	0
+Di Kiªn Chİ 	4	189	\spr\item\questkey\taskobj075.spr	41	1	1	Mét d¹ng tiÓu thuyÕt thÇn qu¸i thêi Tèng 	0
+Qu¹t l¸ sen	4	190	\spr\item\questkey\taskobj067.spr	41	1	1	Lo¹i qu¹t c¸c v¨n sÜ thİch dïng	0
+Vßng tay	4	191	\spr\item\equip\bangle\obj-bangle06.spr	41	1	2	Lo¹i vßng n÷ giíi th­êng ®eo 	0
+Kh¨n Uyªn ¦¬ng	4	192	\spr\item\questkey\taskobj068.spr	41	1	1	Lo¹i kh¨n quÊn cã thªu h×nh ong b­ím, kü thuËt tinh x¶o. 	0
+BUG	4	193	\spr\item\questkey\taskobj005.spr	41	1	1	Chóc mõng! B¹n ®· bŞ bug! 	0
+Hoa t­¬i	4	194	\spr\item\questkey\flower.spr	330	1	1	Cã thÓ ®Ó biÓu ®¹t t×nh c¶m cña m×nh.	1
+Nh¹c V­¬ng kiÕm 	4	195	\spr\item\questkey\ÔÀÍõ½£.spr	41	2	3	Béi kiÕm cña Nh¹c Phi, tİn vËt ®Ó kiÕn lËp bang héi	1
+Ch×a khãa s¾t	4	196	\spr\item\questkey\taskobj092-6.spr	41	1	1	Mét chiÕc ch×a khãa t×m thÊy trong §iÓm Th­¬ng ®éng	0
+Ch×a khãa  §ång	4	197	\spr\item\questkey\taskobj092-6.spr	41	1	1	Mét chiÕc ch×a khãa t×m thÊy trong §iÓm Th­¬ng ®éng	0
+Ch×a khãa B¹c	4	198	\spr\item\questkey\taskobj092-6.spr	41	1	1	Mét chiÕc ch×a khãa t×m thÊy trong §iÓm Th­¬ng ®éng	0
+§Şa ®å Trung nguyªn	4	199	\spr\item\questkey\taskobj076.spr	41	2	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 8	4	200	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 2	4	201	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ch×a khãa C¸i bang Bİnh 	4	202	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa mËt ®éng C¸i bang, trªn kh¾c 1 ch÷  “Bİnh” 	0
+Ch×a khãa C¸i bang Gi¸p 	4	203	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa mËt ®éng C¸i bang, trªn kh¾c 1 ch÷  “Gi¸p” 	0
+Ch×a khãa C¸i bang Êt 	4	204	\spr\item\questkey\taskobj092-6.spr	41	1	1	Ch×a khãa mËt ®éng C¸i bang, trªn kh¾c 1 ch÷  “Êt” 	0
+Tói v¶i thø 9 	4	205	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 6	4	206	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 7 	4	207	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 3 	4	208	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 4 	4	209	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 5 	4	210	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Tói v¶i thø 1 	4	211	\spr\item\questkey\taskobj077.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ch×a khãa KiÕn Tİnh phong s¬n  ®éng 	4	212	\spr\item\questkey\taskobj092.spr	41	1	1	Ch×a khãa t×m thÊy trong KiÕn Tİnh Phong s¬n  ®éng 	0
+Ch×a khãa b¨ng lao 	4	213	\spr\item\questkey\taskobj092.spr	41	1	1	Ch×a khãa ®Ó më b¨ng lao	0
+B¸t nhµ s­ 	4	214	\spr\item\questkey\taskobj032.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+ThiÒn tr­îng 	4	215	\spr\item\questkey\taskobj030.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Méc ng­ 	4	216	\spr\item\questkey\taskobj031.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Trµng h¹t 	4	217	\spr\item\questkey\taskobj029.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Kiªn Tinh Th¹ch	4	218	\spr\item\questkey\taskobj025.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Th­ tİn chøng minh	4	219	\spr\item\questkey\taskobj091.spr	41	1	1	Th­ do nh÷ng ¨n mµy ë BiÖn Kinh giao cho ThiÕu L©m Tù 	0
+10 bao Tİn th¹ch	4	220	\spr\item\questkey\taskobj128.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Méc H­¬ng §Ønh thËt	4	221	\spr\item\questkey\taskobj081.spr	41	1	1	Méc H­¬ng §Ønh thËt, ph¸t ra ¸nh s¸ng huyÒn ¶o	0
+Tİch §éc Ch©u 	4	222	\spr\item\questkey\taskobj083.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Sîi l«ng Khæng t­íc thø 2 	4	223	\spr\item\questkey\taskobj079.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Sîi l«ng Khæng t­íc thø 3 	4	224	\spr\item\questkey\taskobj080.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Sîi l«ng Khæng t­íc thø 4 	4	225	\spr\item\questkey\taskobj081.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Sîi l«ng Khæng t­íc thø 5 	4	226	\spr\item\questkey\taskobj082.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+Sîi l«ng Khæng t­íc thø 1 	4	227	\spr\item\questkey\taskobj078.spr	41	1	2	VËt phÈm nhiÖm vô  	0
+ThŞt heo rõng	4	228	\spr\item\questkey\taskobj150.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Ph¸ ®ao	4	229	\spr\item\questkey\taskobj152.spr	41	1	2	Mét thanh ®ao bŞ g·y mÎ rÊt nham nhë 	0
+B¶o ®ao	4	230	\spr\item\questkey\taskobj151.spr	41	1	2	Mét thanh ®ao ph¸t ra ¸nh s¸ng l¹nh, trªn kh¾c mét ch÷ “Bµnh” 	0
+D­¬ng Xu©n Linh Chi	4	231	\spr\item\questkey\taskobj153.spr	41	1	1	Lo¹i d­îc th¶o chØ mäc ë nh÷ng vïng hoang d· 	0
+B¹ch TuyÕt B¸ch Hîp	4	232	\spr\item\questkey\taskobj103.spr	41	1	1	Lo¹i B¸ch hîp hoa ®Æc thï, rÊt hiÕm thÊy	0
+Giá c¬m 	4	233	\spr\item\questkey\taskobj154.spr	41	1	1	Lo¹i giá tre dïng ®ùng thøc ¨n	0
+NhÉn cña A Kinh, 	4	234	\spr\item\equip\ring\obj-ring09.spr	41	1	1	Lo¹i nhÉn ®eo b»ng M· N·o, ®iªu kh¶m rÊt tinh tÕ 	0
+Th­ v« danh 	4	235	\spr\item\questkey\taskobj091.spr	41	1	1	Th­ cña “V« Danh l·o gi¶” göi cho ch­ëng m«n hiÖn thêi	0
+Thİch s¸t mËt hµm	4	236	\spr\item\questkey\taskobj091.spr	41	1	1	MËt hµm thİch s¸t Tr­¬ng TuÊn cña Kim quèc	0
+Thóy Yªn CÊm ®Şa  ph¸ch 	4	237	\spr\item\questkey\taskobj007.spr	41	1	1	VËt phÈm nhiÖm vô  	0
+Lam Thñy Tinh	4	238	\spr\item\questkey\baoshi_zhuanxu.spr	333	1	1	Lo¹i Thñy tinh cã thÓ lµm thay ®æi ngò hµnh cña trang bŞ 	1
+Tö Thñy Tinh	4	239	\spr\item\questkey\baoshi_xingtian.spr	333	1	1	Lo¹i Thñy tinh cã thÓ n©ng cÊp trang bŞ.  	1
+Lôc Thñy Tinh	4	240	\spr\item\questkey\baoshi_nvwa.spr	333	1	1	Lo¹i thñy tinh cã thÓ gióp thay ®æi c¸c thuéc tİnh cña trang bŞ 	1
+Hoa s¬n  Anh hïng lÖnh	4	241	\spr\item\questkey\taskobj126.spr	336	1	1	Tİn vËt ®Ó tham gia Hoa s¬n  Anh Hïng héi 	0

@@ -1,0 +1,6 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+16	Lam ThÒy Tinh	"return {tbProp={4,238,1,1,0,0},}"	1	10	123	3
+16	Ti“n	"return {nJxb=1}"	1	10	125	3
+16	kinh nghi÷m 	"return {nExp=1}"	1	10	126	3
+16	MÈng Long Ch›nh HÂng T®ng M∑o	"return {tbProp={0,1},nQuality=1,}"	1	10	127	3
+16	Bπch Ch©n ß¨n	"return {tbProp={6,1,1678,1,0,0},tbParam={15e8}}"	1	60	128	3

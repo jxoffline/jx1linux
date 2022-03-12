@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+52	C©y nªu [cÊp 6]	"return {tbProp={6,1,2234,6,0,0},nExpiredTime=20100329,pFun = function() Msg2Player([[ThËt ®¸ng tiÕc! Ta nghÜ lÇn sau ng­¬i sÏ thµnh c«ng!]]); end}"	1	85.000000	546	12	
+52	C©y nªu	"return {tbProp={6,1,2234,7,0,0},nExpiredTime=20100329,pFun = function() Msg2Player(format([[Chóc mõng ®¹i hiÖp ®· nhËn ®­îc c©y nªu (cÊp %d)]],7)); AddGlobalNews(format([[Chóc mõng cao thñ %s ®· thu ®­îc %s]],GetName(),[[C©y nªu (cÊp 7)]]));end}"	1	15.000000	548	12	

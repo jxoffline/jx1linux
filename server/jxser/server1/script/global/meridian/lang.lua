@@ -1,0 +1,1 @@
+MSG_CLOSE_MERIDIANS="HiÖn t¹i m¹ch nµy ch­a më."

@@ -1,0 +1,7 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+31	kinh nghi÷m 	"return {nExp=1}"	3000000	24	169	9	
+31	kinh nghi÷m 	"return {nExp=1}"	4000000	65	170	9	
+31	kinh nghi÷m 	"return {nExp=1}"	6000000	5	171	9	
+31	kinh nghi÷m 	"return {nExp=1}"	8000000	3	172	9	
+31	kinh nghi÷m 	"return {nExp=1}"	9000000	2	173	9	
+31	kinh nghi÷m 	"return {nExp=1}"	20000000	1	174	9	

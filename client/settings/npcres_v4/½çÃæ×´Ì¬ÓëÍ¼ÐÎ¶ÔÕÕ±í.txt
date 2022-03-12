@@ -1,0 +1,7 @@
+×´Ì¬	Í¼ĞÎÎÄ¼şÃû
+më tr¹ng th¸i Tæ ®éi	\spr\npcres\style\menustate01.spr
+më tr¹ng th¸i giao dŞch	\spr\npcres\style\menustate02.spr
+tiÕn hµnh tr¹ng th¸i giao dŞch	\spr\npcres\style\menustate03.spr
+tr¹ng th¸i nghØ ng¬i	\spr\npcres\style\menustate04.spr
+tr¹ng th¸i rao b¸n	\spr\npcres\style\menustate02.spr
+tr¹ng th¸i rao b¸n_giao dŞch	\spr\npcres\style\menustate03.spr

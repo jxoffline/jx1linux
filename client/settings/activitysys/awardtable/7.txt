@@ -1,0 +1,10 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+7	Tói HuyÒn Tinh Bæ Thiªn	"return {szName=\"Ðþ¾§²¹Ìì°ü\",tbProp={6,1,1621,1,0,0},}"	1	3	41	
+7	Hoµng Trang Tu Phôc Tinh Th¹ch	"return {szName=\"»Æ½ð×°ÐÞ¸´¾§Ê¯\",tbProp={6,1,1170,1,0,0},}"	1	7	42	
+7	Tö Trang Tu Phôc Tinh Th¹ch	"return {szName=\"×Ï×°ÐÞ¸´¾§Ê¯\",tbProp={6,1,1169,1,0,0},}"	1	10	43	
+7	§¹i B¹ch C©u hoµn (Kü n¨ng) 	"return {szName=\"¼¼ÄÜ´ó°×¾ÔÍè\",tbProp={6,1,977,1,0,0},}"	2	10	44	
+7	§¹i B¹ch C©u hoµn	"return {szName=\"´ó°×¾ÔÍè\",tbProp={6,1,130,1,0,0},}"	2	10	45	
+7	Tiªn Th¶o Lé ®Æc biÖt	"return {szName=\"ÌØÐ§ÏÉ²ÝÂ¶\",tbProp={6,1,1181,1,0,0},nExpiredTime=10080,}"	1	12	46	
+7	Thæ ®Þa phï (sö dông v« h¹n) 	"return {szName=\"»Ø³Ç·û£¨ÎÞÏÞÊ¹ÓÃ£©\",tbProp={6,1,438,1,0,0},nExpiredTime=10080,}"	1	13	47	
+7	Phóc Duyªn Lé (§¹i) 	"return {szName=\"¸£ÔµÂ¶£¨´ó£©\",tbProp={6,1,124,1,0,0},}"	2	15	48	
+7	kinh nghiÖm 	"return {nExp=1}"	1000000	20	49	

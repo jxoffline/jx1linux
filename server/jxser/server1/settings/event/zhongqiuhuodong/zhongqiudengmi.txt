@@ -1,0 +1,127 @@
+STT	§¸p ¸n	C©u hái	A	B	C	D	
+1	A	Vâ L©m TruyÒn Kú ra m¾t hÖ thèng bang héi thêi gian nµo?	21-01-2008	18-01-2008	15-02-2008	19-02-2008	
+2	B	MËt TŞch nµo gióp ta t¨ng ®iÔm tiÒm n¨ng?	Vâ L©m MËt TŞch	TÈy Tñy Kinh	Bµn Nh­îc T©m Kinh	ThiÕt La H¸n	
+3	B	Tö Thñy Tinh cã chøc n¨ng g×?	Ma thuËt trang bŞ	N©ng cÊp trang bŞ	§æi hÖ trang bŞ	Kh«ng cã chøc n¨ng g×	
+4	D	Ngùa Hoa L­ [CÊp 9] ®­îc b¸n ë thµnh nµo?	T­¬ng D­¬ng	Phù¬ng T­êng 	Thµnh §«	D­¬ng Ch©u	
+5	C	Khi rót 10 ®iÓm phóc duyªn ë thÇn bİ th­¬ng nh©n, nh©n vËt sÏ bŞ trõ bao nhiªu ®iÓm phóc duyªn trªn ng­êi?	10	8	12	15	
+6	D	Ngùa nµo sau ®©y cã "Tèc®é di chuyÔn 40%"?	LiÖt B¹ch M·	B¹ch M·	¤ Chïy	Ngäc Hoa Th«ng	
+7	B	Sau khi online mÊy giê míi nhËn ®­îc ®iÓm phóc duyªn?	1g	2g	3g	4g	
+8	C	Mét Ngµy cã thÓ ®¸nh mÊy trËn mÊy trËn tèng kim?	5	6	7	8	
+9	C	M¶nh tµng b¶o ®å cã bao nhiªu m¶nh?	9	16	12	13	
+10	B	Giai §äan b¸o danh d¸nh L«i §µi Tû Vâ tèn bao l©u	3 phót	5 phót	2 phót	7 phót	
+11	B	Mét trËn ®¸nh L«i §µi Tû Vâ tèn bao l©u?	5p	10p	15p	20p	
+12	D	Sinh nhËt vâ l©m vµo ngµy mÊy th¸ng mÊy	15-7	24-12	14-6	6-Nov	
+13	C	Cã bao nhiªu tr­êng ph¸i vÒ kiÕm trong vâ l©m?	1	2	3	4	
+14	C	NhiÖm vô Boss S¸t thñ "Liªn H×nh Th¸i" n»m ë map nµo?	Kháa Lang §éng	Tr­êng B¹ch B¾c 	Tr­êng B¹ch Nam	TiÕn Cóc §éng	
+15	C	Muèn hîp thµnh s¸t thñ gi¶n tèn bao nhiªu s¸t thñ lÖnh?	7	4	5	9	
+16	B	Mét ngµy b¹n cã thÓ tham gia bao nhiªu lÇn "thö luyÖn s¸t thñ"?	5	2	3	4	
+17	D	Tõ §¹i Lı b¹n cã thÓ ®i vµo n¬i tİn sø nµo?	S¬n ThÇn MiÕu	Phong K×	Më B¶o R­¬ng	C¶ 3 n¬i	
+18	D	Cã mÊy thµnh cã thÓ di thuyÒn tíi "§µo Hoa §¶o"?	4	5	6	7	
+19	C	"Tam Hoa T¸n" cã t¸c dông g× 	T¨ng sinh lùc	T¨ng néi lùc	T¨ng thÓ lùc	Gi¶i ®éc	
+20	D	"Thõa Tiªn MËt" cã t¸c dông g×?	T¨ng sinh lùc	T¨ng néi lùc	T¨ng thÓ lùc	T¨ng sinh lùc vµ néi lùc	
+21	A	Cã bao nhiªu läai d­îc hßan PK?	10	8	6	3	
+22	B	Long M«n TrÊn l­u r­¬ng ë thµnh nµo?	§¹i lı	BiÖn Kinh	T­¬ng D­¬ng	Thµnh §«	
+23	D	§i xa phu tõ VÜnh L¹c TrÊn Lªn Ph­îng T­êng tèn nhiªu l­îng?	500	300	200	100	
+24	C	Ng­êi ch¬i trªn ®¼ng cÊp 25 nhËn s­ phô th× ®­îc goi lµ?	§İch truyÒn ®Ö tö	Phæ th«ng ®Ö tö	Trùc hÖ ®Ö tö	Kı danh ®Ö tö	
+25	C	"Quû §Çu §ao" lµ vò khİ cÊp mÊy?	1	2	3	4	
+26	D	"V­¬ng ThiÕt T­îng" lµ thî rÌn thµnh nµo ?	§¹i lı	Lam An	T­¬ng D­¬ng	BiÖn Kinh	
+27	A	C«ng thµnh D­¬ng Ch©u vµo ngµy thø mÊy mçi tuÇn?	Thø 2	Thø 3	Thø 4 	Thø 5	
+28	B	"QuÕ Hoa Töu" cã hiÖu lùc trong bao l©u?	1200 gi©y	1800 gi©y	3600 gi©y	2400 gi©y	
+29	D	TrËn Tèng Kim thø t­ trong ngµy b¾t ®Çu lóc mÊy giê?	2:30	3:30	4:30	5:30	
+30	D	Vâ l©m truyÒn kú cã tæng céng bao nhiªu th«n trÊn?	7	8	9	10	
+31	B	Sinh nhËt vâ l©m truyÒn kú vµo th¸ng mÊy?	5	6	7	8	
+32	D	Cã bao nhiªu boss ®¹i hoµng kim trong vâ l©m truyÒn kú hiÖn t¹i	8	10	14	16	
+33	C	HÖ thèng bang héi míi cã bao nhiªu t¸c ph­êng?	5	6	7	8	
+34	C	ChiÕn tr­êng tèng kim cã bao nhiªu ph­¬ng thøc?	3	4	5	6	
+35	D	Chiªu 120 cña C«n L«n L­ìng Nghi Ch©n Khİ ë ®¼ng cÊp 20 khi ph¸t huy sÏ céng bao nhiªu % tèc ®é duy chuyÓn?	20%	25%	30%	35%	
+36	A	Tèc ®é ®¸nh ngo¹i c«ng cña trÊn ph¸i c«n l«n "S­¬ng Ng¹o C«n L«n" ë ®¼ng cÊp 30 lµ bao nhiªu?	86%	65%	90%	102%	
+37	C	Vâ l©m truyÒn kú cã tæng céng bao nhiªu D· TÈu?	10	16	15	20	
+38	C	Chiªu 120 cña C¸i bang Hçn Nguyªn Khİ C«ng ë ®¼ng cÊp 20 cã x¸c xuÊt g©y ngo¹i th­¬ng lµ bao nhiªu?	4%	5%	6%	7%	
+39	B	TrÊn ph¸i c¸i bang Tóy §iÖp Cuång Vò ë ®¼ng cÊp 30 céng thªm bao nhiªu tÊn c«ng chİ m¹ng?	40	43	46	49	
+40	B	Vâ l©m truyÒn kú cã tæng céng bao nhiªu côm server kh«ng kÓ côm server ®Êu tr­êng?	6	8	10	12	
+41	C	Vâ l©m truyÒn kú hiªn t¹i cã bao nhiªu bé hoµng kim ®· ra ®ñ bé?	7	8	9	10	
+42	C	B¹n cÇn gÆp ai ®Ó KÕt b¸i kim lan?	NguyÖt L·o	Vâ L©m TruyÒn Nh©n	TÜnh §èc ThiÒn S­	Tõ V©n Ph¸p S­	
+43	B	ThiÕu L©m Tù täa l¹c ë ngän nói nµo?	Tung S¬n	ThiÕu ThÊt	Th¸i S¬n	Thiªn S¬n	
+44	D	Bang héi nµo ®o¹t h¹ng 4 ë gi¶i THDNB lÇn 1?	HångH­ng-Kim S¬n	TiÒuNg¹o-Cöu Giang	TrgGiang-Tr­êngGiang	PhóHé-Thiªn S¬n	
+45	C	Bang héi nµo ®o¹t h¹ng 4 ë gi¶i THDNB lÇn 2?	***-Kh¸nh S¬n	MaGi¸o-Ch©uGiang	PhóHé-Thiªn S¬n	TrgGiang-Tr­êngGiang	
+46	A	Bang héi nµo ®o¹t h¹ng 2 ë gi¶i THDNB lÇn 1?	HångH­ng-Kim S¬n	TiÒuNg¹o-Cöu Giang	TrgGiang-Tr­êngGiang	PhóHé-Thiªn S¬n	
+47	A	Bang héi nµo ®o¹t h¹ng 1 ë gi¶i THDNB lÇn 2?	***-Kh¸nh S¬n	MaGi¸o-Ch©uGiang	PhóHé-Thiªn S¬n	TrgGiang-Tr­êngGiang	
+48	A	Trong Vâ L©m TruyÒn Kú bang héi nµo ®­îc lËp ra ®Çu tiªn?	Ph¸ thiªn-Tung S¬n	ViÖt kiÕm-Th¸i S¬n	§«ng §«-Hoa S¬n	Tiªu Diªu-Kim S¬n	
+49	C	Vâ L©m TruyÒn Kú cã tèi ®a bao nhiªu kªnh t¸n gÉu ?	4	6	8	10	
+50	C	Bang héi nµo ®o¹t h¹ng 1 ë gi¶i TH§NB lÇn 1?	HångH­ng-Kim S¬n	TiÒuNg¹o-Cöu Giang	TrgGiang-Tr­êngGiang	PhóHé-Thiªn S¬n	
+51	C	Bang héi nµo ®o¹t h¹ng 2 ë gi¶i TH§NB lÇn 2?	***-Kh¸nh S¬n	MaGi¸o-Ch©uGiang	TamHoµn-Hµnh S¬n	TrgGiang-Tr­êngGiang	
+52	B	Vâ L©m TruyÒn Kú cã bao nhiªu NPC Long Ngò?	7	8	9	10	
+53	C	Vâ L©m TruyÒn Kú hiÖn t¹i cã bao nhiªu ph­¬ng thøc liªn ®Êu?	4	5	6	7	
+54	D	T¨ng mét ®iÓm sinh khİ cña hÖ Kim ®­îc bao nhiªu m¸u?	3	5	7	8	
+55	B	T¨ng mét ®iÓm sinh khİ cña hÖ Méc ®­îc bao nhiªu m¸u?	3	5	7	8	
+56	C	T¨ng mét ®iÓm sinh khİ cña hÖ Háa ®­îc bao nhiªu m¸u?	3	5	7	8	
+57	B	T¨ng mét ®iÓm sinh khİ cña hÖ thñy ®­îc bao nhiªu m¸u?	3	6	7	8	
+58	A	T¨ng mét ®iÓm sinh khİ cña hÖ thæ ®­îc bao nhiªu m¸u?	3	5	7	8	
+59	D	§Ó cã ®­îc 2 cÆp s­ ®å th× 4 ng­êi cÇn İt nhÊt bao nhiªu S­ §å ThiÕp?	4	3	2	1	
+60	C	Møc ®é t¨ng sinh lùc tèi ®a trªn trang bŞ lµ bao nhiªu?	200	300	400	500	
+61	D	Tæng sè boss tiÓu Hoµng Kim, céng víi tæng sè m«n ph¸i toµn n÷ giíi b»ng bao nhiªu?	11	9	7	5	
+62	D	Nh©n vËt ch­a tõng gÆp Ph¹n T¨ng, cÇn bao nhiªu viªn THBT vµ Thñy Tinh ®Ó lªn ®¶o tÈy tñy?	9	6	3	TÊt c¶ ®Òu sai	
+63	A	Cã bao nhiªu ph¸i cã thÓ cÇm ®ao?	10	8	6	4	
+64	B	Phiªn b¶n S¬n Hµ X· T¾c ra m¾t trong thêi gian nµo	26-3-2006	30-3-2006	2/4/2006	6/4/2006	
+65	D	KiÕn Tİnh Phong S¬n ®éng l­u r­¬ng ë ®©u ®Ó trë l¹i ®Şa ®iÓm cò ®­îc?	Thµnh §«	BiÖn Kinh	Ph­êng T­êng	TÊt c¶ ®Òu sai	
+66	A	Tõ T­¬ng D­¬ng ®i xa phu qua BiÖn Kinh, råi ®i xa phu tiÕp qua L©m An mÊt bao nhiªu tiÒn?	700 l­îng	800 l­îng	900 l­îng	1000 l­îng	
+67	C	Mãn nµo ®­îc yªu cÇu trong nhiÖm vô giao kho¸ng?	HuyÒn ThiÕt Kho¸ng	MËt Ng©n Kho¸ng	L­îng Ng©n Kho¸ng	Chu Sa Kho¸ng	
+68	A	§­êng Nghª Gi¸p b¸n shop ®­îc bao nhiªu l­îng ?	6250 l­îng	6500 l­îng 	6750 l­îng	7000 l­îng	
+69	C	B¶n doanh ph¸i nµo ph¶i ®i b»ng thuyÒn?	§­êng M«n	NgaMy	Thiªn V­¬ng Bang	C¸i Bang	
+70	C	Háa §­êng ®­êng chñ cña Thiªn NhÉn Gi¸o lµ ai?	Gia LuËt TŞ Ly	Hoang Nhan TuyÕt Y	Ngét Ng¹o	§oan Méc DuÖ	
+71	D	NPC cña ph¸i nµo cã ®øa con bŞ thÊt l¹c trªn Vâ §ang ?	Vâ §ang	C«n Lu©n	Thóy Yªn	Ngò §éc	
+72	B	Ai lµ ng­êi mµ thËp ®¹i m«n ph¸i ®Òu kİnh phôc?	Tõ Nh©n Ph­¬ng Tr­îng	§éc C« KiÕm	Thanh HiÓu S­ Th¸i	Yªn HiÓu Tr¸i	
+73	B	Ai lµ ng­êi ng«ng cuång nhÊt?	§­êng Cõu	TuyÒn C¬ Tö	D­¬ng Anh	Hoµng Nhan Hång LiÖt	
+74	B	Hai nh©n vËt ch­a tõng kÕt h«n, khi kÕt h«n sÏ nhËn ®­îc?	D©y chuyÒn	NhÉn	Ngäc béi	¸o	
+75	D	Pk 9 muèn ra tï ph¶i mÊt bao nhiªu l­îng?	18	54	81	TÊt c¶ ®Òu sai	
+76	C	Tõ CÊp 100 trë lªn, ¨n B¹ch C©u Hoµn ®Æc biÖt, ñy th¸c liªn tôc trong 40 phót nhËn ®­îc bao nhiªu ®iÓm kinh nghiÖm?	912000	932000	952000	972000	
+77	A	Nh÷ng n¬i nµo sau ®©y b¸n c¸c lo¹i vËt phÈm mµ tÊt c¶ ®Òu sö dông ®­îc trªn Vi S¬n §¶o?	HiÖu thuèc	Thî RÌn	TiÖm t¹p hãa	Kh«ng ë n¬i nµo c¶	
+78	C	Boss nµo sau ®©y cã thÓ xuÊt hiÖn trªn M¹c B¾c Th¶o Nguyªn?	Hµ Nh©n Ng·	Do·n Hµm Yªn	V­¬ng T¸	Lam Y Y	
+79	C	Tõ 15:00 ®Õn hÕt ngµy cã bao nhiªu trËn Tèng Kim?	7	6	5	4	
+80	D	Hoµn thµnh nhiÖm vô phô tuyÕn trong kho¶ng cÊp bao nhiªu sÏ ®­îc th­ëng Kim Phong Tr¹c Liªn Quang?	50-60	40-50	30-40	20-30	
+81	C	§Ó th¨ng cÊp lªn ®¼ng cÊp kiÕn thiÕt 1, cÇn ng©n s¸ch kiÕn thiÕt İt nhÊt bao nhiªu?	6040 v¹n	6350 v¹n	6720 v¹n	7260 v¹n	
+82	C	Trong map Bang héi cã tÊt c¶ bao nhiªu t¸c ph­êng?	5	6	7	8	
+83	C	Cã bao nhiªu t¸c ph­êng khi sö dông sÏ ®­îc phÇn th­ëng kinh nghiÖm?	1	2	3	4	
+84	A	Trong Vâ L©m truyÒn kú cã bao nhiªu Th«n TrÊn?	10	9	8	7	
+85	D	Trong map Bang héi ®i xa phu tèn bao nhiªu l­îng	500 l­îng	600 l­îng	700 l­îng	800 l­îng	
+86	B	§Ó ®i Vi S¬n §¶o nh©n vËt cÇn nh÷ng vËt phÈm g×?	200 v¹n l­îng	500 tÊm MËt §é ThÇn Bİ	LÖnh Bµi Phong L¨ng §é	Xa Phu	
+87	B	Cã bao nhiªu thµnh b¸n ngùa Tóc S­¬ng?	1	2	3	4	
+88	B	Khi b¹n ®­îc phong lµ HiÖu óy b¹n sÏ ®­îc tÆng nh÷ng g×?	Sinh lùc t¨ng 10%	Sinh lùc t¨ng 20%	Sinh lùc t¨ng 30%	Sinh lùc t¨ng 40%	
+89	C	Khi b¹n ®­îc phong lµ Thèng LÜnh b¹n sÏ ®­îc tÆng nh÷ng g×?	Phßng thñ 5%	Sinh lùc t¨ng 30%	A vµ B	TÊt c¶ ®Òu sai	
+90	C	KÕt thóc mét trËn Tèng Kim bªn th¾ng ®­îc bao nhiªu ®iÓm th­ëng?	600 ®iÓm	1200 ®iÓm	1200 ®iÓm vµ 3 ®iÓm danh väng	TÊt c¶ ®Òu sai	
+91	A	KÕt thóc mét trËn Tèng Kim bªn thua ®­îc bao nhiªu ®iÓm th­ëng?	600 ®iÓm	1000 ®iÓm	1200 ®iÓm vµ 3 ®iÓm danh väng	600 ®iÓm vµ 3 ®iÓm danh väng	
+92	A	Ph¸i nµo cã tèc ®é ®¸nh chËm nhÊt?	Thiªn V­¬ng 	Thóy Yªn	§­êng M«n	Vâ §ang	
+93	A	Trong mét ngµy nh©n vËt cã lµm tèi ®a bao nhiªu nhiÖm vô D· TÈu?	40	50	60	70	
+94	A	Chñ TiÒn Trang ë c¸c thµnh thŞ b¸n vËt phÈm g× (trõ L©m An)	Bao l× x×	Phi Phong	¸o Mõng Tuæi	¸o Míi	
+95	C	Chñ D­îc §iÕm t¹i c¸c thµnh thŞ b¸n bao nhiªu lo¹i thuèc?	15	16	17	18	
+96	B	Cã bao nhiªu lo¹i Thæ §Şa Phñ?	2	3	4	5	
+97	B	Cã bao nhiªu lo¹i B¹ch CÇu Hoµn?	5	6	7	8	
+98	B	Cã bao nhiªu thµnh dïng ®Ó ngåi tï giµm PK?	1	2	3	4	
+99	D	§Ó ®i §¶o TÈy Tñy nh©n vËt cÇn nh÷ng vËt phÇm g×?	3 viªn Thñy Tinh	6 Tinh Hång B¶o Th¹ch	3 viªn Thñy Tinh vµ 6 Tinh Hång B¶o Th¹ch	TÊt c¶ ®Òu ®óng	
+100	B	Cã Bao nhiªu NPC ë §¶o TÈy Tñy?	3	4	5	6	
+101	C	Cã bao nhiªu NPC ThÇn Bİ Th­¬ng Nh©n t¹i ThÊt ®¹i thµnh thŞ?	1	2	3	4	
+102	B	Chøc n¨ng NPC C«ng B×nh Tö dïng ®Ó ®èi tho¹i?	V­ît ¶i 	L«i §µi	NhiÖm vô Tİn sø	Liªn ®Êu	
+103	B	Cã thÓ ®æi ®iÓm tİch lòy liªn ®Êu lÊy vËt phÈm t¹i NPC nµo ???	Vâ L©m TruyÒn Nh©n	Sø gi¶ liªn ®Êu (Nam)	Sø gi¶ liªn ®Êu (N÷)	NhiÕp Thİ TrÇn	
+104	B	Cã bao nhiªu m«n ph¸ikh«ng cã t¨ng tèc ®é xuÊt chiªu trong chiªu thøc trÊn ph¸i ?	3	4	5	6	
+105	D	Tèng Kim cã bao nhiªu ph­¬ng thøc thi ®Êu	2	3	4	5	
+106	A	Ng­êi b¸n chiÕn m· ë Nam Nh¹c trÊn tªn lµ g×?	ThÈm C©u	Xa Phu	Th­¬ng Nh©n ThÇn Bİ	Sø Gi¶ Vâ L©m	
+107	A	Sè nhiÖm vô D· TÈu tèi ®a cã thÓ thùc hiÖn trong 1 ngµy?	40	50	60	70	
+108	D	HuyÒn Gi¸c §¹i s­ khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm g×?	Phôc ma Tö Kim c«n	Thñy tinh	Tinh hång b¶o th¹ch	TÊt c¶ ®Òu ®óng	
+109	C	Hµ Linh Phiªu khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm g×?	V« Gian û thiªn kiÕm	V« TrÇn Thanh T©m h­íng thiÖn ch©u	V« Ma tÈy t­îng ngäc khÊu	V« gian tÈy t­îng ngäc khÊu	
+110	A	§o¹n Méc DuÖ khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm g×?	Ma S¸t QuØ cèc u minh th­¬ng	CËp phong ch©n vò kiÕm	S­¬ng Tinh thiªn niªn hµn thiÕt	Tø kh«ng gi¸ng ma giíi ®ao	
+111	D	Thanh tuyÖt s­ th¸i khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm g×?	V« Gian û thiªn kiÕm	V« TrÇn Thanh T©m h­íng thiÖn ch©u	Nga My mËt tŞch	TÊt c¶ ®Òu ®óng	
+112	A	DiÖu Nh­ lµ m«n ®Ö cña?	Nga My	Thóy Yªn	Vâ §ang	§­êng M«n	
+113	C	§¹o Thanh Ch©n Nh©n khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	V« Gian û thiªn kiÕm	CËp phong ch©n vò kiÕm	CËp phong tam thanh phï	TÊt c¶ ®Òu ®óng	
+114	D	Tr­¬ng t«ng chİnh lµ m«n ®Ö cña	Thiªn v­¬ng bang 	Nga My	thiÕu l©m	Vâ §ang	
+115	B	Gia LuËt TŞ Ly khi bŞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	Ma S¸t QuØ cèc u minh th­¬ng	Ma hoµng ¸n suÊt hæ h¹ng khuyªn	CËp phong tam thanh phï	V« gian tÈy t­îng ngäc khÊu	
+116	C	Ch­¬ng m«n Nga My lµ?	Hµ Linh Phiªu	Chung Linh Tó	Thanh tuyÖt s­ th¸i	DiÖu nh­	
+117	B	Ch­ëng m«n Vâ §ang lµ?	§¹o Thanh Ch©n Nh©n	§¹o NhÊt Ch©n Nh©n	Thanh H­ Ch©n Nh©n	Thanh V©n ®¹o tr­ëng	
+118	C	Ch­ëng m«n §­êng m«n lµ?	§­êng BÊt NhiÔm	§­êng Háa	§­êng Cõu	§­êng V©n	
+119	A	Ch­ëng m«n Thiªn v­¬ng bang lµ?	D­¬ng Anh	V­¬ng T¸	Gia LuËt TŞ Ly	Hµ Linh Phiªu	
+120	C	Ch­ëng m«n C«n Lu©n lµ?	Thiªn C¬ Tö	§¹o Thanh Ch©n Nh©n	TuyÒn C¬ Tö	Thanh Linh Tö	
+121	B	Ch­ëng m«n Ngò ®éc lµ?	§éc Thİch	H¾c DiÖn Lang Qu©n	§«c DiÖn Lang Qu©n	Tang Chu	
+122	C	Ch­ëng m«n Ph¸i thiÕu l©m?	Tõ V©n Ph¸p S­	HuyÒn Gi¸c §¹i S­	HuyÒn Tõ §¹i s­	Tõ V©n §¹i S­	
+123	D	Ch­ëng m«n Thóy Yªn lµ?	Hµ Linh Phiªu	Hoµng Nhan TuyÕt y	Yªn hiÓu tr¸i	Do·n Hµm YÕn	
+124	D	Ch­ëng m«n  C¸i bang lµ?	M¹nh Th­¬ng L­¬ng	Cöu ChØ ThÇn C¸i	Hång Th«ng	Hµ Nh©n Ng·	
+125	A	Ch­ëng m«n  Thiªn nhÉn lµ?	Hoµng Nhan Hång LiÖt	Hoµng Nhan TuyÕt y	Hoµng Nhan Khang	Hoµng Nhan A Cèt §¶	
+126	B	Gi¸n ®iÖp Kim quèc ë T­¬ng D­¬ng lµ?	B¹ch C«ng Tö	L­u UÈn cæ	Ng« L·o Th¸i	Kim Quéc Vâ SÜ	

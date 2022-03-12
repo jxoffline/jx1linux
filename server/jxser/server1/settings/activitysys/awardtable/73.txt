@@ -1,0 +1,16 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News	
+73	CÈm nang thay ®æi trêi ®Êt	{tbProp={6,1,1781,1,0,0}, tbParam = {60},}	1	5	660	17		
+73	Tö M·ng LÖnh	{tbProp={6,1,2350,1,0,0},}	1	0.005	661	17		
+73	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	0.01	662	17		
+73	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	0.05	663	17		
+73	V©n Léc LÖnh	{tbProp={6,1,2353,1,0,0},}	1	1	664	17		
+73	B¸ch Niªn Tr©n Lé	{tbProp={6,1,2266,1,0,0},nExpiredTime=10080,}	1	10	665	17		
+73	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},nExpiredTime=43200,}	1	5	666	17		
+73	HuyÒn tinh kho¸ng th¹ch cÊp 7	{tbProp={6,1,147,7,0,0},}	1	10	667	17		
+73	HuyÒn tinh kho¸ng th¹ch cÊp 8	{tbProp={6,1,147,8,0,0},}	1	10	668	17		
+73	Thiªn Niªn Tr©n Lé	{tbProp={6,1,2267,1,0,0},nExpiredTime=10080,}	1	2	669	17		
+73	V¹n Niªn Tr©n Lé	{tbProp={6,1,2268,1,0,0},nExpiredTime=10080,}	1	5	670	17		
+73	Qu¶ Huy Hoµng (cao) 	{tbProp={6,1,906,1,0,0},nExpiredTime=10080,}	1	10	671	17		
+73	Tiªn Th¶o Lé	{tbProp={6,1,71,1,0,0},}	1	31.935	671	17		
+73	Tiªn Th¶o Lé ®Æc biÖt	{tbProp={6,1,1181,1,0,0},}	1	5	671	17		
+73	Qu¶ Hoµng Kim	{tbProp={6,1,907,1,0,0},nExpiredTime=10080,}	1	5	671	17		

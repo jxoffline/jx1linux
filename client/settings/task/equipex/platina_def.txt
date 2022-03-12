@@ -1,0 +1,40 @@
+EQUIPNAME	PLATINAID	GOLDID	TASKRATE	RECOIN
+[Thiªn Tø] Méng Long ChÝnh Hång T¨ng M·o	1	1	4	2
+[Thiªn Tø] Phôc Ma Tö Kim C«n	6	6	3	2
+[Thiªn Tø] Tø Kh«ng Gi¸ng Ma Giíi §ao	11	11	6	5
+[Thiªn Tø] H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	16	16	8	6
+[Thiªn Tø] KÕ NghiÖp B«n L«i Toµn Long Th­¬ng	21	21	8	5
+[Thiªn Tø] Ngù Long L­îng Ng©n B¶o §ao	26	26	6	3
+[Thiªn Tø] V« Gian û Thiªn KiÕm	31	31	5	4
+[Thiªn Tø] V« Ma TÈy T­îng Ngäc KhÊu	39	39	5	4
+[Thiªn Tø] Tª Hoµng Phông Nghi §ao	46	46	5	5
+[Thiªn Tø] BÝch H¶i Uyªn ¦¬ng Liªn Hoµn §ao	51	51	3	2
+[Thiªn Tø] U Lung MÆc Thï NhuyÔn Lý	60	60	5	2
+[Thiªn Tø] Minh ¶o Tµ S¸t §éc NhËn	61	61	4	3
+[Thiªn Tø] B¨ng Hµn §¬n ChØ Phi §ao	71	71	4	3
+[Thiªn Tø] Thiªn Quang Hoa Vò M¹n Thiªn	76	76	5	4
+[Thiªn Tø] S©m Hoang Phi Tinh §o¹t Hån	81	81	4	3
+[Thiªn Tø] Ngù Long Gi¸ng Long C¸i Y	92	92	5	2
+[Thiªn Tø] §Þch Kh¸i Lôc Ngäc Tr­îng	96	96	4	5
+[Thiªn Tø] Ma S¸t Quû Cèc U Minh Th­¬ng	101	101	4	3
+[Thiªn Tø] Ma ThÞ S¬n H¶i Phi Hång Lý	115	115	4	2
+[Thiªn Tø] CËp Phong Ch©n Vò KiÕm	121	121	7	5
+[Thiªn Tø] S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	126	126	5	4
+[Thiªn Tø] L«i Khung Hµn Tïng B¨ng B¹ch Quan	131	131	3	2
+[Thiªn Tø] Méng Long HuyÒn Ti Ph¸t §¸i	3	3	2	2
+[Thiªn Tø] Phôc Ma ¤ Kim NhuyÔn §iÒu	8	8	2	2
+[Thiªn Tø] Tø Kh«ng Hé Ph¸p Yªu §¸i	13	13	3	3
+[Thiªn Tø] KÕ NghiÖp B¹ch Hæ V« Song KhÊu	23	23	4	4
+[Thiªn Tø] Ngù Long Thiªn M«n Thóc Yªu Hoµn	28	28	3	3
+[Thiªn Tø] V« Gian PhËt V©n Ti §¸i	33	33	2.5	3
+[Thiªn Tø] Tª Hoµng Phong TuyÕt B¹ch V©n Thóc §¸i	48	48	2.5	3
+[Thiªn Tø] BÝch H¶i Hång Linh Kim Ti §¸i	53	53	2	2
+[Thiªn Tø] Minh ¶o Hñ Cèt Hé UyÓn	64	64	2.5	3
+[Thiªn Tø] B¨ng Hµn T©m TiÔn Yªu KhÊu	73	73	2	2
+[Thiªn Tø] S©m Hoang Hån Gi¶o Yªu Thóc	83	83	2	2
+[Thiªn Tø] §ång Cõu TiÒm Long Yªu §¸i	93	93	3	2
+[Thiªn Tø] §Þch Kh¸i TriÒn M·ng Yªu §¸i	98	98	3	3
+[Thiªn Tø] Ma ThÞ HuyÕt Ngäc ThÊt S¸t Béi	114	114	2	2
+[Thiªn Tø] L¨ng Nh¹c Né L«i Ph¸p Giíi	118	118	3	2
+[Thiªn Tø] CËp Phong HuyÒn Ti Tam §o¹n CÈm	123	123	3.5	3
+[Thiªn Tø] S­¬ng Tinh Thanh Phong Lò §¸i	128	128	2.5	2

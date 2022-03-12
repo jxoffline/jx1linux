@@ -1,0 +1,1062 @@
+key	value
+G_THIEFSKILL_0	LÊy c¾p ng©n l­îng trong ng­êi cña %s vµ ñng hé %d l­îng cho tiÒn ph­¬ng
+G_THIEFSKILL_1	LÊy c¾p thµnh c«ng ng©n l­îng cña %s, ñng hé %d l­îng cho tiÒn ph­¬ng! 
+G_THIEFSKILL_2	LÊy c¾p thµnh c«ng
+G_THIEFSKILL_3	LÊy c¾p thµnh c«ng
+G_THIEFSKILL_4	%s cè lÊy c¾p tiÒn cña b¹n, nh­ng kh«ng thµnh c«ng! 
+G_THIEFSKILL_5	B¹n kh«ng lÊy ®­îc ng©n l­îng cña %s! 
+G_THIEFSKILL_6	Ch­a lÊy c¾p ®­îc
+G_THIEFSKILL_7	Ch­a lÊy c¾p ®­îc
+G_THIEFSKILL_8	ChØ sè sinh m¹ng hiÖn t¹i cña %s lµ: %d / %d 
+G_THIEFSKILL_9	T×nh b¸o ®èi ph­¬ng
+G_THIEFSKILL_10	ChØ sè néi lùc hiÖn t¹i cña %s lµ: %d / %d 
+G_THIEFSKILL_11	Sè tiÒn %s hiÖn cã: %d l­îng 
+
+G_FACTION_0	ThiÕu L©m ph¸i
+
+G_S_GOLD	hÖ Kim
+G_S_WOOD	hÖ Méc
+G_S_WATER	hÖ Thñy
+G_S_FIRE	hÖ Háa
+G_S_EARTH	hÖ Thæ 
+G_S_NONE	V« hÖ 
+
+G_LUCKSTAR	AddGlobalNews ( [ [Chóc mõng! Chóc mõng! Ng­êi ch¬i: %s trë thµnh ng«i sao may m¾n cña ngµy h«m nay! ]]) ;
+
+G_FACTION_NEW	Míi nhËp giang hå 
+G_FACTION_OLD	giang hå hiÖp kh¸ch
+
+G_PLAYERTONG_0	§· hÕt thêi gian ®Ó cho c¸c bang héi ®uæi bít ng­êi thi ®Êu
+G_PLAYERTONG_1	§· hÕt thêi gian ®Ó cho c¸c bang héi ®uæi bít ng­êi thi ®Êu
+G_PLAYERTONG_2	§· hÕt thêi gian ®Ó cho c¸c bang héi ®æi ng­êi
+G_PLAYERTONG_3	B¹n ®· bÞ ®uæi khái bang héi
+G_PLAYERTONG_4	Chøc vÞ cña b¹n trong bang héi ®· thay ®æi
+G_PLAYERTONG_5	Kh«ng thÓ thay ®æi phe ph¸i trong liªn minh cña bang héi
+G_PLAYERTONG_6	Mçi lÇn chØ gi÷ ®­îc nhiÒu nhÊt %d v¹n l­îng! 
+G_PLAYERTONG_7	Mçi lÇn chØ lÊy ®­îc nhiÒu nhÊt %d v¹n l­îng! 
+G_PLAYERTONG_8	Qu¸ nhiÒu tiÒn råi, kh«ng ®Ó thªm ®­îc! 
+G_PLAYERTONG_9	Thêi gian thao t¸c ®· hÕt, kh«ng thÓ thiÕt lËp liªn minh! 
+G_PLAYERTONG_10	 Minh Chñ 
+G_PLAYERTONG_11	ChØ cã Bang chñ míi cã thÓ mêi gia nhËp liªn minh bang héi
+G_PLAYERTONG_12	Thµnh viªn cña liªn minh bang héi nµy khéng thÓ gia nhËp liªn minh bang héi kh¸c
+G_PLAYERTONG_13	 B¹n ®Õn gÆp %s xin phÐp gia nhËp liªn minh bang héi! 
+G_PLAYERTONG_14	Bang héi ph¸t tiÒn, sè l­îng cã nhÇm lÉn
+G_PLAYERTONG_15	Mçi ng­êi mçi lÇn chØ ®­îc ph¸t nhiÒu nhÊt mét øc (tøc mét tr¨m triÖu) l­îng
+G_PLAYERTONG_16	ChØ cã Bang chñ míi cã thÓ ph¸t tiÒn
+G_PLAYERTONG_17	ChØ cã thÓ ph¸t tiÒn cho c¸c héi viªn trùc tuyÕn (online) 
+
+G_NPC_0	Nh©n vËt Nam 
+G_NPC_1	Nh©n vËt N÷  
+G_NPC_2	B¨ng
+G_NPC_3	§éc
+G_NPC_4	 Lo¹n 
+G_NPC_5	H«n mª 
+
+G_PLAYER_0	WriteLog([[PlayerIndex Error:%s:%s]])
+G_PLAYER_1	Kh«ng thÓ sö dông ®iÓm kü n¨ng ®Ó th¨ng cÊp kü n¨ng %s cña b¹n
+G_PLAYER_2	Th¨ng cÊp kü n¨ng thÊt b¹i
+G_PLAYER_3	Kü n¨ng %s cña b¹n ®· ®Õn cùc h¹n, kh«ng thÓ th¨ng cÊp thªm n÷a 
+G_PLAYER_4	Kü n¨ng chiÕn ®Êu cña B¹n ph¶i ®¹t ®Õn cÊp %d míi cã thÓ th¨ng cÊp %s kü n¨ng. 
+G_PLAYER_5	Kim Hoµn B¶o, chuyÓn nhËp ®iÓm sè thµnh c«ng! 
+G_PLAYER_6	Kim Hoµn B¶o, lÇn sau sÏ chuyÓn nhËp ®iÓm sè 
+G_PLAYER_7	Kim Hoµn B¶o, chuyÓn nhËp 28 ngµy thµnh c«ng! 
+G_PLAYER_8	Kim Hoµn B¶o, lÇn sau sÏ chuyÓn nhËp 28 ngµy
+G_PLAYER_9	Nguyªn b¶o, chuyÓn nhËp ®iÓm sè thµnh c«ng! 
+G_PLAYER_10	Nguyªn b¶o, lÇn sau sÏ chuyÓn nhËp ®iÓm sè 
+G_PLAYER_11	Nguyªn b¶o, chuyÓn nhËp 7 ngµy thµnh c«ng! 
+G_PLAYER_12	Nguyªn b¶o, lÇn sau sÏ chuyÓn nhËp 7 ngµy
+G_PLAYER_13	HÖ thèng hñy bá 
+G_PLAYER_14	TiÕp tôc
+G_PLAYER_15	Hoµn thµnh
+G_PLAYER_16	Chóc mõng b¹n! NhËn ®­îc %d Tö §èi, nhËn ®­îc phÇn th­ëng %d l­îng! 
+G_PLAYER_17	Chóc mõng b¹n! NhËn ®­îc %d Tö Kh¾c; Chóc mõng b¹n ®­îc phÇn th­ëng lín, tæng céng %d l­îng! 
+G_PLAYER_18	Chóc mõng b¹n! NhËn ®­îc %d %d %d phÇn th­ëng %d l­îng! 
+G_PLAYER_19	Chóc mõng b¹n, b¹n nhËn ®­îc phÇn th­ëng! 
+G_PLAYER_20	Ng©n phiÕu chuyÓn thµnh ®iÓm sè thµnh c«ng!
+G_PLAYER_21	Ng©n phiÕu sÏ chuyÓn hãa thµnh ®iÓm sè sau lÇn b¶o tr× server lÇn sau!
+G_PLAYER_22	Ng©n phiÕu chuyÓn thµnh sè ngµy thµnh c«ng!
+G_PLAYER_23	Ng©n phiÕu sÏ chuyÓn hãa thµnh sè ngµy sau lÇn b¶o tr× server lÇn sau!
+
+G_PLAYER_24	Giao dÞch bÞ hñy bá, xin h·y kiÓm tra tæng sè tiÒn trong hµnh trang vµ tiÒn nhËn ®­îc khi giao dÞch cã ph¶i v­ît giíi h¹n!
+G_PLAYER_25	Giao dÞch bÞ hñy bá, ®èi ph­¬ng kh«ng phï hîp ®iÒu kiÖn giao dÞch!
+G_PLAYER_26	B¹n ®· bÞ träng th­¬ng, sÏ tù ®éng håi sinh!
+G_PLAYER_27	Thêi gian ngåi b¸n hiÖn t¹i cña b¹n lµ 0, kh«ng thÓ tiÕp tôc ngåi b¸n.
+G_PLAYER_28	Nghe th«ng tin truyÒn miÖng: quan phñ sÏ träng th­ëng cho ai chØ chç b¹n lÈn trèn, xin h·y cÈn thËn!
+G_PLAYER_29	ThÕ th©n phï trong hµnh trang cña bang gióp b¹n chèng ®ì ®­îc 1 lÇn tÊn c«ng chÝ m¹ng!
+G_PLAYER_30	Ng­êi ch¬i [%s], ë [%s] täa ®é [%d, %d] nhÆt ®­îc '%s'
+G_PLAYERSET_0	T«i<color=green>%s<color=restore> còng ®i. Huynh (tû) h·y chê t«i cïng ®i b¸i kiÕn
+G_PLAYERSET_1	<color=green>%s<color=restore>thi triÓn L¨ng Ba Vi Bé, bång bÒnh mµ ®i. 
+G_PLAYERSET_2	Mét tia sÊm chíp, <color=green>%s<color=restore> trªn trêi gi¸ng xuèng. 
+G_PLAYERSET_3	Qu¶n gia ë Ng« phñ 
+
+G_PlayerStall_0	Mua ®å ®¹c
+G_PlayerStall_2 	H·y quay l¹i sau!
+
+G_PARTNER_0	Tªn b¹n ®Æt kh«ng ®óng!
+
+G_ITEM_0	<color=White> vËt phÈm t¹m thêi: 
+G_ITEM_1	§¼ng cÊp: %d\n
+G_ITEM_2	Gi¸ c¶: %d %s
+G_ITEM_3	<color=White>Thuéc tÝnh Ngò hµnh: <color=Metal>Kim 
+G_ITEM_4	<color=White>Thuéc tÝnh Ngò hµnh: <color=Wood>Méc 
+G_ITEM_5	<color=White>Thuéc tÝnh Ngò hµnh: <color=Water>Thñy 
+G_ITEM_6	<color=White>Thuéc tÝnh Ngò hµnh: <color=Fire>Háa 
+G_ITEM_7	<color=White>Thuéc tÝnh Ngò hµnh: <color=Earth>Thæ 
+G_ITEM_8	<color=Yellow>Kh«ng thÓ ph¸ hñy<color>
+G_ITEM_9_1	§é bÒn: %3d / %3d
+G_ITEM_9_2	<color=red>§é bÒn %3d / %3d<color>
+G_ITEM_10	Nãn
+G_ITEM_11	Y phôc
+G_ITEM_12	Th¾t l­ng
+G_ITEM_13	Vò khÝ 
+G_ITEM_14	hµi
+G_ITEM_15	Hé uyÓn
+G_ITEM_16	D©y chuyÒn
+G_ITEM_17	NhÉn ph¶i (trªn) 
+G_ITEM_18	NhÉn tr¸i (d­íi) 
+G_ITEM_19	Ngäc béi
+G_ITEM_20	C­ìi ngùa
+G_ITEM_21	CÇn %s cña %s vµ %s ®Ó kÝch thuéc tÝnh ©m 
+G_ITEM_22	 [cÊp %d]
+G_ITEM_23	<color=Yellow>Sè lÇn sö dông: kh«ng h¹n chÕ<color>
+G_ITEM_24	<color=Yellow>Sè lÇn cßn sö dông ®­îc: %d / %d<color>
+G_ITEM_25	<color=Yellow>Sau mçi lÇn sö dông, sè lÇn sÏ bÞ trõ ®i 1<color>
+G_ITEM_26	<color=Red>Trang bÞ nµy chØ cã thÓ sö dông 1 lÇn cuèi cïng, sau ®ã sÏ tù ®éng biÕn mÊt<color>
+G_ITEM_27	Ch­a kh¶m n¹m
+G_ITEM_28	<trang bÞ tæn h¹i>
+G_ITEM_29	<color=Fire>Thêi gian sö dông cßn: %02d giê %02d phót<color>
+G_ITEM_30	\n<color=Fire>Thêi h¹n sö dông: %.2d phót %.2d giê %.2d ngµy %.2d th¸ng %d n¨m
+G_ITEM_31	Gi¸ c¶: %d tiÒn vµng
+G_ITEM_32	Gi¸ c¶: %d tÝch lòy th­¬ng héi
+G_ITEM_33	Thu thËp ®¹o cô
+G_ITEM_BIND_STATE	<color=Green>VËt phÈm nµy ®· ®­îc khãa b¶o hiÓm<color>\n
+G_ITEM_BIND_STATE2	<color=Green>VËt phÈm nµy ®· ®­îc khãa b¶o hiÓm vÜnh viÔn<color>\n
+G_ITEM_UNBIND_STATE	<color=Green>Thêi gian chê më khãa: %d giê<color>\n
+
+G_ItemList_0	Kh«ng thÓ sö dông Thæ §Þa Phï ë ®©y
+G_ItemList_1	R­¬ng chøa ®å ®ang trong tr¹ng th¸i bÞ khãa, kh«ng thÓ lÊy tiÒn
+G_ItemList_2	R­¬ng chøa ®å ®ang bÞ khãa, kh«ng thÓ ®iÒu chØnh trang bÞ! 
+G_ItemList_3	R­¬ng chøa ®å ®ang bÞ khãa! 
+G_ItemList_4	ThiÕt lËp mËt m· thµnh c«ng! 
+G_ItemList_5	ThiÕt lËp mËt m· thÊt b¹i: mËt m· ®· ®­îc thiÕt lËp! 
+G_ItemList_6	Hñy bá mËt m· thµnh c«ng! 
+G_ItemList_7	Hñy bá mËt m· thÊt b¹i: ch­a tõng thiÕt lËp mËt m·! 
+G_ItemList_8	Hñy bá mËt m· thÊt b¹i: mËt m· kiÓm chøng sai! 
+G_ItemList_9	Thay ®æi mËt m· thµnh c«ng! 
+G_ItemList_10	Thay ®æi mËt m· thÊt b¹i: ch­a tõng thiÕt lËp mËt m·, kh«ng thÓ thay ®æi! 
+G_ItemList_11	Thay ®æi mËt m· thÊt b¹i: mËt m· kiÓm chøng sai! 
+G_ItemList_12	M· khãa thµnh c«ng! 
+G_ItemList_13	M· khãa thÊt b¹i: chøc n¨ng më réng r­¬ng vµ mËt m· b¶o hé vÉn ch­a khëi ®éng! H·y ®Õn huyÖn Ba L¨ng gÆp ThÈm Cöu (188, 198) ®Ó mua chøc n¨ng khëi ®éng nµy
+G_ItemList_14	Gi¶i m· khãa thµnh c«ng! 
+G_ItemList_15	Gi¶i m· khãa thÊt b¹i: chøc n¨ng më réng r­¬ng vµ mËt m· b¶o hé vÉn ch­a khëi ®éng! H·y ®Õn huyÖn Ba L¨ng gÆp ThÈm Cöu (188, 198) ®Ó mua chøc n¨ng khëi ®éng nµy
+G_ItemList_16	Gi¶i m· khãa thÊt b¹i: mËt m· kiÓm chøng thÊt b¹i! 
+G_ItemList_17	Ng­êi ch¬i cã PK>=5 kh«ng thÓ sö dông Thæ ®Þa phï!
+G_ItemList_18	Ng­êi ch¬i cã PK>=9 sö dông vËt phÈm nµy sÏ kh«ng cã hiÖu qu¶!
+
+G_SkillList_0	kü n¨ng cña b¹n %s th«ng qua rÌn luyÖn ®· ®­îc n©ng cÊp råi! 
+G_SkillList_1	Vò khÝ mµ b¹n trang bÞ kh«ng phï hîp víi lo¹i vâ c«ng mµ b¹n hiÖn ®ang sö dông
+G_SkillList_2	Vâ c«ng mµ b¹n sö dông hiÖn giê kh«ng thÓ cìi ngùa! 
+G_SkillList_3	Vâ c«ng mµ b¹n hiÖn ®ang sö dông cÇn ph¶i cìi ngùa! 
+G_SkillList_4	Sè l­îng lÝnh ®¸nh thuª tuy ®· ®¹t cùc h¹n, vÉn cã thÓ thuª thªm! 
+G_SkillList_5	Kü n¨ng %s cña §ång hµnh ®· ®­îc th¨ng cÊp!
+G_SkillList_6	§¼ng cÊp yªu cÇu: %d
+
+G_Skills_0	kü thuËt b¾n \n
+G_Skills_1	H×nh t­êng sè l­îng %d\n
+G_Skills_2	H×nh sîi sè l­îng %d\n
+G_Skills_3	H×nh dÑp sè l­îng %d\n
+G_Skills_4	H×nh trßn ph¸t t¸n sè l­îng %d\n
+G_Skills_5	Khu vùc h×nh trßn sè l­îng %d\n
+G_Skills_6	Khu vùc h×nh vu«ng sè l­îng %d\n
+G_Skills_7	ThiÕt ®Þnh khu vùc h×nh trßn sè l­îng %d\n
+G_Skills_8	ThiÕt ®Þnh khu vùc h×nh vu«ng sè l­îng %d\n
+G_Skills_11	kü thuËt ®¸nh nhau \n
+G_Skills_12	Vâ c«ng hç trî chñ lùc \n
+G_Skills_13	Tr¹ng th¸i kÐo dµi thêi gian: %d\n
+G_Skills_14	§­îc hç trî vâ c«ng \n
+G_Skills_15	Khu vùc s¸t th­¬ng
+G_Skills_16	Nguyªn ®Þa
+G_Skills_17	§i th¼ng trùc tiÕp
+G_Skills_18	§i ®­êng vßng
+G_Skills_20	VËt bÞ nÐm ®i 
+G_Skills_21	Xuyªn qua
+G_Skills_22	Ph¹m vi s¸t th­¬ng: %d 
+G_Skills_23	Ph¹m vi chÊn ®éng: %d 
+G_Skills_24	Tiªu vong - tù hñy
+G_Skills_25	¸nh s¸ng
+G_Skills_26	VËt lý 
+G_Skills_27	ë gÇn
+G_Skills_28	TËn trung
+G_Skills_29	§èi víi b¹n
+G_Skills_30	§èi víi kÎ ®Þch
+G_Skills_31	§èi víi vËt phÈm
+G_Skills_32	§èi víi chÝnh m×nh
+G_Skills_33	Suy nghÜ vÒ sè mÖnh
+G_Skills_34	Thuéc tÝnh kü n¨ng: 
+G_Skills_35	 (C«ng kÝch gÇn ) \n
+G_Skills_36	 (C«ng kÝch xa) \n
+G_Skills_37	§¼ng cÊp hiÖn thêi: %d
+G_Skills_38	§¼ng cÊp hiÖn thêi: %d (%d+%d) 
+G_Skills_39	Hç trî tõ c¸c kü n¨ng kh¸c: %d%%\n
+G_Skills_40	Møc ®é luyÖn: %d%%\n
+G_Skills_41	H¹n chÕ vò khÝ:
+G_Skills_42	Trong lóc cìi ngùa kh«ng thÓ thi triÓn \n
+G_Skills_43	CÇn ph¶i cìi ngùa ®Ó thi triÓn \n
+G_Skills_44	\n<color=Red> §¼ng cÊp tiÕp theo \n
+G_Skills_45	Tiªu hao néi lùc: %d\n
+G_Skills_46	Tiªu hao thÓ lùc: %d\n
+G_Skills_47	Tiªu hao sinh mÖnh: %d\n
+G_Skills_48	Ph¹m vi hiÖu qu¶: %d\n
+G_Skills_49	Kü n¨ng %s: +%d%%\n
+G_Skills_50	<color=Blue> TÇng thø nhÊt: <color>
+G_Skills_51	<color=Blue> TÇng thø 2: <color>
+G_Skills_52	<color=Blue> TÇng thø 3: <color>
+G_Skills_53	<color=Blue> TÇng thø 4: <color>
+G_Skills_54	<color=Blue> TÇng thø 5: <color>
+G_Skills_55	<color=Blue> TÇng thø 6: <color>
+G_Skills_56	<color=Blue> TÇng thø 7: <color>
+G_Skills_57	<color=Blue> TÇng thø 8: <color>
+G_Skills_58	<color=Blue> TÇng thø 9: <color>
+G_Skills_59	<color=Blue> TÇng thø 10: <color>
+G_Skills_60	<color=Blue> TÇng thø 11: <color>
+G_Skills_61	<color=Blue> TÇng thø 12: <color>
+G_Skills_62	<color=Blue> TÇng thø 13: <color>
+G_Skills_63	<color=Blue> TÇng thø 14: <color>
+G_Skills_64	<color=Blue> TÇng thø 15: <color>
+G_Skills_65	<color=Blue> TÇng thø 16: <color>
+G_Skills_66	<color=Blue> TÇng thø 17: <color>
+G_Skills_67	<color=Blue> TÇng thø 18: <color>
+G_Skills_68	<color=Blue> TÇng thø 19: <color>
+G_Skills_69	<color=Blue> TÇng thø 20: <color>
+G_Skills_70	Thuéc tÝnh: Kim %d\n
+G_Skills_71	Thuéc tÝnh: Méc %d\n
+G_Skills_72	Thuéc tÝnh: Thñy %d\n
+G_Skills_73	Thuéc tÝnh: Háa %d\n
+G_Skills_74	Thuéc tÝnh: Thæ %d\n
+G_Skills_75	Ngò Hµnh t­¬ng kh¾c: %d%%\n
+G_Skills_76	Trang bÞ gåm cã:
+
+G_PlayerPK_0	§iÓm PK cña b¹n qu¸ nhiÒu, chØ cho phÐp luyÖn c«ng! 
+G_PlayerPK_1	§iÓm PK cña b¹n qu¸ nhiÒu, kh«ng thÓ h¹ thñ ®­îc! 
+
+G_STR_GOOD_EXPIREDTIME	\n<color=Fire>Thêi gian b¸n vËt phÈm: %d ngµy %02d giê %02d phót<color>\n
+
+G_ProtocolProcess_0	 mét ng­êi 
+G_ProtocolProcess_1	 l­îng
+G_ProtocolProcess_2	Ng©n l­îng
+G_ProtocolProcess_3	 cã ng­êi 
+G_ProtocolProcess_4	Bang chñ ®· ph¸t tiÒn cho B¹n: %d! 
+G_ProtocolProcess_5	VÉn ch­a khëi ®éng chøc n¨ng th«ng b¸o khi cã ng­êi rêi tuyÕn
+G_ProtocolProcess_6	Môc tiªu ®Ó chuyÓn ph¸t c¸c tin tøc ngo¹i tuyÕn lµ %s! 
+G_ProtocolProcess_7	Môc tiªu thiÕt lËp chuyÓn ph¸t c¸c tin tøc ngo¹i tuyÕn lµ %s. 
+G_ProtocolProcess_8	B¹n hiÖn t¹i kh«ng thÓ nhËn ®­îc nh÷ng tin tøc t¸n gÉu! \ n ®¨ng nhËp / OfflineTrans cã thÓ hñy bá ThiÕt lËp. 
+G_ProtocolProcess_9	S¸ng lËp bang héi thÊt b¹i! 
+G_ProtocolProcess_10	%s xin phÐp gia nhËp bang héi! 
+G_ProtocolProcess_11	Ho¹t ®éng cña bang héi ®· bÞ ®×nh chØ, kh«ng thÓ nhËn lÖnh! 
+G_ProtocolProcess_12	ChuyÓn vÞ thÊt b¹i, ®èi ph­¬ng kh«ng trùc tuyÕn! 
+G_ProtocolProcess_13	ChuyÓn vÞ thÊt b¹i, ®èi ph­¬ng n¨ng lùc kh«ng ®ñ! 
+G_ProtocolProcess_14	ChuyÓn vÞ thÊt b¹i, trong bang kh«ng cã ng­êi nµy! 
+G_ProtocolProcess_15	Ho¹t ®éng cña bang héi ®· bÞ khãa! 
+G_ProtocolProcess_16	%s xin phÐp gia nhËp liªn minh! 
+G_ProtocolProcess_17	%s cù tuyÖt tiÕp nhËn bæn bang gia nhËp liªn minh
+G_ProtocolProcess_18	Bang héi kh«ng ®ñ tiÒn! 
+G_ProtocolProcess_19	hiÖn giê PK cña b¹n >?3,  tr­íc khi PK xin h·y hñy bá tr¹ng th¸i khãa trang bÞ.
+G_ProtocolProcess_20	Tr¹ng th¸i cña b¹n hiÖn nay kh«ng thÓ di chuyÓn hoÆc giao dÞch vËt phÈm!
+G_ProtocolProcess_21	§ång hµnh vÉn cßn h«n mª, sau %d gi©y n÷a míi cã thÓ xuÊt hiÖn
+G_ProtocolProcess_22	Kho¶ng c¸ch gi÷a 2 lÇn gäi §ång hµnh qu¸ ng¾n, xin h·y thö l¹i sau!
+G_ProtocolProcess_23	Kh«ng thÓ gäi ®ång hµnh t¹i ®©y!
+G_ProtocolProcess_24	Thanh trang bÞ cña b¹n ®ang trong tr¹ng th¸i khãa, kh«ng thÓ gi¶i t¸n §ång hµnh!
+G_ProtocolProcess_25	Kh«ng cho phÐp gi¶i t¸n b¹n ®ång hµnh cuèi cïng!
+G_ProtocolProcess_26	VËt phÈm nµy kh«ng ph¸t huy t¸c dông t¹i n¬i ®©y!
+G_ProtocolProcess_27	V× b¹n liªn tôc nhËp vµo mËt m· sai, hÖ thèng sÏ ng­ng kiÓm chøng trong mét kho¶ng thêi gian. Thêi gian cßn l¹i lµ: %d giê.
+G_ProtocolProcess_28	B¹n liªn tôc nhËp vµo mËt m· sai %d lÇn. NÕu nhËp sai 10 lÇn liªn tôc th× hÖ thèng sÏ ng­ng kh«ng kiÓm chøng trong mét kho¶ng thêi gian.
+
+G_ScriptFuns_0	V« hÖ 
+G_ScriptFuns_1	< khu vùc phi trùc thuéc >
+G_ScriptFuns_2	L«i ®µi trong bæn thµnh hiÖn vÉn ch­a tiÕn hµnh thi ®Êu
+G_ScriptFuns_3	Khu vùc trong bæn thµnh gÇn ®©y kh«ng cã trËn thi ®Êu L«i ®µi nµo
+G_ScriptFuns_4	Tin tøc tæ ®éi
+G_ScriptFuns_5	 [Script] sö dông AddItem sè l­îng tham sè kh«ng phï hîp! 
+G_ScriptFuns_6	 [Script] sö dông AddGoldItem sè l­îng tham sè kh«ng phï hîp! 
+G_ScriptFuns_7	 [Script]GoldItem-tr­íc m¾t chØ ñng hé trang bÞ b»ng vµng! 
+G_ScriptFuns_8	GetItem ParameterNotEnough!
+G_ScriptFuns_9	HaveItem ParameterNotEnough!
+G_ScriptFuns_10	DelCommonItem ParameterNotEnough!
+G_ScriptFuns_11	ExistCommonItem ParameterNotEnough!
+G_ScriptFuns_12	GetItemLife ParameterNotEnough!
+G_ScriptFuns_13	Thµnh v« danh
+G_ScriptFuns_14	Ch­a ghi nhí 
+G_ScriptFuns_15	Ch­a biÕt bÕn tµu 
+G_ScriptFuns_16	Danh väng giang hå cña B¹n ®· gi¶m %d ®iÓm! 
+G_ScriptFuns_17	Danh väng giang hå cña B¹n ®· t¨ng %d ®iÓm! 
+
+G_MagicDesc_0	Néi lùc
+G_MagicDesc_1	Sinh lùc
+G_MagicDesc_2	ThÓ lùc
+G_MagicDesc_3	TiÒn
+G_MagicDesc_4	+
+G_MagicDesc_5	-
+G_MagicDesc_6	 N÷ 
+G_MagicDesc_7	 Nam 
+G_MagicDesc_8	KiÕm 
+G_MagicDesc_9	§¬n §ao
+G_MagicDesc_10	C«n bæng 
+G_MagicDesc_11	th­¬ng 
+G_MagicDesc_12	Chïy 
+G_MagicDesc_13	Song ®ao
+G_MagicDesc_14	 së h÷u 
+G_MagicDesc_15	¸m khÝ 
+G_MagicDesc_16	 cËn th©n 
+G_MagicDesc_17	Tay kh«ng
+G_MagicDesc_18	Ch­a biÕt
+
+G_KDiceGame_0	B¹n kh«ng cã ®ñ ng©n l­îng ®Ó tiÕp tôc trß ch¬i n÷a
+G_KDiceGame_1	trß ch¬i 
+G_KDiceGame_2	AddGlobalNews ( [ [nhiÖt liÖt chóc mõng %s ®· giµnh ®­îc ®¹i th­ëng, nhËn ®­îc sè tiÒn tÝch lòy, tæng céng %d l­îng! ]]) 
+G_KDiceGame_3	%d: %d m¸y ch¬i game: %s dß ra %d|%d|%d, tiÒn c­îc: %d tiÒn th­ëng: %d tiÒn th­ëng: %d\n
+
+G_STRING_AUTOHANGMSG_1	C«ng lùc cña B¹n qu¸ kÐm, kh«ng thÓ hÊp thô ®­îc hiÖu qu¶ thÇn kú cña ch¸o L¹p B¸t. Khi ®¹t cÊp %d h·y quay l¹i
+G_STRING_AUTOHANGMSG_2	ChØ cã ch¸o L¹p B¸t míi cã thÓ hÊp thu ®­îc ®Þa khÝ ë ®©y, gióp B¹n t¨ng c­êng c«ng lùc. Xin h·y ®i t×m §µo Hoa Èn sÜ ®Ó mua mét Ýt ch¸o L¹p B¸t
+G_STRING_AUTOHANGMSG_3	HiÖu lùc cuèi cïng cña ch¸o L¹p B¸t ®· ®­îc B¹n hÊp thô toµn bé, B¹n cÇn ph¶i ®Õn chç cña §µo Hoa Èn sÜ ®Ó mua thªm mét Ýt th× míi cã thÓ tiÕp tôc t¨ng c­êng thªm c«ng lùc
+G_STRING_AUTOHANGMSG_4	Kinh nghiÖm cña B¹n ®· t¨ng lªn %d ®iÓm. 
+G_STRING_AUTOHANGMSG_5	HiÖu lùc cuèi cïng cña ch¸o L¹p B¸t ®· ®­îc B¹n hÊp thô toµn bé, B¹n cÇn ph¶i ®Õn chç cña §µo Hoa Èn sÜ ®Ó mua thªm mét Ýt th× míi cã thÓ tiÕp tôc t¨ng c­êng thªm c«ng lùc
+
+G_TONG_FIGURE_CALL_MASTER	Bang chñ 
+G_TONG_FIGURE_CALL_DIRECTOR	Tr­ëng L·o
+G_TONG_FIGURE_CALL_MANAGER	§éi tr­ëng
+G_TONG_FIGURE_CALL_MEMBER	§Ö tö 
+G_TONG_FIGURE_CALL_RETIRE	Èn sü
+
+G_CORESHELL_0	\n<color=White>Gi¸ niªm yÕt: <color=Yellow>
+G_CORESHELL_1	Lóc cìi ngùa kh«ng thÓ thiÒn täa! 
+
+G_CORESHELL_STALL_0	\n<color=White>Gi¸ niªm yÕt ( thu nhËp ) : <color=Green>
+G_CORESHELL_STALL_1	\n<color=White>Gi¸ b¸n (gåm thuÕ ) : <color=Yellow>
+G_CORESHELL_STALL_2	\n<color=White>Gi¸ b¸n: <color=Yellow>
+G_CORESHELL_STALL_3	\n<color=Blue>ThuÕ suÊt: %d%%\n
+
+G_STRING_ALLSKILLS	 Vâ c«ng vèn cã 
+G_STRING_BRACKET_BEGIN	 [ 
+G_STRING_BRACKET_END	 ]
+
+G_CITYWAR_WARNING_SETTAXTIME	Tr­íc m¾t kh«ng cho phÐp thiÕt ®Þnh thuÕ suÊt. Mçi ngµy chØ thiÕt ®Þnh thuÕ suÊt trong thêi gian ng¾n: %d ®iÓm?%d ®iÓm
+G_CITYWAR_WARNING_TAXALREADYSET1 	B¹n ®· ®Æt thuÕ suÊt cña ngµy h«m nay!!
+G_CITYWAR_WARNING_TAXALREADYSET	B¹n ®· thiÕt ®Þnh thuÕ suÊt cña tuÇn nµy råi! 
+G_CITYWAR_WARNING_NOTTONGLEADER	B¹n kh«ng ph¶i lµ Bang chñ cña bang héi! 
+
+G_STRING_DISABLED_CHAT	N¬i B¹n ®ang ®øng lµ khu vùc ®Æt thï, kh«ng thÓ sö dông kªnh t¸n gÉu nµy
+G_STRING_ENTER_CHANNEL	B¹n ®· gia nhËp kªnh %s
+G_STRING_LEAVE_CHANNEL	B¹n rêi khái kªnh
+
+G_STRING_ANTIBOT_AFTERMSG	B¹n vÉn cßn bÞ ¶nh h­ëng cña phÇn mÒm hack, trong thêi gian nhÊt ®Þnh hÖ thèng kh«ng b¶o ®¶m chÝnh x¸c sè ®iÓm b¹n nhËn ®­îc.
+G_STRING_ANTIBOT_CLEARMSG	§· xãa hÕt ¶nh h­ëng cña phÇn mÒm hack, hiÖn ®iÓm kinh nghiÖm b¹n nhËn ®­îc lµ chÝnh x¸c.
+G_STRING_ANTIBOT_STARTMSG	B¹n ®ang sö dông phÇn mÒm hack, hÖ thèng kh«ng ®¶m b¶o chÝnh x¸c ®iÓm kinh nghiÖm b¹n nhËn ®­îc.
+
+G_STRING_SONG	Tèng
+G_STRING_JIN	Kim
+
+G_STRING_MONEY	 l­îng
+G_STRING_FUYUAN	Phóc Duyªn
+G_STRING_COIN	TiÒn ®ång
+G_STRING_SCORE	TÝch lòy
+G_STRING_GOLDCOIN	TiÒn vµng
+G_STRING_HONOUR	®iÓm vinh dù
+G_STRING_GOLDCOIN_SCORE	TÝch lòy th­¬ng héi
+G_STRING_CONTRIBUTION	 ®iÓm cèng hiÕn
+G_STRING_BUILDFUND	§é kiÕn thiÕt bang héi
+
+G_STR_MOUSE_MAGIC_ITEM	B¹n ch­a sö dông B¹ch C©u hoµn kh«ng thÓ sö dông chøc n¨ng tù ®éng ®¸nh qu¸i!
+G_STR_ONLY_JEWELRY	¤ nµy chØ cã thÓ bá vµo trang søc (d©y chuyÒn, nhÉn, ngäc béi) ch­a ®­îc khãa b¶o hiÓm
+G_STR_ONLY_CRYOLITE	¤ vËt phÈm nµy chØ kh«ng thÓ bá vµo HuyÒn tinh kho¸ng th¹ch cïng lo¹i.
+G_STR_ONLY_PROPMINE	¤ vËt phÈm nµy chØ cã thÓ bá kho¸ng th¹ch thuéc tÝnh (HuyÒn ThiÕt kho¸ng, MËt Ng©n kho¸ng, Chu Sa kho¸ng, Khæng T­íc th¹ch, Phï Dung th¹ch, Chung Nhò th¹ch) .
+G_STR_ONLY_EQUIP	¤ nµy chØ cã thÓ ®Æt vµo trang bÞ xanh hoÆc tr¾ng ch­a ®­îc khãa b¶o hiÓm.
+G_STR_ONLY_MINE	¤ vËt phÈm nµy chØ cã thÓ HuyÒn tinh kho¸ng th¹ch kh«ng cïng lo¹i hoÆc kho¸ng th¹ch thuéc tÝnh.
+G_STR_ONLY_BW_EQUIP	¤ nµy chØ cã thÓ ®Æt vµo trang bÞ xanh hoÆc tr¾ng (ngo¹i trõ trang søc) ch­a ®­îc khãa b¶o hiÓm.
+G_STR_ONLY_PURPLE_EQUIP	¤ nµy chØ cã thÓ ®Æt vµo trang bÞ tÝm ch­a ®­îc khãa b¶o hiÓm.
+G_STR_ONLY_CONSUME	¤ vËt phÈm nµy chØ cã thÓ bá vµo Thñy tinh, Phóc duyªn lé, kho¸ng th¹ch thÇn bÝ.
+G_STR_ONLY_ORGMINE	¤ vËt phÈm nµy chØ cã thÓ bá vµo HuyÒn tinh kho¸ng th¹ch kh«ng cïng lo¹i hoÆc kho¸ng th¹ch thuéc tÝnh (HuyÒn ThiÕt kho¸ng, MËt Ng©n kho¸ng, Chu Sa kho¸ng, Khæng T­íc th¹ch, Phï Dung th¹ch, Chung Nhò th¹ch) 
+G_STR_ONLY_ATLAS	¤ vËt phÈm nµy chØ cã thÓ bá §å phæ Hoµng Kim hoÆc HuyÒn tinh kho¸ng th¹ch kh«ng cïng lo¹i.
+G_STR_ONLY_BOOK	¤ vËt phÈm nµy chØ cã thÓ bá kho¸ng th¹ch thuéc tÝnh hoÆc s¸ch kü n¨ng vµo.
+G_STR_NO_BINDITEM	Kh«ng thÓ ®Æt vµo vËt phÈm ®· ®­îc khãa b¶o hiÓm!
+
+G_STR_FORBIT_THROWITEM	Nh»m b¶o vÖ tµi s¶n cho b¹n! VËt ph¶m quý kh«ng ®­îc tïy ý vøt ra ngoµi!
+
+G_STR_DUPEDITEM_MARK	 %s nµy ®· ®­îc phôc chÕ phi ph¸p! HÖ thèng ®· ghi nhí!
+G_STR_DUPEDITEM_DELETE	 %s nµy ®· ®­îc phôc chÕ phi ph¸p! HÖ thèng ®· hñy bá 
+
+G_STR_ITEM_ABRADETOZERO	 %s  ®· tæn h¹i, kh«ng thÓ tiÕp tôc sö dông, hiÖn trong hµnh trang. H·y ®Õn L©m An t×m <ThÇn bÝ Th­¬ng Nh©n> sö dông tiÒn ®ång ®Ó söa ch÷a!
+G_STR_COPY_ITEM_WARNING	!! VËt phÈm nµy ®· bÞ phôc chÕ, sÏ bÞ hÖ thèng tÞch thu!! \n nghiªm cÊp lõa g¹t, xin ®õng giao dÞch\n\n
+
+G_TIPS_PLAYEREVENT_KILLNPC	tiÕn ®é diÖt %s  lµ %d/%d
+
+G_STR_ORIGINAL_PRICE	Gi¸ cò:
+G_STR_ABATE_PRICE	Gi¸ vËt hiÖn t¹i:
+G_STR_ABATE_BEGIN_DATE	gi¶m gi¸ tõ:
+G_STR_TO	®Õn:
+G_STR_SELL_BEGIN_DATE	Thêi gian b¸n tõ:
+G_STR_ABATE_END	gi¶m gi¸ ®Õn:
+G_STR_SELL_END	Thêi gian b¸n ®Õn:
+G_STR_TEAMSHAREITEM_MODEPUNISH1	Thµnh viªn nhãm %s nhÆt ®­îc vËt phÈm %s
+G_STR_TEAMSHAREITEM_MODEPUNISH2	NhËn ®­îc vËt phÈm chung cña tæ ®éi: %s
+
+K_S_GOLD	Kim
+K_S_WOOD	Méc
+K_S_WATER	Thñy 
+K_S_FIRE	Háa
+K_S_EARTH	Thæ 
+
+K_C_BEGIN	T©n thñ 
+K_C_JUSTICE	Ch¸nh ph¸i
+K_C_EVIL	Tµ ph¸i
+K_C_BALANCE	Trung lËp
+K_C_FREE	S¸t Thñ
+K_C_ANIMAL	Ò°ÊÞ
+K_C_EVENT	Â·ÈË
+
+K_NPCRESNODE_0	®Ønh ®Çu 
+K_NPCRESNODE_1	D­íi ch©n 
+K_NPCRESNODE_2	TuÇn hoµn
+K_NPCRESNODE_3	b¶n ®å nhá 
+
+K_NPC_0	tªn Nh©n vËt 
+
+K_REPAIRSCRIPT_FUNC_PRICE	get_repair_price
+K_REPAIRSCRIPT_FUNC_REPAIR	repair_equip
+K_CHAT_TEAM_DEFAULT_NAME	H¶o h÷u
+K_MATE_UNITNAME	Phèi ngÉu\n
+K_BROTHER_UNITNAME	Th©n nh©n\n
+K_ENEMY_UNITNAME	Cõu nh©n\n
+
+K_PLAYERCHAT_0	%04d.%02d.%02d
+K_PLAYERCHAT_1	%02d:%02d:%02d
+
+K_SCRIPTFUNC_GetAutoExpValue	AEXP_GetHangExpValue
+K_SCRIPTFUNC_AddAutoExp	AEXP_AddHangExp
+
+K_WEAPON_DETAILTYPE	Lo¹i h×nh cô thÓ 
+
+K_KIND_FILE_SECT1	tªn file thuyÕt minh 
+K_KIND_FILE_SECT2	B¶ng thuéc tÝnh vò khÝ 1
+K_KIND_FILE_SECT3	B¶ng thuéc tÝnh vò khÝ 2
+K_KIND_FILE_SECT4	h×nh vÏ thø tù ®éng t¸c 
+K_KIND_FILE_SECT5	§­êng dÉn file gèc 
+
+K_WEAPON_PARTICULARTYPE	Lo¹i h×nh chi tiÕt
+K_WEAPON_SKILLID	Sè hiÖu kü n¨ng vËt lý t­¬ng øng
+
+K_MESSAGE_SYSTEM_ANNOUCE_HEAD	C«ng bè 
+K_MESSAGE_ITEM_EXPIREDITEM1	VËt phÈm [%s] sau %d giê %d phót ®Õn hÕt thêi h¹n sö dông. Qua thêi h¹n nµy hÖ thèng sÏ hñy bá ®¹o cô nµy.
+K_MESSAGE_ITEM_EXPIREDITEM2	§¹o cô [%s] ®· qu¸ h¹n sö dông, hÖ thèng sÏ tù ®éng hñy bá!
+
+K_KIND_NAME_SECT	lo¹i h×nh Nh©n vËt  
+K_KIND_NAME_SPECIAL	NPC ®Æc thï  
+K_KIND_NAME_NORMAL	NPC th­êng 
+
+L_CANT_OPEN	ÎÞ·¨´ò¿ª%s
+L_TONG_TAX	<%s>³ÇÇøË°ÊÕ½ð¶î: %u\r\n
+
+L_SHAREDATABASE_0	²úÉúÁËÒ»¸ö±¦Îï %d, %d,%d\n
+L_SHAREDATABASE_1	²úÉúÁËÒ»¸öÐÒÔËÖ®ÐÇ %s  %d, %d,%d\n
+L_SHAREDATABASE_2	²úÉúÁËÒ»¸ö»Æ½ð¹ÖÎï %s  index = %d Sid=%d  %d, %d,%d\n
+
+L_EXCEPT_EXCUTE_RS	Exception Have Caught When Execute Relay Script !!!!!
+
+L_NPC_0	 [ÊýÖµ]%sÊÜµ½%dµãÔ­Ê¼¶¾ÉËº¦
+L_NPC_1	 [ÊýÖµ]%sÊÜµ½%dµãÔ­Ê¼Ä§·¨ÉËº¦
+L_NPC_2	 [ÊýÖµ]%sÊµ¼ÊÉËº¦£º%d
+L_NPC_3	 [ÊýÖµ]%s·µ»ØÉËº¦%d
+L_NPC_4	 [ÊýÖµ]%sÄ§·¨¶ÜÎüÊÕ±ÈÀý£º%d
+L_NPC_5	 [ÊýÖµ]%sÉÁ¹ý¹¥»÷
+L_NPC_6	[zroc]Npc(%d)ServerMove RegionIdx = %d
+L_NPC_7	Packing sync data ok...\n
+L_NPC_8	Packing sync data failed...\n
+L_NPC_9	[Sync]%d:%s<%d> request to %d. size:%d
+L_NPC_10	Packing player sync data ok...\n
+L_NPC_11	Packing player sync data failed...\n
+L_NPC_12	NpcID:%d  Life:%d\nRegionIndex:%d Pos:%d,%d\nPlayerNumber:%d\n
+L_NPC_13	NpcNumber:\n%02d,%02d,%02d\n%02d,%02d,%02d\n%02d,%02d,%02d
+L_NPC_14	 [ÊýÖµ]AttackRating %d: Defense %d: RandomPercent (%d, %d) 
+L_NPC_15	 [error]ÖÂÃü´íÎó,ÎÞ·¨ÕýÈ·¶ÁÈ¡%s
+L_NPC_16	ÔØÈëNpc%dÄ£°åÇëÇó·Ç·¨£¡
+L_NPC_17	[Script]SetPos error:SubWorld:%d, Pos(%d, %d)
+L_NPC_18	[Map]World%d haven't been loaded!
+L_NPC_19	[Map]Change Pos(%d,%d) Invalid!
+L_NPC_20	[DEATH]SetMode:%d
+L_NPC_21	[DEATH] m_ProcessState: %d
+L_NPC_22	[DEATH] m_bExchangeServer: %d
+L_NPC_23	[DEATH] m_Doing: %d
+L_NPC_24	[DEATH] WaitForFrame TRUE
+L_NPC_25	[DEATH] WaitForFrame FALSE
+L_NPC_26	[error]%s Region Index < 0 when hurt
+L_NPC_27	[DEATH]On Hurt Finished
+L_NPC_28	[error]%s Region Index < 0 when dorevive
+
+L_NPC_29	±»¹Ö´òËÀËðÊ§¾­Ñé	%d\r\n
+L_NPC_30	±»¹Ö´òËÀËðÊ§½ðÇ®	%d\r\n
+L_NPC_31	±»Íæ¼Ò [%s]´òËÀËðÊ§¾­Ñé	%d\r\n
+L_NPC_32	±»Íæ¼Ò [%s]´òËÀËðÊ§½ðÇ®	%d\r\n
+
+
+L_NPCATTRIBM_0	 [ÊýÖµ]%s±ùÉËº¦Ôö¼Ó (%d) 
+L_NPCATTRIBM_1	 [ÊýÖµ]%s»ðÉËº¦Ôö¼Ó (%d) 
+L_NPCATTRIBM_2	 [ÊýÖµ]%sµçÉËº¦Ôö¼Ó (%d) 
+L_NPCATTRIBM_3	 [ÊýÖµ]%sËùÓÐÎïÀí¹¥»÷Á¦Ôö¼Ó°Ù·ÖÖ®%d
+L_NPCATTRIBM_4	 [ÊýÖµ]%sÔ¶³ÌÎïÀí¹¥»÷Á¦Ôö¼Ó°Ù·ÖÖ®%d
+L_NPCATTRIBM_5	 [ÊýÖµ]%s¿ÕÊÖÎïÀí¹¥»÷Á¦Ôö¼Ó°Ù·ÖÖ®%d
+L_NPCATTRIBM_6	 [ÊýÖµ]%s½ü³ÌÎïÀí¹¥»÷Á¦Ôö¼Ó°Ù·ÖÖ®%d
+L_NPCATTRIBM_7	 [ÊýÖµ]%s½ü³ÌÎäÆ÷%dÎïÀí¹¥»÷Á¦Ôö¼Ó°Ù·ÖÖ®%d
+L_NPCATTRIBM_8	 [ÊýÖµ]%s¶¾×´Ì¬±äÎª£º¼ä¸ô%dÖ¡·¢×÷Ò»´Î%dÉËº¦£¬¹²³ÖÐø%dÖ¡
+L_NPCATTRIBM_9	 [ÊýÖµ]%sÎïÀíÉËº¦Á¦Ôö¼Ó (%d) 
+L_NPCATTRIBM_10	 [ÊýÖµ]%sÎå·À¿¹ÐÔÔö¼Ó%d
+L_NPCATTRIBM_11	 [ÊýÖµ]%sËùÓÐ¼¼ÄÜ¼Ó%d¼¶£¬Î´Íê³É
+L_NPCATTRIBM_12	 [ÊýÖµ]%sÃüÖÐÂÊÔö¼Ó°Ù·ÖÖ®%d (%dµã) 
+L_NPCATTRIBM_13	 [ÊýÖµ]%s¹¥»÷ËÙ¶ÈÔö¼Ó%d
+L_NPCATTRIBM_14	 [ÊýÖµ]%sÊ©·¨ËÙ¶ÈÔö¼Ó%d
+L_NPCATTRIBM_15	 [ÊýÖµ]%sµ±Ç°ÕóÓª±äÎª%d
+L_NPCATTRIBM_16	 [ÊýÖµ]%s±ù¿¹ÐÔÔö¼ÓÁË%dµã
+L_NPCATTRIBM_17	 [ÊýÖµ]%sÖÂÃüÒ»»÷°Ù·Ö±ÈÔö¼Ó%d
+L_NPCATTRIBM_18	 [ÊýÖµ]%sµ±Ç°Ãô½ÝÔö¼ÓÁË%dµã
+L_NPCATTRIBM_19	 [ÊýÖµ]%sÍÁÏµ¼¼ÄÜ¼Ó%d¼¶
+L_NPCATTRIBM_20	 [ÊýÖµ]%sµ±Ç°¾«Á¦Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_21	 [ÊýÖµ]%s¿ìËÙÃüÖÐ»Ø¸´Ôö¼Ó%d
+L_NPCATTRIBM_22	 [ÊýÖµ]%sÒÆ¶¯ËÙ¶ÈÔö¼Ó%d
+L_NPCATTRIBM_23	 [ÊýÖµ]%s»ðÏµ¼¼ÄÜ¼Ó%d¼¶
+L_NPCATTRIBM_24	 [ÊýÖµ]%s±ù¶³Ê±¼ä¼õÉÙ°Ù·ÖÖ®%d
+L_NPCATTRIBM_25	 [ÊýÖµ]%sÕðÍË°Ù·Ö±ÈÔö¼Ó%d
+L_NPCATTRIBM_26	 [ÊýÖµ]%sÉúÃüÉÏÏÞÔö¼ÓÁË°Ù·ÖÖ®%d (%dµã) 
+L_NPCATTRIBM_27	 [ÊýÖµ]%sÉúÃüÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_28	 [ÊýÖµ]%sÉúÃü»Ø¸´ËÙ¶ÈÔö¼ÓÁË%dµã
+L_NPCATTRIBM_29	 [ÊýÖµ]%sÉúÃüÔö¼ÓÁË%dµã
+L_NPCATTRIBM_30	 [ÊýÖµ]%sµç¿¹ÐÔÔö¼ÓÁË%dµã
+L_NPCATTRIBM_31	 [ÊýÖµ]%sMFÖµÔö¼ÓÁË%d,Î´Íê³É
+L_NPCATTRIBM_32	 [ÊýÖµ]%sÄÚÁ¦ÉÏÏÞÔö¼ÓÁË°Ù·ÖÖ®%d (%dµã) 
+L_NPCATTRIBM_33	 [ÊýÖµ]%sÄÚÁ¦ÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_34	 [ÊýÖµ]%sÄÚÁ¦»Ø¸´ËÙ¶ÈÔö¼ÓÁË%dµã
+L_NPCATTRIBM_35	 [ÊýÖµ]%sÄÚÁ¦Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_36	 [ÊýÖµ]%sÎüÊÕÉËº¦°Ù·Ö±ÈÎª%d£¬³ÖÐø%dÖ¡
+L_NPCATTRIBM_37	 [ÊýÖµ]%s½ü³ÌÎïÀíÉËº¦·´µ¯°Ù·Ö±ÈÔö¼Ó%d
+L_NPCATTRIBM_38	 [ÊýÖµ]%s½ü³ÌÎïÀíÉËº¦·´µ¯Ôö¼Ó%d
+L_NPCATTRIBM_39	 [ÊýÖµ]%s½ðÏµ¼¼ÄÜ¼Ó%d¼¶, Î´Íê³É
+L_NPCATTRIBM_40	 [ÊýÖµ]%sÎïÀí¿¹ÐÔÔö¼ÓÁË%dµã
+L_NPCATTRIBM_41	 [ÊýÖµ]%sÉËº¦×ªÄÚÁ¦°Ù·Ö±ÈÔö¼ÓÁË%d
+L_NPCATTRIBM_42	 [ÊýÖµ]%sÖÐ¶¾ÉËº¦¼õÉÙ%d
+L_NPCATTRIBM_43	 [ÊýÖµ]%s¶¾¿¹ÐÔÔö¼ÓÁË%dµã
+L_NPCATTRIBM_44	 [ÊýÖµ]%sÖÐ¶¾Ê±¼ä¼õÉÙ°Ù·ÖÖ®%d
+L_NPCATTRIBM_45	 [ÊýÖµ]%sÔ¶³ÌÉËº¦·´µ¯Ôö¼Ó%d
+L_NPCATTRIBM_46	 [ÊýÖµ]%sÔ¶³ÌÉËº¦·´µ¯°Ù·Ö±ÈÔö¼Ó%d
+L_NPCATTRIBM_47	 [ÊýÖµ]%s×Óµ¯¼õËÙ×´Ì¬±äÎª%d
+L_NPCATTRIBM_48	 [ÊýÖµ]%sÌåÁ¦ÉÏÏÞÔö¼ÓÁË°Ù·ÖÖ®%d (%dµã) 
+L_NPCATTRIBM_49	 [ÊýÖµ]%sÌåÁ¦ÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_50	 [ÊýÖµ]%sÌåÁ¦»Ø¸´ËÙ¶ÈÔö¼ÓÁË%dµã
+L_NPCATTRIBM_51	 [ÊýÖµ]%sÌåÁ¦Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_52	 [ÊýÖµ]%sÍµÉúÃü°Ù·Ö±ÈÎª%d (±ÈÔ­±¾ÉÏÉýÁË%dµã) 
+L_NPCATTRIBM_53	 [ÊýÖµ]%sÍµÄÚÁ¦°Ù·Ö±ÈÎª%d (±ÈÔ­±¾ÉÏÉýÁË%dµã) 
+L_NPCATTRIBM_54	 [ÊýÖµ]%sÍµÌåÁ¦°Ù·Ö±ÈÎª%d (±ÈÔ­±¾ÉÏÉýÁË%dµã) 
+L_NPCATTRIBM_55	 [ÊýÖµ]%sµ±Ç°Á¦Á¿Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_56	 [ÊýÖµ]%sÑ£ÔÎÊ±¼ä¼õÉÙ%d
+L_NPCATTRIBM_57	 [ÊýÖµ]%sÊÓÒ°·¶Î§Ôö¼Ó%d
+L_NPCATTRIBM_58	 [ÊýÖµ]%sµ±Ç°»îÁ¦Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_59	 [ÊýÖµ]%sË®Ïµ¼¼ÄÜ¼Ó%d¼¶£¬Î´Íê³É
+L_NPCATTRIBM_60	 [ÊýÖµ]%sÄ¾Ïµ¼¼ÄÜ¼Ó%d¼¶£¬Î´Íê³É
+L_NPCATTRIBM_61	 [ÊýÖµ]%s»ð¿¹ÐÔÔö¼ÓÁË%dµã
+L_NPCATTRIBM_62	 [ÊýÖµ]%s·ÀÓùÔö¼ÓÁË%dµã
+L_NPCATTRIBM_63	 [ÊýÖµ]%s±ùÔöÇ¿Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_64	 [ÊýÖµ]%s»ðÔöÇ¿Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_65	 [ÊýÖµ]%sµçÔöÇ¿Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_66	 [ÊýÖµ]%s¶¾ÔöÇ¿Ôö¼ÓÁË%dµã
+L_NPCATTRIBM_67	 [ÊýÖµ]%sºÈÁË²¹ÑªÒ©£¬»ñµÃ%dÖ¡ÄÚÃ¿10Ö¡»Ø¸´%dµãÉúÃüµÄÐ§¹û
+L_NPCATTRIBM_68	 [ÊýÖµ]%sºÈÁË²¹ÄÚÁ¦Ò©£¬»ñµÃ%dÖ¡ÄÚÃ¿10Ö¡»Ø¸´%dµãÄÚÁ¦µÄÐ§¹û
+L_NPCATTRIBM_69	 [ÊýÖµ]%sÎïÀí¿¹ÐÔÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_70	 [ÊýÖµ]%s±ù¿¹ÐÔÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_71	 [ÊýÖµ]%s»ð¿¹ÐÔÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_72	 [ÊýÖµ]%sµç¿¹ÐÔÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_73	 [ÊýÖµ]%s¶¾¿¹ÐÔÉÏÏÞÔö¼ÓÁË%dµã
+L_NPCATTRIBM_74	 [ÊýÖµ]%sÎå·À¿¹ÐÔÉÏÏÞÔö¼Ó%d
+L_NPCATTRIBM_75	 [ÊýÖµ]%sÑ£ÔÎ°Ù·Ö±ÈÔö¼Ó%d
+L_NPCATTRIBM_76	 [ÊýÖµ]%sÖÂÃüÒ»»÷¿¹ÐÔÔö¼Ó%d
+L_NPCATTRIBM_77	 [ÊýÖµ]%sÎïÀíÉËº¦Ôö¼Ó (%d) 
+L_NPCATTRIBM_78	 [ÊýÖµ]%s×´Ì¬ÃâÒß×´Ì¬±äÎª%d
+
+L_NPCSET_0	ÎÄ¼þÔØÈëÊ§°Ü£º%s£¬ÇëÍ¨ÖªÑÐ·¢ÈËÔ±½øÐÐ´¦Àí£¡
+L_NPCSET_1	ÎÄ¼þÔØÈëÊ§°Ü£º%s
+L_NPCSET_3	[Script]Npc %s,%d
+L_NPCSET_4	[Request]Remove %d from %d on %d timeout
+L_NPCSET_5	[Request]Insert %d at %d on %d
+L_NPCSET_6	[Request]Remove %d from %d on %d
+L_NPCSET_7	                 %d:AddNpc:%d\n
+L_NPCSET_8	                 %d:RemoveNpc:%d %s\n
+L_NPCSET_9	Error!!!NpcCount is Full!!Can Not Add Any More!\n
+
+
+L_NPCTEMPLATE_0	ÎÞ·¨ÕÒµ½%s\n
+L_NPCTEMPLATE_1	 [%s]µ÷ÓÃGetNpcLevelDataº¯ÊýµÄ ´«Èë²ÎÊý [%s]ÓÐÎó£¬Çë¼ì²é\n
+L_NPCTEMPLATE_2	µ÷ÓÃGetNpcLevelDataº¯ÊýµÄ ´«Èë²ÎÊý [%s]ÓÐÎó£¬Çë¼ì²é\n
+L_NPCTEMPLATE_3	ÎÞÕÒµ½¸Ã [%s]Ä§·¨µÄId,Çë¼ì²é£¡
+
+L_PLAYER_1	[skill]right
+L_PLAYER_2	[skill]left
+L_PLAYER_3	[skill]return
+L_PLAYER_4	SubWorld Fail.\n
+L_PLAYER_5	NPC Fail.\n
+L_PLAYER_6	player Packing sync data failed...\n
+L_PLAYER_7	Load PlayerInfo Step %d Failed...\n
+L_PLAYER_8	player Packing skill sync data failed...\n
+L_PLAYER_9	 [ÊýÖµ]%sÊµ¼ÊÔö¼Ó¾­Ñé%dµã
+L_PLAYER_10	%s (%s) ÔÚ%dÑ­»·¼ñÁË%dÁ½Òø×Ó\n
+L_PLAYER_11	%s\nSubWorld:%d\nReviveID:%d\nMpsX:%d\nMpsY:%d\n
+L_PLAYER_12	[%s][%s] sell %s(%s) to [%s][%s], GenTime:%u\r\n
+L_PLAYER_13	TradeTime: %d-%d %d:%d:%d\r\n\r\n
+L_PLAYER_14	%d/%d/%d %d:%d:%d
+L_PLAYER_15	%s\t%s\t%d\t%s\t%d\t%d\r\n
+L_PLAYER_16	Account %s, Player %s UseSilver Type = %d, UseType = %d, Count = %d\n
+L_PLAYER_17	Exception Have Caught When Execute Script[%d]!!!!!
+L_PLAYER_18	 [trade]trade Óë%s½»Ò×¿ªÊ¼£¡
+L_PLAYER_19	 [trade]trade µÃµ½½»Ò×¶Ô·½Ç®ÐÅÏ¢£º%d
+L_PLAYER_20	 [trade]trade ½»Ò×Íê³É£¡
+L_PLAYER_21	 [trade]trade ½»Ò×È¡Ïû£¡
+
+L_PLAYER_22	¼ñÈ¡ÎïÆ·\r\n
+L_PLAYER_23	¼ñÈ¡½ðÇ®	%d\r\n
+L_PLAYER_24	¶ªÆúÎïÆ·\r\n
+L_PLAYER_25	Íæ¼ÒÏà»¥½»Ò×Âô³öÎïÆ·¸ø [%s]\r\n
+L_PLAYER_26	Íæ¼ÒÏà»¥½»Ò×¶Ô·½ÕËºÅ [%s]½ÇÉ«Ãû [%s]	ÊÕÈë£º%d Ö§³ö£º%d\r\n
+L_PLAYER_27	Song ph­¬ng giao dÞch tõ [%s] [%s] mua vµo vËt phÈm\r\n
+
+L_PLAYERCHAT_0	 [chat]ÁÄÌìÊý¾Ý°ü´íÎó£¡
+L_PLAYERCHAT_1	player Packing friend sync data failed...\n
+L_PLAYERCHAT_2	player Packing friend 2 sync data failed...\n
+
+L_PLAYERSET_0	SERVER:Player[%s] has been removed!
+L_PLAYERSET_2	[error]Attach to a connected player named %s
+L_PLAYERSET_3	[error]Find Guid to a disconnect player
+L_PLAYERSET_4	%s ½Å±¾ÎÞ·¨¼ÓÔØ£¬¿ÉÄÜÎÄ¼þ²»´æÔÚ»òÓï·¨´íÎó
+L_PlayerSet_AutohangItem	%s »ñµÃÁË %s\n
+L_PLAYER_TIRE_MSG1	B¹n ®ang trong giai ®o¹n mÖt mái! HiÖu qu¶ luyÖn c«ng chØ nhËn ®­îc 50%! Xin h·y nghØ ng¬i, gi÷ g×n søc kháe!
+L_PLAYER_TIRE_MSG2	B¹n ®· mÖt mái! Kh«ng nhËn ®­îc bÊt cø hiÖu qu¶ luyÖn c«ng nµo! Xin h·y nghØ ng¬i, gi÷ g×n søc kháe!
+L_PLAYER_TIRE_MSG3	B¹n ®· ch¬i liªn tôc 4 giê 50 phót! ChØ cßn 10 phót ®Ó b¹n chuÈn bÞ rêi m¹ng! Xin h·y nghØ ng¬i, gi÷ g×n søc kháe!
+L_PLAYER_TIRE_MSG4	B¹n ®· ch¬i liªn tôc 4 giê 59 phót! ChØ cßn 1 phót ®Ó b¹n chuÈn bÞ rêi m¹ng!Xin h·y nghØ ng¬i, gi÷ g×n søc kháe!
+L_PLAYER_TIRE_MSG5	HÖ thèng ®· chÆn kh«ng cho ng­êi ch¬i tiÕp tôc ®¨ng nhËp! §îi h«m sau míi cã thÓ ch¬i tiÕp!
+L_PLAYER_TIRE_MSG6	B¹n ®· mÖt mái, kh«ng thÓ t¨ng ®iÓm tiÒm n¨ng!
+L_PLAYER_TIRE_MSG7	B¹n ®· mÖt mái, kh«ng thÓ t¨ng ®iÓm kü n¨ng!
+L_PLAYER_TIRE_MSG8	B¹n ®· b¾t ®Çu mÖt mái! Kh«ng thÓ gia nhËp hoÆc rêi khái bang héi!
+L_PLAYER_TIRE_MSG9	B¹n ®· mÖt mái! 
+L_PLAYER_TIRE_MSG10	B¹n ®· mÖt mái, kh«ng thÓ ®èi tho¹i víi nh©n vËt nµy!
+L_PLAYER_TIRE_MSG11	B¹n ®· mÖt mái! Kh«ng thÓ giao dÞch víi ng­êi kh¸c!
+L_PLAYER_TIRE_MSG12	B¹n ®· mÖt mái! Kh«ng thÓ mua bÊt cø mãn g×!
+L_PLAYER_TIRE_MSG13	Ng­êi nµy ®ang trong thêi gian mÖt mái, kh«ng thÓ b¸n hµng cho b¹n!
+
+
+
+L_PLAYERSTALL_0	Recv  c2s_stallmarkprice request
+L_PLAYERSTALL_1	Recv  c2s_stallmakeadv request
+L_PLAYERSTALL_2	Recv  c2s_stallstallbuyitem request
+L_PLAYERSTALL_3	Recv  c2s_stallexit request
+L_PLAYERSTALL_4	Recv  c2s_stallrequestadv request
+L_PLAYERSTALL_5	Recv  c2s_stallrequestiteminfo request
+L_PLAYERSTALL_6	In KPlayerStall::ProcessStallProtocol recv unknown protocol
+L_PLAYERSTALL_7	In KPlayerStall construcotr
+L_PLAYERSTALL_8	KPlayerStall::CheckItemPriceRange : some item price is not correctly\n
+L_PLAYERSTALL_9	KPlayerStall::GetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_10	KPlayerStall::SetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_11	KPlayerStall::CheckMakeStallCondition : you are in fight area\n
+L_PLAYERSTALL_12	KPlayerStall::CheckMakeStallCondition : No item in equitment room\n
+L_PLAYERSTALL_13	KPlayerStall::CheckMakeStallCondition : Player is on horse\n
+L_PLAYERSTALL_14	KPlayerStall::HasEnoughSpace : no enough space for Width = %d , Height = %d \n
+L_PLAYERSTALL_15	KPlayerStall::HasEnoughMoney : no enough Money  %d  \n
+L_PLAYERSTALL_16	KPlayerStall::HasThisItem : item haven't  existed , Itemidx = %d, nX = %d , nY = %d ,Price = %d  nIdx = %d\n
+L_PLAYERSTALL_17	KPlayerStall::HasThisItem : item couldn't be sell\n
+L_PLAYERSTALL_18	KPlayerStall::HasThisItem : price rise,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_19	KPlayerStall::HasThisItem : price down,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_20	KPlayerStall::c2sstallmarkprice : the item be priced number is error	
+L_PLAYERSTALL_21	Recv markprice item list:	
+L_PLAYERSTALL_22	Recv markprice protocol, but cann't fit the condition	
+L_PLAYERSTALL_23	Recv markprice protocol, but some item has a error price	
+L_PLAYERSTALL_24	KPlayerStall::c2sstallmarkprice : SellerID is 	
+L_PLAYERSTALL_25	KPlayerStall::c2sstallmarkprice : SellerID is error	
+L_PLAYERSTALL_26	Some marked item don't exist, something wrong??	
+L_PLAYERSTALL_27	Set seller %d to Stall_Sell_State\n,	m_nPlayerIndex);
+L_PLAYERSTALL_28	Recv  buy item info:	
+L_PLAYERSTALL_29	SellID = %d, ItemID= %d \n	
+L_PLAYERSTALL_30	 [%02d:%02d:%02d]: %s<%s> ´Ó %s<%s> ´¦ÒÔ %d µÄ¼Û¸ñÂò×ßÁË [%s]\r\n	
+L_PLAYERSTALL_31	 [Unknown Time]: %s<%s> ´Ó %s<%s> ´¦ÒÔ %d µÄ¼Û¸ñÂò×ßÁË [%s]\r\n	
+L_PLAYERSTALL_32	 [%s]µÄÉú³ÉÊ±¼äÊÇ (%u) \r\n\r\n	
+L_PLAYERSTALL_33	´Ó [Account:%s] [Name:%s]µÄ°ÚÌ¯ÂòÈëÎïÆ·	Ö§³ö£º%d [%s]ÊÕÈë£º%d Ë°½ð£º%d\r\n	
+
+L_PlayerTrade_0	 [trade]trade µÃµ½½»Ò××´Ì¬ÐÅÏ¢£º¼º·½Ëø¶¨ %d £¬¶Ô·½Ëø¶¨ %d£¬¼º·½È·¶¨ %d£¬¶Ô·½È·¶¨ %d	
+L_BuySell_0	BuySell: %s buy idx error!
+L_BuySell_1	%s (%s) ÔÚ%dÑ­»·ÂôÁË%sµÃµ½%dÁ½Òø×Ó\n
+L_BuySell_2	´ÓnpcÂòÈëÎïÆ·	Ö§³ö½ðÇ®£º%d\r\n
+L_BuySell_3	´ÓnpcÂô³öÎïÆ·	ÊÕÈë½ðÇ®£º%d\r\n
+
+L_ITEM_0	%s (%s) µÄ×°±¸±»·ÇÕý³£Çå³ý\n
+
+L_ItemList_0	%s (%s) »ñÈ¡%s (%s) µÄ×°±¸%d\n
+L_ItemList_1	[ITEM] ItemListIdx:%d, Item:%d, ItemId:%d
+L_ItemList_2	%s (%s) µÄ×°±¸%dÇå³ýÊ±ÒÑ¾­ÊÇ%dËùÊôµÄ×°±¸\n
+L_ItemList_3	 [trade]trade ¶Ô·½¼õÉÙÎïÆ· id:%d  PosX:%d  PosY:%d  Width:%d  Height:%d
+L_ItemList_4	 [trade]trade ´ËÎïÆ·ÊôÐÔ1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ItemList_5	 [trade]trade ´ËÎïÆ·ÊôÐÔ2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_ItemList_6	 [trade]trade ´ËÎïÆ·ÊôÐÔ3 MagicLevel: %d %d %d %d %d %d
+L_ItemList_7	 [%s]Éè¶¨´¢ÎïÏäÃÜÂë£¡
+L_ItemList_8	GMÉè¶¨ [%s]µÄ´¢ÎïÏäÃÜÂë£¡
+L_ItemList_9	 [%s]È¡Ïû´¢ÎïÏäÃÜÂë£¡
+L_ItemList_10	GMÈ¡Ïû [%s]µÄ´¢ÎïÏäÃÜÂë£¡
+L_ItemList_11	 [%s]ÐÞ¸Ä´¢ÎïÏäÃÜÂë£¡
+L_ItemList_12	GMËø¶¨ [%s]µÄ´¢ÎïÏä£¡
+L_ItemList_13	GM½âËø [%s]µÄ´¢ÎïÏä£¡
+
+L_ItemList_14	ËÀÍöµôÂäÎïÆ·\r\n
+L_ItemList_15	ËÀÍöµôÂäÉíÉÏ×°±¸\r\n
+L_ItemList_16	¶ªÆúËùÓÐÒ©Æ·\r\n
+L_ItemList_17	¶ªÆúËùÓÐºìÒ©\r\n
+L_ItemList_18	¶ªÆúËùÓÐÀ¶Ò©\r\n
+L_ItemList_19	¶ªÆúËùÓÐºìÀ¶Ò©\r\n
+L_ItemList_20	¶ªÆúËùÓÐ°×Ò©\r\n
+L_ItemList_21	¶ªÆúËùÓÐÂÌÒ©\r\n
+L_ItemList_22	%s (%s) thanh vËt phÈm %s (%d,%d,%d,%d,%d) xuÊt hiÖn lçi, bÞ xãa bá\r\n
+
+L_ItemSet_0	%s ÔØÈëÊ§°Ü£¬Çë¼ì²éÉè¶¨ÎÄ¼þ²¢Í¨ÖªÑÐ·¢ÈËÔ±£¡
+
+L_KLibOfBPT_0	 [Ä§·¨ÊôÐÔ]%sÎå·À¿¹ÐÔÉÏÏÞÔö¼Ó%d
+L_KLibOfBPT_1	 [Ä§·¨ÊôÐÔ]m_CMAIT [Ç°×ººó×º] [ÀàÐÍ] [ÎåÐÐ] [¼¶±ð]\n
+L_KLibOfBPT_2	 [Ä§·¨ÊôÐÔ]m_CMAIT [%d] [%d] [%d] [%d]: Count = %3d, %s  \n
+
+L_Core_0	ÎÞ·¨´ò¿ª\\settings\\gamesetting.iniÎÄ¼þ £¬Çë¼ì²é!!\n
+L_Core_1	 [Math]³õÊ¼»¯ÊýÑ§º¯ÊýÊ§°Ü!
+L_Core_2	 [Script]½Å±¾Õ¼¿Õ¼äÎª%d
+L_Core_3	ÎÞ·¨´ò¿ª%sÎÄ¼þ!!!\n
+L_Core_4	ÈËÎïÄ£°åÊýÁ¿%d
+L_Core_7	%sNpcµÈ¼¶Éè¶¨½Å±¾ÎÞ·¨¼ÓÔØ£¬¿ÉÄÜÎÄ¼þ²»´æÔÚ»òÓï·¨´íÎó
+
+L_ProtocolProcess_0	 [trade]trade ¶Ô·½Ôö¼ÓÎïÆ·¿Í»§¶ËÌí¼ÓÊ§°Ü!!!
+L_ProtocolProcess_1	 [trade]trade ¶Ô·½Ôö¼ÓÎïÆ· id:%d  PosX:%d  PosY:%d
+L_ProtocolProcess_2	 [trade]trade ´ËÎïÆ·ÊôÐÔ1 Genre:%d  quality:%d Detail:%d  Particur:%d  Series:%d
+L_ProtocolProcess_3	 [trade]trade ´ËÎïÆ·ÊôÐÔ2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+
+L_PLAYERDBFUN_0	[Error!]AddNpc Error DBFuns.cpp
+L_PLAYERDBFUN_1	ItemSet:%d, Load item failed!\n
+L_PLAYERDBFUN_2	[%s]\nPlayerName:(%s:%s)\tNpcName:(%s)\nMoney:(%d:%d)\nPos:(%d,%d,%d)\n
+L_PLAYERDBFUN_3	ItemName:%s, Ver:%d, Rand:%d, ID:%d, Param:(%d,%d,%d), GenTime:%d, Lvl:%d, Series:%d, Local(%d:%d:%d), Magic(%d,%d,%d,%d,%d,%d), Luck:%d, Dur:%d, MaxDur:%d\n
+L_PLAYERDBFUN_4	----\n%s\nItemList Index:%d\nItem Index:%d\nItem ID:%d\nItem Place:%d
+L_PLAYERDBFUN_5	----\n MenuState: %d TradeState: %d
+
+L_MissleSet_0	MissleSet Have Full!!!, It Maybe A Error!
+L_MissleSet_1	[Missle]Missle%dAdd
+L_MissleSet_2	[Missle]Missle%dRemove
+L_MissleSet_3	[Missle]Count%d
+
+L_SkillList_0	NpcµÄ¼¼ÄÜÊýÁ¿³¬¹ýÁËÏÞÖÆ50£¡£¡£¡£¬Çë¼ì²é!!!
+L_SkillList_1	Param2PCoordinateº¯Êý»ñµÃ²ÎÊýÎ¥·¨£¡nParam1,nParam2 [%d,%d], nPX,nPY
+L_SkillList_2	Skill::Cast(), nLauncher < 0 , Return False;
+L_SkillList_3	Call Skill::Cast(), nWaitTime < 0 
+L_SkillList_4	´´½¨×Óµ¯ÌùÍ¼Ê§°Ü£¡£¡£¡%s
+
+L_Skills_0	ÎÞ·¨¶ÁÈ¡¼¼ÄÜÉè¶¨½Å±¾ÎÄ¼þ%s£¬ÇëÈ·ÈÏÊÇ·ñÎÄ¼þ´æÔÚ»ò½Å±¾Óï·¨ÓÐÎó£¡
+L_Skills_1	ÖÂÃü´íÎó£¡ÎÞ·¨»ñµÃ¼¼ÄÜ [%s]µÄÉè¶¨½Å±¾£¬Çë¼ì²éÊÇ·ñ´æÔÚ»òÓï·¨ÓÐÎó£¡\n
+L_Skills_2	µ±»ñµÃ¸Ã¼¼ÄÜµÈ¼¶Îª%d£¨%s,%s£©Ê±£¬³ö´í£¬Çë¼ì²é½Å±¾!,
+
+L_ScriptFuns_0	Error!Say½Å±¾¶Ô»°¹ý³¤£¬Çë¸üÕý¡£%s
+
+L_LuaFuns_0	ÎÞ·¨ÕÒµ½Ö¸¶¨µÄ½Å±¾¶ÔÏó
+
+L_SortScript_0	 [½Å±¾]¼ÓÔØ½Å±¾%s£¬³ö´í£¬¸Ã½Å±¾ÎÞ·¨¼ÓÔØ£¡£¡Çë¼ì²é£¡£¡
+L_SortScript_1	 [½Å±¾]ÑÏÖØ´íÎó!½Å±¾ÊýÁ¿³¬ÏÞÖÆ%d£¡ÇëÁ¢¼´½â¾ö£¡£¡
+L_SortScript_2	 [Script]½Å±¾×ÜÈÝÁ¿³¬¹ý%d,ÑÏÖØ´íÎóÇë¼ì²é!
+L_SortScript_3	¼ÓÔØ%sÎÄ¼þ³ö´í
+
+L_CoreServerShell_0	 [error]ÍøÂç½ÓÊÕÐ­Òé´óÐ¡²»Æ¥Åä
+L_CoreServerShell_1	 [error]ÍøÂç½ÓÊÕÐ­Òé´óÐ¡²»Æ¥Åä<%d>, should %d, but %d\n
+
+L_GMCOMMAND_0	Ö´ÐÐGMÖ¸Áî,·¢ÉúÒì³£!\n
+
+MSG_GET_EXP	B¹n nhËn ®­îc %I64d ®iÓm kinh nghiÖm. 
+MSG_DEC_EXP	B¹ntæn thÊt %I64d ®iÓm kinh nghiÖm. 
+MSG_LEVEL_UP	§¼ng cÊp cña B¹n th¨ng lªn ®Õn %d. 
+MSG_LEADER_LEVEL_UP	§¼ng cÊp thèng so¸i cña B¹n th¨ng lªn ®Õn %d! 
+MSG_GET_ATTRIBUTE_POINT	B¹n nhËn ®­îc %d ®iÓm tiÒm n¨ng! 
+MSG_GET_SKILL_POINT	B¹n nhËn ®­îc %d mét kü n¨ng ®iÓm! 
+MSG_GET_ATTRIBUTE_SKILL_POINT	B¹n nhËn ®­îc %d ®iÓm tiÒm n¨ng vµ %d mét kü n¨ng ®iÓm! 
+MSG_SKILL_BEYOND_ATTACKRADIUS	B¹n ®øng c¸ch tiªu ®iÓm qu¸ xa, tr­íc m¾t sö dông vâ c«ng nµy sÏ kh«ng ®ñ hiÖu nghiÖm
+MSG_GET_HALF_EXP	B¹n ®ang trong tr¹i th¸i mái mÖt, chØ nhËn ®­îc mét nöa ®iÓm kinh nghiÖm %d ®iÓm.
+
+MSG_TEAM_AUTO_REFUSE_INVITE	Tù ®éng cù tuyÖt lêi mêi cña ng­êi kh¸c ®èi víi nhãm cña B¹n 
+MSG_TEAM_NOT_AUTO_REFUSE_INVITE	HiÓn thÞ ng­êi kh¸c ®ang mêi nhãm cña B¹n 
+MSG_TEAM_SEND_INVITE	 B¹n %s ph¸t ra lêi mêi c¸c nhãm
+MSG_TEAM_CANT_INVITE	Ng­êi míi ch¬i kh«ng thÓ mêi ®­îc ng­êi cña tæ ®éi kh¸c
+MSG_TEAM_GET_INVITE	%s mêi tæ ®éi cña B¹n! 
+MSG_TEAM_REFUSE_INVITE	%s cù tuyÖt lêi mêi cña nhãm B¹n! 
+MSG_TEAM_CREATE	B¹n s¸ng lËp nªn mét nhãm míi
+MSG_TEAM_CREATE_FAIL	S¸ng lËp nhãm thÊt b¹i. 
+MSG_TEAM_CANNOT_CREATE	B¹n hiÖn giê kh«ng thÓ lËp nhãm 
+MSG_TEAM_TARGET_CANNOT_ADD_TEAM	§èi ph­¬ng hiÖn giê kh«ng thÓ lËp nhãm
+MSG_TEAM_OPEN	nhãm cña B¹n hiÖn giê kh«ng ®­îc phÐp tiÕp nhËn thªm héi viªn míi
+MSG_TEAM_CLOSE	nhãm cña B¹n hiÖn giê kh«ng ®­îc phÐp tiÕp nhËn thªm héi viªn míi
+MSG_TEAM_ADD_MEMBER	%s trë thµnh b»ng h÷u cña nhãm B¹n. 
+MSG_TEAM_SELF_ADD	nhãm cña B¹n %s gia nhËp. 
+MSG_TEAM_DISMISS_CAPTAIN	B¹n ®· gi¶i t¸n nhãm cña m×nh
+MSG_TEAM_DISMISS_MEMBER	%s gi¶i t¸n nhãm! 
+MSG_TEAM_KICK_ONE	%s bÞ khai trõ khái nhãm
+MSG_TEAM_BE_KICKEN	 B¹n bÞ khai trõ khái nhãm
+MSG_TEAM_APPLY_ADD	%s xin phÐp gia nhËp nhãm! 
+MSG_TEAM_APPLY_ADD_SELF_MSG	nhãm cña B¹n xin phÐp %s gia nhËp! 
+MSG_TEAM_LEAVE	%s rêi khái nhãm. 
+MSG_TEAM_LEAVE_SELF_MSG	nhãm mµ B¹n %s rêi khái. 
+MSG_TEAM_CHANGE_CAPTAIN_FAIL1	§¶m nhËn nhãm tr­ëng thÊt b¹i! 
+MSG_TEAM_CHANGE_CAPTAIN_FAIL2	%s kh«ng ®ñ søc thèng so¸i! 
+MSG_TEAM_CHANGE_CAPTAIN_FAIL3	nhãm cña B¹n kh«ng thÓ chuyÓn giao cho ng­êi míi 
+MSG_TEAM_CHANGE_CAPTAIN	%s ®­îc ®¶m nhËn lµ nhãm tr­ëng
+MSG_TEAM_CHANGE_CAPTAIN_SELF	B¹n ®­îc %s ®¶m nhËn lµ nhãm tr­ëng! 
+MSG_TEAM_AUTO_CAPTAIN_SELF	B¹n ®­îc hÖ thèng chØ ®Þnh lµ nhãm tr­ëng! 
+MSG_TEAM_AUTO_CAPTAIN	%s ®­îc hÖ thèng chØ ®Þnh lµ nhãm tr­ëng! 
+MSG_TEAM_ERROR01	nhãm tr­ëng do hÖ thèng chØ ®Þnh, kh«ng thÓ t¨ng thªm thµnh viªn nhãm! 
+MSG_TEAM_ERROR02	nhãm tr­ëng do hÖ thèng chØ ®Þnh, kh«ng thÓ ®uæi ng­êi khái nhãm! 
+MSG_TEAM_ERROR03	nhãm tr­ëng do hÖ thèng chØ ®Þnh, kh«ng thÓ ®¶m nhËn t©n nhãm tr­ëng! 
+MSG_TEAM_ERROR04	nhãm tr­ëng do hÖ thèng chØ ®Þnh, kh«ng thÓ mêi ng­êi kh¸c gia nhËp nhãm! 
+MSG_TEAM_ERROR05	nhãm tr­ëng do hÖ thèng chØ ®Þnh, kh«ng thÓ më réng nhãm! 
+
+MSG_CHAT_APPLY_ADD_FRIEND	 B¹n ®Õn %s xin phÐp ®­îc kÕt giao. 
+MSG_CHAT_FRIEND_HAD_IN	%s ®· ®­îc nhËn lµm b¼ng h÷u. 
+MSG_CHAT_GET_FRIEND_APPLY	%s xin phÐp gia nhËp b»ng h÷u! 
+MSG_CHAT_REFUSE_FRIEND	%s cù tuyÖt xin lµm b»ng h÷u
+MSG_CHAT_ADD_FRIEND_FAIL	Tham gia %s lµm b»ng h÷u thÊt b¹i! 
+MSG_CHAT_ADD_FRIEND_SUCCESS	B¹n ®· %s trë thµnh b»ng h÷u! 
+MSG_CHAT_CREATE_TEAM_FAIL1	S¸ng lËp nhãm b»ng h÷u míi thÊt b¹i! 
+MSG_CHAT_CREATE_TEAM_FAIL2	§· cã mét nhãm lÊy tªn nµy! 
+MSG_CHAT_CREATE_TEAM_FAIL3	§· ®¹t ®ñ sè ng­êi trong mét nhãm! 
+MSG_CHAT_RENAME_TEAM_FAIL	Thay ®æi tªn nhãm thÊt b¹i! 
+MSG_CHAT_DELETE_TEAM_FAIL1	L­îc bá nhãm thÊt b¹i! 
+MSG_CHAT_DELETE_TEAM_FAIL2	nhãm nµy kh«ng cho phÐp l­îc bá 
+MSG_CHAT_FRIEND_ONLINE	%s lªn m¹ng råi! 
+MSG_CHAT_FRIEND_OFFLINE	%s rêi m¹ng råi! 
+MSG_CHAT_FRIEND_DELETE	%s bÞ l­îc bá råi! 
+MSG_CHAT_DELETE_FRIEND	 B¹n ®· %s hñy bá mèi quan hÖ b»ng h÷u! 
+MSG_CHAT_DISMISS_FRIEND	%s cïng B¹n hñy bá mèi quan hÖ b»ng h÷u! 
+MSG_CHAT_DISMISS_BROTHER	%s cïng B¹n hñy bá mèi quan hÖ th©n thÝch! 
+MSG_CHAT_DISMISS_MATE	%s cïng B¹n hñy bá mèi quan hÖ phu thª! 
+MSG_CHAT_DISMISS_RELATION	%s cïng B¹n hñy bá mèi quan hÖ! 
+MSG_CHAT_MSG_FROM_FRIEND	%s tin tøc chuyÓn ®Õn! 
+MSG_CHAT_FRIEND_NOT_NEAR	%s kh«ng ë phô cËn! 
+MSG_CHAT_FRIEND_NOT_ONLINE	%s kh«ng trùc tuyÕn! 
+MSG_CHAT_TAR_REFUSE_SINGLE_TALK	%s ch­a ®Þnh duyÖt chøc n¨ng t¸n gÉu! 
+
+MSG_SHOP_NO_ROOM	Kho¶ng trèng trong tói kh«ng ®ñ! 
+MSG_SHOP_NO_MONEY	TiÒn Vµng kh«ng ®ñ! 
+MSG_SHOP_NO_FUYUAN	Phóc duyªn kh«ng ®ñ! 
+MSG_SHOP_NO_COIN	TiÒn §ång kh«ng ®ñ! 
+MSG_SHOP_NO_SCORE	§iÓm tÝch lòy kh«ng ®ñ!
+MSG_SHOP_NO_CONTRIBUTION	§iÓm cèng hiÕn kh«ng ®ñ!
+
+MSG_NPC_NO_MANA	Néi lùc kh«ng ®ñ! 
+MSG_NPC_NO_STAMINA	ThÓ lùc kh«ng ®ñ! 
+MSG_NPC_NO_LIFE	Sinh mÖnh kh«ng ®ñ! 
+MSG_NPC_DEATH	%s khÝ tuyÖt th©n vong!! 
+
+MSG_OBJ_CANNOT_PICKUP	B¹n kh«ng thÓ lÊy ®­îc vËt phÈm cña ng­êi kh¸c! 
+MSG_MONEY_CANNOT_PICKUP	B¹n kh«ng thÓ lÊy ®­îc tiÒn cña ng­êi kh¸c! 
+MSG_OBJ_TOO_FAR	vËt phÈm qu¸ xa, kh«ng thÓ lÊy ®­îc! 
+MSG_DEC_MONEY	B¹n bÞ mÊt %d l­îng b¹c! 
+MSG_EARN_MONEY	B¹n nhËn ®­îc %d l­îng b¹c! 
+MSG_DEATH_LOSE_ITEM	B¹n mÊt ®i vËt phÈm %s! 
+MSG_ADD_ITEM	B¹n nhËn ®­îc %d mét c¸i %s! 
+MSG_ITEM_SAME_DETAIL_IN_IMMEDIATE	HiÖn ®· cã vËt phÈm ®ång lo¹i råi
+MSG_CAN_NOT_VIEW_ITEM	HiÖn giê kh«ng thÓ xem xÐt trang bÞ cña ng­êi kh¸c! 
+MSG_ITEM_DAMAGED	Nh÷ng trang bÞ cña b¹n %s ®· sö dông qu¸ l©u, hao mßn triÖt ®Ó! 
+MSG_ITEM_NEARLY_DAMAGED	Nh÷ng thø b¹n trang bÞ %s ®· s¾p bÞ hao mßn, xin kÞp thêi xö lý 
+MSG_ITEM_USINGTIMES_END	%s cña b¹n ®· hao mßn triÖt ®Ó!
+MSG_ITEM_UNFIT_SIZE_IMMEDIATE	Thanh c«ng cô chØ cã thÓ ®Æt vµo 1 vËt phÈm mµ th«i!
+MSG_ITEM_LEFTUSAGETIME_FADE	<color=yellow>%s<color> cña b¹n s¾p háng, cßn <color=yellow>%d<color> phót sö dông!
+MSG_ITEM_LEFTUSAGETIME_TIMEOUT	 %s cña b¹n ®· h­ háng!
+
+MSG_TRADE_STATE_OPEN	B¹n hiÖn giê cã thÓ giao dÞch. 
+MSG_TRADE_STATE_CLOSE	B¹n hiÖn giê kh«ng thÓ giao dÞch. 
+MSG_TRADE_SELF_LOCK	B¹n ®· khãa chøc n¨ng giao dÞch vËt phÈm. 
+MSG_TRADE_SELF_UNLOCK	B¹n gi¶i khãa, giao dÞch vËt phÈm. 
+MSG_TRADE_DEST_LOCK	%s ®· khãa chøc n¨ng giao dÞch vËt phÈm. 
+MSG_TRADE_DEST_UNLOCK	%s B¹n gi¶i khãa, giao dÞch vËt phÈm. 
+MSG_TRADE_SUCCESS	B¹n cïng víi %s giao dÞch thµnh c«ng. 
+MSG_TRADE_FAIL	B¹n cïng víi %s giao dÞch thÊt b¹i. 
+MSG_TRADE_SELF_ROOM_FULL	kho¶ng trèng trong tói cña B¹n kh«ng ®ñ! 
+MSG_TRADE_DEST_ROOM_FULL	%s kho¶ng trèng trong tói kh«ng ®ñ! 
+MSG_TRADE_SEND_APPLY	B¹n gÆp %s xin phÐp giao dÞch! 
+MSG_TRADE_GET_APPLY	%s xin phÐp cïng víi B¹n giao dÞch! 
+MSG_TRADE_REFUSE_APPLY	%s cù tuyÖt giao dÞch víi B¹n! 
+MSG_TRADE_TASK_ITEM	VËt phÈm nµy kh«ng thÓ giao dÞch!
+
+MSG_PK_NORMAL_FLAG_0	Tr¹ng th¸i PK ë d¹ng luyÖn c«ng
+MSG_PK_NORMAL_FLAG_1	Tr¹ng th¸i PK ë d¹ng chiÕn ®Êu
+MSG_PK_NORMAL_FLAG_2	Tr¹ng th¸i PK ë d¹ng thøc giÕt ng­êi
+MSG_PK_FIGHT_FLAG	PK ®· s½n sµng cho d¹ng thøc chiÕn ®Êu
+MSG_PK_KILL_ALL_FLAG	PK ®· s½n sµng cho d¹ng giÕt ng­êi
+MSG_PK_VALUE	TrÞ sè PK hiÖn thêi cña B¹n lµ %d! 
+MSG_PK_ERROR_1	B¹n hiÖn giê ®ang ë trong tr¹ng th¸i phi chiÕn ®Êu! 
+MSG_PK_ERROR_2	Ng­êi míi kh«ng thÓ giÕt thï! 
+MSG_PK_ERROR_3	B¹n ®ang cïng víi ng­êi kh¸c trao ®æi ý kiÕn! 
+MSG_PK_ERROR_4	B¹n ®ang cïng víi ng­êi kh¸c giÕt thï! 
+MSG_PK_ERROR_5	B¹n kh«ng thÓ giÕt ng­êi míi! 
+MSG_PK_ERROR_6	§èi ph­¬ng ®ang ë trong tr¹ng th¸i phi chiÕn ®Êu! 
+MSG_PK_ERROR_7	§èi ph­¬ng ®ang cïng víi ng­êi kh¸c trao ®æi ý kiÕn! 
+MSG_PK_ENMITY_SUCCESS_1	%s cïng víi B¹n cõu s¸t! 
+MSG_PK_ENMITY_SUCCESS_2	Sau 10 gi©y b¾t ®Çu tiÕn hµnh cõu s¸t! 
+MSG_PK_ENMITY_CLOSE	nhiÖn vô cõu s¸t cña B¹n kÕt thóc! 
+MSG_PK_ENMITY_OPEN	B©y giê b¾t ®Çu tiÕn hµnh cõu s¸t!
+MSG_PK_ERROR_8	PK tõ phi luyÖn c«ng chuyÓn sang luyÖn c«ng ph¶i mÊt 3 phót
+MSG_PK_YUXI_1	S¸t h¹i ng­êi së h÷u Ngäc Tû,  bÞ trõng ph¹t PK gÊp 2 lÇn.
+MSG_PK_YUXI_2	Së h÷u Ngäc Tû sÏ kh«ng bÞ trõng ph¹t PK
+
+
+MSG_TONG_CREATE_ERROR01	Tªn bang héi qu¸ dµi
+MSG_TONG_CREATE_ERROR02	Phe ph¸i trong bang héi hiÓu lÇm! 
+MSG_TONG_CREATE_ERROR03	Thµnh viªn bang héi kh«ng thÓ kh«ng thÓ lËp mét bang héi kh¸c! 
+MSG_TONG_CREATE_ERROR04	S¸t thñ míi cã thÓ lËp bang héi
+MSG_TONG_CREATE_ERROR05	§¼ng cÊp ®Ó lËp bang héi kh«ng ®ñ! 
+MSG_TONG_CREATE_ERROR06	§¼ng cÊp thèng so¸i ®Ó lËp bang héi kh«ng ®ñ! 
+MSG_TONG_CREATE_ERROR07	LËp bang héi cÇn ph¶i cã %d tiÒn! 
+MSG_TONG_CREATE_ERROR08	Trong tæ ®éi, kh«ng thÓ lËp bang héi! 
+MSG_TONG_CREATE_ERROR09	Tªn bang héi bÞ sai! 
+MSG_TONG_CREATE_ERROR10	Sè tiÒn cÇn ®Ó lËp bang héi kh«ng ®ñ! 
+MSG_TONG_CREATE_ERROR11	Tªn bang héi kh«ng hîp ph¸p hoÆc trïng víi tªn bang héi kh¸c! 
+MSG_TONG_APPLY_CREATE	B¹n xin phÐp s¸ng lËp bang héi! 
+MSG_TONG_CREATE_SUCCESS1	S¸ng lËp bang héi thµnh c«ng! 
+MSG_TONG_CREATE_SUCCESS2	%s b¾t ®Çu thêi gian kh¶o nghiÖm! 
+MSG_TONG_CREATE_SUCCESS3	Xin h·y mau chãng më réng quy m« 
+MSG_TONG_INSTATE_FAIL_ID2	%s kh«ng trùc tuyÕn, kh«ng thÓ nhiÖm mÖnh
+MSG_TONG_INSTATE_FAIL_ID3	%s n¨ng lùc kh«ng ®ñ, kh«ng thÓ ®¶m ®­¬ng chøc vÞ míi! 
+MSG_TONG_CHANGE_JOB_CALL_ERROR1	Tªn x­ng h« qu¸ dµi! 
+MSG_TONG_CHANGE_JOB_CALL_ERROR2	Bang chñ míi cã thÓ thay ®æi tªn gäi! 
+MSG_TONG_CHANGE_JOB_CALL_ERROR3	Bang chñ míi cã thÓ thay ®æi phe ph¸i! 
+MSG_TONG_APPLY_ADD	B¹n xin phÐp gia nhËp bang héi! 
+MSG_TONG_APPLY_ADD_ERROR1	Thµnh viªn bang héi kh«ng thÓ gia nhËp thªm mét bang héi kh¸c! 
+MSG_TONG_APPLY_ADD_ERROR2	S¸t thñ míi cã thÓ gia nhËp bang héi!
+MSG_TONG_APPLY_ADD_ERROR3	Trong tæ ®éi, kh«ng thÓ gia nhËp bang héi! 
+MSG_TONG_REFUSE_ADD	%s cù tuyÖt B¹n gia nhËp bang héi! 
+MSG_TONG_ADD_SUCCESS	B¹n gia nhËp bang héi! 
+MSG_TONG_CANNOT_LEAVE1	Bang chñ kh«ng thÓ rêi khái bang héi! 
+MSG_TONG_CANNOT_LEAVE2	Tr­ëng l·o kh«ng thÓ rêi khái bang héi! 
+MSG_TONG_BE_KICKED	B¹n ®· bÞ ®uæi khái bang héi
+MSG_TONG_LEAVE_SUCCESS	B¹n chñ ®éng rêi khái bang héi thµnh c«ng! 
+MSG_TONG_LEAVE_FAIL	B¹n chñ ®éng rêi khái bang héi thÊt b¹i! 
+MSG_TONG_CHANGE_AS_MASTER	B¹n ®­îc ®¶m nhËn Bang chñ! 
+MSG_TONG_CHANGE_AS_MEMBER	B¹n hiÖn giê trë thµnh bang chóng b×nh th­êng! 
+MSG_TONG_DISMISS	Bang héi cña B¹n ch­a th«ng qua thêi gian kh¶o nghiÖm, bÞ gi¶i t¸n! 
+MSG_TONG_CHANGE_CAMP_NO_MONEY	Thay ®æi phe ph¸i trong bang héi cÇn ph¶i n¹p %d mét v¹n thñ tôc phÝ! 
+MSG_TONG_CREATE_UNION_ERROR2	§· ë trong liªn minh, kh«ng thÓ t¸i lËp liªn minh! 
+MSG_TONG_CREATE_UNION_ERROR4	ChØ ®Þnh bang héi kh«ng tån t¹i! 
+MSG_TONG_CREATE_UNION_ERROR5	§· cã bang héi hoÆc liªn minh bang héi trïng tªn nµy! 
+MSG_TONG_CREATE_UNION_SUCCESS	B¹n s¸ng lËp nªn mét liªn minh bang héi kh«ng tªn! 
+MSG_TONG_JOIN_UNION_ERROR1	Liªn minh xin gia nhËp kh«ng tån t¹i hoÆc ®· bÞ gi¶i t¸n!
+MSG_TONG_NO_OPRIGHT	Kh«ng cã quyÒn h¹n ®Ó thùc hiÖn thao t¸c nµy!
+MSG_ADD_CONTRIBUTION	B¹n nhËn ®­îc %d ®iÓm cèng hiÕn
+MSG_RIGHT_ASSIGN_NEED_DIRECTOR	§èi ph­¬ng kh«ng ph¶i lµ tr­ëng l·o, kh«ng thÓ tiÕp nhËn quyÒn h¹n!
+MSG_TONG_TARGET_NOTMEMBER	§èi ph­¬ng kh«ng ph¶i lµ thµnh viªn bang héi!
+MSG_TONG_RIGHT_ASSIGN_SUCCESS	Giao quyÒn cho %s thµnh c«ng!
+MSG_TONG_SELF_RIGHT_ASSIGN		QuyÒn h¹n thao t¸c bang héi cña b¹n ®· ®­îc bang chñ giao phã l¹i!
+MSG_TONG_NORIGHT_MEMBER_ONLINE	Bang chñ vµ tr­ëng l·o cã quyÒn h¹n nµy ®Òu kh«ng cã trªn m¹ng!
+
+MSG_TONG_ADD_UNIONMEMBER_ERROR1	Liªn minh thÊt b¹i! Ng©n quü bang héi liªn minh kh«ng ®ñ!
+MSG_TONG_ADD_UNIONMEMBER_ERROR2	Liªn minh thÊt b¹i! Ng©n quü bang héi muèn liªn minh kh«ng ®ñ!
+
+MSG_CANT_SWITCH_HORSE	B¹n qu¸ mÖt råi kh«ng thÓ tiÕp tôc lªn hoÆc xuèng ngùa. 
+MSG_CANT_SWITCH_HORSE_WHEN_SIT	B¹n ngåi xuèng råi, kh«ng thÓ lªn ngùa. 
+MSG_SOMEONE_GIVE_YOU_MONEY	%s ®· cho B¹n mét sè tiÒn. 
+MSG_YOU_GIVE_SOMEONE_MONEY	B¹n ®· cho %s mét sè tiÒn. 
+
+MSG_ENCHASER_SUCCESS	Kh¶m n¹m b¶o th¹ch thµnh c«ng!
+MSG_ENCHASER_MAGICATTRIBISFULL	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_ENCHASER_SERIESISSAME	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_ENCHASER_LEVELISFULL	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_ENCHASER_ITEMISINVALID	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_ENCHASER_CONDITIONISVALID	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_ENCHASER_UNCONDITION	Kh¶m n¹m b¶o th¹ch thÊt b¹i!
+MSG_CANT_STALL_NO_MARK_PRICE	B¹n vÉn ch­a ®Þnh gi¸ cho bÊt cø vËt phÈm nµo! 
+MSG_CANT_STALL_NO_ADV	Xin thiÕt kÕ qu¶ng c¸o, ®é dµi kho¶ng 1-%d ch÷ 
+
+MSG_CANT_STALL_DISABLED	Kh«ng cho phÐp s¾p ®Æt
+MSG_CANT_STALL_OUT_TOWN	B¹n chØ cã thÓ tiÕn hµnh s¾p ®Æt trong thµnh! 
+MSG_CANT_STALL_TRADE_OR_HORSE	Trong lóc cìi ngùa hoÆc ®ang giao dÞch víi tæ ®éi kh«ng thÓ s¾p ®Æt! 
+MSG_STALL_OPENED	B¹n b¾t ®Çu s¾p ®Æt. 
+MSG_STALL_CLOSED	B¹n quyÕt ®Þnh kh«ng s¾p ®Æt n÷a. 
+MSG_STALL_SELLER_CLOSE	Ng­êi s¾p xÕp ®· cÊt nã råi. 
+MSG_STALL_ITEM_SELLED	VËt phÈm nµy ®· b¸n ra. 
+MSG_STALL_ITEM_PRICEUP	Ng­êi s¾p xÕp ®· n©ng gi¸ niªm yÕt cña vËt phÈm nµy. 
+MSG_STALL_SELLER_DONOTSELL	Ng­êi s¾p xÕp ®· kh«ng b¸n vËt phÈm nµy. 
+MSG_STALL_ITEM_PRICEDOWN	Ng­êi s¾p xÕp gi¶m gi¸ niªm yÕt vËt phÈm nµy. 
+MSG_STALL_NOMONEY	B¹n ch­a ®ñ tiÒn. 
+MSG_STALL_NOSPACE	B¹n kh«ng cã chç trèng ®Ó xÕp vËt phÈm. 
+MSG_STALL_ALL_SOLD_OUT	Nh÷ng vËt B¹n cÇn ®· mua ®ñ, cã thÓ thu xÕp råi! 
+MSG_STALL_TAX_RATE1	ThuÕ suÊt ë khu vùc nµy lµ %d%%
+MSG_STALL_TAX_RATE2	Quan phñ sau mçi lÇn B¹n giao dÞch thµnh c«ng sÏ tù ®Õn thu thuÕ. 
+MSG_STALL_TAX_RATE3	 B¹n lµ thèng so¸i hoÆc lµ thµnh viªn bang héi, ®­îc miÔn thuÕ giao dÞch trong thµnh
+MSG_STALL_LEVEL_NOT_ALLOW1	Th«ng b¸o: ph­¬ng ph¸p tèt nhÊt ®Ó c¸c th­¬ng nghiÖp kh«ng lµm ¨n gian dèi lµ 
+MSG_STALL_LEVEL_NOT_ALLOW2	Th«ng b¸o: %d d©n chóng d­íi cÊp...cÊm kh«ng ®­îc s¾p ®Æt!! 
+MSG_STALL_TRADE_SUCCESS	<%s> ®· mua nh÷ng thø B¹n bµy ra <%s>. 
+MSG_STALL_CANNOT_STALL	Bµy b¸n thÊt b¹i, xin kiÓm tra: Cã ph¶i ®· ®Æt gi¸ cho [vËt phÈm kh«ng thÓ bµy b¸n] kh«ng?
+
+MSG_BUYSELL_CANNOT_SELL	ThÊt b¹i trong viÖc b¸n vËt phÈm cho NPC: VËt phÈm nµy kh«ng thÓ b¸n
+
+MSG_BOX_MUST_UNLOCK	VËt phÈm nµy ®· bÞ ®Æt m· khãa, xin më m· tr­íc. 
+MSG_PASSWORD_NULL	MËt m· kh«ng thÓ lµ kho¶ng tr¾ng!
+
+MSG_BOX_JEWELRY_ONLY	Cét vËt phÈm nµy chØ cã thÓ bá trang søc vµo.
+MSG_PRODUCE_NEW_FLAG	§· xuÊt hiÖn 1 So¸i kú míi!
+
+MSG_PARTNER_LEVEL_UP	%s ®· th¨ng ®Õn %d cÊp.
+MSG_PARTNER_GET_EXP	%s nhËn ®­îc %d ®iÓm kinh nghiÖm.
+MSG_PARTNER_DEC_EXP	%s ®· tæn thÊt %d ®iÓm kinh nghiÖm.
+
+MSG_TONG_RIGHT_CLAIMWAR_ERROR	ChØ cã bang chñ míi cã thÓ tuyªn chiÕn bang kh¸c, ®¹i hiÖp kh«ng cã quyÒn tuyªn chiÕn!
+MSG_TONG_UNION_CHANGE_FAIL_MSG	Sau khi rêi liªn minh 3 ngµy míi cã thÓ gia nhËp liªn minh míi, cÇn ®îi %d gi©y.
+
+MSG_NW_KICKOUT_NOPERMISSION	Chøc vô nµy kh«ng ®ñ quyÒn h¹n ®Ó ®Èy ng­êi kh¸c rêi m¹ng.
+MSG_NW_KICKOUT_SUCCESS	§Èy %s rêi m¹ng thµnh c«ng
+MSG_NW_KICKOUT_NOTIFY	§· bÞ Thiªn Tö [%s] ®Èy rêi m¹ng
+MSG_NW_INSTATE_NOTKING	ChØ cã quèc v­¬ng míi thùc hiÖn ®­îc thao t¸c nµy!
+MSG_NW_LEVYNOTIFY	Thiªn tö tr­ng thu c¸c h¹ %d l­îng
+MSG_NW_LEVYAMOUNT	§· tr­ng thu ng­êi ch¬i ®ang trùc tuyÕn %d l­îng
+MSG_NW_FORBIDCHAT	§· bÞ Thiªn Tö cÊm nãi, %d phót sau tù ®éng gi¶i trõ
+MSG_NW_SEALOWNEDBYEMPEROR	Giang hå ®ån ®¹i r»ng, ngäc tû ®ang ®­îc ®­¬ng kim thiªn tö <color=red>%s<color> qu¶n lý.
+MSG_NW_SEALOWNEDBYOTHER	Giang hå ®å ®¹i r»ng, ngäc tû r¬i vµo tay <color=red>%s<color>
+MSG_NW_SEALISGONE	Giang hå ®ån ®¹i r»ng, ngäc tû ®· thÊt l¹c råi!
+
+G_CITYWARDATA_0	< Vßng §¶ L«i §µi míi nhÊt >\n
+G_CITYWARDATA_1	Hai bªn quyÕt ®Êu: 
+G_CITYWARDATA_2	TrËn thi ®Êu b¸n kÕt: 
+G_CITYWARDATA_3	L­ît thi ®Êu thø %u: 
+G_CITYWARDATA_4	%s ®Êu víi %s
+G_CITYWARDATA_5	%s th¾ng %s
+G_CITYWARDATA_6	<< Khu vùc thµnh %s >>\n
+G_CITYWARDATA_7	, 
+G_CITYWARDATA_8	Thi ®Êu vÉn ch­a tiÕn hµnh...
+G_CITYWARDATA_9	<Khu vùc khiªu chiÕn %s - ®¹i chiÕn L«i ®µi>\n 
+G_CITYWARDATA_10	Tr­íc m¾t ®ang lµ thêi gian hßa b×nh \n
+G_CITYWARDATA_11	Khu vùc L«i ®µi hiÖn ®ang b¸o danh \n
+G_CITYWARDATA_12	Khu vùc L«i ®µi ®· c«ng bè tr×nh tù thi ®Êu \n
+G_CITYWARDATA_13	Khu vùc L«i ®µi ®· tiÕn hµnh thi ®Êu \n
+G_CITYWARDATA_14	 §· tuyÓn ®­îc mét bang héi khiªu chiÕn %s, phe c«ng thµnh chuÈn bÞ chiÕn ®Êu \n
+G_CITYWARDATA_15	C«ng thµnh chiÕn ®· b¾t ®Çu \n
+G_CITYWARDATA_16	§ang lóc hçn ®én \n
+G_CITYWARDATA_17	Chän vÞ Th¸i Thó t¹i thµnh lµm %s, thèng lÜnh bang héi %s\n
+G_CITYWARDATA_18	ThiÕt lËp thuÕ suÊt giao dÞch lµ %u, chØ sè vËt gi¸ lµ %u\n
+G_CITYWARDATA_19	ThuÕ suÊt míi vÉn ch­a c«ng bè \n
+G_CITYWARDATA_20	Thêi gian chiÕm lÜnh: %ld ngµy \n
+G_CITYWARDATA_21	Thêi gian chiÕm lÜnh:? \n
+G_CITYWARDATA_22	Thµnh nµy vÉn ch­a cã vÞ Th¸i Thó \n
+
+MSG_IB_BUYITEM_GOLDCOIN_NOTENOUGH	TiÒn vµng kh«ng ®ñ, kh«ng thÓ mua vËt phÈm nµy. H·y mua tiÒn vµng trªn trang chñ tr­íc.
+MSG_IB_BUYITEM_GOLDCOIN_GAINRETSCORE	<color=yellow>B¹n ®· mua <color=green>[%s]<color>, nhËn ®­îc %d ®iÓm th­¬ng héi<color>
+MSG_IB_BUYITEM_GOLDCOIN_TIMEOUT	Vµo <color=green>n¨m %d th¸ng %d <color>, [%d] ®iÓm th­¬ng héi cña b¹n ®· qu¸ h¹n, bÞ xãa bá.
+
+G_STR_SELL_RETSCORE	Tr¶ l¹i tÝch lòy th­¬ng héi
+
+MSG_WORLDCHAT_NEEDMONEY	ChØ cã ng­êi ch¬i ®· n¹p thÎ míi cã thÓ göi tin trªn kªnh thÕ giíi.
+
+G_EMPEROR_SONG	Hoµng §Õ
+G_EMPEROR_JIN	Kh¶ H·n
+G_NWTITLE_ROYAL	Ngù Phong
+G_NWTITLE_KING	Quèc Chñ
+G_NWTITLE_MINISTER	Thõa T­íng
+G_NWTITLE_MARSHAL	Nguyªn So¸i
+G_NWTITLE_PIONEER	Tiªn Phong
+G_NWTITLE_SONG	Tèng *
+G_NWTITLE_JIN	Kim *
+
+G_FUNCTION_FOBIDDEN	Xin lçi, c«ng n¨ng nµy t¹m thêi ®· bÞ ®ãng, thêi gian më l¹i sÏ ®ùoc th«ng b¸o sau 

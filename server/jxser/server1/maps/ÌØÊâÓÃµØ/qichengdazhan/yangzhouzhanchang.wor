@@ -1,0 +1,6 @@
+[MAIN]
+color=255,255,255,255
+event=null
+rect=95,96,126,116
+verson=0
+windspeed=0.1,0.01,0

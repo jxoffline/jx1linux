@@ -1,0 +1,19 @@
+Name	Feature	Price
+ThÝch Ni M·o	0	0
+Thiªn Thanh M·o	1	0
+XÝch ¶nh ph¸t Qu¸n	2	0
+B×Trô 	6	0
+Thó Cèt Tr©m	7	0
+HuyÒn Tª DiÖn Tr¸o	8	0
+Th« ThiÕt §Çu Hoµn	9	0
+Kª VÜ Thoa	10	0
+Long HuyÕt §Çu hoµn	11	0
+Viªn M·o	12	0
+Song Phông TriÒu Thiªn Qu¸n	13	0
+Long L©n Kh«i	14	0
+Bè M·o	15	0
+L­u Ly Thoa	16	0
+Thanh Tinh Thoa	17	0
+Hoµng Bè Ph¸t §¸i	18	0
+Thanh L­u Ly Ph¸t Xoa	19	0
+Kim Phông TriÓn SÝ 	20	0

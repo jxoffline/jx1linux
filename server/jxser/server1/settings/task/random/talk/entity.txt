@@ -1,0 +1,15 @@
+TaskName	TaskType	Genre	Detail	Particular	Level	GoodsFive	Quality	GoodsNum	DelGoods	Money	KillNpcName	TalkNpcName	TalkNpcMap	TaskText
+Tªn nhiÖm vô 	Lo¹i h×nh nhiÖm vô 	Tæng lo¹i	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	M· sè Hoµng Kim	Sè l­îng	cã thÓ xãa  	Gi¸ 	M· sè thèng kª sè l­îng qu¸i bŞ giÕt	Tªn nh©n vËt §èi tho¹i	Khu vùc nh©n vËt §èi tho¹i	Miªu t¶ nhiÖm vô 
+NgÉu nhiªn_§èi tho¹i_Thóy Yªn Hµ Mé TuyÕt	§èi tho¹i										6	Hµ Mé TuyÕt	Thóy Yªn m«n	
+NgÉu nhiªn_§èi tho¹i_Thóy Yªn Hµ Mé TuyÕt	thu thËp vËt phÈm 	6	0	20	1	0		1	1					1 Hoa hång
+NgÉu nhiªn_§èi tho¹i__ Chñ d­îc ®iÕm (T­¬ng D­¬ng) 	§èi tho¹i											Chñ d­îc ®iÕm	T­¬ng D­¬ng	
+NgÉu nhiªn_§èi tho¹i__ Chñ d­îc ®iÕm (T­¬ng D­¬ng) 	thu thËp vËt phÈm 	1	2	0	5	0		10	1					10 Ngò Hoa B¶o Lé 
+NgÉu nhiªn_§èi tho¹i_VÖ binh nha m«n	§èi tho¹i											VÖ Binh Nha M«n	T­¬ng D­¬ng	
+NgÉu nhiªn_§èi tho¹i_Häc trß thî rÌn (Thµnh §«) 	§èi tho¹i											Häc trß thî rÌn	Thµnh §«	
+NgÉu nhiªn_§èi tho¹i_Häc trß thî rÌn (Thµnh §«) 	thu thËp vËt phÈm 	6	0	11	1	0		1	1					1 Ph¸o Hoa
+NgÉu nhiªn_§èi tho¹i_ T©n NhŞ ThÈm (Thµnh §«) 	§èi tho¹i											T©n NhŞ ThÈm	Thµnh §«	
+NgÉu nhiªn_§èi tho¹i_ T©n NhŞ ThÈm (Thµnh §«) 	thu thËp vËt phÈm 	1	1	0	5	0		3	1					3 ¤ ®Çu Hoµn thÇn ®¬n
+NgÉu nhiªn_§èi tho¹i__DŞch Quan_D­¬ng Ch©u	§èi tho¹i											DŞch Quan	D­¬ng Ch©u	
+NgÉu nhiªn_§èi tho¹i__DŞch Quan_D­¬ng Ch©u_01	§èi tho¹i											Th¸i C«ng C«ng	L©m An	
+NgÉu nhiªn_§èi tho¹i_ThÈm Phong (D­¬ng Ch©u) 	§èi tho¹i											ThÈm Phong	D­¬ng Ch©u	
+NgÉu nhiªn_§èi tho¹i_ThÈm Phong (D­¬ng Ch©u) _01	§èi tho¹i											Nh­ Ngäc	BiÖn Kinh	

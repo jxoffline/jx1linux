@@ -1,0 +1,177 @@
+--PhÇn th­ëng event th¸ng 7, by ThanhLD - 20130628
+
+-- PhÇn th­ëng exp cña TiÓu HuyÒn BT
+tbAward_TieuHuyenBT_Exp = --PhÇn th­ëng ®¹t mèc cè ®Þnh - Server Old
+{
+	{szName = "§iÓm Kinh NghiÖm", nExp=6000000,nRate=80},
+	{szName = "§iÓm Kinh NghiÖm", nExp=7000000,nRate=18},
+	{szName = "§iÓm Kinh NghiÖm", nExp=10000000,nRate=1},
+	{szName = "§iÓm Kinh NghiÖm", nExp=2000000,nRate=0.5},
+	{szName = "§iÓm Kinh NghiÖm", nExp=50000000,nRate=0.5},	
+}	
+tbAward_BossTree_1 = --PhÇn th­ëng khi giÕt ®­îc Méc Lam B¨ng Tinh
+{
+	{szName = "§iÓm Kinh NghiÖm", nExp=1000000},
+	{szName = "§iÓm Kinh NghiÖm", nExp=200000},	
+}
+tbAward_BossTree_2 = --PhÇn th­ëng khi giÕt ®­îc Méc Hoµng  B¨ng Tinh
+{
+	{szName = "§iÓm Kinh NghiÖm", nExp=2000000},
+	{szName = "§iÓm Kinh NghiÖm", nExp=500000},	
+}
+tbAward_BossTree_3 = --PhÇn th­ëng khi giÕt ®­îc Méc HuyÒn B¨ng Tinh
+{
+	{szName = "§iÓm Kinh NghiÖm", nExp=2000000},	
+}	
+	
+tbAward_Limit_Old =
+{ --PhÇn th­ëng ®¹t mèc cè ®Þnh, server cò
+	-- ["500"] =
+	-- 	{
+	-- 		{szName="Long §¶m 30% (Kh«ng thÓ gia h¹n)",tbProp={0,4486},nCount=1,nRate=50,nQuality = 1,nExpiredTime=20160,},
+	-- 		{szName="Cuång Lan 4% (Kh«ng thÓ gia h¹n)",tbProp={0,4491},nCount=1,nRate=50,nQuality = 1,nExpiredTime=20160,},
+	-- 	},
+	-- ["1000"] = {szName="Phi Phong CÊp PhÖ Quang (hãa gi¶i s¸t th­¬ng)",tbProp={0,3477},nCount=1,nQuality = 1,nExpiredTime=20160,},
+	-- ["2000"] = {szName="MÆt n¹ chiÕn tr­êng V­¬ng Gi¶",tbProp={0,11,647,1,0,0},nCount=1,nExpiredTime=10080,},
+}
+	
+tbAward_Limit_New =
+{ --PhÇn th­ëng ®¹t mèc cè ®Þnh, server míi
+	-- ["500"] = 
+	-- 	{
+	-- 		{szName="Hoµng Kim Ên CÊp 7 (C­êng hãa)",tbProp={0,3211},nCount=1,nRate=50 ,nQuality = 1,nExpiredTime=43200,},
+	-- 		{szName="Hoµng Kim Ên CÊp 7 (Nh­îc hãa)",tbProp={0,3221},nCount=1,nRate=50 ,nQuality = 1,nExpiredTime=43200,},
+	-- 	},
+	-- ["1000"] = {szName="Phi Phong Ngù Phong (hãa gi¶i s¸t th­¬ng)",tbProp={0,3474},nCount=1,nQuality = 1,nExpiredTime=10080,},
+	-- ["2000"] = {szName="Phiªn Vò ",tbProp={0,10,7,1,0,0},nCount=1,nExpiredTime=43200},
+}
+
+tbAward_Old = {--Server cò
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 1",tbProp={6,1,3917,1,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 2",tbProp={6,1,3917,2,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 3",tbProp={6,1,3917,3,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 4",tbProp={6,1,3917,4,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 5",tbProp={6,1,3917,5,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 6",tbProp={6,1,3917,6,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 7",tbProp={6,1,3917,7,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 8",tbProp={6,1,3917,8,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 9",tbProp={6,1,3917,9,0,0},nCount=1,nRate=0.03},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 10",tbProp={6,1,3917,10,0,0},nCount=1,nRate=0.03},
+	-- {szName="Më s¸ch kÜ n¨ng cÊp 150",tbProp={6,1,3916,1,0,0},nCount=1,nRate=0.01},
+	-- {szName="Ch©n Nguyªn §¬n (trung)",tbProp={6,1,30228,1,0,0},nCount=1,nRate=10,nBindState=-2},
+	-- {szName="Ch©n Nguyªn §¬n (®¹i)",tbProp={6,1,30229,1,0,0},nCount=1,nRate=25,nBindState=-2},
+	-- {szName="Hé M¹ch §¬n",tbProp={6,1,3203,1,0,0},nCount=50,nRate=12},
+	-- {szName="Thiªn Niªn Hµ Thñ ¤",tbProp={6,1,2074,1,0,0},nCount=1,nRate=0.05},
+	-- {szName="Phông NguyÖt Qu¶ Dung",tbProp={6,1,127,1,0,0},nCount=1,nRate=0.02},
+	-- {szName="Cèng NguyÖt Phï Dung",tbProp={6,1,128,1,0,0},nCount=1,nRate=0.02},
+	-- {szName="HuyÕt Long §»ng CÊp 5",tbProp={6,1,30289,5,0,0},nCount=1,nRate=1},
+	-- {szName="HuyÕt Long §»ng CÊp 6",tbProp={6,1,30289,6,0,0},nCount=1,nRate=1},
+	-- {szName="HuyÕt Long §»ng CÊp 8",tbProp={6,1,30289,8,0,0},nCount=1,nRate=2},
+	-- {szName="HuyÕt Long §»ng CÊp 9",tbProp={6,1,30289,9,0,0},nCount=1,nRate=2},
+	-- {szName="HuyÕt Long §»ng CÊp 12",tbProp={6,1,30289,12,0,0},nCount=1,nRate=2},
+	-- {szName="Long §¶m 20% (Cã thÓ gia h¹n)",tbProp={0,3499},nCount=1,nRate=0.005,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Long §¶m 30% (Cã thÓ gia h¹n)",tbProp={0,4856},nCount=1,nRate=0.003,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Long §¶m 40% (Cã thÓ gia h¹n)",tbProp={0,4857},nCount=1,nRate=0.001,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Cuång Lan 2% (Cã thÓ gia h¹n)",tbProp={0,3501},nCount=1,nRate=0.005,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Cuång Lan 3% (Cã thÓ gia h¹n)",tbProp={0,4860},nCount=1,nRate=0.004,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Cuång Lan 4% (Cã thÓ gia h¹n)",tbProp={0,4861},nCount=1,nRate=0.002,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Cuång Lan 5% (Cã thÓ gia h¹n)",tbProp={0,4862},nCount=1,nRate=0.001,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="M¶nh XÝch L©n",tbProp={6,1,3391,1,0,0},nCount=1,nRate=5,},
+	-- {szName="XÝch L©n Ph¸t Qu¸n - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={2,0,0,0,0,0}},
+	-- {szName="XÝch L©n Kim Kh¶i - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.005,tbParam={6,0,0,0,0,0}},
+	-- {szName="XÝch L©n H¹ng Liªn - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={1,0,0,0,0,0}},
+	-- {szName="XÝch L©n Hé UyÓn - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={4,0,0,0,0,0}},
+	-- {szName="XÝch L©n Ngäc Béi - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={9,0,0,0,0,0}},
+	-- {szName="XÝch L©n Hµi - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={8,0,0,0,0,0}},
+	-- {szName="XÝch L©n Yªu §¸i - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={5,0,0,0,0,0}},
+	-- {szName="XÝch L©n Th­îng Giíi ChØ - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={3,0,0,0,0,0}},
+	-- {szName="XÝch L©n H¹ Giíi ChØ - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.02,tbParam={10,0,0,0,0,0}},
+	-- {szName="XÝch L©n KhÝ Giíi - Tù chän hÖ ph¸i",tbProp={6,1,30386,1,0,0},nCount=1,nRate=0.005,tbParam={7,0,0,0,0,0}},
+	-- {szName="Hång bao An khang",tbProp={6,1,2105,1,0,0},nCount=1,nRate=0.04},
+	-- {szName="Hång bao Sum vÇy",tbProp={6,1,2104,1,0,0},nCount=1,nRate=0.05},
+	-- {szName="Phong V©n B¹ch M·",tbProp={0,10,19,1,0,0},nCount=1,nRate=0.03,nExpiredTime=129600},
+	-- {szName="Thuèc t¨ng tr­ëng",tbProp={6,1,3454,1,0,0},nCount=1,nRate=0.1},
+	-- {szName="MÆt n¹ chiÕn tr­êng V­¬ng Gi¶",tbProp={0,11,647,1,0,0},nCount=1,nRate=0.2,nExpiredTime=10080, nUsageTime = 60},
+	-- {szName="Long HuyÕt Hoµn",tbProp={6,1,2117,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	-- {szName="Anh Hïng ThiÕp",tbProp={6,1,1604,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	-- {szName="Trî Lùc Hoµn LÔ Bao",tbProp={6,1,30161,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	-- {szName="Ho¹t HuyÕt §¬n LÔ Bao",tbProp={6,1,30160,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	-- {szName="§¹i lùc hoµn lÔ bao",tbProp={6,1,2517,1,0,0},nCount=1,nRate=2,nExpiredTime=43200},
+	-- {szName="Phi tèc hoµn lÔ bao",tbProp={6,1,2520,1,0,0},nCount=1,nRate=2,nExpiredTime=43200},
+	{szName = "§iÓm Kinh NghiÖm", nExp=6000000,nRate=15.989},
+	{szName = "§iÓm Kinh NghiÖm", nExp=8000000,nRate=9},
+	{szName = "§iÓm Kinh NghiÖm", nExp=10000000,nRate=3},
+	{szName = "§iÓm Kinh NghiÖm", nExp=20000000,nRate=2},
+	{szName = "§iÓm Kinh NghiÖm", nExp=50000000,nRate=1},
+}
+
+tbAward_New = {--server míi 
+	-- {szName="B¶o R­¬ng Kim ¤ Kh«i (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={2,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Y (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={6,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Hµi (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={8,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Yªu §¸i (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={5,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Hé UyÓn (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={4,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ H¹ng Liªn (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={1,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Béi (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={9,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Th­îng Giíi (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={3,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ H¹ Giíi (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={10,0,0,0,0,0}},
+	-- {szName="B¶o R­¬ng Kim ¤ Vò KhÝ (lùa chän m«n ph¸i)",tbProp={6,1,30180,1,0,0},nCount=1,nRate=0.02,tbParam={7,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Ph¸t Qu¸n - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={2,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Kim Kh¶i - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.005,tbParam={6,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ H¹ng Liªn - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={1,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Hé UyÓn - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={4,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Ngäc Béi - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={9,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Hµi - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={8,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Yªu §¸i - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={5,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ Th­îng Giíi ChØ - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={3,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ H¹ Giíi ChØ - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.01,tbParam={10,0,0,0,0,0}},
+	-- {szName="B¹ch Hæ KhÝ Giíi - Tù chän hÖ ph¸i",tbProp={6,1,30242,1,0,0},nCount=1,nRate=0.005,tbParam={7,0,0,0,0,0}},
+	-- {szName="M¶nh XÝch L©n",tbProp={6,1,3391,1,0,0},nCount=1,nRate=1},
+	-- {szName="XÝch L©n Kim Bµi",tbProp={6,1,3392,1,0,0},nCount=1,nRate=0.06},
+	-- {szName="XÝch L©n LÖnh",tbProp={6,1,3393,1,0,0},nCount=1,nRate=0.06},
+	-- {szName="XÝch L©n Tr¶o",tbProp={6,1,3394,1,0,0},nCount=1,nRate=0.1},
+	-- {szName="XÝch L©n Gi¸c",tbProp={6,1,3395,1,0,0},nCount=1,nRate=0.1},
+	-- {szName="XÝch L©n T×nh",tbProp={6,1,3396,1,0,0},nCount=1,nRate=0.06},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 1",tbProp={6,1,3917,1,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 2",tbProp={6,1,3917,2,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 3",tbProp={6,1,3917,3,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 4",tbProp={6,1,3917,4,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 5",tbProp={6,1,3917,5,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 6",tbProp={6,1,3917,6,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 7",tbProp={6,1,3917,7,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 8",tbProp={6,1,3917,8,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 9",tbProp={6,1,3917,9,0,0},nCount=1,nRate=0.02},
+	-- {szName="KÜ n¨ng cÊp 150 cÊp 21 CÊp 10",tbProp={6,1,3917,10,0,0},nCount=1,nRate=0.02},
+	-- {szName="Më s¸ch kÜ n¨ng cÊp 150",tbProp={6,1,3916,1,0,0},nCount=1,nRate=0.005},
+	-- {szName="Ch©n Nguyªn §¬n (trung)",tbProp={6,1,30228,1,0,0},nCount=1,nRate=30,nBindState=-2},
+	-- {szName="Hé M¹ch §¬n",tbProp={6,1,3203,1,0,0},nCount=20,nRate=15},
+	-- {szName="Vâ L©m MËt TÞch",tbProp={6,1,26,1,0,0},nCount=1,nRate=0.2,nExpiredTime=43200},
+	-- {szName="TÈy Tñy Kinh",tbProp={6,1,22,1,0,0},nCount=1,nRate=0.2,nExpiredTime=43200},
+	-- {szName="Thiªn Niªn Hµ Thñ ¤",tbProp={6,1,2074,1,0,0},nCount=1,nRate=0.1},
+	-- {szName="Phông NguyÖt Qu¶ Dung",tbProp={6,1,127,1,0,0},nCount=1,nRate=0.05},
+	-- {szName="Cèng NguyÖt Phï Dung",tbProp={6,1,128,1,0,0},nCount=1,nRate=0.05},
+	-- {szName="HuyÕt Long §»ng CÊp 5",tbProp={6,1,30289,5,0,0},nCount=1,nRate=1},
+	-- {szName="HuyÕt Long §»ng CÊp 6",tbProp={6,1,30289,6,0,0},nCount=1,nRate=1},
+	-- {szName="Long §¶m 20% (kh«ng thÓ gia h¹n)",tbProp={0,4485},nCount=1,nRate=0.04,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Cuång Lan 2% (kh«ng thÓ gia h¹n)",tbProp={0,4489},nCount=1,nRate=0.04,nQuality = 1,nExpiredTime=10080,},
+	-- {szName="Tèc HiÖu B¹ch C©u Hoµn cÊp 150",tbProp={6,1,2975,1,0,0},nCount=1,nRate=3,nExpiredTime=20160},
+	-- {szName="Thuèc t¨ng tr­ëng",tbProp={6,1,3454,1,0,0},nCount=1,nRate=0.1},
+	-- {szName="Ngäc Qu¸n",tbProp={6,1,2311,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	-- {szName="MÆt n¹ - Anh hïng chiÕn tr­êng",tbProp={0,11,482,1,0,0},nCount=1,nRate=0.1,nExpiredTime=10080,nUsageTime = 60},
+	-- {szName="Long HuyÕt Hoµn",tbProp={6,1,2117,1,0,0},nCount=1,nRate=0.5,nExpiredTime=43200},
+	-- {szName="Anh Hïng ThiÕp",tbProp={6,1,1604,1,0,0},nCount=1,nRate=0.5,nExpiredTime=43200},
+	-- {szName="Hçn Nguyªn Linh Lé",tbProp={6,1,2312,1,0,0},nCount=1,nRate=1},
+	-- {szName="ng©n l­îng",nJxb=1000000,nCount=1,nRate=2},
+	-- {szName="Hång bao An khang",tbProp={6,1,2105,1,0,0},nCount=1,nRate=0.02},
+	-- {szName="Hång bao Sum vÇy",tbProp={6,1,2104,1,0,0},nCount=1,nRate=0.02},
+	-- {szName="Tö Kim Ch©n §¬n",tbProp={6,1,2263,1,0,0},nCount=1,nRate=0.02,tbParam={2000000000}},
+	-- {szName="HuyÒn Ch©n §¬n",tbProp={6,1,1678,1,0,0},nCount=1,nRate=0.02,tbParam={1500000000}},
+	-- {szName="HuyÕt Ch©n §¬n",tbProp={6,1,1677,1,0,0},nCount=1,nRate=0.02,tbParam={1000000000}},
+	-- {szName="Håi thiªn t¸i t¹o lÔ bao",tbProp={6,1,2527,1,0,0},nCount=1,nRate=1,nExpiredTime=43200},
+	{szName = "§iÓm Kinh NghiÖm", nExp=6000000,nRate=17.145},
+	{szName = "§iÓm Kinh NghiÖm", nExp=8000000,nRate=14},
+	{szName = "§iÓm Kinh NghiÖm", nExp=10000000,nRate=7},
+	{szName = "§iÓm Kinh NghiÖm", nExp=20000000,nRate=2},
+	{szName = "§iÓm Kinh NghiÖm", nExp=50000000,nRate=1},
+}
+

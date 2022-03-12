@@ -1,0 +1,22 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+15	Qu©n trang Tèng Kim	"return {szName=\"ËÎ½ğ¾ü×°\",tbProp={6,1,2124,1,0,0},nExpiredTime=20091102,}"	1	20	102	2
+15	Ngò Hµnh Kú Th¹ch	"return {szName=\"ÎåĞĞÆæÊ¯\",tbProp={6,1,2125,1,0,0},}"	1	20	103	2
+15	Lång ®Ìn Kim Ng­u	"return {szName=\"½ğÅ£µÆÁı\",tbProp={6,1,2128,1,0,0},nExpiredTime=20100101,}"	1	4	104	2
+15	Hoµn Mü Kim Bµi	"return {szName=\"ÍêÃÀ½ğÅÆ\",tbProp={6,1,2129,1,0,0},}"	1	4	105	2
+15	Êm trµ Long TÜnh	"return {szName=\"Áú¾²ÌÀºø\",tbProp={6,1,2123,1,0,0},nExpiredTime=20091109,}"	1	0.2	106	2
+15	Khiªu chiÕn LÔ bao	"return {szName=\"ÌôÕ½Àñ°ü\",tbProp={6,1,2006,1,0,0},}"	1	19.336	107	2
+15	ThiÕt La H¸n	"return {szName=\"ÌúÂŞºº\",tbProp={6,1,23,1,0,0},}"	1	5	108	2
+15	Bµn Nh­îc T©m Kinh	"return {szName=\"°ãÈôĞÄ¾­\",tbProp={6,1,12,1,0,0},}"	1	2	109	2
+15	Tiªn Th¶o Lé ®Æc biÖt	"return {szName=\"ÌØĞ§ÏÉ²İÂ¶\",tbProp={6,1,1181,1,0,0},}"	1	5	110	2
+15	Phi Tèc hoµn	"return {szName=\"·ÉËÙÍè\",tbProp={6,0,6,1,0,0},}"	1	5	111	2
+15	§¹i Lùc hoµn	"return {szName=\"´óÁ¦Íè\",tbProp={6,0,3,1,0,0},}"	1	5	112	2
+15	§¹i M· Hæ B¾c Kinh Chi Méng	"return {szName=\"´óÂí»¢Ö®±±¾©Ö®ÃÎ\",tbProp={0,197},nQuality=1,}"	1	0.002	113	2
+15	§¹i M· Hæ Nha §iÓn Chi Hån	"return {szName=\"´óÂí»¢Ö®ÑÅµäÖ®»ê\",tbProp={0,202},nQuality=1,}"	1	0.002	114	2
+15	Thiªn S¬n TuyÕt Liªn	"return {szName=\"ÌìÉ½Ñ©Á«\",tbProp={6,1,1431,1,0,0},}"	1	0.03	115	2
+15	HuyÒn Ch©n §¬n	"return {szName=\"ĞşÕæµ¤\",tbProp={6,1,1678,1,0,0},tbParam={15e8}}"	1	0.05	116	2
+15	HuyÕt Ch©n §¬n	"return {szName=\"ÑªÕæµ¤\",tbProp={6,1,1677,1,0,0},tbParam={10e8}}"	1	0.08	117	2
+15	B¹ch Ch©n §¬n	"return {szName=\"°×Õæµ¤\",tbProp={6,1,1676,1,0,0},tbParam={5e8}}"	1	0.2	118	2
+15	ThÇn bİ kho¸ng th¹ch	"return {szName=\"ÉñÃØ¿óÊ¯\",tbProp={6,1,398,1,0,0},}"	1	0.1	119	2
+15	HuyÒn tinh kho¸ng th¹ch cÊp 6	"return {szName=\"Ğş¾§¿óÊ¯[6¼¶]\",tbProp={6,1,147,6,0,0},}"	1	5	120	2
+15	HuyÒn tinh kho¸ng th¹ch cÊp 7	"return {szName=\"Ğş¾§¿óÊ¯[7¼¶]\",tbProp={6,1,147,7,0,0},}"	1	4	121	2
+15	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {szName=\"Ğş¾§¿óÊ¯[8¼¶]\",tbProp={6,1,147,8,0,0},}"	1	1	122	2

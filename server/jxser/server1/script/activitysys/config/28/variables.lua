@@ -1,0 +1,10 @@
+nMaxDaylyGiveWaterCount		= 5--完成打水任务的次数限制
+nCall_MuKe_LongYinShengShui_Count		= 500
+nActivityPlayerLevelLimit		= 125--参加活动的玩家等级限制
+nTskIdx_DaylyGiveWater		= 1
+nTskIdx_GiveLongYinShengShuiExp		= 2
+nMaxExpFromLongYinShengShui		= 1800--单位百万(18E)
+nExpBaseFromLongYinShengShui		= 1000000 --上交龙饮圣水奖励经验基数
+nPerExpFromLongYinShengShui		= 5 --每次上交龙饮圣水给的经验base数
+nTskIdx_LastRecordDay		= 3
+b		= nil

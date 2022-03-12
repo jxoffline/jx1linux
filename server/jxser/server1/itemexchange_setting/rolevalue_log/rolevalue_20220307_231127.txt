@@ -1,0 +1,2 @@
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0

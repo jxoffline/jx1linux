@@ -1,0 +1,5 @@
+TaskId	TaskName	MapId	MapName	GatherName	G	D	P	GatherCount
+1		141	Thµnh §« ®«ng	KiÕm T©m H¶i §­êng	6	1	2567	3
+2		193	§¹i lý b¾c	HiÖp H­¬ng Th¶o	6	1	2568	3
+3		92	D­¬ng Ch©u ®«ng	T×nh NghÜa Kim Lan	6	1	2569	3
+4		167	Ph­îng T­êng nam	Duyªn Tr­êng Thanh Liªn	6	1	2570	3

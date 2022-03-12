@@ -1,0 +1,915 @@
+NpcList	FightStand	NormalStand1	NormalStand2	FightWalk	NormalWalk	FightRun	NormalRun	Wound	Die	Attack1	Attack2	Magic	SitDown	JunpFly
+enemy003	enemy003_st.spr	enemy003_st.spr	enemy003_pst.spr	enemy003_wlk.spr	enemy003_wlk.spr	enemy003_wlk.spr	enemy003_wlk.spr	enemy003_bat.spr	enemy003_die.spr	enemy003_at.spr	enemy003_at.spr	enemy003_at.spr	enemy003_st.spr	enemy003_wlk.spr
+enemy004	enemy004_st.spr	enemy004_st.spr	enemy004_pst.spr	enemy004_wlk.spr	enemy004_wlk.spr	enemy004_wlk.spr	enemy004_wlk.spr	enemy004_bat.spr	enemy004_die.spr	enemy004_at.spr	enemy004_at.spr	enemy004_at.spr	enemy004_st.spr	enemy004_wlk.spr
+enemy005	enemy005_st.spr	enemy005_st.spr	enemy005_pst.spr	enemy005_wlk.spr	enemy005_wlk.spr	enemy005_wlk.spr	enemy005_wlk.spr	enemy005_bat.spr	enemy005_die.spr	enemy005_at.spr	enemy005_at.spr	enemy005_at.spr	enemy005_st.spr	enemy005_wlk.spr
+enemy006	enemy006_st.spr	enemy006_st.spr	enemy006_pst.spr	enemy006_wlk.spr	enemy006_wlk.spr	enemy006_wlk.spr	enemy006_wlk.spr	enemy006_bat.spr	enemy006_die.spr	enemy006_at.spr	enemy006_at.spr	enemy006_at.spr	enemy006_st.spr	enemy006_wlk.spr
+enemy007	enemy007_st.spr	enemy007_st.spr	enemy007_pst.spr	enemy007_wlk.spr	enemy007_wlk.spr	enemy007_wlk.spr	enemy007_wlk.spr	enemy007_bat.spr	enemy007_die.spr	enemy007_at.spr	enemy007_at.spr	enemy007_at.spr	enemy007_st.spr	enemy007_wlk.spr
+enemy015	enemy015_st.spr	enemy015_st.spr	enemy015_pst.spr	enemy015_wlk.spr	enemy015_wlk.spr	enemy015_wlk.spr	enemy015_wlk.spr	enemy015_bat.spr	enemy015_die.spr	enemy015_at.spr	enemy015_at.spr	enemy015_at.spr	enemy015_st.spr	enemy015_wlk.spr
+enemy016	enemy016_st.spr	enemy016_st.spr	enemy016_pst.spr	enemy016_wlk.spr	enemy016_wlk.spr	enemy016_wlk.spr	enemy016_wlk.spr	enemy016_bat.spr	enemy016_die.spr	enemy016_at.spr	enemy016_at.spr	enemy016_at.spr	enemy016_st.spr	enemy016_wlk.spr
+enemy017	enemy017_st.spr	enemy017_st.spr	enemy017_pst.spr	enemy017_wlk.spr	enemy017_wlk.spr	enemy017_wlk.spr	enemy017_wlk.spr	enemy017_bat.spr	enemy017_die.spr	enemy017_at.spr	enemy017_at.spr	enemy017_at.spr	enemy017_st.spr	enemy017_wlk.spr
+enemy021	enemy021_st.spr	enemy021_st.spr	enemy021_pst.spr	enemy021_wlk.spr	enemy021_wlk.spr	enemy021_wlk.spr	enemy021_wlk.spr	enemy021_bat.spr	enemy021_die.spr	enemy021_at.spr	enemy021_at.spr	enemy021_at.spr	enemy021_st.spr	enemy021_wlk.spr
+enemy022	enemy022_st.spr	enemy022_st.spr	enemy022_pst.spr	enemy022_wlk.spr	enemy022_wlk.spr	enemy022_wlk.spr	enemy022_wlk.spr	enemy022_bat.spr	enemy022_die.spr	enemy022_at.spr	enemy022_at.spr	enemy022_at.spr	enemy022_st.spr	enemy022_wlk.spr
+enemy023	enemy023_st.spr	enemy023_st.spr	enemy023_pst.spr	enemy023_wlk.spr	enemy023_wlk.spr	enemy023_wlk.spr	enemy023_wlk.spr	enemy023_bat.spr	enemy023_die.spr	enemy023_at.spr	enemy023_at.spr	enemy023_at.spr	enemy023_st.spr	enemy023_wlk.spr
+enemy024	enemy024_st.spr	enemy024_st.spr	enemy024_pst.spr	enemy024_wlk.spr	enemy024_wlk.spr	enemy024_wlk.spr	enemy024_wlk.spr	enemy024_bat.spr	enemy024_die.spr	enemy024_at.spr	enemy024_at.spr	enemy024_at.spr	enemy024_st.spr	enemy024_wlk.spr
+enemy026	enemy026_st.spr	enemy026_st.spr	enemy026_pst.spr	enemy026_wlk.spr	enemy026_wlk.spr	enemy026_wlk.spr	enemy026_wlk.spr	enemy026_bat.spr	enemy026_die.spr	enemy026_at.spr	enemy026_at.spr	enemy026_at.spr	enemy026_st.spr	enemy026_wlk.spr
+enemy028	enemy028_st.spr	enemy028_st.spr	enemy028_pst.spr	enemy028_wlk.spr	enemy028_wlk.spr	enemy028_wlk.spr	enemy028_wlk.spr	enemy028_bat.spr	enemy028_die.spr	enemy028_at.spr	enemy028_at.spr	enemy028_at.spr	enemy028_st.spr	enemy028_wlk.spr
+enemy029	enemy029_st.spr	enemy029_st.spr	enemy029_pst.spr	enemy029_wlk.spr	enemy029_wlk.spr	enemy029_wlk.spr	enemy029_wlk.spr	enemy029_bat.spr	enemy029_die.spr	enemy029_at.spr	enemy029_at.spr	enemy029_at.spr	enemy029_st.spr	enemy029_wlk.spr
+enemy031	enemy031_st.spr	enemy031_st.spr	enemy031_pst.spr	enemy031_wlk.spr	enemy031_wlk.spr	enemy031_wlk.spr	enemy031_wlk.spr	enemy031_bat.spr	enemy031_die.spr	enemy031_at.spr	enemy031_at.spr	enemy031_at.spr	enemy031_st.spr	enemy031_wlk.spr
+enemy034	enemy034_st.spr	enemy034_st.spr	enemy034_pst.spr	enemy034_wlk.spr	enemy034_wlk.spr	enemy034_wlk.spr	enemy034_wlk.spr	enemy034_bat.spr	enemy034_die.spr	enemy034_at.spr	enemy034_at.spr	enemy034_at.spr	enemy034_st.spr	enemy034_wlk.spr
+enemy036	enemy036_st.spr	enemy036_st.spr	enemy036_pst.spr	enemy036_wlk.spr	enemy036_wlk.spr	enemy036_wlk.spr	enemy036_wlk.spr	enemy036_bat.spr	enemy036_die.spr	enemy036_at.spr	enemy036_at.spr	enemy036_at.spr	enemy036_st.spr	enemy036_wlk.spr
+enemy037	enemy037_st.spr	enemy037_st.spr	enemy037_pst.spr										enemy037_st.spr	
+enemy038	enemy038_st.spr	enemy038_st.spr	enemy038_pst.spr										enemy038_st.spr	
+enemy039	enemy039_st.spr	enemy039_st.spr	enemy039_pst.spr										enemy039_st.spr	
+enemy040	enemy040_st.spr	enemy040_st.spr	enemy040_pst.spr	enemy040_wlk.spr	enemy040_wlk.spr	enemy040_wlk.spr	enemy040_wlk.spr	enemy040_bat.spr	enemy040_die.spr	enemy040_at.spr	enemy040_at.spr	enemy040_at.spr	enemy040_st.spr	enemy040_wlk.spr
+enemy041	enemy041_st.spr	enemy041_st.spr	enemy041_pst.spr										enemy041_st.spr	
+enemy042	enemy042_st.spr	enemy042_st.spr	enemy042_pst.spr										enemy042_st.spr	
+enemy043	enemy043_st.spr	enemy043_st.spr	enemy043_pst.spr	enemy043_wlk.spr	enemy043_wlk.spr	enemy043_wlk.spr	enemy043_wlk.spr	enemy043_bat.spr	enemy043_die.spr	enemy043_at.spr	enemy043_at.spr	enemy043_at.spr	enemy043_st.spr	enemy043_wlk.spr
+enemy044	enemy044_st.spr	enemy044_st.spr	enemy044_pst.spr	enemy044_st.spr	enemy044_st.spr	enemy044_st.spr	enemy044_st.spr	enemy044_st.spr	enemy044_st.spr	enemy044_at.spr	enemy044_at.spr		enemy044_st.spr	enemy044_st.spr
+enemy045	enemy045_st.spr	enemy045_st.spr	enemy045_pst.spr										enemy045_st.spr	
+enemy046	enemy046_st.spr	enemy046_st.spr	enemy046_pst.spr	enemy046_st.spr	enemy046_st.spr	enemy046_st.spr	enemy046_st.spr	enemy046_st.spr	enemy046_st.spr	enemy046_at.spr	enemy046_at.spr		enemy046_st.spr	enemy046_st.spr
+enemy047	enemy047_st.spr	enemy047_st.spr	enemy047_pst.spr										enemy047_st.spr	
+enemy048	enemy048_st.spr	enemy048_st.spr	enemy048_pst.spr	enemy048_wlk.spr	enemy048_wlk.spr	enemy048_wlk.spr	enemy048_wlk.spr	enemy048_bat.spr	enemy048_die.spr	enemy048_at.spr	enemy048_at.spr	enemy048_at.spr	enemy048_st.spr	enemy048_wlk.spr
+enemy049	enemy049_st.spr	enemy049_st.spr	enemy049_pst.spr										enemy049_st.spr	
+enemy050	enemy050_st.spr	enemy050_st.spr	enemy050_pst.spr	enemy050_wlk.spr	enemy050_wlk.spr	enemy050_wlk.spr	enemy050_wlk.spr	enemy050_bat.spr	enemy050_die.spr	enemy050_at.spr	enemy050_at.spr	enemy050_at.spr	enemy050_st.spr	enemy050_wlk.spr
+enemy051	enemy051_st.spr	enemy051_st.spr	enemy051_pst.spr	enemy051_wlk.spr	enemy051_wlk.spr	enemy051_wlk.spr	enemy051_wlk.spr	enemy051_bat.spr	enemy051_die.spr	enemy051_at.spr	enemy051_at.spr	enemy051_at.spr	enemy051_st.spr	enemy051_wlk.spr
+enemy052	enemy052_st.spr	enemy052_st.spr	enemy052_pst.spr										enemy052_st.spr	
+enemy053	enemy053_st.spr	enemy053_st.spr	enemy053_pst.spr										enemy053_st.spr	
+enemy054	enemy054_st.spr	enemy054_st.spr	enemy054_pst.spr										enemy054_st.spr	
+enemy055	enemy055_st.spr	enemy055_st.spr	enemy055_pst.spr										enemy055_st.spr	
+enemy056	enemy056_st.spr	enemy056_st.spr	enemy056_pst.spr	enemy056_st.spr	enemy056_st.spr	enemy056_st.spr	enemy056_st.spr	enemy056_st.spr	enemy056_st.spr	enemy056_at.spr	enemy056_at.spr	enemy056_at.spr	enemy056_st.spr	enemy056_st.spr
+enemy057	enemy057_st.spr	enemy057_st.spr	enemy057_pst.spr	enemy057_wlk.spr	enemy057_wlk.spr	enemy057_wlk.spr	enemy057_wlk.spr	enemy057_bat.spr	enemy057_die.spr	enemy057_at.spr	enemy057_at.spr	enemy057_at.spr	enemy057_st.spr	enemy057_wlk.spr
+enemy058	enemy058_st.spr	enemy058_st.spr	enemy058_pst.spr										enemy058_st.spr	
+enemy059	enemy059_st.spr	enemy059_st.spr	enemy059_pst.spr	enemy059_wlk.spr	enemy059_wlk.spr	enemy059_wlk.spr	enemy059_wlk.spr	enemy059_bat.spr	enemy059_die.spr	enemy059_at.spr	enemy059_at.spr	enemy059_at.spr	enemy059_st.spr	enemy059_wlk.spr
+enemy060	enemy060_st.spr	enemy060_st.spr	enemy060_pst.spr	enemy060_wlk.spr	enemy060_wlk.spr	enemy060_wlk.spr	enemy060_wlk.spr	enemy060_bat.spr	enemy060_die.spr	enemy060_at.spr	enemy060_at.spr	enemy060_at.spr	enemy060_st.spr	enemy060_wlk.spr
+enemy061	enemy061_st.spr	enemy061_st.spr	enemy061_pst.spr	enemy061_wlk.spr	enemy061_wlk.spr	enemy061_wlk.spr	enemy061_wlk.spr	enemy061_bat.spr	enemy061_die.spr	enemy061_at.spr	enemy061_at.spr	enemy061_at.spr	enemy061_st.spr	enemy061_wlk.spr
+enemy062	enemy062_st.spr	enemy062_st.spr	enemy062_pst.spr										enemy062_st.spr	
+enemy063	enemy063_st.spr	enemy063_st.spr	enemy063_pst.spr										enemy063_st.spr	
+enemy064	enemy064_st.spr	enemy064_st.spr	enemy064_pst.spr	enemy064_wlk.spr	enemy064_wlk.spr	enemy064_wlk.spr	enemy064_wlk.spr	enemy064_bat.spr	enemy064_die.spr	enemy064_at.spr	enemy064_at.spr	enemy064_at.spr	enemy064_st.spr	enemy064_wlk.spr
+enemy065	enemy065_st.spr	enemy065_st.spr	enemy065_pst.spr										enemy065_st.spr	
+enemy066	enemy066_st.spr	enemy066_st.spr	enemy066_pst.spr	enemy066_wlk.spr	enemy066_wlk.spr	enemy066_wlk.spr	enemy066_wlk.spr	enemy066_bat.spr	enemy066_die.spr	enemy066_at.spr	enemy066_at.spr	enemy066_at.spr	enemy066_st.spr	enemy066_wlk.spr
+enemy067	enemy067_st.spr	enemy067_st.spr	enemy067_pst.spr	enemy067_wlk.spr	enemy067_wlk.spr	enemy067_wlk.spr	enemy067_wlk.spr	enemy067_bat.spr	enemy067_die.spr	enemy067_at.spr	enemy067_at.spr	enemy067_at.spr	enemy067_st.spr	enemy067_wlk.spr
+enemy068	enemy068_st.spr	enemy068_st.spr	enemy068_pst.spr										enemy068_st.spr	
+enemy069	enemy069_st.spr	enemy069_st.spr	enemy069_pst.spr	enemy069_wlk.spr	enemy069_wlk.spr	enemy069_wlk.spr	enemy069_wlk.spr	enemy069_bat.spr	enemy069_die.spr	enemy069_at.spr	enemy069_at.spr	enemy069_at.spr	enemy069_st.spr	enemy069_wlk.spr
+enemy070	enemy070_st.spr	enemy070_st.spr	enemy070_pst.spr	enemy070_wlk.spr	enemy070_wlk.spr	enemy070_wlk.spr	enemy070_wlk.spr	enemy070_bat.spr	enemy070_die.spr	enemy070_at.spr	enemy070_at.spr	enemy070_at.spr	enemy070_st.spr	enemy070_wlk.spr
+enemy071	enemy071_st.spr	enemy071_st.spr	enemy071_pst.spr										enemy071_st.spr	
+enemy072	enemy072_st.spr	enemy072_st.spr	enemy072_pst.spr	enemy072_wlk.spr	enemy072_wlk.spr	enemy072_wlk.spr	enemy072_wlk.spr	enemy072_bat.spr	enemy072_die.spr	enemy072_at.spr	enemy072_at.spr	enemy072_at.spr	enemy072_st.spr	enemy072_wlk.spr
+enemy073	enemy073_st.spr	enemy073_st.spr	enemy073_pst.spr	enemy073_wlk.spr	enemy073_wlk.spr	enemy073_wlk.spr	enemy073_wlk.spr	enemy073_bat.spr	enemy073_die.spr	enemy073_at.spr	enemy073_at.spr	enemy073_at.spr	enemy073_st.spr	enemy073_wlk.spr
+enemy074	enemy074_st.spr	enemy074_st.spr	enemy074_pst.spr	enemy074_wlk.spr	enemy074_wlk.spr	enemy074_wlk.spr	enemy074_wlk.spr	enemy074_bat.spr	enemy074_die.spr	enemy074_at.spr	enemy074_at.spr	enemy074_at.spr	enemy074_st.spr	enemy074_wlk.spr
+enemy075	enemy075_st.spr	enemy075_st.spr	enemy075_pst.spr	enemy075_wlk.spr	enemy075_wlk.spr	enemy075_wlk.spr	enemy075_wlk.spr	enemy075_bat.spr	enemy075_die.spr	enemy075_at.spr	enemy075_at.spr	enemy075_at.spr	enemy075_st.spr	enemy075_wlk.spr
+enemy076	enemy076_st.spr	enemy076_st.spr	enemy076_pst.spr	enemy076_wlk.spr	enemy076_wlk.spr	enemy076_wlk.spr	enemy076_wlk.spr	enemy076_bat.spr	enemy076_die.spr	enemy076_at.spr	enemy076_at.spr	enemy076_at.spr	enemy076_st.spr	enemy076_wlk.spr
+enemy077	enemy077_st.spr	enemy077_st.spr	enemy077_pst.spr	enemy077_wlk.spr	enemy077_wlk.spr	enemy077_wlk.spr	enemy077_wlk.spr	enemy077_bat.spr	enemy077_die.spr	enemy077_at.spr	enemy077_at.spr	enemy077_at.spr	enemy077_st.spr	enemy077_wlk.spr
+enemy078	enemy078_st.spr	enemy078_st.spr	enemy078_pst.spr	enemy078_wlk.spr	enemy078_wlk.spr	enemy078_wlk.spr	enemy078_wlk.spr	enemy078_bat.spr	enemy078_die.spr	enemy078_at.spr	enemy078_at.spr	enemy078_at.spr	enemy078_st.spr	enemy078_wlk.spr
+enemy079	enemy079_st.spr	enemy079_st.spr	enemy079_pst.spr	enemy079_wlk.spr	enemy079_wlk.spr	enemy079_wlk.spr	enemy079_wlk.spr	enemy079_bat.spr	enemy079_die.spr	enemy079_at.spr	enemy079_at.spr	enemy079_at.spr	enemy079_st.spr	enemy079_wlk.spr
+enemy080	enemy080_st.spr	enemy080_st.spr	enemy080_pst.spr	enemy080_wlk.spr	enemy080_wlk.spr	enemy080_wlk.spr	enemy080_wlk.spr	enemy080_bat.spr	enemy080_die.spr	enemy080_at.spr	enemy080_at.spr	enemy080_at.spr	enemy080_st.spr	enemy080_wlk.spr
+enemy081	enemy081_st.spr	enemy081_st.spr	enemy081_pst.spr	enemy081_wlk.spr	enemy081_wlk.spr	enemy081_wlk.spr	enemy081_wlk.spr	enemy081_bat.spr	enemy081_die.spr	enemy081_at.spr	enemy081_at.spr	enemy081_at.spr	enemy081_st.spr	enemy081_wlk.spr
+enemy082	enemy082_st.spr	enemy082_st.spr	enemy082_pst.spr	enemy082_wlk.spr	enemy082_wlk.spr	enemy082_wlk.spr	enemy082_wlk.spr	enemy082_bat.spr	enemy082_die.spr	enemy082_at.spr	enemy082_at.spr	enemy082_at.spr	enemy082_st.spr	enemy082_wlk.spr
+enemy083	enemy083_st.spr	enemy083_st.spr	enemy083_pst.spr	enemy083_wlk.spr	enemy083_wlk.spr	enemy083_wlk.spr	enemy083_wlk.spr	enemy083_bat.spr	enemy083_die.spr	enemy083_at.spr	enemy083_at.spr	enemy083_at.spr	enemy083_st.spr	enemy083_wlk.spr
+enemy084	enemy084_st.spr	enemy084_st.spr	enemy084_pst.spr										enemy084_st.spr	
+enemy085	enemy085_st.spr	enemy085_st.spr	enemy085_pst.spr	enemy085_wlk.spr	enemy085_wlk.spr	enemy085_wlk.spr	enemy085_wlk.spr	enemy085_bat.spr	enemy085_die.spr	enemy085_at.spr	enemy085_at.spr	enemy085_at.spr	enemy085_st.spr	enemy085_wlk.spr
+enemy086	enemy086_st.spr	enemy086_st.spr	enemy086_pst.spr	enemy086_wlk.spr	enemy086_wlk.spr	enemy086_wlk.spr	enemy086_wlk.spr	enemy086_bat.spr	enemy086_die.spr	enemy086_at.spr	enemy086_at.spr	enemy086_at.spr	enemy086_st.spr	enemy086_wlk.spr
+enemy087	enemy087_st.spr	enemy087_st.spr	enemy087_pst.spr										enemy087_st.spr	
+enemy088	enemy088_st.spr	enemy088_st.spr	enemy088_pst.spr	enemy088_st.spr	enemy088_st.spr	enemy088_st.spr	enemy088_st.spr	enemy088_st.spr	enemy088_st.spr	enemy088_at.spr	enemy088_at.spr		enemy088_st.spr	enemy088_st.spr
+enemy089	enemy089_st.spr	enemy089_st.spr	enemy089_pst.spr	enemy089_wlk.spr	enemy089_wlk.spr	enemy089_wlk.spr	enemy089_wlk.spr	enemy089_bat.spr	enemy089_die.spr	enemy089_at.spr	enemy089_at.spr	enemy089_at.spr	enemy089_st.spr	enemy089_wlk.spr
+enemy090	enemy090_st.spr	enemy090_st.spr	enemy090_pst.spr										enemy090_st.spr	
+enemy091	enemy091_st.spr	enemy091_st.spr	enemy091_pst.spr	enemy091_wlk.spr	enemy091_wlk.spr	enemy091_wlk.spr	enemy091_wlk.spr	enemy091_bat.spr	enemy091_die.spr	enemy091_at.spr	enemy091_at.spr	enemy091_at.spr	enemy091_st.spr	enemy091_wlk.spr
+enemy092	enemy092_st.spr	enemy092_st.spr	enemy092_pst.spr										enemy092_st.spr	
+enemy093	enemy093_st.spr	enemy093_st.spr	enemy093_pst.spr	enemy093_wlk.spr	enemy093_wlk.spr	enemy093_wlk.spr	enemy093_wlk.spr	enemy093_bat.spr	enemy093_die.spr	enemy093_at.spr	enemy093_at.spr	enemy093_at.spr	enemy093_st.spr	enemy093_wlk.spr
+enemy094	enemy094_st.spr	enemy094_st.spr	enemy094_pst.spr	enemy094_wlk.spr	enemy094_wlk.spr	enemy094_wlk.spr	enemy094_wlk.spr	enemy094_bat.spr	enemy094_die.spr	enemy094_at.spr	enemy094_at.spr	enemy094_at.spr	enemy094_st.spr	enemy094_wlk.spr
+enemy095	enemy095_st.spr	enemy095_st.spr	enemy095_pst.spr	enemy095_wlk.spr	enemy095_wlk.spr	enemy095_wlk.spr	enemy095_wlk.spr	enemy095_bat.spr	enemy095_die.spr	enemy095_at.spr	enemy095_at.spr	enemy095_at.spr	enemy095_st.spr	enemy095_wlk.spr
+enemy096	enemy096_st.spr	enemy096_st.spr	enemy096_pst.spr										enemy096_st.spr	
+enemy097	enemy097_st.spr	enemy097_st.spr	enemy097_pst.spr	enemy097_wlk.spr	enemy097_wlk.spr	enemy097_wlk.spr	enemy097_wlk.spr	enemy097_bat.spr	enemy097_die.spr	enemy097_at.spr	enemy097_at.spr	enemy097_at.spr	enemy097_st.spr	enemy097_wlk.spr
+enemy098	enemy098_st.spr	enemy098_st.spr	enemy098_pst.spr	enemy098_wlk.spr	enemy098_wlk.spr	enemy098_wlk.spr	enemy098_wlk.spr	enemy098_bat.spr	enemy098_die.spr	enemy098_at.spr	enemy098_at.spr	enemy098_at.spr	enemy098_st.spr	enemy098_wlk.spr
+enemy099	enemy099_st.spr	enemy099_st.spr	enemy099_pst.spr										enemy099_st.spr	
+enemy100	enemy100_st.spr	enemy100_st.spr	enemy100_pst.spr	enemy100_wlk.spr	enemy100_wlk.spr	enemy100_wlk.spr	enemy100_wlk.spr	enemy100_bat.spr	enemy100_die.spr	enemy100_at.spr	enemy100_at.spr	enemy100_at.spr	enemy100_st.spr	enemy100_wlk.spr
+enemy101	enemy101_st.spr	enemy101_st.spr	enemy101_pst.spr	enemy101_wlk.spr	enemy101_wlk.spr	enemy101_wlk.spr	enemy101_wlk.spr	enemy101_bat.spr	enemy101_die.spr	enemy101_at.spr	enemy101_at.spr	enemy101_at.spr	enemy101_st.spr	enemy101_wlk.spr
+enemy102	enemy102_st.spr	enemy102_st.spr	enemy102_pst.spr										enemy102_st.spr	
+enemy103	enemy103_st.spr	enemy103_st.spr	enemy103_pst.spr	enemy013_wlk.spr	enemy013_wlk.spr	enemy013_wlk.spr	enemy013_wlk.spr	enemy103_bat.spr	enemy103_die.spr	enemy103_at.spr	enemy103_at.spr	enemy103_at.spr	enemy103_st.spr	enemy013_wlk.spr
+enemy104	enemy104_st.spr	enemy104_st.spr	enemy104_pst.spr	enemy104_wlk.spr	enemy104_wlk.spr	enemy104_wlk.spr	enemy104_wlk.spr	enemy104_bat.spr	enemy104_die.spr	enemy104_at.spr	enemy104_at.spr	enemy104_at.spr	enemy104_st.spr	enemy104_wlk.spr
+enemy105	enemy105_st.spr	enemy105_st.spr	enemy105_pst.spr	enemy105_wlk.spr	enemy105_wlk.spr	enemy105_wlk.spr	enemy105_wlk.spr	enemy105_bat.spr	enemy105_die.spr	enemy105_at.spr	enemy105_at.spr	enemy105_at.spr	enemy105_st.spr	enemy105_wlk.spr
+enemy106	enemy106_st.spr	enemy106_st.spr	enemy106_pst.spr										enemy106_st.spr	
+enemy107	enemy107_st.spr	enemy107_st.spr	enemy107_pst.spr	enemy107_wlk.spr	enemy107_wlk.spr	enemy107_wlk.spr	enemy107_wlk.spr	enemy107_bat.spr	enemy107_die.spr	enemy107_at.spr	enemy107_at.spr	enemy107_at.spr	enemy107_st.spr	enemy107_wlk.spr
+enemy108	enemy108_st.spr	enemy108_st.spr	enemy108_pst.spr										enemy108_st.spr	
+enemy109	enemy109_st.spr	enemy109_st.spr	enemy109_pst.spr	enemy109_wlk.spr	enemy109_wlk.spr	enemy109_wlk.spr	enemy109_wlk.spr	enemy109_bat.spr	enemy109_die.spr	enemy109_at.spr	enemy109_at.spr	enemy109_at.spr	enemy109_st.spr	enemy109_wlk.spr
+enemy110	enemy110_st.spr	enemy110_st.spr	enemy110_pst.spr	enemy110_wlk.spr	enemy110_wlk.spr	enemy110_wlk.spr	enemy110_wlk.spr	enemy110_bat.spr	enemy110_die.spr	enemy110_at.spr	enemy110_at.spr	enemy110_at.spr	enemy110_st.spr	enemy110_wlk.spr
+enemy111	enemy111_st.spr	enemy111_st.spr	enemy111_pst.spr										enemy111_st.spr	
+enemy112	enemy112_st.spr	enemy112_st.spr	enemy112_pst.spr										enemy112_st.spr	
+enemy115	enemy115_st.spr	enemy115_st.spr	enemy115_pst.spr										enemy115_st.spr	
+enemy121	enemy121_st.spr	enemy121_st.spr	enemy121_pst.spr	enemy121_wlk.spr	enemy121_wlk.spr	enemy121_wlk.spr	enemy121_wlk.spr	enemy121_bat.spr	enemy121_die.spr	enemy121_at.spr	enemy121_at.spr	enemy121_at.spr	enemy121_st.spr	enemy121_wlk.spr
+enemy122	enemy122_st.spr	enemy122_st.spr	enemy122_pst.spr	enemy122_wlk.spr	enemy122_wlk.spr	enemy122_wlk.spr	enemy122_wlk.spr	enemy122_bat.spr	enemy122_die.spr	enemy122_at.spr	enemy122_at.spr	enemy122_at.spr	enemy122_st.spr	enemy122_wlk.spr
+enemy123	enemy123_st.spr	enemy123_st.spr	enemy123_pst.spr	enemy123_wlk.spr	enemy123_wlk.spr	enemy123_wlk.spr	enemy123_wlk.spr	enemy123_bat.spr	enemy123_die.spr	enemy123_at.spr	enemy123_at.spr	enemy123_at.spr	enemy123_st.spr	enemy123_wlk.spr
+enemy124	enemy124_st.spr	enemy124_st.spr	enemy124_pst.spr	enemy124_wlk.spr	enemy124_wlk.spr	enemy124_wlk.spr	enemy124_wlk.spr	enemy124_bat.spr	enemy124_die.spr	enemy124_at.spr	enemy124_at.spr	enemy124_at.spr	enemy124_st.spr	enemy124_wlk.spr
+enemy125	enemy125_st.spr	enemy125_st.spr	enemy125_pst.spr	enemy125_wlk.spr	enemy125_wlk.spr	enemy125_wlk.spr	enemy125_wlk.spr	enemy125_bat.spr	enemy125_die.spr	enemy125_at.spr	enemy125_at.spr	enemy125_at.spr	enemy125_st.spr	enemy125_wlk.spr
+enemy126	enemy126_st.spr	enemy126_st.spr	enemy126_pst.spr	enemy126_wlk.spr	enemy126_wlk.spr	enemy126_wlk.spr	enemy126_wlk.spr	enemy126_bat.spr	enemy126_die.spr	enemy126_at.spr	enemy126_at.spr	enemy126_at.spr	enemy126_st.spr	enemy126_wlk.spr
+enemy127	enemy127_st.spr	enemy127_st.spr	enemy127_pst.spr	enemy127_wlk.spr	enemy127_wlk.spr	enemy127_wlk.spr	enemy127_wlk.spr	enemy127_bat.spr	enemy127_die.spr	enemy127_at.spr	enemy127_at.spr	enemy127_at.spr	enemy127_st.spr	enemy127_wlk.spr
+enemy128	enemy128_st.spr	enemy128_st.spr	enemy128_pst.spr	enemy128_wlk.spr	enemy128_wlk.spr	enemy128_wlk.spr	enemy128_wlk.spr	enemy128_bat.spr	enemy128_die.spr	enemy128_at.spr	enemy128_at.spr	enemy128_at.spr	enemy128_st.spr	enemy128_wlk.spr
+enemy129	enemy129_st.spr	enemy129_st.spr	enemy129_pst.spr	enemy129_wlk.spr	enemy129_wlk.spr	enemy129_wlk.spr	enemy129_wlk.spr	enemy129_bat.spr	enemy129_die.spr	enemy129_at.spr	enemy129_at.spr	enemy129_at.spr	enemy129_st.spr	enemy129_wlk.spr
+enemy130	enemy130_pst.spr	enemy130_pst.spr	enemy130_pst.spr	enemy130_wlk.spr	enemy130_wlk.spr	enemy130_wlk.spr	enemy130_wlk.spr	enemy130_bat.spr	enemy130_die.spr	enemy130_at.spr	enemy130_at.spr	enemy130_at.spr	enemy130_st.spr	enemy130_wlk.spr
+enemy131	enemy131_st.spr	enemy131_st.spr	enemy131_pst.spr	enemy131_wlk.spr	enemy131_wlk.spr	enemy131_wlk.spr	enemy131_wlk.spr	enemy131_bat.spr	enemy131_die.spr	enemy131_at.spr	enemy131_at.spr	enemy131_at.spr	enemy131_st.spr	enemy131_wlk.spr
+enemy132	enemy132_st.spr	enemy132_st.spr	enemy132_pst.spr	enemy132_wlk.spr	enemy132_wlk.spr	enemy132_wlk.spr	enemy132_wlk.spr	enemy132_bat.spr	enemy132_die.spr	enemy132_at.spr	enemy132_at.spr	enemy132_at.spr	enemy132_st.spr	enemy132_wlk.spr
+enemy133	enemy133_st.spr	enemy133_st.spr	enemy133_pst.spr	enemy133_wlk.spr	enemy133_wlk.spr	enemy133_wlk.spr	enemy133_wlk.spr	enemy133_bat.spr	enemy133_die.spr	enemy133_at.spr	enemy133_at.spr	enemy133_at.spr	enemy133_st.spr	enemy133_wlk.spr
+enemy134	enemy134_pst.spr	enemy134_pst.spr	enemy134_pst.spr	enemy134_wlk.spr	enemy134_wlk.spr	enemy134_wlk.spr	enemy134_wlk.spr	enemy134_bat.spr	enemy134_die.spr	enemy134_at.spr	enemy134_at.spr	enemy134_at.spr	enemy134_st.spr	enemy134_wlk.spr
+enemy135	enemy135_st.spr	enemy135_st.spr	enemy135_pst.spr	enemy135_wlk.spr	enemy135_wlk.spr	enemy135_wlk.spr	enemy135_wlk.spr	enemy135_bat.spr	enemy135_die.spr	enemy135_at.spr	enemy135_at.spr	enemy135_at.spr	enemy135_st.spr	enemy135_wlk.spr
+enemy136	enemy136_st.spr	enemy136_st.spr	enemy136_pst.spr	enemy136_wlk.spr	enemy136_wlk.spr	enemy136_wlk.spr	enemy136_wlk.spr	enemy136_bat.spr	enemy136_die.spr	enemy136_at.spr	enemy136_at.spr	enemy136_at.spr	enemy136_st.spr	enemy136_wlk.spr
+enemy137	enemy137_st.spr	enemy137_st.spr	enemy137_pst.spr	enemy137_wlk.spr	enemy137_wlk.spr	enemy137_wlk.spr	enemy137_wlk.spr	enemy137_bat.spr	enemy137_die.spr	enemy137_at.spr	enemy137_at.spr	enemy137_at.spr	enemy137_st.spr	enemy137_wlk.spr
+enemy138	enemy138_st.spr	enemy138_st.spr	enemy138_pst.spr	enemy138_wlk.spr	enemy138_wlk.spr	enemy138_wlk.spr	enemy138_wlk.spr	enemy138_bat.spr	enemy138_die.spr	enemy138_at.spr	enemy138_at.spr	enemy138_at.spr	enemy138_st.spr	enemy138_wlk.spr
+enemy139	enemy139_st.spr	enemy139_st.spr	enemy139_pst.spr	enemy139_wlk.spr	enemy139_wlk.spr	enemy139_wlk.spr	enemy139_wlk.spr	enemy139_bat.spr	enemy139_die.spr	enemy139_at.spr	enemy139_at.spr	enemy139_at.spr	enemy139_st.spr	enemy139_wlk.spr
+enemy140	enemy140_st.spr	enemy140_st.spr	enemy140_pst.spr	enemy140_wlk.spr	enemy140_wlk.spr	enemy140_wlk.spr	enemy140_wlk.spr	enemy140_bat.spr	enemy140_die.spr	enemy140_at.spr	enemy140_at.spr	enemy140_at.spr	enemy140_st.spr	enemy140_wlk.spr
+enemy141	enemy141_st.spr	enemy141_st.spr	enemy141_pst.spr	enemy141_wlk.spr	enemy141_wlk.spr	enemy141_wlk.spr	enemy141_wlk.spr	enemy141_bat.spr	enemy141_die.spr	enemy141_at.spr	enemy141_at.spr	enemy141_at.spr	enemy141_st.spr	enemy141_wlk.spr
+enemy142	enemy142_st.spr	enemy142_st.spr	enemy142_pst.spr	enemy142_wlk.spr	enemy142_wlk.spr	enemy142_wlk.spr	enemy142_wlk.spr	enemy142_bat.spr	enemy142_die.spr	enemy142_at.spr	enemy142_at.spr	enemy142_at.spr	enemy142_st.spr	enemy142_wlk.spr
+enemy143	enemy143_st.spr	enemy143_st.spr	enemy143_pst.spr	enemy143_wlk.spr	enemy143_wlk.spr	enemy143_wlk.spr	enemy143_wlk.spr	enemy143_bat.spr	enemy143_die.spr	enemy143_at.spr	enemy143_at.spr	enemy143_at.spr	enemy143_st.spr	enemy143_wlk.spr
+enemy144	enemy144_st.spr	enemy144_st.spr	enemy144_pst.spr	enemy144_wlk.spr	enemy144_wlk.spr	enemy144_wlk.spr	enemy144_wlk.spr	enemy144_bat.spr	enemy144_die.spr	enemy144_at.spr	enemy144_at.spr	enemy144_at.spr	enemy144_st.spr	enemy144_wlk.spr
+enemy145	enemy145_st.spr	enemy145_st.spr	enemy145_pst.spr	enemy145_wlk.spr	enemy145_wlk.spr	enemy145_wlk.spr	enemy145_wlk.spr	enemy145_bat.spr	enemy145_die.spr	enemy145_at.spr	enemy145_at.spr	enemy145_at.spr	enemy145_st.spr	enemy145_wlk.spr
+enemy146	enemy146_st.spr	enemy146_st.spr	enemy146_pst.spr	enemy146_wlk.spr	enemy146_wlk.spr	enemy146_wlk.spr	enemy146_wlk.spr	enemy146_bat.spr	enemy146_die.spr	enemy146_at.spr	enemy146_at.spr	enemy146_at.spr	enemy146_st.spr	enemy146_wlk.spr
+enemy147	enemy147_st.spr	enemy147_st.spr	enemy147_pst.spr	enemy147_wlk.spr	enemy147_wlk.spr	enemy147_wlk.spr	enemy147_wlk.spr	enemy147_bat.spr	enemy147_die.spr	enemy147_at.spr	enemy147_at.spr	enemy147_at.spr	enemy147_st.spr	enemy147_wlk.spr
+enemy148	enemy148_st.spr	enemy148_st.spr	enemy148_pst.spr	enemy148_wlk.spr	enemy148_wlk.spr	enemy148_wlk.spr	enemy148_wlk.spr	enemy148_bat.spr	enemy148_die.spr	enemy148_at.spr	enemy148_at.spr	enemy148_at.spr	enemy148_st.spr	enemy148_wlk.spr
+enemy149	enemy149_st.spr	enemy149_st.spr	enemy149_pst.spr	enemy149_wlk.spr	enemy149_wlk.spr	enemy149_wlk.spr	enemy149_wlk.spr	enemy149_bat.spr	enemy149_die.spr	enemy149_at.spr	enemy149_at.spr	enemy149_at.spr	enemy149_st.spr	enemy149_wlk.spr
+enemy150	enemy150_st.spr	enemy150_st.spr	enemy150_pst.spr	enemy150_wlk.spr	enemy150_wlk.spr	enemy150_wlk.spr	enemy150_wlk.spr	enemy150_bat.spr	enemy150_die.spr	enemy150_at.spr	enemy150_at.spr	enemy150_at.spr	enemy150_st.spr	enemy150_wlk.spr
+enemy151	enemy151_st.spr	enemy151_st.spr	enemy151_pst.spr										enemy151_st.spr	
+enemy152	enemy152_st.spr	enemy152_st.spr	enemy152_pst.spr										enemy152_st.spr	
+enemy153	enemy153_st.spr	enemy153_st.spr	enemy153_pst.spr										enemy153_st.spr	
+enemy154	enemy154_st.spr	enemy154_st.spr	enemy154_pst.spr										enemy154_st.spr	
+enemy155	enemy155_st.spr	enemy155_st.spr	enemy155_pst.spr										enemy155_st.spr	
+enemy156	enemy156_st.spr	enemy156_st.spr	enemy156_pst.spr										enemy156_st.spr	
+enemy157	enemy157_st.spr	enemy157_st.spr	enemy157_pst.spr	enemy157_wlk.spr	enemy157_wlk.spr	enemy157_wlk.spr	enemy157_wlk.spr	enemy157_bat.spr	enemy157_die.spr	enemy157_at.spr	enemy157_at.spr	enemy157_at.spr	enemy157_st.spr	enemy157_wlk.spr
+enemy158	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_st.spr	enemy158_at.spr	enemy158_at.spr	enemy158_at.spr	enemy158_st.spr	enemy158_st.spr
+enemy159	enemy159_st.spr	enemy159_st.spr	enemy159_pst.spr										enemy159_st.spr	
+enemy160	enemy160_st.spr	enemy160_st.spr	enemy160_pst.spr										enemy160_st.spr	
+enemy161	enemy161_st.spr	enemy161_st.spr	enemy161_pst.spr										enemy161_st.spr	
+enemy162	enemy162_st.spr	enemy162_st.spr	enemy162_pst.spr										enemy162_st.spr	
+enemy163	enemy163_st.spr	enemy163_st.spr	enemy163_pst.spr										enemy163_st.spr	
+enemy164	enemy164_st.spr	enemy164_st.spr	enemy164_pst.spr										enemy164_st.spr	
+enemy165	enemy165_st.spr	enemy165_st.spr	enemy165_pst.spr										enemy165_st.spr	
+enemy166	enemy166_st.spr	enemy166_st.spr	enemy166_pst.spr										enemy166_st.spr	
+enemy167	enemy167_st.spr	enemy167_st.spr	enemy167_pst.spr										enemy167_st.spr	
+enemy168	enemy168_st.spr	enemy168_st.spr	enemy168_pst.spr										enemy168_st.spr	
+enemy169	enemy169_st.spr	enemy169_st.spr	enemy169_pst.spr										enemy169_st.spr	
+enemy170	enemy170_st.spr	enemy170_st.spr	enemy170_pst.spr	enemy170_wlk.spr	enemy170_wlk.spr	enemy170_wlk.spr	enemy170_wlk.spr	enemy170_bat.spr	enemy170_die.spr	enemy170_at.spr	enemy170_at.spr	enemy170_at.spr	enemy170_st.spr	enemy170_wlk.spr
+enemy171	enemy171_st.spr	enemy171_st.spr	enemy171_pst.spr	enemy171_wlk.spr	enemy171_wlk.spr	enemy171_wlk.spr	enemy171_wlk.spr	enemy171_bat.spr	enemy171_die.spr	enemy171_at.spr	enemy171_at.spr	enemy171_at.spr	enemy171_st.spr	enemy171_wlk.spr
+enemy172	enemy172_st.spr	enemy172_st.spr	enemy172_pst.spr	enemy172_wlk.spr	enemy172_wlk.spr	enemy172_wlk.spr	enemy172_wlk.spr	enemy172_bat.spr	enemy172_die.spr	enemy172_at.spr	enemy172_at.spr	enemy172_at.spr	enemy172_st.spr	enemy172_wlk.spr
+enemy173	enemy173_st.spr	enemy173_st.spr	enemy173_pst.spr	enemy173_wlk.spr	enemy173_wlk.spr	enemy173_wlk.spr	enemy173_wlk.spr	enemy173_bat.spr	enemy173_die.spr	enemy173_at.spr	enemy173_at.spr	enemy173_at.spr	enemy173_st.spr	enemy173_wlk.spr
+enemy174	enemy174_st.spr	enemy174_st.spr	enemy174_pst.spr	enemy174_wlk.spr	enemy174_wlk.spr	enemy174_wlk.spr	enemy174_wlk.spr	enemy174_bat.spr	enemy174_die.spr	enemy174_at.spr	enemy174_at.spr	enemy174_at.spr	enemy174_st.spr	enemy174_wlk.spr
+enemy175	enemy175_st.spr	enemy175_st.spr	enemy175_pst.spr										enemy175_st.spr	
+enemy176	enemy176_st.spr	enemy176_st.spr	enemy176_pst.spr	enemy176_wlk.spr	enemy176_wlk.spr	enemy176_wlk.spr	enemy176_wlk.spr	enemy176_bat.spr	enemy176_die.spr	enemy176_at.spr	enemy176_at.spr	enemy176_at.spr	enemy176_st.spr	enemy176_wlk.spr
+enemy177	enemy177_st.spr	enemy177_st.spr	enemy177_pst.spr	enemy177_wlk.spr	enemy177_wlk.spr	enemy177_wlk.spr	enemy177_wlk.spr	enemy177_bat.spr	enemy177_die.spr	enemy177_at.spr	enemy177_at.spr	enemy177_at.spr	enemy177_st.spr	enemy177_wlk.spr
+enemy178	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_bat.spr	enemy178_bat.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr	enemy178_st.spr
+enemy179	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_bat.spr	enemy179_bat.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr	enemy179_st.spr
+enemy180	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_bat.spr	enemy180_bat.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr	enemy180_st.spr
+enemy181	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr	enemy181_st.spr
+enemy182	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr	enemy182_st.spr
+enemy183	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr	enemy183_st.spr
+enemy184	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr	enemy184_st.spr
+enemy185	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr	enemy185_st.spr
+enemy186	enemy186_st.spr	enemy186_st.spr	enemy186_st.spr	enemy186_wlk.spr	enemy186_wlk.spr	enemy186_wlk.spr	enemy186_wlk.spr	enemy186_st.spr	enemy186_die.spr	enemy186_at.spr	enemy186_at.spr	enemy186_at.spr	enemy186_st.spr	enemy186_wlk.spr
+enemy187	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_st.spr	enemy187_die.spr	enemy187_at.spr	enemy187_at.spr	enemy187_at.spr	enemy187_st.spr	enemy187_st.spr
+enemy188	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_bat.spr	enemy188_die.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr	enemy188_st.spr
+enemy189	enemy189_st.spr	enemy189_st.spr	enemy189_st.spr	enemy189_wlk.spr	enemy189_wlk.spr	enemy189_wlk.spr	enemy189_wlk.spr	enemy189_bat.spr	enemy189_die.spr	enemy189_at1.spr	enemy189_at2.spr	enemy189_at2.spr	enemy189_st.spr	enemy189_wlk.spr
+enemy190	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr	enemy190_st.spr				enemy190_st.spr	enemy190_st.spr
+enemy191	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr	enemy191_st.spr				enemy191_st.spr	enemy191_st.spr
+enemy192	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr	enemy192_bat.spr				enemy192_bat.spr	enemy192_bat.spr
+enemy193	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr	enemy193_st.spr				enemy193_st.spr	enemy193_st.spr
+enemy194	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_bat.spr	enemy194_die.spr				enemy194_bat.spr	enemy194_bat.spr
+ani001	ani001_st.spr	ani001_st.spr	ani001_pst.spr	ani001_wlk.spr	ani001_wlk.spr	ani001_wlk.spr	ani001_wlk.spr	ani001_bat.spr	ani001_die.spr	ani001_at.spr	ani001_at.spr	ani001_at.spr	ani001_st.spr	ani001_wlk.spr
+ani002	ani002_st.spr	ani002_st.spr	ani002_pst.spr	ani002_wlk.spr	ani002_wlk.spr	ani002_wlk.spr	ani002_wlk.spr	ani002_bat.spr	ani002_die.spr	ani002_at.spr	ani002_at.spr	ani002_at.spr	ani002_st.spr	ani002_wlk.spr
+ani003	ani003_st.spr	ani003_st.spr	ani003_pst.spr	ani003_wlk.spr	ani003_wlk.spr	ani003_wlk.spr	ani003_wlk.spr	ani003_bat.spr	ani003_die.spr	ani003_at.spr	ani003_at.spr	ani003_at.spr	ani003_st.spr	ani003_wlk.spr
+ani005	ani005_st.spr	ani005_st.spr	ani005_pst.spr	ani005_wlk.spr	ani005_wlk.spr	ani005_wlk.spr	ani005_wlk.spr	ani005_bat.spr	ani005_die.spr	ani005_at.spr	ani005_at.spr	ani005_at.spr	ani005_st.spr	ani005_wlk.spr
+ani006	ani006_st.spr	ani006_st.spr	ani006_pst.spr	ani006_wlk.spr	ani006_wlk.spr	ani006_wlk.spr	ani006_wlk.spr	ani006_bat.spr	ani006_die.spr	ani006_at.spr	ani006_at.spr	ani006_at.spr	ani006_st.spr	ani006_wlk.spr
+ani009	ani009_st.spr	ani009_st.spr	ani009_pst.spr	ani009_wlk.spr	ani009_wlk.spr	ani009_wlk.spr	ani009_wlk.spr	ani009_bat.spr	ani009_die.spr	ani009_at.spr	ani009_at.spr	ani009_at.spr	ani009_st.spr	ani009_wlk.spr
+ani010	ani010_st.spr	ani010_st.spr	ani010_pst.spr	ani010_wlk.spr	ani010_wlk.spr	ani010_wlk.spr	ani010_wlk.spr	ani010_bat.spr	ani010_die.spr	ani010_at.spr	ani010_at.spr	ani010_at.spr	ani010_st.spr	ani010_wlk.spr
+ani011	ani011_st.spr	ani011_st.spr	ani011_pst.spr	ani011_wlk.spr	ani011_wlk.spr	ani011_wlk.spr	ani011_wlk.spr	ani011_bat.spr	ani011_die.spr	ani011_at.spr	ani011_at.spr	ani011_at.spr	ani011_st.spr	ani011_wlk.spr
+ani012	ani012_st.spr	ani012_st.spr	ani012_pst.spr	ani012_wlk.spr	ani012_wlk.spr	ani012_wlk.spr	ani012_wlk.spr	ani012_bat.spr	ani012_die.spr	ani012_at.spr	ani012_at.spr	ani012_at.spr	ani012_st.spr	ani012_wlk.spr
+ani013	ani013_st.spr	ani013_st.spr	ani013_pst.spr	ani013_wlk.spr	ani013_wlk.spr	ani013_wlk.spr	ani013_wlk.spr	ani013_bat.spr	ani013_die.spr	ani013_at.spr	ani013_at.spr	ani013_at.spr	ani013_st.spr	ani013_wlk.spr
+ani015	ani015_st.spr	ani015_st.spr	ani015_pst.spr	ani015_wlk.spr	ani015_wlk.spr	ani015_wlk.spr	ani015_wlk.spr	ani015_bat.spr	ani015_die.spr	ani015_at.spr	ani015_at.spr	ani015_at.spr	ani015_st.spr	ani015_wlk.spr
+ani018	ani018_st.spr	ani018_st.spr	ani018_pst.spr	ani018_wlk.spr	ani018_wlk.spr	ani018_wlk.spr	ani018_wlk.spr	ani018_bat.spr	ani018_die.spr	ani018_at.spr	ani018_at.spr	ani018_at.spr	ani018_st.spr	ani018_wlk.spr
+ani019	ani019_st.spr	ani019_st.spr	ani019_pst.spr	ani019_wlk.spr	ani019_wlk.spr	ani019_wlk.spr	ani019_wlk.spr	ani019_bat.spr	ani019_die.spr	ani019_at.spr	ani019_at.spr	ani019_at.spr	ani019_st.spr	ani019_wlk.spr
+ani021	ani021_st.spr	ani021_st.spr	ani021_pst.spr	ani021_wlk.spr	ani021_wlk.spr	ani021_wlk.spr	ani021_wlk.spr	ani021_bat.spr	ani021_die.spr	ani021_at.spr	ani021_at.spr	ani021_at.spr	ani021_st.spr	ani021_wlk.spr
+ani024	ani024_st.spr	ani024_st.spr	ani024_pst.spr	ani024_wlk.spr	ani024_wlk.spr	ani024_wlk.spr	ani024_wlk.spr	ani024_bat.spr	ani024_die.spr	ani024_at.spr	ani024_at.spr	ani024_at.spr	ani024_st.spr	ani024_wlk.spr
+ani025	ani025_st.spr	ani025_st.spr	ani025_pst.spr	ani025_wlk.spr	ani025_wlk.spr	ani025_wlk.spr	ani025_wlk.spr	ani025_bat.spr	ani025_die.spr	ani025_at.spr	ani025_at.spr	ani025_at.spr	ani025_st.spr	ani025_wlk.spr
+ani026	ani026_st.spr	ani026_st.spr	ani026_pst.spr	ani026_wlk.spr	ani026_wlk.spr	ani026_wlk.spr	ani026_wlk.spr	ani026_bat.spr	ani026_die.spr	ani026_at.spr	ani026_at.spr	ani026_at.spr	ani026_st.spr	ani026_wlk.spr
+ani029	ani029_st.spr	ani029_st.spr	ani029_pst.spr	ani029_wlk.spr	ani029_wlk.spr	ani029_wlk.spr	ani029_wlk.spr	ani029_bat.spr	ani029_die.spr	ani029_at.spr	ani029_at.spr	ani029_at.spr	ani029_st.spr	ani029_wlk.spr
+ani033	ani033_st.spr	ani033_st.spr	ani033_pst.spr	ani033_wlk.spr	ani033_wlk.spr	ani033_wlk.spr	ani033_wlk.spr	ani033_bat.spr	ani033_die.spr	ani033_at.spr	ani033_at.spr	ani033_at.spr	ani033_st.spr	ani033_wlk.spr
+ani036	ani036_st.spr	ani036_st.spr	ani036_pst.spr	ani036_wlk.spr	ani036_wlk.spr	ani036_wlk.spr	ani036_wlk.spr	ani036_bat.spr	ani036_die.spr	ani036_at.spr	ani036_at.spr	ani036_at.spr	ani036_st.spr	ani036_wlk.spr
+ani037	ani037_st.spr	ani037_st.spr	ani037_pst.spr	ani037_wlk.spr	ani037_wlk.spr	ani037_wlk.spr	ani037_wlk.spr	ani037_bat.spr	ani037_die.spr	ani037_at.spr	ani037_at.spr	ani037_at.spr	ani037_st.spr	ani037_wlk.spr
+ani038	ani038_st.spr	ani038_st.spr	ani038_pst.spr	ani038_wlk.spr	ani038_wlk.spr	ani038_wlk.spr	ani038_wlk.spr	ani038_bat.spr	ani038_die.spr	ani038_at.spr	ani038_at.spr	ani038_at.spr	ani038_st.spr	ani038_wlk.spr
+ani039	ani039_st.spr	ani039_st.spr	ani039_pst.spr	ani039_wlk.spr	ani039_wlk.spr	ani039_wlk.spr	ani039_wlk.spr	ani039_bat.spr	ani039_die.spr	ani039_at.spr	ani039_at.spr	ani039_at.spr	ani039_st.spr	ani039_wlk.spr
+ani040	ani040_st.spr	ani040_st.spr	ani040_pst.spr	ani040_wlk.spr	ani040_wlk.spr	ani040_wlk.spr	ani040_wlk.spr	ani040_bat.spr	ani040_die.spr	ani040_at.spr	ani040_at.spr	ani040_at.spr	ani040_st.spr	ani040_wlk.spr
+ani041	ani041_st.spr	ani041_st.spr	ani041_pst.spr	ani041_wlk.spr	ani041_wlk.spr	ani041_wlk.spr	ani041_wlk.spr	ani041_bat.spr	ani041_die.spr	ani041_at.spr	ani041_at.spr	ani041_at.spr	ani041_st.spr	ani041_wlk.spr
+ani042	ani042_st.spr	ani042_st.spr	ani042_pst.spr	ani042_wlk.spr	ani042_wlk.spr	ani042_wlk.spr	ani042_wlk.spr	ani042_bat.spr	ani042_die.spr	ani042_at.spr	ani042_at.spr	ani042_at.spr	ani042_st.spr	ani042_wlk.spr
+ani043	ani043_st.spr	ani043_st.spr	ani043_pst.spr	ani043_wlk.spr	ani043_wlk.spr	ani043_wlk.spr	ani043_wlk.spr	ani043_bat.spr	ani043_die.spr	ani043_at.spr	ani043_at.spr	ani043_at.spr	ani043_st.spr	ani043_wlk.spr
+ani045	ani045_st.spr	ani045_st.spr	ani045_pst.spr	ani045_wlk.spr	ani045_wlk.spr	ani045_wlk.spr	ani045_wlk.spr	ani045_bat.spr	ani045_die.spr	ani045_at.spr	ani045_at.spr	ani045_at.spr	ani045_st.spr	ani045_wlk.spr
+ani046	ani046_st.spr	ani046_st.spr	ani046_pst.spr	ani046_wlk.spr	ani046_wlk.spr	ani046_wlk.spr	ani046_wlk.spr	ani046_bat.spr	ani046_die.spr	ani046_at.spr	ani046_at.spr	ani046_at.spr	ani046_st.spr	ani046_wlk.spr
+ani047	ani047_st.spr	ani047_st.spr	ani047_pst.spr	ani047_wlk.spr	ani047_wlk.spr	ani047_wlk.spr	ani047_wlk.spr	ani047_bat.spr	ani047_die.spr	ani047_at.spr	ani047_at.spr	ani047_at.spr	ani047_st.spr	ani047_wlk.spr
+ani048	ani048_st.spr	ani048_st.spr	ani048_pst.spr	ani048_wlk.spr	ani048_wlk.spr	ani048_wlk.spr	ani048_wlk.spr	ani048_bat.spr	ani048_die.spr	ani048_at.spr	ani048_at.spr	ani048_at.spr	ani048_st.spr	ani048_wlk.spr
+ani049	ani049_st.spr	ani049_st.spr	ani049_pst.spr	ani049_wlk.spr	ani049_wlk.spr	ani049_wlk.spr	ani049_wlk.spr	ani049_bat.spr	ani049_die.spr	ani049_at.spr	ani049_at.spr	ani049_at.spr	ani049_st.spr	ani049_wlk.spr
+ani050	ani050_st.spr	ani050_st.spr	ani050_pst.spr	ani050_wlk.spr	ani050_wlk.spr	ani050_wlk.spr	ani050_wlk.spr	ani050_bat.spr	ani050_die.spr	ani050_at.spr	ani050_at.spr	ani050_at.spr	ani050_st.spr	ani050_wlk.spr
+ani051	ani051_st.spr	ani051_st.spr	ani051_pst.spr	ani051_wlk.spr	ani051_wlk.spr	ani051_wlk.spr	ani051_wlk.spr	ani051_bat.spr	ani051_die.spr	ani051_at.spr	ani051_at.spr	ani051_at.spr	ani051_st.spr	ani051_wlk.spr
+ani052	ani052_st.spr	ani052_st.spr	ani052_pst.spr	ani052_wlk.spr	ani052_wlk.spr	ani052_wlk.spr	ani052_wlk.spr	ani052_bat.spr	ani052_die.spr	ani052_at.spr	ani052_at.spr	ani052_at.spr	ani052_st.spr	ani052_wlk.spr
+ani053	ani053_st.spr	ani053_st.spr	ani053_pst.spr	ani053_wlk.spr	ani053_wlk.spr	ani053_wlk.spr	ani053_wlk.spr	ani053_bat.spr	ani053_die.spr	ani053_at.spr	ani053_at.spr	ani053_at.spr	ani053_st.spr	ani053_wlk.spr
+ani054	ani054_st.spr	ani054_st.spr	ani054_pst.spr	ani054_wlk.spr	ani054_wlk.spr	ani054_wlk.spr	ani054_wlk.spr	ani054_bat.spr	ani054_die.spr	ani054_at.spr	ani054_at.spr	ani054_at.spr	ani054_st.spr	ani054_wlk.spr
+ani055	ani055_st.spr	ani055_st.spr	ani055_pst.spr	ani055_wlk.spr	ani055_wlk.spr	ani055_wlk.spr	ani055_wlk.spr	ani055_bat.spr	ani055_die.spr	ani055_at.spr	ani055_at.spr	ani055_at.spr	ani055_st.spr	ani055_wlk.spr
+ani056	ani056_st.spr	ani056_st.spr	ani056_pst.spr	ani056_wlk.spr	ani056_wlk.spr	ani056_wlk.spr	ani056_wlk.spr	ani056_bat.spr	ani056_die.spr	ani056_at.spr	ani056_at.spr	ani056_at.spr	ani056_st.spr	ani056_wlk.spr
+ani058	ani058_st.spr	ani058_st.spr	ani058_pst.spr	ani058_wlk.spr	ani058_wlk.spr	ani058_wlk.spr	ani058_wlk.spr	ani058_bat.spr	ani058_die.spr	ani058_at.spr	ani058_at.spr	ani058_at.spr	ani058_st.spr	ani058_wlk.spr
+ani059	ani059_st.spr	ani059_st.spr	ani059_pst.spr	ani059_wlk.spr	ani059_wlk.spr	ani059_wlk.spr	ani059_wlk.spr	ani059_bat.spr	ani059_die.spr	ani059_at.spr	ani059_at.spr	ani059_at.spr	ani059_st.spr	ani059_wlk.spr
+ani060	ani060_st.spr	ani060_st.spr	ani060_pst.spr	ani060_wlk.spr	ani060_wlk.spr	ani060_wlk.spr	ani060_wlk.spr	ani060_bat.spr	ani060_die.spr	ani060_at.spr	ani060_at.spr	ani060_at.spr	ani060_st.spr	ani060_wlk.spr
+ani061	ani061_st.spr	ani061_st.spr	ani061_pst.spr	ani061_wlk.spr	ani061_wlk.spr	ani061_wlk.spr	ani061_wlk.spr	ani061_bat.spr	ani061_die.spr	ani061_at.spr	ani061_at.spr	ani061_at.spr	ani061_st.spr	ani061_wlk.spr
+ani063	ani063_st.spr	ani063_st.spr	ani063_pst.spr	ani063_wlk.spr	ani063_wlk.spr	ani063_wlk.spr	ani063_wlk.spr	ani063_bat.spr	ani063_die.spr	ani063_at.spr	ani063_at.spr	ani063_at.spr	ani063_st.spr	ani063_wlk.spr
+ani065	ani065_st.spr	ani065_st.spr	ani065_pst.spr	ani065_wlk.spr	ani065_wlk.spr	ani065_wlk.spr	ani065_wlk.spr	ani065_bat.spr	ani065_die.spr	ani065_at.spr	ani065_at.spr	ani065_at.spr	ani065_st.spr	ani065_wlk.spr
+ani066	ani066_st.spr	ani066_st.spr	ani066_pst.spr	ani066_wlk.spr	ani066_wlk.spr	ani066_wlk.spr	ani066_wlk.spr	ani066_bat.spr	ani066_die.spr	ani066_at.spr	ani066_at.spr	ani066_at.spr	ani066_st.spr	ani066_wlk.spr
+ani067	ani067_st.spr	ani067_st.spr	ani067_pst.spr	ani067_wlk.spr	ani067_wlk.spr	ani067_wlk.spr	ani067_wlk.spr	ani067_bat.spr	ani067_die.spr	ani067_at.spr	ani067_at.spr	ani067_at.spr	ani067_st.spr	ani067_wlk.spr
+passerby001	passerby001z.spr	passerby001z.spr	passerby001s.spr										passerby001z.spr	
+passerby002	passerby002z.spr	passerby002z.spr	passerby002s.spr										passerby002z.spr	
+passerby004_1	passerby004s1.spr	passerby004s1.spr	passerby004s1.spr										passerby004s1.spr	
+passerby004_2	passerby004s2.spr	passerby004s2.spr	passerby004s2.spr										passerby004s2.spr	
+passerby004_3	passerby004s3.spr	passerby004s3.spr	passerby004s3.spr										passerby004s3.spr	
+passerby006_1	passerby006s1.spr	passerby006s1.spr	passerby006s1.spr										passerby006s1.spr	
+passerby006_2	passerby006s2.spr	passerby006s2.spr	passerby006s2.spr										passerby006s2.spr	
+passerby006_3	passerby006s3.spr	passerby006s3.spr	passerby006s3.spr										passerby006s3.spr	
+passerby007	passerby007z.spr	passerby007z.spr	passerby007z.spr										passerby007z.spr	
+passerby008	passerby008z.spr	passerby008z.spr	passerby008s.spr										passerby008z.spr	
+passerby010	passerby010z.spr	passerby010z.spr	passerby010s.spr										passerby010z.spr	
+passerby011_1	passerby011s_1.spr	passerby011s_1.spr	passerby011s_1.spr										passerby011s_1.spr	
+passerby011_2	passerby011s_2.spr	passerby011s_2.spr	passerby011s_2.spr										passerby011s_2.spr	
+passerby011_3	passerby011s_3.spr	passerby011s_3.spr	passerby011s_3.spr										passerby011s_3.spr	
+passerby013	passerby013z.spr	passerby013z.spr	passerby013s.spr										passerby013z.spr	
+passerby014	passerby014z.spr	passerby014z.spr	passerby014s.spr										passerby014z.spr	
+passerby015	passerby015z.spr	passerby015z.spr	passerby015s.spr										passerby015z.spr	
+passerby018	passerby018z.spr	passerby018z.spr	passerby018s.spr										passerby018z.spr	
+passerby019	passerby019z.spr	passerby019z.spr	passerby019s.spr										passerby019z.spr	
+passerby020	passerby020z.spr	passerby020z.spr	passerby020s.spr										passerby020z.spr	
+passerby023	passerby023z.spr	passerby023z.spr	passerby023s.spr										passerby023z.spr	
+passerby024	passerby024z.spr	passerby024z.spr	passerby024s.spr										passerby024z.spr	
+passerby025	passerby025z.spr	passerby025z.spr	passerby025s.spr										passerby025z.spr	
+passerby027	passerby027z.spr	passerby027z.spr	passerby027s.spr										passerby027z.spr	
+passerby028	passerby028z.spr	passerby028z.spr	passerby028z.spr										passerby028z.spr	
+passerby029	passerby029z.spr	passerby029z.spr	passerby029s.spr										passerby029z.spr	
+passerby030	passerby030z.spr	passerby030z.spr	passerby030s.spr										passerby030z.spr	
+passerby031	passerby031z.spr	passerby031z.spr	passerby031s.spr										passerby031z.spr	
+passerby032	passerby032z.spr	passerby032z.spr	passerby032s.spr										passerby032z.spr	
+passerby033	passerby033z.spr	passerby033z.spr	passerby033s.spr										passerby033z.spr	
+passerby034	passerby034z.spr	passerby034z.spr	passerby034z.spr										passerby034z.spr	
+passerby036_1	passerby036s1.spr	passerby036s1.spr	passerby036s1.spr										passerby036s1.spr	
+passerby036_2	passerby036s2.spr	passerby036s2.spr	passerby036s2.spr										passerby036s2.spr	
+passerby036_3	passerby036s3.spr	passerby036s3.spr	passerby036s3.spr										passerby036s3.spr	
+passerby037_1	passerby037s1.spr	passerby037s1.spr	passerby037s1.spr										passerby037s1.spr	
+passerby037_2	passerby037s2.spr	passerby037s2.spr	passerby037s2.spr										passerby037s2.spr	
+passerby037_3	passerby037s3.spr	passerby037s3.spr	passerby037s3.spr										passerby037s3.spr	
+passerby038_1	passerby038s1.spr	passerby038s1.spr	passerby038s1.spr										passerby038s1.spr	
+passerby038_2	passerby038s2.spr	passerby038s2.spr	passerby038s2.spr										passerby038s2.spr	
+passerby038_3	passerby038s3.spr	passerby038s3.spr	passerby038s3.spr										passerby038s3.spr	
+passerby040_1	passerby040s1.spr	passerby040s1.spr	passerby040s1.spr										passerby040s1.spr	
+passerby040_2	passerby040s2.spr	passerby040s2.spr	passerby040s2.spr										passerby040s2.spr	
+passerby040_3	passerby040s3.spr	passerby040s3.spr	passerby040s3.spr										passerby040s3.spr	
+passerby041	passerby041z.spr	passerby041z.spr	passerby041s.spr										passerby041z.spr	
+passerby042	passerby042z.spr	passerby042z.spr	passerby042s.spr										passerby042z.spr	
+passerby043	passerby043z.spr	passerby043z.spr	passerby043z.spr										passerby043z.spr	
+passerby044	passerby044z.spr	passerby044z.spr	passerby044z.spr										passerby044z.spr	
+passerby045	passerby045z.spr	passerby045z.spr	passerby045z.spr										passerby045z.spr	
+passerby047	passerby047z.spr	passerby047z.spr	passerby047s.spr										passerby047z.spr	
+passerby048	passerby048z.spr	passerby048z.spr	passerby048s.spr										passerby048z.spr	
+passerby049	passerby049z.spr	passerby049z.spr	passerby049s.spr										passerby049z.spr	
+passerby050	passerby050z.spr	passerby050z.spr	passerby050s.spr										passerby050z.spr	
+passerby051	passerby051z.spr	passerby051z.spr	passerby051s.spr										passerby051z.spr	
+passerby052	passerby052z.spr	passerby052z.spr	passerby052s.spr										passerby052z.spr	
+passerby058	passerby058z.spr	passerby058z.spr	passerby058s.spr										passerby058z.spr	
+passerby059	passerby059z.spr	passerby059z.spr	passerby059z.spr										passerby059z.spr	
+passerby060	passerby060z.spr	passerby060z.spr	passerby060z.spr										passerby060z.spr	
+passerby061_1	passerby061z1.spr	passerby061z1.spr	passerby061s1.spr										passerby061z1.spr	
+passerby061_2	passerby061z2.spr	passerby061z2.spr	passerby061s2.spr										passerby061z2.spr	
+passerby061_3	passerby061z3.spr	passerby061z3.spr	passerby061s3.spr										passerby061z3.spr	
+passerby062_1	passerby062z1.spr	passerby062z1.spr	passerby062s1.spr										passerby062z1.spr	
+passerby062_2	passerby062z2.spr	passerby062z2.spr	passerby062s2.spr										passerby062z2.spr	
+passerby062_3	passerby062z3.spr	passerby062z3.spr	passerby062s3.spr										passerby062z3.spr	
+passerby063_1	passerby063z1.spr	passerby063z1.spr	passerby063s1.spr										passerby063z1.spr	
+passerby063_2	passerby063z2.spr	passerby063z2.spr	passerby063s2.spr										passerby063z2.spr	
+passerby063_3	passerby063z3.spr	passerby063z3.spr	passerby063s3.spr										passerby063z3.spr	
+passerby064_1	passerby064z1.spr	passerby064z1.spr	passerby064s1.spr										passerby064z1.spr	
+passerby064_2	passerby064z2.spr	passerby064z2.spr	passerby064s2.spr										passerby064z2.spr	
+passerby064_3	passerby064z3.spr	passerby064z3.spr	passerby064s3.spr										passerby064z3.spr	
+passerby065_1	passerby065z1.spr	passerby065z1.spr	passerby065s1.spr										passerby065z1.spr	
+passerby065_2	passerby065z2.spr	passerby065z2.spr	passerby065s2.spr										passerby065z2.spr	
+passerby065_3	passerby065z3.spr	passerby065z3.spr	passerby065s3.spr										passerby065z3.spr	
+passerby066_1	passerby066z1.spr	passerby066z1.spr	passerby066s1.spr										passerby066z1.spr	
+passerby066_2	passerby066z2.spr	passerby066z2.spr	passerby066s2.spr										passerby066z2.spr	
+passerby066_3	passerby066z3.spr	passerby066z3.spr	passerby066s3.spr										passerby066z3.spr	
+passerby067_1	passerby067z1.spr	passerby067z1.spr	passerby067z1.spr										passerby067z1.spr	
+passerby067_2	passerby067z2.spr	passerby067z2.spr	passerby067z2.spr										passerby067z2.spr	
+passerby067_3	passerby067z3.spr	passerby067z3.spr	passerby067z3.spr										passerby067z3.spr	
+passerby068_1	passerby068z1.spr	passerby068z1.spr	passerby068z1.spr										passerby068z1.spr	
+passerby068_2	passerby068z2.spr	passerby068z2.spr	passerby068z2.spr										passerby068z2.spr	
+passerby068_3	passerby068z3.spr	passerby068z3.spr	passerby068z3.spr										passerby068z3.spr	
+passerby069_1	passerby069z1.spr	passerby069z1.spr	passerby069s1.spr										passerby069z1.spr	
+passerby069_2	passerby069z2.spr	passerby069z2.spr	passerby069s2.spr										passerby069z2.spr	
+passerby069_3	passerby069z3.spr	passerby069z3.spr	passerby069s3.spr										passerby069z3.spr	
+passerby070_1	passerby070z.spr	passerby070z.spr	passerby070z.spr										passerby070z.spr	
+passerby070_2	passerby070s2.spr	passerby070s2.spr	passerby070s2.spr										passerby070s2.spr	
+passerby070_3	passerby070s3.spr	passerby070s3.spr	passerby070s3.spr										passerby070s3.spr	
+passerby071_1	passerby071z1.spr	passerby071z1.spr	passerby071s1.spr										passerby071z1.spr	
+passerby071_2	passerby071z2.spr	passerby071z2.spr	passerby071s2.spr										passerby071z2.spr	
+passerby071_3	passerby071z3.spr	passerby071z3.spr	passerby071s3.spr										passerby071z3.spr	
+passerby072_1	passerby072s1.spr	passerby072s1.spr	passerby072s1.spr										passerby072s1.spr	
+passerby072_2	passerby072s2.spr	passerby072s2.spr	passerby072s2.spr										passerby072s2.spr	
+passerby072_3	passerby072s3.spr	passerby072s3.spr	passerby072s3.spr										passerby072s3.spr	
+passerby073_1	passerby073z1.spr	passerby073z1.spr	passerby073s1.spr										passerby073z1.spr	
+passerby073_2	passerby073z2.spr	passerby073z2.spr	passerby073s2.spr										passerby073z2.spr	
+passerby073_3	passerby073z3.spr	passerby073z3.spr	passerby073s3.spr										passerby073z3.spr	
+passerby074_1	passerby074z1.spr	passerby074z1.spr	passerby074z1.spr										passerby074z1.spr	
+passerby074_2	passerby074z2.spr	passerby074z2.spr	passerby074z2.spr										passerby074z2.spr	
+passerby074_3	passerby074z3.spr	passerby074z3.spr	passerby074z3.spr										passerby074z3.spr	
+passerby075_1	passerby075z1.spr	passerby075z1.spr	passerby075s1.spr										passerby075z1.spr	
+passerby075_2	passerby075z2.spr	passerby075z2.spr	passerby075s2.spr										passerby075z2.spr	
+passerby075_3	passerby075z3.spr	passerby075z3.spr	passerby075s3.spr										passerby075z3.spr	
+passerby076_1	passerby076s1.spr	passerby076s1.spr	passerby076s1.spr										passerby076s1.spr	
+passerby076_2	passerby076s2.spr	passerby076s2.spr	passerby076s2.spr										passerby076s2.spr	
+passerby076_3	passerby076s3.spr	passerby076s3.spr	passerby076s3.spr										passerby076s3.spr	
+passerby077_1	passerby077z1.spr	passerby077z1.spr	passerby077s1.spr										passerby077z1.spr	
+passerby077_2	passerby077z2.spr	passerby077z2.spr	passerby077s2.spr										passerby077z2.spr	
+passerby077_3	passerby077z3.spr	passerby077z3.spr	passerby077s3.spr										passerby077z3.spr	
+passerby079_1	passerby079z1.spr	passerby079z1.spr	passerby079s1.spr										passerby079z1.spr	
+passerby079_2	passerby079z2.spr	passerby079z2.spr	passerby079s2.spr										passerby079z2.spr	
+passerby079_3	passerby079z3.spr	passerby079z3.spr	passerby079s3.spr										passerby079z3.spr	
+passerby080	passerby080z.spr	passerby080z.spr	passerby080s.spr										passerby080z.spr	
+passerby088	passerby088.spr	passerby088.spr	passerby088.spr										passerby088.spr	
+passerby092	passerby092_st.spr	passerby092_st.spr	passerby092_pst.spr										passerby092_st.spr	
+passerby094	passerby094_st.spr	passerby094_st.spr	passerby094_pst.spr										passerby094_st.spr	
+passerby095	passerby095_st.spr	passerby095_st.spr	passerby095_pst.spr										passerby095_st.spr	
+passerby097	passerby097_st.spr	passerby097_st.spr	passerby097_pst.spr										passerby097_st.spr	
+passerby099	passerby099_st.spr	passerby099_st.spr	passerby099_pst.spr										passerby099_st.spr	
+passerby100	passerby100_st.spr	passerby100_st.spr	passerby100_pst.spr										passerby100_st.spr	
+passerby101	passerby101_st.spr	passerby101_st.spr	passerby101_pst.spr										passerby101_st.spr	
+passerby102	passerby102_st.spr	passerby102_st.spr	passerby102_pst.spr										passerby102_st.spr	
+passerby103	passerby103_st.spr	passerby103_st.spr	passerby103_pst.spr										passerby103_st.spr	
+passerby104	passerby104_st.spr	passerby104_st.spr	passerby104_pst.spr										passerby104_st.spr	
+passerby105	passerby105_st.spr	passerby105_st.spr	passerby105_pst.spr										passerby105_st.spr	
+passerby108	passerby108_st.spr	passerby108_st.spr	passerby108_pst.spr										passerby108_st.spr	
+passerby110	passerby110_st.spr	passerby110_st.spr	passerby110_pst.spr										passerby110_st.spr	
+passerby112	passerby112.spr	passerby112.spr	passerby112.spr										passerby112.spr	
+passerby117	passerby117_st.spr	passerby117_st.spr	passerby117_pst.spr										passerby117_st.spr	
+passerby118	passerby118_st.spr	passerby118_st.spr	passerby118_pst.spr										passerby118_st.spr	
+passerby119	passerby119_st.spr	passerby119_st.spr	passerby119_pst.spr										passerby119_st.spr	
+passerby120	passerby120_st.spr	passerby120_st.spr	passerby120_pst.spr										passerby120_st.spr	
+passerby121	passerby121_st.spr	passerby121_st.spr	passerby121_pst.spr										passerby121_st.spr	
+passerby122	passerby122_st.spr	passerby122_st.spr	passerby122_pst.spr										passerby122_st.spr	
+passerby123	passerby123_st.spr	passerby123_st.spr	passerby123_pst.spr										passerby123_st.spr	
+passerby124	passerby124_st.spr	passerby124_st.spr	passerby124_pst.spr										passerby124_st.spr	
+passerby125	passerby125_st.spr	passerby125_st.spr	passerby125_pst.spr										passerby125_st.spr	
+passerby127	passerby127_st.spr	passerby127_st.spr	passerby127_pst.spr										passerby127_st.spr	
+passerby128	passerby128_st.spr	passerby128_st.spr	passerby128_pst.spr										passerby128_st.spr	
+passerby129	passerby129_st.spr	passerby129_st.spr	passerby129_pst.spr										passerby129_st.spr	
+passerby130	passerby130_st.spr	passerby130_st.spr	passerby130_pst.spr										passerby130_st.spr	
+passerby131	passerby131_st.spr	passerby131_st.spr	passerby131_pst.spr										passerby131_st.spr	
+passerby132	passerby132_st.spr	passerby132_st.spr	passerby132_pst.spr										passerby132_st.spr	
+passerby133	passerby133_st.spr	passerby133_st.spr	passerby133_pst.spr										passerby133_st.spr	
+passerby134	passerby134_st.spr	passerby134_st.spr	passerby134_pst.spr										passerby134_st.spr	
+passerby135	passerby135_st.spr	passerby135_st.spr	passerby135_pst.spr										passerby135_st.spr	
+passerby136	passerby136_st.spr	passerby136_st.spr	passerby136_pst.spr										passerby136_st.spr	
+passerby137	passerby137_st.spr	passerby137_st.spr	passerby137_pst.spr										passerby137_st.spr	
+passerby138	passerby138_st.spr	passerby138_st.spr	passerby138_pst.spr										passerby138_st.spr	
+passerby139	passerby139_st.spr	passerby139_st.spr	passerby139_pst.spr										passerby139_st.spr	
+passerby140	passerby140_st.spr	passerby140_st.spr	passerby140_pst.spr										passerby140_st.spr	
+passerby141	passerby141_st.spr	passerby141_st.spr	passerby141_pst.spr										passerby141_st.spr	
+passerby142	passerby142_st.spr	passerby142_st.spr	passerby142_pst.spr										passerby142_st.spr	
+passerby144	passerby144_st.spr	passerby144_st.spr	passerby144_pst.spr										passerby144_st.spr	
+passerby145	passerby145_st.spr	passerby145_st.spr	passerby145_pst.spr										passerby145_st.spr	
+passerby146	passerby146_st.spr	passerby146_st.spr	passerby146_pst.spr										passerby146_st.spr	
+passerby147	passerby147_st.spr	passerby147_st.spr	passerby147_pst.spr										passerby147_st.spr	
+passerby148	passerby148_st.spr	passerby148_st.spr	passerby148_pst.spr										passerby148_st.spr	
+passerby149	passerby149_st.spr	passerby149_st.spr	passerby149_pst.spr										passerby149_st.spr	
+passerby150	passerby150_st.spr	passerby150_st.spr	passerby150_pst.spr										passerby150_st.spr	
+passerby151	passerby151_st.spr	passerby151_st.spr	passerby151_pst.spr										passerby151_st.spr	
+passerby152	passerby152_st.spr	passerby152_st.spr	passerby152_pst.spr										passerby152_st.spr	
+passerby153	passerby153_st.spr	passerby153_st.spr	passerby153_pst.spr										passerby153_st.spr	
+passerby154	passerby154_st.spr	passerby154_st.spr	passerby154_pst.spr										passerby154_st.spr	
+passerby157	passerby157_stt.spr	passerby157_stt.spr	passerby157_pst.spr										passerby157_stt.spr	
+passerby159	passerby159_st.spr	passerby159_st.spr	passerby159_pst.spr										passerby159_st.spr	
+passerby163	passerby163_st.spr	passerby163_st.spr	passerby163_pst.spr										passerby163_st.spr	
+passerby164	passerby164_st.spr	passerby164_st.spr	passerby164_pst.spr										passerby164_st.spr	
+passerby165	passerby165_st.spr	passerby165_st.spr	passerby165_pst.spr										passerby165_st.spr	
+passerby167	passerby167_st.spr	passerby167_st.spr	passerby167_pst.spr										passerby167_st.spr	
+passerby168	passerby168_st.spr	passerby168_st.spr	passerby168_pst.spr										passerby168_st.spr	
+passerby169	passerby169_st.spr	passerby169_st.spr	passerby169_pst.spr										passerby169_st.spr	
+passerby170	passerby170_st.spr	passerby170_st.spr	passerby170_pst.spr										passerby170_st.spr	
+passerby171	passerby171_st.spr	passerby171_st.spr	passerby171_pst.spr										passerby171_st.spr	
+passerby172	passerby172_st.spr	passerby172_st.spr	passerby172_pst.spr										passerby172_st.spr	
+passerby173	passerby173_st.spr	passerby173_st.spr	passerby173_pst.spr										passerby173_st.spr	
+passerby174	passerby174_st.spr	passerby174_st.spr	passerby174_pst.spr										passerby174_st.spr	
+passerby175	passerby175_st.spr	passerby175_st.spr	passerby175_pst.spr										passerby175_st.spr	
+passerby176	passerby176_st.spr	passerby176_st.spr	passerby176_pst.spr										passerby176_st.spr	
+passerby177	passerby177_st.spr	passerby177_st.spr	passerby177_pst.spr										passerby177_st.spr	
+passerby178	passerby178_st.spr	passerby178_st.spr	passerby178_pst.spr										passerby178_st.spr	
+passerby179	passerby179_st.spr	passerby179_st.spr	passerby179_pst.spr										passerby179_st.spr	
+passerby180	passerby180_st.spr	passerby180_st.spr	passerby180_pst.spr										passerby180_st.spr	
+passerby181	passerby181_st.spr	passerby181_st.spr	passerby181_pst.spr										passerby181_st.spr	
+passerby182	passerby182_st.spr	passerby182_st.spr	passerby182_pst.spr										passerby182_st.spr	
+passerby183	passerby183_st.spr	passerby183_st.spr	passerby183_pst.spr										passerby183_st.spr	
+passerby184	passerby184_st.spr	passerby184_st.spr	passerby184_pst.spr										passerby184_st.spr	
+passerby185	passerby185_st.spr	passerby185_st.spr	passerby185_pst.spr										passerby185_st.spr	
+passerby186	passerby186_st.spr	passerby186_st.spr	passerby186_pst.spr										passerby186_st.spr	
+passerby187	passerby187_st.spr	passerby187_st.spr	passerby187_pst.spr										passerby187_st.spr	
+passerby188	passerby188_st.spr	passerby188_st.spr	passerby188_pst.spr										passerby188_st.spr	
+passerby189	passerby189_st.spr	passerby189_st.spr	passerby189_pst.spr										passerby189_st.spr	
+passerby190	passerby190_st.spr	passerby190_st.spr	passerby190_pst.spr										passerby190_st.spr	
+passerby191	passerby191_st.spr	passerby191_st.spr	passerby191_st.spr										passerby191_st.spr	
+passerby192	passerby192_st.spr	passerby192_st.spr	passerby192_pst.spr										passerby192_st.spr	
+passerby004_4	passerby004z.spr	passerby004z.spr	passerby004z.spr										passerby004z.spr	
+passerby006_4	passerby006z.spr	passerby006z.spr	passerby006z.spr										passerby006z.spr	
+passerby007_1	passerby007s.spr	passerby007s.spr	passerby007s.spr										passerby007s.spr	
+passerby011_4	passerby011z.spr	passerby011z.spr	passerby011z.spr										passerby011z.spr	
+passerby036_4	passerby036z.spr	passerby036z.spr	passerby036z.spr										passerby036z.spr	
+passerby037_4	passerby037z.spr	passerby037z.spr	passerby037z.spr										passerby037z.spr	
+passerby040_4	passerby040z.spr	passerby040z.spr	passerby040z.spr										passerby040z.spr	
+passerby043_1	passerby043s.spr	passerby043s.spr	passerby043s.spr										passerby043s.spr	
+passerby044_1	passerby044s.spr	passerby044s.spr	passerby044s.spr										passerby044s.spr	
+passerby045_1	passerby045s.spr	passerby045s.spr	passerby045s.spr										passerby045s.spr	
+passerby059_1	passerby059s.spr	passerby059s.spr	passerby059s.spr										passerby059s.spr	
+passerby067_4	passerby067s1.spr	passerby067s1.spr	passerby067s1.spr										passerby067s1.spr	
+passerby067_5	passerby067s2.spr	passerby067s2.spr	passerby067s2.spr										passerby067s2.spr	
+passerby067_6	passerby067s3.spr	passerby067s3.spr	passerby067s3.spr										passerby067s3.spr	
+passerby068_4	passerby068s1.spr	passerby068s1.spr	passerby068s1.spr										passerby068s1.spr	
+passerby068_5	passerby068s2.spr	passerby068s2.spr	passerby068s2.spr										passerby068s2.spr	
+passerby068_6	passerby068s3.spr	passerby068s3.spr	passerby068s3.spr										passerby068s3.spr	
+passerby072_4	passerby072z.spr	passerby072z.spr	passerby072z.spr										passerby072z.spr	
+passerby074_4	passerby074s1.spr	passerby074s1.spr	passerby074s1.spr										passerby074s1.spr	
+passerby074_5	passerby074s2.spr	passerby074s2.spr	passerby074s2.spr										passerby074s2.spr	
+passerby074_6	passerby074s3.spr	passerby074s3.spr	passerby074s3.spr										passerby074s3.spr	
+passerby075_4	passerby075z.spr	passerby075z.spr	passerby075z.spr										passerby075z.spr	
+passerby076_4	passerby076z.spr	passerby076z.spr	passerby076z.spr										passerby076z.spr	
+critter001	critter001_st.spr	critter001_st.spr	critter001_pst.spr										critter001_st.spr	
+critter002	critter002_st.spr	critter002_st.spr	critter002_pst.spr										critter002_st.spr	
+critter003	critter003_st.spr	critter003_st.spr	critter003_pst.spr	critter003_wlk.spr	critter003_wlk.spr								critter003_st.spr	critter003_wlk.spr
+critter004	critter004_st.spr	critter004_st.spr	critter004_pst.spr	critter004_wlk.spr	critter004_wlk.spr								critter004_st.spr	critter004_wlk.spr
+critter005	critter005_st.spr	critter005_st.spr	critter005_st.spr	critter005_wlk.spr	critter005_wlk.spr								critter005_st.spr	critter005_wlk.spr
+critter006	critter006_st.spr	critter006_st.spr	critter006_pst.spr										critter006_st.spr	
+critter007	critter007_st.spr	critter007_st.spr	critter007_pst.spr										critter007_st.spr	
+critter008	critter008_st.spr	critter008_st.spr	critter008_pst.spr										critter008_st.spr	
+critter009	critter009_st.spr	critter009_st.spr	critter009_pst.spr										critter009_st.spr	
+critter010	critter010_st.spr	critter010_st.spr	critter010_pst.spr										critter010_st.spr	
+critter011	critter011_st.spr	critter011_st.spr	critter011_pst.spr										critter011_st.spr	
+critter012	critter012_st.spr	critter012_st.spr	critter012_pst.spr										critter012_st.spr	
+critter013	critter013_st.spr	critter013_st.spr	critter013_pst.spr	critter013_wlk.spr	critter013_wlk.spr								critter013_st.spr	critter013_wlk.spr
+critter014	critter014_st.spr	critter014_st.spr	critter014_pst.spr										critter014_st.spr	
+critter015	critter015_st.spr	critter015_st.spr	critter015_pst.spr	critter015_wlk.spr	critter015_wlk.spr								critter015_st.spr	critter015_wlk.spr
+critter016	critter016_st.spr	critter016_st.spr	critter016_pst.spr	critter016_wlk.spr	critter016_wlk.spr								critter016_st.spr	critter016_wlk.spr
+critter017	critter017_wlk.spr	critter017_wlk.spr	critter017_wlk.spr	critter017_wlk.spr	critter017_wlk.spr								critter017_wlk.spr	critter017_wlk.spr
+critter018	critter018_wlk.spr	critter018_wlk.spr	critter018_wlk.spr	critter018_wlk.spr	critter018_wlk.spr								critter018_wlk.spr	critter018_wlk.spr
+critter019	critter019_wlk.spr	critter019_wlk.spr	critter019_wlk.spr	critter019_wlk.spr	critter019_wlk.spr								critter019_wlk.spr	critter019_wlk.spr
+critter020	critter020_wlk.spr	critter020_wlk.spr	critter020_wlk.spr	critter020_wlk.spr	critter020_wlk.spr								critter020_wlk.spr	critter020_wlk.spr
+critter021	critter021_wlk.spr	critter021_wlk.spr	critter021_wlk.spr	critter021_wlk.spr	critter021_wlk.spr								critter021_wlk.spr	critter021_wlk.spr
+critter022	critter022_wlk.spr	critter022_wlk.spr	critter022_wlk.spr	critter022_wlk.spr	critter022_wlk.spr								critter022_wlk.spr	critter022_wlk.spr
+critter023	critter023_wlk.spr	critter023_wlk.spr	critter023_wlk.spr	critter023_wlk.spr	critter023_wlk.spr								critter023_wlk.spr	critter023_wlk.spr
+critter024	critter024_wlk.spr	critter024_wlk.spr	critter024_wlk.spr	critter024_wlk.spr	critter024_wlk.spr								critter024_wlk.spr	critter024_wlk.spr
+critter025	critter025_wlk.spr	critter025_wlk.spr	critter025_wlk.spr	critter025_wlk.spr	critter025_wlk.spr								critter025_wlk.spr	critter025_wlk.spr
+critter026	critter026_wlk.spr	critter026_wlk.spr	critter026_wlk.spr	critter026_wlk.spr	critter026_wlk.spr								critter026_wlk.spr	critter026_wlk.spr
+critter027	critter027_st.spr	critter027_st.spr	critter027_st.spr	critter027_wlk.spr	critter027_wlk.spr								critter027_st.spr	critter027_wlk.spr
+critter028	critter028_st.spr	critter028_st.spr	critter028_st.spr	critter028_wlk.spr	critter028_wlk.spr								critter028_st.spr	critter028_wlk.spr
+critter029	critter029_st.spr	critter029_st.spr	critter029_st.spr	critter029_wlk.spr	critter029_wlk.spr								critter029_st.spr	critter029_wlk.spr
+critter030	critter030_wlk.spr	critter030_wlk.spr	critter030_wlk.spr	critter030_wlk.spr	critter030_wlk.spr								critter030_wlk.spr	critter030_wlk.spr
+boss001	boss001_st.spr	boss001_st.spr	boss001_st.spr	boss001_wlk.spr	boss001_wlk.spr	boss001_wlk.spr	boss001_wlk.spr	boss001_bat.spr	boss001_die.spr	boss001_at1.spr	boss001_at2.spr	boss001_at3.spr	boss001_st.spr	boss001_wlk.spr
+boss002	boss002_st.spr	boss002_st.spr	boss002_st.spr	boss002_wlk.spr	boss002_wlk.spr	boss002_wlk.spr	boss002_wlk.spr	boss002_bat.spr	boss002_die.spr	boss002_at1.spr	boss002_at2.spr	boss002_at2.spr	boss002_st.spr	boss002_wlk.spr
+boss005	boss005_st.spr	boss005_st.spr	boss005_st.spr	boss005_wlk.spr	boss005_wlk.spr	boss005_wlk.spr	boss005_wlk.spr	boss005_bat.spr	boss005_die.spr	boss005_at1.spr	boss005_at2.spr	boss005_at2.spr	boss005_st.spr	boss005_wlk.spr
+boss011	boss011_st.spr	boss011_st.spr	boss011_st.spr	boss011_wlk.spr	boss011_wlk.spr	boss011_wlk.spr	boss011_wlk.spr	boss011_bat.spr	boss011_die.spr	boss011_at01.spr	boss011_at02.spr	boss011_at02.spr	boss011_st.spr	boss011_wlk.spr
+boss014	boss014_st.spr	boss014_st.spr	boss014_st.spr	boss014_wlk.spr	boss014_wlk.spr	boss014_wlk.spr	boss014_wlk.spr	boss014_bat.spr	boss014_die.spr	boss014_at01.spr	boss014_at02.spr	boss014_at02.spr	boss014_st.spr	boss014_wlk.spr
+boss015	boss015_st.spr	boss015_st.spr	boss015_st.spr	boss015_wlk.spr	boss015_wlk.spr	boss015_wlk.spr	boss015_wlk.spr	boss015_bat.spr	boss015_die.spr	boss015_at01.spr	boss015_at02.spr	boss015_at02.spr	boss015_st.spr	boss015_wlk.spr
+boss018	boss018_st.spr	boss018_st.spr	boss018_st.spr	boss018_wlk.spr	boss018_wlk.spr	boss018_wlk.spr	boss018_wlk.spr	boss018_bat.spr	boss018_die.spr	boss018_at1.spr	boss018_at2.spr	boss018_at2.spr	boss018_st.spr	boss018_wlk.spr
+boss008	boss008_st.spr	boss008_st.spr	boss008_st.spr	boss008_wlk.spr	boss008_wlk.spr	boss008_wlk.spr	boss008_wlk.spr	boss008_bat.spr	boss008_die.spr	boss008_at01.spr	boss008_at02.spr	boss008_at02.spr	boss008_st.spr	boss008_wlk.spr
+boss012	boss012_st.spr	boss012_st.spr	boss012_st.spr	boss012_wlk.spr	boss012_wlk.spr	boss012_wlk.spr	boss012_wlk.spr	boss012_bat.spr	boss012_die.spr	boss012_at01.spr	boss012_at02.spr	boss012_at02.spr	boss012_st.spr	boss012_wlk.spr
+boss006	boss006_st.spr	boss006_st.spr	boss006_st.spr	boss006_wlk.spr	boss006_wlk.spr	boss006_wlk.spr	boss006_wlk.spr	boss006_bat.spr	boss006_die.spr	boss006_at1.spr	boss006_at2.spr	boss006_at2.spr	boss006_st.spr	boss006_wlk.spr
+enemy195	enemy195_st.spr	enemy195_st.spr	enemy195_st.spr	enemy195_wlk.spr	enemy195_wlk.spr	enemy195_wlk.spr	enemy195_wlk.spr	enemy195_bat.spr	enemy195_die.spr	enemy195_at.spr	enemy195_at.spr	enemy195_at.spr	enemy195_st.spr	enemy195_wlk.spr
+enemy196	enemy196_st.spr	enemy196_st.spr	enemy196_st.spr	enemy196_wlk.spr	enemy196_wlk.spr	enemy196_wlk.spr	enemy196_wlk.spr	enemy196_bat.spr	enemy196_die.spr	enemy196_at.spr	enemy196_at.spr	enemy196_at.spr	enemy196_st.spr	enemy196_wlk.spr
+enemy197	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr	enemy197.spr
+enemy198	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr	enemy198.spr
+passerby193	passerby193.spr	passerby193.spr	passerby193.spr										passerby193.spr	
+passerby194	passerby194.spr	passerby194.spr	passerby194.spr										passerby194.spr	
+passerby195	passerby195.spr	passerby195.spr	passerby195.spr										passerby195.spr	
+passerby196	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr	passerby196.spr
+passerby197	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr	passerby197.spr
+passerby198	passerby198.spr	passerby198.spr	passerby198.spr										passerby198.spr	
+passerby199	passerby199_st.spr	passerby199_st.spr	passerby199_st.spr										passerby199_st.spr	
+passerby200	passerby200_st.spr	passerby200_st.spr	passerby200_st.spr										passerby200_st.spr	
+enemy199	enemy199_st.spr	enemy199_st.spr	enemy199_st.spr	enemy199_wlk.spr	enemy199_wlk.spr	enemy199_wlk.spr	enemy199_wlk.spr	enemy199_bat.spr	enemy199_die.spr	enemy199_at.spr	enemy199_at.spr	enemy199_at.spr	enemy199_st.spr	enemy199_wlk.spr
+enemy200	enemy200_st.spr	enemy200_st.spr	enemy200_st.spr	enemy200_wlk.spr	enemy200_wlk.spr	enemy200_wlk.spr	enemy200_wlk.spr	enemy200_bat.spr	enemy200_die.spr	enemy200_at.spr	enemy200_at.spr	enemy200_at.spr	enemy200_st.spr	enemy200_wlk.spr
+enemy201	enemy201_st.spr	enemy201_st.spr	enemy201_st.spr	enemy201_wlk.spr	enemy201_wlk.spr	enemy201_wlk.spr	enemy201_wlk.spr	enemy201_bat.spr	enemy201_die.spr	enemy201_at.spr	enemy201_at.spr	enemy201_at.spr	enemy201_st.spr	enemy201_wlk.spr
+enemy202	enemy202_st.spr	enemy202_st.spr	enemy202_st.spr	enemy202_wlk.spr	enemy202_wlk.spr	enemy202_wlk.spr	enemy202_wlk.spr	enemy202_bat.spr	enemy202_die.spr	enemy202_at.spr	enemy202_at.spr	enemy202_at.spr	enemy202_st.spr	enemy202_wlk.spr
+enemy203	enemy203_st.spr	enemy203_st.spr	enemy203_st.spr	enemy203_wlk.spr	enemy203_wlk.spr	enemy203_wlk.spr	enemy203_wlk.spr	enemy203_bat.spr	enemy203_die.spr	enemy203_at01.spr	enemy203_at02.spr	enemy203_at02.spr	enemy203_st.spr	enemy203_wlk.spr
+enemy204	enemy204_st.spr	enemy204_st.spr	enemy204_st.spr	enemy204_wlk.spr	enemy204_wlk.spr	enemy204_wlk.spr	enemy204_wlk.spr	enemy204_bat.spr	enemy204_die.spr	enemy204_at01.spr	enemy204_at02.spr	enemy204_at02.spr	enemy204_st.spr	enemy204_wlk.spr
+enemy205	enemy205_st.spr	enemy205_st.spr	enemy205_st.spr	enemy205_wlk.spr	enemy205_wlk.spr	enemy205_wlk.spr	enemy205_wlk.spr	enemy205_bat.spr	enemy205_die.spr	enemy205_at01.spr	enemy205_at02.spr	enemy205_at02.spr	enemy205_st.spr	enemy205_wlk.spr
+enemy206	enemy206_st.spr	enemy206_st.spr	enemy206_st.spr	enemy206_wlk.spr	enemy206_wlk.spr	enemy206_wlk.spr	enemy206_wlk.spr	enemy206_bat.spr	enemy206_die.spr	enemy206_at01.spr	enemy206_at02.spr	enemy206_at02.spr	enemy206_st.spr	enemy206_wlk.spr
+enemy207	enemy207_st.spr	enemy207_st.spr	enemy207_st.spr	enemy207_wlk.spr	enemy207_wlk.spr	enemy207_wlk.spr	enemy207_wlk.spr	enemy207_bat.spr	enemy207_die.spr	enemy207_at.spr	enemy207_at.spr	enemy207_at.spr	enemy207_st.spr	enemy207_wlk.spr
+enemy208	enemy208_st.spr	enemy208_st.spr	enemy208_st.spr	enemy208_wlk.spr	enemy208_wlk.spr	enemy208_wlk.spr	enemy208_wlk.spr	enemy208_bat.spr	enemy208_die.spr	enemy208_at.spr	enemy208_at.spr	enemy208_at.spr	enemy208_st.spr	enemy208_wlk.spr
+npc050111001	npc050111001_st.spr	npc050111001_st.spr	npc050111001_st.spr	npc050111001_wlk.spr	npc050111001_wlk.spr	npc050111001_wlk.spr	npc050111001_wlk.spr	npc050111001_bat.spr		npc050111001_at.spr	npc050111001_at.spr	npc050111001_at.spr	npc050111001_st.spr	npc050111001_wlk.spr
+npc050111002	npc050111002_st.spr	npc050111002_st.spr	npc050111002_st.spr	npc050111002_wlk.spr	npc050111002_wlk.spr	npc050111002_wlk.spr	npc050111002_wlk.spr	npc050111002_bat.spr		npc050111002_at.spr	npc050111002_at.spr	npc050111002_at.spr	npc050111002_st.spr	npc050111002_wlk.spr
+npc050111003	npc050111003_st.spr	npc050111003_st.spr	npc050111003_st.spr	npc050111003_wlk.spr	npc050111003_wlk.spr	npc050111003_wlk.spr	npc050111003_wlk.spr	npc050111003_bat.spr		npc050111003_at.spr	npc050111003_at.spr	npc050111003_at.spr	npc050111003_st.spr	npc050111003_wlk.spr
+npc050111004	npc050111004_st.spr	npc050111004_st.spr	npc050111004_st.spr	npc050111004_wlk.spr	npc050111004_wlk.spr	npc050111004_wlk.spr	npc050111004_wlk.spr	npc050111004_bat.spr		npc050111004_at.spr	npc050111004_at.spr	npc050111004_at.spr	npc050111004_st.spr	npc050111004_wlk.spr
+npc050111005	npc050111005_st.spr	npc050111005_st.spr	npc050111005_st.spr	npc050111005_wlk.spr	npc050111005_wlk.spr	npc050111005_wlk.spr	npc050111005_wlk.spr	npc050111005_bat.spr		npc050111005_at.spr	npc050111005_at.spr	npc050111005_at.spr	npc050111005_st.spr	npc050111005_wlk.spr
+npc050111006	npc050111006_st.spr	npc050111006_st.spr	npc050111006_st.spr	npc050111006_wlk.spr	npc050111006_wlk.spr	npc050111006_wlk.spr	npc050111006_wlk.spr	npc050111006_bat.spr		npc050111006_at.spr	npc050111006_at.spr	npc050111006_at.spr	npc050111006_st.spr	npc050111006_wlk.spr
+npc050111007	npc050111007_st.spr	npc050111007_st.spr	npc050111007_st.spr	npc050111007_wlk.spr	npc050111007_wlk.spr	npc050111007_wlk.spr	npc050111007_wlk.spr	npc050111007_bat.spr		npc050111007_at.spr	npc050111007_at.spr	npc050111007_at.spr	npc050111007_st.spr	npc050111007_wlk.spr
+npc050111008	npc050111008_st.spr	npc050111008_st.spr	npc050111008_st.spr										npc050111008_st.spr	
+npc050111009	npc050111009_st.spr	npc050111009_st.spr	npc050111009_st.spr										npc050111009_st.spr	
+npc050111010	npc050111010_st.spr	npc050111010_st.spr	npc050111010_st.spr										npc050111010_st.spr	
+npc050111011	npc050111011_st.spr	npc050111011_st.spr	npc050111011_st.spr										npc050111011_st.spr	
+npc050111012	npc050111012_st.spr	npc050111012_st.spr	npc050111012_st.spr										npc050111012_st.spr	
+boss003	boss003_st.spr	boss003_st.spr	boss003_st.spr	boss003_wlk.spr	boss003_wlk.spr	boss003_wlk.spr	boss003_wlk.spr	boss003_bat.spr	boss003_die.spr	boss003_at1.spr	boss003_at2.spr	boss003_at2.spr	boss003_st.spr	boss003_wlk.spr
+boss004	boss004_st.spr	boss004_st.spr	boss004_st.spr	boss004_wlk.spr	boss004_wlk.spr	boss004_wlk.spr	boss004_wlk.spr	boss004_bat.spr	boss004_die.spr	boss004_at1.spr	boss004_at2.spr	boss004_at2.spr	boss004_st.spr	boss004_wlk.spr
+boss007	boss007_st.spr	boss007_st.spr	boss007_st.spr	boss007_wlk.spr	boss007_wlk.spr	boss007_wlk.spr	boss007_wlk.spr	boss007_bat.spr	boss007_die.spr	boss007_at01.spr	boss007_at02.spr	boss007_at02.spr	boss007_st.spr	boss007_wlk.spr
+boss009	boss009_st.spr	boss009_st.spr	boss009_st.spr	boss009_wlk.spr	boss009_wlk.spr	boss009_wlk.spr	boss009_wlk.spr	boss009_bat.spr	boss009_die.spr	boss009_at1.spr	boss009_at2.spr	boss009_at2.spr	boss009_st.spr	boss009_wlk.spr
+boss013	boss013_st.spr	boss013_st.spr	boss013_st.spr	boss013_wlk.spr	boss013_wlk.spr	boss013_wlk.spr	boss013_wlk.spr	boss013_bat.spr	boss013_die.spr	boss013_at01.spr	boss013_at02.spr	boss013_at02.spr	boss013_st.spr	boss013_wlk.spr
+boss017	boss017_st.spr	boss017_st.spr	boss017_st.spr	boss017_wlk.spr	boss017_wlk.spr	boss017_wlk.spr	boss017_wlk.spr	boss017_bat.spr	boss017_die.spr	boss017_at01.spr	boss017_at02.spr	boss017_at02.spr	boss017_st.spr	boss017_wlk.spr
+boss019	boss019_st.spr	boss019_st.spr	boss019_st.spr	boss019_wlk.spr	boss019_wlk.spr	boss019_wlk.spr	boss019_wlk.spr	boss019_bat.spr	boss019_die.spr	boss019_at01.spr	boss019_at02.spr	boss019_at02.spr	boss019_st.spr	boss019_wlk.spr
+boss022	boss022_st01.spr	boss022_st01.spr	boss022_st01.spr	boss022_wlk.spr	boss022_wlk.spr	boss022_wlk.spr	boss022_wlk.spr	boss022_bat.spr	boss022_die.spr	boss022_at01.spr	boss022_at02.spr	boss022_at02.spr	boss022_st01.spr	boss022_wlk.spr
+boss023	boss023_st.spr	boss023_st.spr	boss023_st.spr	boss023_wlk.spr	boss023_wlk.spr	boss023_wlk.spr	boss023_wlk.spr	boss023_bat.spr	boss023_die.spr	boss023_at01.spr	boss023_at02.spr	boss023_at02.spr	boss023_st.spr	boss023_wlk.spr
+boss024	boss024_st.spr	boss024_st.spr	boss024_st.spr	boss024_wlk.spr	boss024_wlk.spr	boss024_wlk.spr	boss024_wlk.spr	boss024_bat.spr	boss024_die.spr	boss024_at01.spr	boss024_at02.spr	boss024_at02.spr	boss024_st.spr	boss024_wlk.spr
+passerby201	1jia.spr	1jia.spr	1jia.spr										1jia.spr	
+boss010	boss010_st.spr	boss010_st.spr	boss010_st.spr	boss010_wlk.spr	boss010_wlk.spr	boss010_wlk.spr	boss010_wlk.spr	boss010_bat.spr	boss010_die.spr	boss010_at01.spr	boss010_at02.spr	boss010_at02.spr	boss010_st.spr	boss010_wlk.spr
+passerby202	box002.spr	box002.spr	box002.spr										box002.spr	
+boss016	boss016_st.spr	boss016_st.spr	boss016_st.spr	boss016_wlk.spr	boss016_wlk.spr	boss016_wlk.spr	boss016_wlk.spr	boss016_bat.spr	boss016_die.spr	boss016_at01.spr	boss016_at02.spr	boss016_at02.spr	boss016_st.spr	boss016_wlk.spr
+boss020	enemy216_st.spr	enemy216_st.spr	enemy216_st.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_bat.spr	enemy216_die.spr	enemy216_at1.spr	enemy216_at2.spr	enemy216_at2.spr	enemy216_st.spr	enemy216_wlk.spr
+boss025	boss025_st01.spr	boss025_st02.spr	boss025_st02.spr	boss025_wlk.spr	boss025_wlk.spr	boss025_wlk.spr	boss025_wlk.spr	boss025_bat.spr	boss025_die.spr	boss025_at01.spr	boss025_at02.spr	boss025_at02.spr	boss025_st02.spr	boss025_wlk.spr
+boss026	boss026_st01.spr	boss026_st02.spr	boss026_st02.spr	boss026_wlk.spr	boss026_wlk.spr	boss026_wlk.spr	boss026_wlk.spr	boss026_bat.spr	boss026_die.spr	boss026_at01.spr	boss026_at02.spr	boss026_at02.spr	boss026_st02.spr	boss026_wlk.spr
+boss027	boss027_st01.spr	boss027_st02.spr	boss027_st02.spr	boss027_wlk.spr	boss027_wlk.spr	boss027_wlk.spr	boss027_wlk.spr	boss027_bat.spr	boss027_die.spr	boss027_at01.spr	boss027_at02.spr	boss027_at02.spr	boss027_st02.spr	boss027_wlk.spr
+boss028	boss028_st01.spr	boss028_st02.spr	boss028_st02.spr	boss028_wlk.spr	boss028_wlk.spr	boss028_wlk.spr	boss028_wlk.spr	boss028_bat.spr	boss028_die.spr	boss028_at01.spr	boss028_at02.spr	boss028_at02.spr	boss028_st02.spr	boss028_wlk.spr
+boss029	boss029_st01.spr	boss029_st02.spr	boss029_st02.spr	boss029_wlk.spr	boss029_wlk.spr	boss029_wlk.spr	boss029_wlk.spr	boss029_bat.spr	boss029_die.spr	boss029_at01.spr	boss029_at02.spr	boss029_at02.spr	boss029_st02.spr	boss029_wlk.spr
+boss030	boss30_pst.spr	boss30_st.spr	boss30_st.spr	boss30_wlk.spr	boss30_wlk.spr	boss30_wlk.spr	boss30_wlk.spr	boss30_bat.spr	boss30_die.spr	boss30_at01.spr	boss30_at01.spr	boss30_at01.spr	boss30_st.spr	boss30_wlk.spr
+boss031	boss31_pst.spr	boss31_st.spr	boss31_st.spr	boss31_wlk.spr	boss31_wlk.spr	boss31_wlk.spr	boss31_wlk.spr	boss31_bat.spr	boss31_die.spr	boss31_at.spr	boss31_at.spr	boss31_at.spr	boss31_st.spr	boss31_wlk.spr
+boss032	boss32_pst.spr	boss32_st.spr	boss32_st.spr	boss32_wlk.spr	boss32_wlk.spr	boss32_wlk.spr	boss32_wlk.spr	boss32_bat.spr	boss32_die.spr	boss32_at.spr	boss32_at.spr	boss32_at.spr	boss32_st.spr	boss32_wlk.spr
+passerby203	huadeng.spr	huadeng.spr	huadeng.spr											
+boss033	partner_goldchildren_st01.spr	partner_goldchildren_st02.spr	partner_goldchildren_st02.spr	partner_goldchildren_wlk.spr	partner_goldchildren_wlk.spr	partner_goldchildren_wlk.spr	partner_goldchildren_wlk.spr	partner_goldchildren_bat.spr	partner_goldchildren_die.spr	partner_goldchildren_at.spr	partner_goldchildren_at.spr	partner_goldchildren_at.spr	partner_goldchildren_st02.spr	partner_goldchildren_wlk.spr
+boss034	partner_waterchildren_st01.spr	partner_waterchildren_st02.spr	partner_waterchildren_st02.spr	partner_waterchildren_wlk.spr	partner_waterchildren_wlk.spr	partner_waterchildren_wlk.spr	partner_waterchildren_wlk.spr	partner_waterchildren_bat.spr	partner_waterchildren_die.spr	partner_waterchildren_at.spr	partner_waterchildren_at.spr	partner_waterchildren_at.spr	partner_waterchildren_st02.spr	partner_waterchildren_wlk.spr
+boss035	partner_firechildren_st01.spr	partner_firechildren_st02.spr	partner_firechildren_st02.spr	partner_firechildren_wlk.spr	partner_firechildren_wlk.spr	partner_firechildren_wlk.spr	partner_firechildren_wlk.spr	partner_firechildren_bat.spr	partner_firechildren_die.spr	partner_firechildren_at.spr	partner_firechildren_at.spr	partner_firechildren_at.spr	partner_firechildren_st02.spr	partner_firechildren_wlk.spr
+boss036	partner_dustchildren_st01.spr	partner_dustchildren_st02.spr	partner_dustchildren_st02.spr	partner_dustchildren_wlk.spr	partner_dustchildren_wlk.spr	partner_dustchildren_wlk.spr	partner_dustchildren_wlk.spr	partner_dustchildren_bat.spr	partner_dustchildren_die.spr	partner_dustchildren_at.spr	partner_dustchildren_at.spr	partner_dustchildren_at.spr	partner_dustchildren_st02.spr	partner_dustchildren_wlk.spr
+boss037	partner_woodpeople_st01.spr	partner_woodpeople_st02.spr	partner_woodpeople_st02.spr	partner_woodpeople_wlk.spr	partner_woodpeople_wlk.spr	partner_woodpeople_wlk.spr	partner_woodpeople_wlk.spr	partner_woodpeople_bat.spr	partner_woodpeople_die.spr	partner_woodpeople_at.spr	partner_woodpeople_at.spr	partner_woodpeople_at.spr	partner_woodpeople_st02.spr	partner_woodpeople_wlk.spr
+boss038	partner_woodchildren_st01.spr	partner_woodchildren_st02.spr	partner_woodchildren_st02.spr	partner_woodchildren_wlk.spr	partner_woodchildren_wlk.spr	partner_woodchildren_wlk.spr	partner_woodchildren_wlk.spr	partner_woodchildren_bat.spr	partner_woodchildren_die.spr	partner_woodchildren_at.spr	partner_woodchildren_at.spr	partner_woodchildren_at.spr	partner_woodchildren_st02.spr	partner_woodchildren_wlk.spr
+boss039	partner_firepeople_st01.spr	partner_firepeople_st02.spr	partner_firepeople_st02.spr	partner_firepeople_wlk.spr	partner_firepeople_wlk.spr	partner_firepeople_wlk.spr	partner_firepeople_wlk.spr	partner_firepeople_bat.spr	partner_firepeople_die.spr	partner_firepeople_at.spr	partner_firepeople_at.spr	partner_firepeople_at.spr	partner_firepeople_st02.spr	partner_firepeople_wlk.spr
+boss040	partner_dustpeople_st01.spr	partner_dustpeople_st02.spr	partner_dustpeople_st02.spr	partner_dustpeople_wlk.spr	partner_dustpeople_wlk.spr	partner_dustpeople_wlk.spr	partner_dustpeople_wlk.spr	partner_dustpeople_bat.spr	partner_dustpeople_die.spr	partner_dustpeople_at.spr	partner_dustpeople_at.spr	partner_dustpeople_at.spr	partner_dustpeople_st02.spr	partner_dustpeople_wlk.spr
+boss041	partner_goldpeople_st01.spr	partner_goldpeople_st02.spr	partner_goldpeople_st02.spr	partner_goldpeople_wlk.spr	partner_goldpeople_wlk.spr	partner_goldpeople_wlk.spr	partner_goldpeople_wlk.spr	partner_goldpeople_bat.spr	partner_goldpeople_die.spr	partner_goldpeople_at.spr	partner_goldpeople_at.spr	partner_goldpeople_at.spr	partner_goldpeople_st02.spr	partner_goldpeople_wlk.spr
+boss042	partner_waterpeople_st01.spr	partner_waterpeople_st02.spr	partner_waterpeople_st02.spr	partner_waterpeople_wlk.spr	partner_waterpeople_wlk.spr	partner_waterpeople_wlk.spr	partner_waterpeople_wlk.spr	partner_waterpeople_bat.spr	partner_waterpeople_die.spr	partner_waterpeople_at.spr	partner_waterpeople_at.spr	partner_waterpeople_at.spr	partner_waterpeople_st02.spr	partner_waterpeople_wlk.spr
+passerby204	passerby204.spr	passerby204.spr	passerby204.spr											
+passerby205	passerby205.spr	passerby205.spr	passerby205.spr											
+passerby206	passerby206.spr	passerby206.spr	passerby206.spr											
+passerby207	passerby207.spr	passerby207.spr	passerby207.spr											
+boss043	boss043_st01.spr	boss043_st02.spr	boss043_st02.spr	boss043_wlk.spr	boss043_wlk.spr	boss043_wlk.spr	boss043_wlk.spr	boss043_bat.spr	boss043_die.spr	boss043_at.spr	boss043_at.spr	boss043_at.spr	boss043_st01.spr	boss043_wlk.spr
+boss044	boss044_st01.spr	boss044_st02.spr	boss044_st02.spr	boss044_wlk.spr	boss044_wlk.spr	boss044_wlk.spr	boss044_wlk.spr	boss044_bat.spr	boss044_die.spr	boss044_at.spr	boss044_at.spr	boss044_at.spr	boss044_st02.spr	boss044_wlk.spr
+boss045	boss045_st01.spr	boss045_st02.spr	boss045_st02.spr	boss045_wlk.spr	boss045_wlk.spr	boss045_wlk.spr	boss045_wlk.spr	boss045_bat.spr	boss045_die.spr	boss045_at.spr	boss045_at.spr	boss045_at.spr	boss045_st02.spr	boss045_wlk.spr
+ani068	ani068_st01.spr	ani068_st02.spr	ani068_st02.spr	ani068_wlk.spr	ani068_wlk.spr	ani068_wlk.spr	ani068_wlk.spr	ani068_bat.spr	ani068_die.spr	ani068_at.spr	ani068_at.spr	ani068_at.spr	ani068_st02.spr	ani068_wlk.spr
+ani069	ani069_st01.spr	ani069_st02.spr	ani069_st02.spr	ani069_wlk.spr	ani069_wlk.spr	ani069_wlk.spr	ani069_wlk.spr	ani069_bat.spr	ani069_die.spr	ani069_at.spr	ani069_at.spr	ani069_at.spr	ani069_st02.spr	ani069_wlk.spr
+enemy209	enemy209_st01.spr	enemy209_st02.spr	enemy209_st02.spr	enemy209_wlk.spr	enemy209_wlk.spr	enemy209_wlk.spr	enemy209_wlk.spr	enemy209_bat.spr	enemy209_die.spr	enemy209_at.spr	enemy209_at.spr	enemy209_at.spr	enemy209_st01.spr	enemy209_wlk.spr
+enemy210	enemy210_st01.spr	enemy210_st02.spr	enemy210_st02.spr	enemy210_wlk.spr	enemy210_wlk.spr	enemy210_wlk.spr	enemy210_wlk.spr	enemy210_bat.spr	enemy210_die.spr	enemy210_at.spr	enemy210_at.spr	enemy210_at.spr	enemy210_st01.spr	enemy210_wlk.spr
+enemy211	enemy211_st01.spr	enemy211_st02.spr	enemy211_st02.spr	enemy211_wlk.spr	enemy211_wlk.spr	enemy211_wlk.spr	enemy211_wlk.spr	enemy211_bat.spr	enemy211_die.spr	enemy211_at.spr	enemy211_at.spr	enemy211_at.spr	enemy211_st01.spr	enemy211_wlk.spr
+enemy212	enemy212_st01.spr	enemy212_st02.spr	enemy212_st02.spr	enemy212_wlk.spr	enemy212_wlk.spr	enemy212_wlk.spr	enemy212_wlk.spr	enemy212_bat.spr	enemy212_die.spr	enemy212_at.spr	enemy212_at.spr	enemy212_at.spr	enemy212_st01.spr	enemy212_wlk.spr
+enemy213	enemy213_st.spr	enemy213_st.spr	enemy213_st.spr	enemy213_wlk.spr	enemy213_wlk.spr	enemy213_wlk.spr	enemy213_wlk.spr	enemy213_bat.spr	enemy213_die.spr	enemy213_at.spr	enemy213_at.spr	enemy213_at.spr	enemy213_st.spr	enemy213_wlk.spr
+enemy214	enemy214_st.spr	enemy214_st.spr	enemy214_st.spr	enemy214_wlk.spr	enemy214_wlk.spr	enemy214_wlk.spr	enemy214_wlk.spr	enemy214_bat.spr	enemy214_die.spr	enemy214_at.spr	enemy214_at.spr	enemy214_at.spr	enemy214_st.spr	enemy214_wlk.spr
+enemy215	enemy215_st.spr	enemy215_st.spr	enemy215_st.spr	enemy215_wlk.spr	enemy215_wlk.spr	enemy215_wlk.spr	enemy215_wlk.spr	enemy215_bat.spr	enemy215_die.spr	enemy215_at.spr	enemy215_at.spr	enemy215_at.spr	enemy215_st.spr	enemy215_wlk.spr
+enemy216	enemy216_st.spr	enemy216_st.spr	enemy216_st.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_wlk.spr	enemy216_bat.spr	enemy216_die.spr	enemy216_at.spr	enemy216_at.spr	enemy216_at.spr	enemy216_st.spr	enemy216_wlk.spr
+enemy217	enemy217_st.spr	enemy217_st.spr	enemy217_st.spr	enemy217_wlk.spr	enemy217_wlk.spr	enemy217_wlk.spr	enemy217_wlk.spr	enemy217_bat.spr	enemy217_die.spr	enemy217_at.spr	enemy217_at.spr	enemy217_at.spr	enemy217_st.spr	enemy217_wlk.spr
+enemy218	enemy218_st.spr	enemy218_st.spr	enemy218_st.spr	enemy218_wlk.spr	enemy218_wlk.spr	enemy218_wlk.spr	enemy218_wlk.spr	enemy218_bat.spr	enemy218_die.spr	enemy218_at.spr	enemy218_at.spr	enemy218_at.spr	enemy218_st.spr	enemy218_wlk.spr
+enemy219	enemy219_st.spr	enemy219_st.spr	enemy219_st.spr	enemy219_wlk.spr	enemy219_wlk.spr	enemy219_wlk.spr	enemy219_wlk.spr	enemy219_bat.spr	enemy219_die.spr	enemy219_at.spr	enemy219_at.spr	enemy219_at.spr	enemy219_st.spr	enemy219_wlk.spr
+enemy220	enemy220_st.spr	enemy220_st.spr	enemy220_st.spr	enemy220_wlk.spr	enemy220_wlk.spr	enemy220_wlk.spr	enemy220_wlk.spr	enemy220_bat.spr	enemy220_die.spr	enemy220_at.spr	enemy220_at.spr	enemy220_at.spr	enemy220_st.spr	enemy220_wlk.spr
+enemy221	enemy221_st01.spr	enemy221_st02.spr	enemy221_st02.spr	enemy221_wlk.spr	enemy221_wlk.spr	enemy221_wlk.spr	enemy221_wlk.spr	enemy221_bat.spr	enemy221_die.spr	enemy221_at.spr	enemy221_at.spr	enemy221_at.spr	enemy221_st02.spr	enemy221_wlk.spr
+enemy222	enemy222_st01.spr	enemy222_st02.spr	enemy222_st02.spr	enemy222_wlk.spr	enemy222_wlk.spr	enemy222_wlk.spr	enemy222_wlk.spr	enemy222_bat.spr	enemy222_die.spr	enemy222_at.spr	enemy222_at.spr	enemy222_at.spr	enemy222_st02.spr	enemy222_wlk.spr
+enemy223	enemy223_st01.spr	enemy223_st02.spr	enemy223_st02.spr	enemy223_wlk.spr	enemy223_wlk.spr	enemy223_wlk.spr	enemy223_wlk.spr	enemy223_bat.spr	enemy223_die.spr	enemy223_at.spr	enemy223_at.spr	enemy223_at.spr	enemy223_st02.spr	enemy223_wlk.spr
+enemy224	enemy224_st01.spr	enemy224_st02.spr	enemy224_st02.spr	enemy224_wlk.spr	enemy224_wlk.spr	enemy224_wlk.spr	enemy224_wlk.spr	enemy224_bat.spr	enemy224_die.spr	enemy224_at01.spr	enemy224_at02.spr	enemy224_at02.spr	enemy224_st02.spr	enemy224_wlk.spr
+passerby208	passerby208.spr	passerby208.spr	passerby208.spr											
+passerby209	passerby209.spr	passerby209.spr	passerby209.spr											
+passerby210	passerby210.spr	passerby210.spr	passerby210.spr											
+passerby211	passerby211.spr	passerby211.spr	passerby211.spr											
+passerby212	obj_rw_038.spr	obj_rw_038.spr	obj_rw_038.spr											
+passerby213	signpost004.spr	signpost004.spr	signpost004.spr											
+building1	workshop_corslet_01.spr	workshop_corslet_01.spr	workshop_corslet_01.spr											
+building2	workshop_corslet_02.spr	workshop_corslet_02.spr	workshop_corslet_02.spr											
+building3	workshop_corslet_03.spr	workshop_corslet_03.spr	workshop_corslet_03.spr											
+building4	workshop_corslet_04.spr	workshop_corslet_04.spr	workshop_corslet_04.spr											
+building5	workshop_corslet_05.spr	workshop_corslet_05.spr	workshop_corslet_05.spr											
+building6	workshop_artisan_01.spr	workshop_artisan_01.spr	workshop_artisan_01.spr											
+building7	workshop_artisan_02.spr	workshop_artisan_02.spr	workshop_artisan_02.spr											
+passerby214	obj_rw_008.spr	obj_rw_008.spr	obj_rw_008.spr											
+passerby215	obj_rw_016.spr	obj_rw_016.spr	obj_rw_016.spr											
+building8	workshop_artisan_03.spr	workshop_artisan_03.spr	workshop_artisan_03.spr											
+building9	workshop_artisan_04.spr	workshop_artisan_04.spr	workshop_artisan_04.spr											
+building10	workshop_artisan_05.spr	workshop_artisan_05.spr	workshop_artisan_05.spr											
+building11	workshop_mask_01.spr	workshop_mask_01.spr	workshop_mask_01.spr											
+building12	workshop_mask_02.spr	workshop_mask_02.spr	workshop_mask_02.spr											
+building13	workshop_mask_03.spr	workshop_mask_03.spr	workshop_mask_03.spr											
+building14	workshop_mask_04.spr	workshop_mask_04.spr	workshop_mask_04.spr											
+building15	workshop_mask_05.spr	workshop_mask_05.spr	workshop_mask_05.spr											
+building16	workshop_exp_01.spr	workshop_exp_01.spr	workshop_exp_01.spr											
+building17	workshop_exp_02.spr	workshop_exp_02.spr	workshop_exp_02.spr											
+building18	workshop_exp_03.spr	workshop_exp_03.spr	workshop_exp_03.spr											
+building19	workshop_exp_04.spr	workshop_exp_04.spr	workshop_exp_04.spr											
+building20	workshop_exp_05.spr	workshop_exp_05.spr	workshop_exp_05.spr											
+building21	workshop_random_01.spr	workshop_random_01.spr	workshop_random_01.spr											
+building22	workshop_random_02.spr	workshop_random_02.spr	workshop_random_02.spr											
+building23	workshop_random_03.spr	workshop_random_03.spr	workshop_random_03.spr											
+building24	workshop_random_04.spr	workshop_random_04.spr	workshop_random_04.spr											
+building25	workshop_random_05.spr	workshop_random_05.spr	workshop_random_05.spr											
+building26	workshop_gift_01.spr	workshop_gift_01.spr	workshop_gift_01.spr											
+building27	workshop_gift_02.spr	workshop_gift_02.spr	workshop_gift_02.spr											
+building28	workshop_gift_03.spr	workshop_gift_03.spr	workshop_gift_03.spr											
+building29	workshop_gift_04.spr	workshop_gift_04.spr	workshop_gift_04.spr											
+building30	workshop_gift_05.spr	workshop_gift_05.spr	workshop_gift_05.spr											
+building31	workshop_activity_01.spr	workshop_activity_01.spr	workshop_activity_01.spr											
+building32	workshop_activity_02.spr	workshop_activity_02.spr	workshop_activity_02.spr											
+building33	workshop_activity_03.spr	workshop_activity_03.spr	workshop_activity_03.spr											
+building34	workshop_activity_04.spr	workshop_activity_04.spr	workshop_activity_04.spr											
+building35	workshop_activity_05.spr	workshop_activity_05.spr	workshop_activity_05.spr											
+boss046	boss046_st.spr	boss046_st.spr	boss046_st.spr	boss046_wlk.spr	boss046_wlk.spr	boss046_wlk.spr	boss046_wlk.spr	boss046_bat.spr	boss046_die.spr	boss046_at.spr	boss046_at.spr	boss046_at.spr	boss046_st.spr	boss046_wlk.spr
+boss047	boss047_st.spr	boss047_st.spr	boss047_st.spr	boss047_wlk.spr	boss047_wlk.spr	boss047_wlk.spr	boss047_wlk.spr	boss047_bat.spr	boss047_die.spr	boss047_at.spr	boss047_at.spr	boss047_at.spr	boss047_st.spr	boss047_wlk.spr
+boss048	boss048_st.spr	boss048_st.spr	boss048_st.spr	boss048_wlk.spr	boss048_wlk.spr	boss048_wlk.spr	boss048_wlk.spr	boss048_bat.spr	boss048_die.spr	boss048_at.spr	boss048_at.spr	boss048_at.spr	boss048_st.spr	boss048_wlk.spr
+boss049	boss049_st.spr	boss049_st.spr	boss049_st.spr	boss049_wlk.spr	boss049_wlk.spr	boss049_wlk.spr	boss049_wlk.spr	boss049_bat.spr	boss049_die.spr	boss049_at.spr	boss049_at.spr	boss049_at.spr	boss049_st.spr	boss049_wlk.spr
+boss050	boss050_st.spr	boss050_st.spr	boss050_st.spr	boss050_wlk.spr	boss050_wlk.spr	boss050_wlk.spr	boss050_wlk.spr	boss050_bat.spr	boss050_die.spr	boss050_at.spr	boss050_at.spr	boss050_at.spr	boss050_st.spr	boss050_wlk.spr
+boss051	boss051_st.spr	boss051_st.spr	boss051_st.spr	boss051_wlk.spr	boss051_wlk.spr	boss051_wlk.spr	boss051_wlk.spr	boss051_bat.spr	boss051_die.spr	boss051_at.spr	boss051_at.spr	boss051_at.spr	boss051_st.spr	boss051_wlk.spr
+boss052	boss052_st.spr	boss052_st.spr	boss052_st.spr	boss052_wlk.spr	boss052_wlk.spr	boss052_wlk.spr	boss052_wlk.spr	boss052_bat.spr	boss052_die.spr	boss052_at.spr	boss052_at.spr	boss052_at.spr	boss052_st.spr	boss052_wlk.spr
+boss053	boss053_st.spr	boss053_st.spr	boss053_st.spr	boss053_wlk.spr	boss053_wlk.spr	boss053_wlk.spr	boss053_wlk.spr	boss053_bat.spr	boss053_die.spr	boss053_at.spr	boss053_at.spr	boss053_at.spr	boss053_st.spr	boss053_wlk.spr
+boss054	boss054_st.spr	boss054_st.spr	boss054_st.spr	boss054_wlk.spr	boss054_wlk.spr	boss054_wlk.spr	boss054_wlk.spr	boss054_bat.spr	boss054_die.spr	boss054_at.spr	boss054_at.spr	boss054_at.spr	boss054_st.spr	boss054_wlk.spr
+boss055	boss055_st.spr	boss055_st.spr	boss055_st.spr	boss055_wlk.spr	boss055_wlk.spr	boss055_wlk.spr	boss055_wlk.spr	boss055_bat.spr	boss055_die.spr	boss055_at.spr	boss055_at.spr	boss055_at.spr	boss055_st.spr	boss055_wlk.spr
+building36	totempole_four.spr	totempole_four.spr	totempole_four.spr											
+building37	totempole_five.spr	totempole_five.spr	totempole_five.spr											
+item001	obj_lection.spr	obj_lection.spr	obj_lection.spr											
+boss056	boss056_st01.spr	boss056_st01.spr	boss056_st02.spr	boss056_wlk.spr	boss056_wlk.spr	boss056_wlk.spr	boss056_wlk.spr	boss056_bat.spr	boss056_die.spr	boss056_at01.spr	boss056_at02.spr	boss056_at02.spr	boss056_st01.spr	boss056_wlk.spr
+boss057	boss057_st01.spr	boss057_st01.spr	boss057_st02.spr	boss057_wlk.spr	boss057_wlk.spr	boss057_wlk.spr	boss057_wlk.spr	boss057_bat.spr	boss057_die.spr	boss057_at01.spr	boss057_at02.spr	boss057_at02.spr	boss057_st01.spr	boss057_wlk.spr
+item002	lantern_1.spr	lantern_1.spr	lantern_1.spr											
+item003	lantern_2.spr	lantern_2.spr	lantern_2.spr											
+item004	lantern_3.spr	lantern_3.spr	lantern_3.spr											
+item005	lantern_4.spr	lantern_4.spr	lantern_4.spr											
+item006	lantern_5.spr	lantern_5.spr	lantern_5.spr											
+item007	lantern_6.spr	lantern_6.spr	lantern_6.spr											
+boss058	boss058_st01.spr	boss058_st01.spr	boss058_st01.spr	boss058_wlk.spr	boss058_wlk.spr	boss058_wlk.spr	boss058_wlk.spr	boss058_bat.spr	boss058_die.spr	boss058_at.spr	boss058_at.spr	boss058_at.spr	boss058_st01.spr	boss058_wlk.spr
+boss059	boss059_st01.spr	boss059_st01.spr	boss059_st01.spr	boss059_wlk.spr	boss059_wlk.spr	boss059_wlk.spr	boss059_wlk.spr	boss059_bat.spr	boss059_die.spr	boss059_at.spr	boss059_at.spr	boss059_at.spr	boss059_st01.spr	boss059_wlk.spr
+boss060	boss060_st01.spr	boss060_st01.spr	boss060_st01.spr	boss060_wlk.spr	boss060_wlk.spr	boss060_wlk.spr	boss060_wlk.spr	boss060_bat.spr	boss060_die.spr	boss060_at.spr	boss060_at.spr	boss060_at.spr	boss060_st01.spr	boss060_wlk.spr
+boss061	boss061_st01.spr	boss061_st01.spr	boss061_st01.spr	boss061_wlk.spr	boss061_wlk.spr	boss061_wlk.spr	boss061_wlk.spr	boss061_bat.spr	boss061_die.spr	boss061_at.spr	boss061_at.spr	boss061_at.spr	boss061_st01.spr	boss061_wlk.spr
+boss062	boss062_st01.spr	boss062_st01.spr	boss062_st01.spr	boss062_wlk.spr	boss062_wlk.spr	boss062_wlk.spr	boss062_wlk.spr	boss062_bat.spr	boss062_die.spr	boss062_at.spr	boss062_at.spr	boss062_at.spr	boss062_st01.spr	boss062_wlk.spr
+boss063	boss063_st01.spr	boss063_st01.spr	boss063_st01.spr	boss063_wlk.spr	boss063_wlk.spr	boss063_wlk.spr	boss063_wlk.spr	boss063_bat.spr	boss063_die.spr	boss063_at.spr	boss063_at.spr	boss063_at.spr	boss063_st01.spr	boss063_wlk.spr
+boss064	boss064_st01.spr	boss064_st01.spr	boss064_st01.spr	boss064_wlk.spr	boss064_wlk.spr	boss064_wlk.spr	boss064_wlk.spr	boss064_bat.spr	boss064_die.spr	boss064_at.spr	boss064_at.spr	boss064_at.spr	boss064_st01.spr	boss064_wlk.spr
+boss065	boss065_st01.spr	boss065_st01.spr	boss065_st01.spr	boss065_wlk.spr	boss065_wlk.spr	boss065_wlk.spr	boss065_wlk.spr	boss065_bat.spr	boss065_die.spr	boss065_at.spr	boss065_at.spr	boss065_at.spr	boss065_st01.spr	boss065_wlk.spr
+boss066	boss066_st01.spr	boss066_st01.spr	boss066_st01.spr	boss066_wlk.spr	boss066_wlk.spr	boss066_wlk.spr	boss066_wlk.spr	boss066_bat.spr	boss066_die.spr	boss066_at.spr	boss066_at.spr	boss066_at.spr	boss066_st01.spr	boss066_wlk.spr
+boss067	boss067_st01.spr	boss067_st01.spr	boss067_st01.spr	boss067_wlk.spr	boss067_wlk.spr	boss067_wlk.spr	boss067_wlk.spr	boss067_bat.spr	boss067_die.spr	boss067_at.spr	boss067_at.spr	boss067_at.spr	boss067_st01.spr	boss067_wlk.spr
+passerby216	passerby216.spr	passerby216.spr	passerby216.spr											
+passerby217	obj_lection02.spr	obj_lection02.spr	obj_lection02.spr											
+boss068	boss068_st01.spr	boss068_st01.spr	boss068_st01.spr	boss068_wlk.spr	boss068_wlk.spr	boss068_wlk.spr	boss068_wlk.spr	boss068_bat.spr	boss068_die.spr	boss068_at01.spr	boss068_at02.spr	boss068_at01.spr	boss068_st01.spr	boss068_wlk.spr
+passerby218	christmasbox.spr	christmasbox.spr	christmasbox.spr											
+passerby219	jixiangbaobao_st01.spr	jixiangbaobao_st01.spr	jixiangbaobao_st02.spr	jixiangbaobao_wlk.spr	jixiangbaobao_wlk.spr	jixiangbaobao_wlk.spr	jixiangbaobao_wlk.spr	jixiangbaobao_bat.spr	jixiangbaobao_die.spr	jixiangbaobao_at01.spr	jixiangbaobao_at02.spr	jixiangbaobao_at01.spr	jixiangbaobao_st01.spr	jixiangbaobao_wlk.spr
+passerby220	ruyibaobao_st01.spr	ruyibaobao_st01.spr	ruyibaobao_st02.spr	ruyibaobao_wlk.spr	ruyibaobao_wlk.spr	ruyibaobao_wlk.spr	ruyibaobao_wlk.spr	ruyibaobao_bat.spr	ruyibaobao_die.spr	ruyibaobao_at01.spr	ruyibaobao_at02.spr	ruyibaobao_at01.spr	ruyibaobao_st02.spr	ruyibaobao_wlk.spr
+passerby221	nianshoubaobao_st01.spr	nianshoubaobao_st01.spr	nianshoubaobao_st02.spr	nianshoubaobao_wlk.spr	nianshoubaobao_wlk.spr	nianshoubaobao_wlk.spr	nianshoubaobao_wlk.spr	nianshoubaobao_bat.spr	nianshoubaobao_die.spr	nianshoubaobao_at01.spr	nianshoubaobao_at02.spr	nianshoubaobao_at01.spr	nianshoubaobao_st01.spr	nianshoubaobao_wlk.spr
+passerby222	passerby222_at01.spr	passerby222_at01.spr	passerby222_at01.spr											
+passerby223	passerby223_at01.spr	passerby223_at01.spr	passerby223_at01.spr											
+passerby224	passerby224_at01.spr	passerby224_at01.spr	passerby224_at01.spr											
+passerby225	passerby225_at01.spr	passerby225_at01.spr	passerby225_at01.spr											
+passerby226	passerby226.spr	passerby226.spr	passerby226.spr											
+passerby227	passerby227.spr	passerby227.spr	passerby227.spr											
+passerby228	passerby228.spr	passerby228.spr	passerby228.spr											
+passerby229	passerby229.spr	passerby229.spr	passerby229.spr											
+passerby230	passerby230.spr	passerby230.spr	passerby230.spr											
+passerby231	passerby231.spr	passerby231.spr	passerby231.spr											
+passerby232	passerby232.spr	passerby232.spr	passerby232.spr											
+passerby233	passerby233.spr	passerby233.spr	passerby233.spr											
+passerby234	passerby234_st.spr	passerby234_st.spr	passerby234_pst.spr											
+passerby235	zongnan.spr	zongnan.spr	zongnan.spr											
+passerby236	zongnv.spr	zongnv.spr	zongnv.spr											
+passerby237	obj_giftb.spr	obj_giftb.spr	obj_giftb.spr											
+boss069	boss069_st01.spr	boss069_st01.spr	boss069_st01.spr	boss069_wlk.spr	boss069_wlk.spr	boss069_wlk.spr	boss069_wlk.spr	boss069_bat.spr	boss069_die.spr	boss069_at.spr	boss069_at.spr	boss069_at.spr	boss069_st01.spr	boss069_wlk.spr
+boss070	boss070_st01.spr	boss070_st01.spr	boss070_st01.spr	boss070_wlk.spr	boss070_wlk.spr	boss070_wlk.spr	boss070_wlk.spr	boss070_bat.spr	boss070_die.spr	boss070_at.spr	boss070_at.spr	boss070_at.spr	boss070_st01.spr	boss070_wlk.spr
+boss071	boss071_st01.spr	boss071_st01.spr	boss071_st01.spr	boss071_wlk.spr	boss071_wlk.spr	boss071_wlk.spr	boss071_wlk.spr	boss071_bat.spr	boss071_die.spr	boss071_at.spr	boss071_at.spr	boss071_at.spr	boss071_st01.spr	boss071_wlk.spr
+boss072	boss072_st01.spr	boss072_st01.spr	boss072_st01.spr	boss072_wlk.spr	boss072_wlk.spr	boss072_wlk.spr	boss072_wlk.spr	boss072_bat.spr	boss072_die.spr	boss072_at.spr	boss072_at.spr	boss072_at.spr	boss072_st01.spr	boss072_wlk.spr
+boss073	boss073_st01.spr	boss073_st01.spr	boss073_st01.spr	boss073_wlk.spr	boss073_wlk.spr	boss073_wlk.spr	boss073_wlk.spr	boss073_bat.spr	boss073_die.spr	boss073_at.spr	boss073_at.spr	boss073_at.spr	boss073_st01.spr	boss073_wlk.spr
+boss074	boss074_st01.spr	boss074_st01.spr	boss074_st01.spr	boss074_wlk.spr	boss074_wlk.spr	boss074_wlk.spr	boss074_wlk.spr	boss074_bat.spr	boss074_die.spr	boss074_at01.spr	boss074_at02.spr	boss074_at02.spr	boss074_st01.spr	boss074_wlk.spr
+boss075	boss075_st01.spr	boss075_st01.spr	boss075_st01.spr	boss075_wlk.spr	boss075_wlk.spr	boss075_wlk.spr	boss075_wlk.spr	boss075_bat.spr	boss075_die.spr	boss075_at01.spr	boss075_at02.spr	boss075_at02.spr	boss075_st01.spr	boss075_wlk.spr
+boss076	boss076_st01.spr	boss076_st01.spr	boss076_st01.spr	boss076_wlk.spr	boss076_wlk.spr	boss076_wlk.spr	boss076_wlk.spr	boss076_bat.spr	boss076_die.spr	boss076_at01.spr	boss076_at02.spr	boss076_at02.spr	boss076_st01.spr	boss076_wlk.spr
+enemy225	enemy225_st01.spr	enemy225_st02.spr	enemy225_st02.spr	enemy225_wlk.spr	enemy225_wlk.spr	enemy225_wlk.spr	enemy225_wlk.spr	enemy225_bat.spr	enemy225_die.spr	enemy225_at01.spr	enemy225_at02.spr	enemy225_at02.spr	enemy225_st02.spr	enemy225_wlk.spr
+passerby238	passerby238.spr	passerby238.spr	passerby238.spr											
+passerby239	passerby239.spr	passerby239.spr	passerby239.spr											
+enemy226	enemy226_at01.spr	enemy226_at01.spr	enemy226_at01.spr	enemy226_wlk.spr	enemy226_wlk.spr	enemy226_wlk.spr	enemy226_wlk.spr	enemy226_bat.spr	enemy226_die.spr	enemy226_at01.spr	enemy226_at01.spr	enemy226_at01.spr	enemy226_st01.spr	enemy226_wlk.spr
+passerby240	passerby240_st01.spr	passerby240_st01.spr	passerby240_st02.spr	passerby240_wlk.spr	passerby240_wlk.spr	passerby240_wlk.spr	passerby240_wlk.spr	passerby240_bat.spr	passerby240_die.spr	passerby240_at01.spr	passerby240_at01.spr	passerby240_at01.spr	passerby240_st02.spr	passerby240_wlk.spr
+passerby241	passerby241_st01.spr	passerby241_st01.spr	passerby241_st02.spr	passerby241_wlk.spr	passerby241_wlk.spr	passerby241_wlk.spr	passerby241_wlk.spr	passerby241_bat.spr	passerby241_die.spr	passerby241_at01.spr	passerby241_at01.spr	passerby241_at01.spr	passerby241_st02.spr	passerby241_wlk.spr
+enemy227	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_st01.spr	enemy227_at01.spr	enemy227_at01.spr	enemy227_at01.spr	enemy227_st01.spr	enemy227_st01.spr
+enemy228	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_st01.spr	enemy228_at01.spr	enemy228_at01.spr	enemy228_at01.spr	enemy228_st01.spr	enemy228_st01.spr
+enemy229	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_st01.spr	enemy229_at01.spr	enemy229_at01.spr	enemy229_at01.spr	enemy229_st01.spr	enemy229_st01.spr
+enemy230	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_st01.spr	enemy230_at01.spr	enemy230_at01.spr	enemy230_at01.spr	enemy230_st01.spr	enemy230_st01.spr
+enemy231	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_st01.spr	enemy231_at01.spr	enemy231_at01.spr	enemy231_at01.spr	enemy231_st01.spr	enemy231_st01.spr
+passerby242	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr	passerby242.spr
+passerby243	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr	passerby243.spr
+passerby244	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr	passerby244.spr
+passerby245	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr	passerby245.spr
+passerby246	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr	passerby246.spr
+passerby247	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr	passerby247.spr
+passerby248	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr	passerby248.spr
+passerby249	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr	passerby249.spr
+passerby250	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr	passerby250.spr
+passerby251	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr	passerby251.spr
+passerby252	passerby252_st02.spr	passerby252_st02.spr	passerby252_st03.spr											
+boss077	boss077_st01.spr	boss077_st02.spr	boss077_st02.spr	boss077_wlk.spr	boss077_wlk.spr	boss077_wlk.spr	boss077_wlk.spr	boss077_bat.spr	boss077_die.spr	boss077_at01.spr	boss077_at02.spr	boss077_at02.spr	boss077_st02.spr	boss077_wlk.spr
+boss078	boss078_st01.spr	boss078_st02.spr	boss078_st02.spr	boss078_wlk.spr	boss078_wlk.spr	boss078_wlk.spr	boss078_wlk.spr	boss078_bat.spr	boss078_die.spr	boss078_at01.spr	boss078_at01.spr	boss078_at01.spr	boss078_st02.spr	boss078_wlk.spr
+enemy232	enemy232_st01.spr	enemy232_st01.spr	enemy232_st01.spr	enemy232_wlk.spr	enemy232_wlk.spr	enemy232_wlk.spr	enemy232_wlk.spr	enemy232_bat.spr	enemy232_die.spr	enemy232_at01.spr	enemy232_at01.spr	enemy232_at01.spr	enemy232_st01.spr	enemy232_wlk.spr
+passerby253	caishen_st01.spr	caishen_st01.spr	caishen_st02.spr											
+passerby254	zhangdenggongnv.spr	zhangdenggongnv.spr	zhangdenggongnv.spr											
+passerby255	tuanyuanfanzhuo.spr	tuanyuanfanzhuo.spr	tuanyuanfanzhuo.spr											
+boss079	cretter011_st02.spr	cretter011_st01.spr	cretter011_st02.spr	cretter011_wlk.spr	cretter011_wlk.spr	cretter011_wlk.spr	cretter011_wlk.spr	cretter011_bat.spr	cretter011_die.spr	cretter011_at01.spr	cretter011_at01.spr	cretter011_at01.spr	cretter011_st02.spr	cretter011_wlk.spr
+boss080	critter009_st03.spr	critter009_st01.spr	critter009_st02.spr	critter009_wlk.spr	critter009_wlk.spr	critter009_wlk.spr	critter009_wlk.spr	critter009_bat.spr	critter009_die.spr	critter009_at01.spr	critter009_at01.spr	critter009_at01.spr	cretter009_st02.spr	cretter009_wlk.spr
+boss081	critter012_st03.spr	critter012_st01.spr	critter012_st02.spr	critter012_wlk.spr	critter012_wlk.spr	critter012_wlk.spr	critter012_wlk.spr	critter012_bat.spr	critter012_die.spr	critter012_at01.spr	critter012_at01.spr	critter012_at01.spr	cretter012_st02.spr	cretter012_wlk.spr
+passerby256	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr	xiangsishu_a.spr
+passerby257	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr	xiangsishu_b.spr
+npc090216001	changshoumu.spr	changshoumu.spr	changshoumu.spr											
+npc090216002	wanlingmu.spr	wanlingmu.spr	wanlingmu.spr											
+passerby258	passerby258.spr	passerby258.spr	passerby258.spr											
+passerby259	passerby259.spr	passerby259.spr	passerby259.spr											
+passerby260	passerby260.spr	passerby260.spr	passerby260.spr											
+passerby261	passerby261.spr	passerby261.spr	passerby261.spr											
+passerby262	passerby262.spr	passerby262.spr	passerby262.spr											
+passerby263	passerby263.spr	passerby263.spr	passerby263.spr											
+passerby264	passerby264.spr	passerby264.spr	passerby264.spr											
+passerby265	passerby265.spr	passerby265.spr	passerby265.spr											
+passerby266	passerby266.spr	passerby266.spr	passerby266.spr											
+passerby267	passerby267.spr	passerby267.spr	passerby267.spr											
+passerby268	passerby268.spr	passerby268.spr	passerby268.spr											
+passerby269	passerby269.spr	passerby269.spr	passerby269.spr											
+passerby270	passerby270.spr	passerby270.spr	passerby270.spr											
+passerby271	passerby271.spr	passerby271.spr	passerby271.spr											
+passerby272	passerby272.spr	passerby272.spr	passerby272.spr											
+passerby273	passerby273.spr	passerby273.spr	passerby273.spr											
+passerby274	passerby274.spr	passerby274.spr	passerby274.spr											
+passerby275	passerby275.spr	passerby275.spr	passerby275.spr											
+passerby276	passerby276.spr	passerby276.spr	passerby276.spr											
+passerby277	passerby277.spr	passerby277.spr	passerby277.spr											
+passerby278	passerby278.spr	passerby278.spr	passerby278.spr											
+passerby279	passerby279.spr	passerby279.spr	passerby279.spr											
+passerby280	passerby280.spr	passerby280.spr	passerby280.spr											
+passerby281	passerby281.spr	passerby281.spr	passerby281.spr											
+passerby282	passerby282.spr	passerby282.spr	passerby282.spr											
+passerby283	passerby283.spr	passerby283.spr	passerby283.spr											
+passerby284	passerby284_st01.spr	passerby284_st01.spr	passerby284_st01.spr	passerby284_wlk.spr	passerby284_wlk.spr	passerby284_wlk.spr	passerby284_wlk.spr	passerby284_bat.spr	passerby284_die.spr	passerby284_at01.spr	passerby284_at01.spr	passerby284_at02.spr	passerby284_st01.spr	passerby284_wlk.spr
+passerby285	passerby285_st01.spr	passerby285_st01.spr	passerby285_st01.spr	passerby285_wlk.spr	passerby285_wlk.spr	passerby285_wlk.spr	passerby285_wlk.spr	passerby285_bat.spr	passerby285_die.spr	passerby285_at01.spr	passerby285_at01.spr	passerby285_at02.spr	passerby285_st01.spr	passerby285_wlk.spr
+passerby286	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr	passerby286.spr
+passerby287	passerby287.spr	passerby287.spr	passerby287.spr											
+passerby288	passerby288.spr	passerby288.spr	passerby288.spr											
+passerby289	passerby289.spr	passerby289.spr	passerby289.spr											
+passerby290	passerby290.spr	passerby290.spr	passerby290.spr											
+passerby291	passerby291.spr	passerby291.spr	passerby291.spr											
+passerby292	passerby292.spr	passerby292.spr	passerby292.spr											
+passerby293	passerby293.spr	passerby293.spr	passerby293.spr											
+passerby294	passerby294.spr	passerby294.spr	passerby294.spr											
+passerby295	passerby295.spr	passerby295.spr	passerby295.spr											
+passerby296	passerby296_st01.spr	passerby296_st01.spr	passerby296_st02.spr											
+passerby297	passerby297_st01.spr	passerby297_st01.spr	passerby297_st01.spr											
+passerby298	passerby298.spr	passerby298.spr	passerby298.spr											
+passerby299	passerby299.spr	passerby299.spr	passerby299.spr											
+passerby300	passerby300.spr	passerby300.spr	passerby300.spr											
+passerby301	passerby301.spr	passerby301.spr	passerby301.spr											
+passerby302	passerby302.spr	passerby302.spr	passerby302.spr											
+passerby303	passerby303.spr	passerby303.spr	passerby303.spr											
+passerby304	denglong.spr	denglong.spr	denglong.spr											
+passerby305	denglong_liang.spr	denglong_liang.spr	denglong_liang.spr											
+passerby306	shengdandabaixiong_st02.spr	shengdandabaixiong_st01.spr	shengdandabaixiong_st02.spr	shengdandabaixiong_wlk.spr	shengdandabaixiong_wlk.spr	shengdandabaixiong_wlk.spr	shengdandabaixiong_wlk.spr	shengdandabaixiong_bat.spr	shengdandabaixiong_die.spr	shengdandabaixiong_at01.spr	shengdandabaixiong_at02.spr	shengdandabaixiong_at02.spr	shengdandabaixiong_st01.spr	shengdandabaixiong_wlk.spr
+passerby307	shengdanqie_st01.spr	shengdanqie_st02.spr	shengdanqie_st02.spr	shengdanqie_wlk.spr	shengdanqie_wlk.spr	shengdanqie_wlk.spr	shengdanqie_wlk.spr	shengdanqie_bat.spr	shengdanqie_die.spr	shengdanqie_at01.spr	shengdanqie_at02.spr	shengdanqie_at02.spr	shengdanqie_st02.spr	shengdanqie_wlk.spr
+passerby308	shengdanwuniang_st01.spr	shengdanwuniang_st02.spr	shengdanwuniang_st02.spr	shengdanwuniang_wlk.spr	shengdanwuniang_wlk.spr	shengdanwuniang_wlk.spr	shengdanwuniang_wlk.spr	shengdanwuniang_bat.spr	shengdanwuniang_die.spr	shengdanwuniang_at01.spr	shengdanwuniang_at02.spr	shengdanwuniang_at02.spr	shengdanwuniang_st02.spr	shengdanwuniang_wlk.spr
+passerby309	caishenbaobao_st01.spr	caishenbaobao_st01.spr	caishenbaobao_st02.spr											
+passerby310	xiaocaishen_st01.spr	xiaocaishen_st01.spr	xiaocaishen_st02.spr											
+passerby311	caishen_st01.spr	caishen_st01.spr	caishen_st02.spr											
+passerby312	caishenda_st.spr	caishenda_st.spr	caishenda_pst.spr											
+passerby313	passerby313.spr	passerby313.spr	passerby313.spr											
+passerby314	passerby314.spr	passerby314.spr	passerby314.spr											
+passerby315	passerby315.spr	passerby315.spr	passerby315.spr											
+passerby316	passerby316.spr	passerby316.spr	passerby316.spr	passerby316.spr										
+passerby317	passerby317.spr	passerby317.spr	passerby317.spr											
+passerby318	npc050111011_st.spr	npc050111011_st.spr	npc050111011_st.spr											
+passerby319	qinglvhupizhuang(nan)_st01.spr	qinglvhupizhuang(nan)_st02.spr	qinglvhupizhuang(nan)_st02.spr	qinglvhupizhuang(nan)_wlk.spr	qinglvhupizhuang(nan)_wlk.spr	qinglvhupizhuang(nan)_wlk.spr	qinglvhupizhuang(nan)_wlk.spr	qinglvhupizhuang(nan)_bat.spr	qinglvhupizhuang(nan)_die.spr	qinglvhupizhuang(nan)_at01.spr	qinglvhupizhuang(nan)_at02.spr	qinglvhupizhuang(nan)_at02.spr	qinglvhupizhuang(nan)_st02.spr	qinglvhupizhuang(nan)_wlk.spr
+passerby320	qinglvhupizhuang(nv)_st01.spr	qinglvhupizhuang(nv)_st02.spr	qinglvhupizhuang(nv)_st02.spr	qinglvhupizhuang(nv)_wlk.spr	qinglvhupizhuang(nv)_wlk.spr	qinglvhupizhuang(nv)_wlk.spr	qinglvhupizhuang(nv)_wlk.spr	qinglvhupizhuang(nv)_bat.spr	qinglvhupizhuang(nv)_die.spr	qinglvhupizhuang(nv)_at01.spr	qinglvhupizhuang(nv)_at02.spr	qinglvhupizhuang(nv)_at02.spr	qinglvhupizhuang(nv)_st02.spr	qinglvhupizhuang(nv)_wlk.spr
+passerby321	huangjinshu1.spr	huangjinshu1.spr	huangjinshu1.spr											
+passerby322	huangjinshu2.spr	huangjinshu2.spr	huangjinshu2.spr											
+passerby323	npc20100302001_st01.spr	npc20100302001_st01.spr	npc20100302001_st02.spr	npc20100302001_wlk.spr	npc20100302001_wlk.spr	npc20100302001_wlk.spr	npc20100302001_wlk.spr	npc20100302001_bat.spr	npc20100302001_die.spr	npc20100302001_at01.spr	npc20100302001_at02.spr	npc20100302001_at02.spr	npc20100302001_st02.spr	npc20100302001_wlk.spr
+passerby324	npc20100302002_st01.spr	npc20100302002_st01.spr	npc20100302002_st02.spr	npc20100302002_wlk.spr	npc20100302002_wlk.spr	npc20100302002_wlk.spr	npc20100302002_wlk.spr	npc20100302002_bat.spr	npc20100302002_die.spr	npc20100302002_at01.spr	npc20100302002_at02.spr	npc20100302002_at02.spr	npc20100302002_st02.spr	npc20100302002_wlk.spr
+passerby325	bailingxianglu.spr	bailingxianglu.spr	bailingxianglu.spr											
+passerby326	passerby326.spr	passerby326.spr	passerby326.spr											
+passerby327	passerby327.spr	passerby327.spr	passerby327.spr											
+passerby328	passerby328.spr	passerby328.spr	passerby328.spr											
+passerby329	passerby329.spr	passerby329.spr	passerby329.spr											
+passerby330	passerby330.spr	passerby330.spr	passerby330.spr											
+passerby331	passerby331.spr	passerby331.spr	passerby331.spr											
+passerby332	passerby332.spr	passerby332.spr	passerby332.spr											
+passerby333	passerby333.spr	passerby333.spr	passerby333.spr											
+passerby334	ziduan_st01.spr	ziduan_st01.spr	ziduan_st02.spr	ziduan_wlk.spr	ziduan_wlk.spr	ziduan_wlk.spr	ziduan_wlk.spr	ziduan_bat.spr	ziduan_die.spr	ziduan_at01.spr	ziduan_at02.spr	ziduan_at02.spr	ziduan_st02.spr	ziduan_wlk.spr
+passerby335	ziwu_st01.spr	ziwu_st01.spr	ziwu_st02.spr	ziwu_wlk.spr	ziwu_wlk.spr	ziwu_wlk.spr	ziwu_wlk.spr	ziwu_bat.spr	ziwu_die.spr	ziwu_at01.spr	ziwu_at02.spr	ziwu_at02.spr	ziwu_st02.spr	ziwu_wlk.spr
+passerby336	passerby336.spr	passerby336.spr	passerby336.spr											
+passerby337	guyue_st02.spr	guyue_st01.spr	guyue_st01.spr	guyue_wlk.spr	guyue_wlk.spr	guyue_wlk.spr	guyue_wlk.spr	guyue_bat.spr	guyue_die.spr	guyue_at01.spr	guyue_at02.spr	guyue_at02.spr	guyue_st01.spr	guyue_wlk.spr
+passerby338	yuenanqingyi_st01.spr	yuenanqingyi_st02.spr	yuenanqingyi_st02.spr	yuenanqingyi_wlk.spr	yuenanqingyi_wlk.spr	yuenanqingyi_wlk.spr	yuenanqingyi_wlk.spr	yuenanqingyi_bat.spr	yuenanqingyi_die.spr	yuenanqingyi_at01.spr	yuenanqingyi_at02.spr	yuenanqingyi_at02.spr	yuenanqingyi_st02.spr	yuenanqingyi_wlk.spr
+passerby339	passerby339.spr	passerby339.spr	passerby339.spr											
+yanhua	烟花.spr	烟花.spr	烟花.spr											
+passerby_wulin	passerby_wulin.spr	passerby_wulin.spr	passerby_wulin.spr											
+passerby_mengzhu	passerby_mengzhu.spr	passerby_mengzhu.spr	passerby_mengzhu.spr											
+passerby_jianfeng	jianfeng_st01.spr	jianfeng_st02.spr	jianfeng_st02.spr	jianfeng_wlk.spr	jianfeng_wlk.spr	jianfeng_wlk.spr	jianfeng_wlk.spr	jianfeng_bat.spr	jianfeng_die.spr	jianfeng_at01.spr	jianfeng_at02.spr	jianfeng_at02.spr	jianfeng_st02.spr	jianfeng_wlk.spr
+passerby_yunxia	yunxia_st01.spr	yunxia_st02.spr	yunxia_st02.spr	yunxia_wlk.spr	yunxia_wlk.spr	yunxia_wlk.spr	yunxia_wlk.spr	yunxia_bat.spr	yunxia_die.spr	yunxia_at01.spr	yunxia_at02.spr	yunxia_at02.spr	yunxia_st02.spr	yunxia_wlk.spr
+passerby_qixiyanhuo	qixiyanhuo.spr	qixiyanhuo.spr	qixiyanhuo.spr											
+boss082	yuenanman_st01.spr	yuenanman_st02.spr	yuenanman_st02.spr	yuenanman_wlk.spr	yuenanman_wlk.spr	yuenanman_wlk.spr	yuenanman_wlk.spr	yuenanman_bat.spr	yuenanman_die.spr	yuenanman_at01.spr	yuenanman_at02.spr	yuenanman_at01.spr	yuenanman_st02.spr	yuenanman_wlk.spr
+passerby_light_a	passerby_light_a.spr	passerby_light_a.spr	passerby_light_a.spr											
+passerby_light_b	passerby_light_b.spr	passerby_light_b.spr	passerby_light_b.spr											
+passerby_henge_a	passerby_henge_a.spr	passerby_henge_a.spr	passerby_henge_a.spr											
+passerby_henge_b	passerby_henge_b.spr	passerby_henge_b.spr	passerby_henge_b.spr											
+passerby_henge_c	passerby_henge_c.spr	passerby_henge_c.spr	passerby_henge_c.spr											
+obj_herb_001	obj_rw_012.spr	obj_rw_012.spr	obj_rw_012.spr											
+obj_herb_002	obj_rw_033.spr	obj_rw_033.spr	obj_rw_033.spr											
+obj_herb_003	obj_rw_001.spr	obj_rw_001.spr	obj_rw_001.spr											
+obj_herb_004	obj_rw_008.spr	obj_rw_008.spr	obj_rw_008.spr											
+passerby_yuandan	passerby_yuandan.spr	passerby_yuandan.spr	passerby_yuandan.spr											
+obj_jiejing_shui	obj_zuanshi.spr	obj_zuanshi.spr	obj_zuanshi.spr											
+enemy047x	enemy047_st.spr	enemy047_st.spr	enemy047_pst.spr	enemy047_wlk.spr	enemy047_wlk.spr	enemy047_wlk.spr	enemy047_wlk.spr	enemy047_bat.spr	enemy047_die.spr	enemy047_at.spr	enemy047_at.spr	enemy047_at.spr	enemy047_pst.spr	enemy047_wlk.spr
+passerby_jiuzhuo	tuanyuanfanzhuo.spr	tuanyuanfanzhuo.spr	tuanyuanfanzhuo.spr											
+boss083	ciweiwang_st01.spr	ciweiwang_st02.spr	ciweiwang_st02.spr	ciweiwang_wlk.spr	ciweiwang_wlk.spr	ciweiwang_wlk.spr	ciweiwang_wlk.spr	ciweiwang_bat.spr	ciweiwang_die.spr	ciweiwang_at01.spr	ciweiwang_at02.spr	ciweiwang_at02.spr	ciweiwang_st02.spr	ciweiwang_wlk.spr
+boss084	fenglinglong_st01.spr	fenglinglong_st02.spr	fenglinglong_st02.spr	fenglinglong_wlk.spr	fenglinglong_wlk.spr	fenglinglong_wlk.spr	fenglinglong_wlk.spr	fenglinglong_bat.spr	fenglinglong_die.spr	fenglinglong_at01.spr	fenglinglong_at02.spr	fenglinglong_at02.spr	fenglinglong_st02.spr	fenglinglong_wlk.spr
+boss085	shewang_st01.spr	shewang_st02.spr	shewang_st02.spr	shewang_wlk.spr	shewang_wlk.spr	shewang_wlk.spr	shewang_wlk.spr	shewang_bat.spr	shewang_die.spr	shewang_at01.spr	shewang_at02.spr	shewang_at02.spr	shewang_st02.spr	shewang_wlk.spr
+boss086	powaner_st01.spr	powaner_st02.spr	powaner_st02.spr	powaner_wlk.spr	powaner_wlk.spr	powaner_wlk.spr	powaner_wlk.spr	powaner_bat01.spr	powaner_die.spr	powaner_at01.spr	powaner_at02.spr	powaner_at02.spr	powaner_st02.spr	powaner_wlk.spr
+boss087	boss087_st01.spr	boss087_st02.spr	boss087_st02.spr	boss087_wlk.spr	boss087_wlk.spr	boss087_wlk.spr	boss087_wlk.spr	boss087_bat.spr	boss087_die.spr	boss087_at01.spr	boss087_at02.spr	boss087_at02.spr	boss087_st02.spr	boss087_wlk.spr
+passerby340_jin	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr
+passerby340_mu	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr
+passerby340_shui	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr
+passerby340_huo	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr
+passerby340_tu	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr
+passerby341_jin	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr	金色.spr
+passerby341_mu	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr	绿色.spr
+passerby341_shui	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr	冰色.spr
+passerby341_huo	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr	火色.spr
+passerby341_tu	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr	土色.spr
+passerby342	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_die.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr	蜘蛛网_st01.spr
+passerby343	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_die.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr	蛇蛋_st01.spr
+passerby344	雪灵珠.spr	雪灵珠.spr	雪灵珠.spr											
+passerby345	passerby345_st01.spr	passerby345_st02.spr	passerby345_st02.spr	passerby345_wlk.spr	passerby345_wlk.spr	passerby345_wlk.spr	passerby345_wlk.spr	passerby345_bat.spr	passerby345_die.spr	passerby345_at01.spr	passerby345_at02.spr	passerby345_at02.spr	passerby345_st02.spr	passerby345_wlk.spr
+passerby346	passerby346_st01.spr	passerby346_st02.spr	passerby346_st02.spr	passerby346_wlk.spr	passerby346_wlk.spr	passerby346_wlk.spr	passerby346_wlk.spr	passerby346_bat.spr	passerby346_die.spr	passerby346_at01.spr	passerby346_at02.spr	passerby346_at02.spr	passerby346_st02.spr	passerby346_wlk.spr
+passerby347	passerby347_st01.spr	passerby347_st02.spr	passerby347_st02.spr	passerby347_wlk.spr	passerby347_wlk.spr	passerby347_wlk.spr	passerby347_wlk.spr	passerby347_bat.spr	passerby347_die.spr	passerby347_at01.spr	passerby347_at02.spr	passerby347_at02.spr	passerby347_st02.spr	passerby347_wlk.spr
+boss088	boss088_st01.spr	boss088_st02.spr	boss088_st02.spr	boss088_wlk.spr	boss088_wlk.spr	boss088_wlk.spr	boss088_wlk.spr	boss088_bat.spr	boss088_die.spr	boss088_at01.spr	boss088_at02.spr	boss088_at02.spr	boss088_st01.spr	boss088_wlk.spr
+boss089	boss089_st01.spr	boss089_st02.spr	boss089_st02.spr	boss089_wlk.spr	boss089_wlk.spr	boss089_wlk.spr	boss089_wlk.spr	boss089_bat.spr	boss089_die.spr	boss089_at01.spr	boss089_at02.spr	boss089_at02.spr	boss089_st01.spr	boss089_wlk.spr
+boss090	boss090_st01.spr	boss090_st02.spr	boss090_st02.spr	boss090_wlk.spr	boss090_wlk.spr	boss090_wlk.spr	boss090_wlk.spr	boss090_bat.spr	boss090_die.spr	boss090_at01.spr	boss090_at02.spr	boss090_at02.spr	boss090_st01.spr	boss090_wlk.spr
+boss091	boss091_st01.spr	boss091_st02.spr	boss091_st02.spr	boss091_wlk.spr	boss091_wlk.spr	boss091_wlk.spr	boss091_wlk.spr	boss091_bat.spr	boss091_die.spr	boss091_at01.spr	boss091_at02.spr	boss091_at02.spr	boss091_st01.spr	boss091_wlk.spr
+boss092	boss092_st01.spr	boss092_st02.spr	boss092_st02.spr	boss092_wlk.spr	boss092_wlk.spr	boss092_wlk.spr	boss092_wlk.spr	boss092_bat.spr	boss092_die.spr	boss092_at01.spr	boss092_at02.spr	boss092_at02.spr	boss092_st02.spr	boss092_wlk.spr
+passerby348	passerby348_st01.spr	passerby348_st02.spr	passerby348_st02.spr	passerby348_wlk.spr	passerby348_wlk.spr	passerby348_wlk.spr	passerby348_wlk.spr	passerby348_bat.spr	passerby348_die.spr	passerby348_at01.spr	passerby348_at02.spr	passerby348_at02.spr	passerby348_st02.spr	passerby348_wlk.spr
+passerby349	passerby349_st01.spr	passerby349_st02.spr	passerby349_st02.spr	passerby349_wlk.spr	passerby349_wlk.spr	passerby349_wlk.spr	passerby349_wlk.spr	passerby349_bat.spr	passerby349_die.spr	passerby349_at01.spr	passerby349_at02.spr	passerby349_at02.spr	passerby349_st02.spr	passerby349_wlk.spr
+passerby350	passerby350.spr	passerby350.spr	passerby350.spr											
+passerby351	dangao.spr	dangao.spr	dangao.spr											
+passerby352	passerby352_st02.spr	passerby352_st02.spr	passerby352_st02.spr											
+passerby353	passerby353.spr	passerby353.spr	passerby353.spr											
+passerby354a	jin01.spr	jin01.spr	jin01.spr											
+passerby354b	jin02.spr	jin02.spr	jin02.spr											
+passerby354c	jin03.spr	jin03.spr	jin03.spr											
+passerby354d	jin04.spr	jin04.spr	jin04.spr											
+passerby354e	jin05.spr	jin05.spr	jin05.spr											
+passerby354f	yin01.spr	yin01.spr	yin01.spr											
+passerby354g	yin02.spr	yin02.spr	yin02.spr											
+passerby354h	yin03.spr	yin03.spr	yin03.spr											
+passerby354i	yin04.spr	yin04.spr	yin04.spr											
+passerby354j	yin05.spr	yin05.spr	yin05.spr											
+passerby354k	yin06.spr	yin06.spr	yin06.spr											
+passerby354l	tong01.spr	tong01.spr	tong01.spr											
+passerby354m	tong02.spr	tong02.spr	tong02.spr											
+passerby354n	tong03.spr	tong03.spr	tong03.spr											
+passerby354o	tong04.spr	tong04.spr	tong04.spr											
+passerby354p	tong05.spr	tong05.spr	tong05.spr											
+passerby354q	mu01.spr	mu01.spr	mu01.spr											
+passerby354r	mu02.spr	mu02.spr	mu02.spr											
+passerby354s	mu03.spr	mu03.spr	mu03.spr											
+passerby354t	mu04.spr	mu04.spr	mu04.spr											
+boss093	boss093_st01.spr	boss093_st02.spr	boss093_st02.spr	boss093_wlk.spr	boss093_wlk.spr	boss093_wlk.spr	boss093_wlk.spr	boss093_bat.spr	boss093_die.spr	boss093_at01.spr	boss093_at02.spr	boss093_at02.spr	boss093_st02.spr	boss093_wlk.spr
+passerby355a	sword01.spr	sword01.spr	sword01.spr											
+passerby355b	sword02.spr	sword02.spr	sword02.spr											
+passerby355c	sword03.spr	sword03.spr	sword03.spr											
+passerby356	vnflag.spr	vnflag.spr	vnflag.spr											
+boss094	boss094_st01.spr	boss094_st02.spr	boss094_st02.spr	boss094_wlk.spr	boss094_wlk.spr	boss094_wlk.spr	boss094_wlk.spr	boss094_bat.spr	boss094_die.spr	boss094_at01.spr	boss094_at02.spr	boss094_at02.spr	boss094_st02.spr	boss094_wlk.spr
+boss095	boss095_st01.spr	boss095_st02.spr	boss095_st02.spr	boss095_wlk.spr	boss095_wlk.spr	boss095_wlk.spr	boss095_wlk.spr	boss095_bat.spr	boss095_die.spr	boss095_at01.spr	boss095_at02.spr	boss095_at02.spr	boss095_st02.spr	boss095_wlk.spr
+boss096	boss096_st01.spr	boss096_st02.spr	boss096_st02.spr	boss096_wlk.spr	boss096_wlk.spr	boss096_wlk.spr	boss096_wlk.spr	boss096_bat.spr	boss096_die.spr	boss096_at01.spr	boss096_at02.spr	boss096_at02.spr	boss096_st02.spr	boss096_wlk.spr
+passerby357	passerby357.spr	passerby357.spr	passerby357.spr											
+passerby358	passerby358.spr	passerby358.spr	passerby358.spr											
+passerby359	passerby359_st01.spr	passerby359_st02.spr	passerby359_st02.spr	passerby359_wlk.spr	passerby359_wlk.spr	passerby359_wlk.spr	passerby359_wlk.spr	passerby359_bat.spr	passerby359_die.spr	passerby359_at01.spr	passerby359_at02.spr	passerby359_at02.spr	passerby359_st02.spr	passerby359_wlk.spr
+passerby360	passerby360_st01.spr	passerby360_st02.spr	passerby360_st02.spr	passerby360_wlk.spr	passerby360_wlk.spr	passerby360_wlk.spr	passerby360_wlk.spr	passerby360_bat.spr	passerby360_die.spr	passerby360_at01.spr	passerby360_at02.spr	passerby360_at02.spr	passerby360_st02.spr	passerby360_wlk.spr
+boss097	boss097_st01.spr	boss097_st02.spr	boss097_st02.spr	boss097_wlk.spr	boss097_wlk.spr	boss097_wlk.spr	boss097_wlk.spr	boss097_bat.spr	boss097_die.spr	boss097_at01.spr	boss097_at02.spr	boss097_at02.spr	boss097_st02.spr	boss097_wlk.spr
+enemy233	enemy233_st01.spr	enemy233_st02.spr	enemy233_st02.spr	enemy233_wlk.spr	enemy233_wlk.spr	enemy233_wlk.spr	enemy233_wlk.spr	enemy233_bat.spr	enemy233_die.spr	enemy233_at01.spr	enemy233_at02.spr	enemy233_at02.spr	enemy233_st02.spr	enemy233_wlk.spr
+enemy234	enemy234_st01.spr	enemy234_st02.spr	enemy234_st02.spr	enemy234_wlk.spr	enemy234_wlk.spr	enemy234_wlk.spr	enemy234_wlk.spr	enemy234_bat.spr	enemy234_die.spr	enemy234_at01.spr	enemy234_at02.spr	enemy234_at02.spr	enemy234_st02.spr	enemy234_wlk.spr
+enemy235	enemy235_st01.spr	enemy235_st02.spr	enemy235_st02.spr	enemy235_wlk.spr	enemy235_wlk.spr	enemy235_wlk.spr	enemy235_wlk.spr	enemy235_bat.spr	enemy235_die.spr	enemy235_at01.spr	enemy235_at02.spr	enemy235_at02.spr	enemy235_st02.spr	enemy235_wlk.spr
+enemy236	enemy236_st01.spr	enemy236_st02.spr	enemy236_st02.spr	enemy236_wlk.spr	enemy236_wlk.spr	enemy236_wlk.spr	enemy236_wlk.spr	enemy236_bat.spr	enemy236_die.spr	enemy236_at01.spr	enemy236_at02.spr	enemy236_at02.spr	enemy236_st02.spr	enemy236_wlk.spr
+enemy237	enemy237_st01.spr	enemy237_st02.spr	enemy237_st02.spr	enemy237_wlk.spr	enemy237_wlk.spr	enemy237_wlk.spr	enemy237_wlk.spr	enemy237_bat.spr	enemy237_die.spr	enemy237_at01.spr	enemy237_at02.spr	enemy237_at02.spr	enemy237_st02.spr	enemy237_wlk.spr
+enemy238	enemy238_st01.spr	enemy238_st02.spr	enemy238_st02.spr	enemy238_wlk.spr	enemy238_wlk.spr	enemy238_wlk.spr	enemy238_wlk.spr	enemy238_bat.spr	enemy238_die.spr	enemy238_at01.spr	enemy238_at02.spr	enemy238_at02.spr	enemy238_st02.spr	enemy238_wlk.spr
+enemy239	enemy239_st01.spr	enemy239_st02.spr	enemy239_st02.spr	enemy239_wlk.spr	enemy239_wlk.spr	enemy239_wlk.spr	enemy239_wlk.spr	enemy239_bat.spr	enemy239_die.spr	enemy239_at01.spr	enemy239_at02.spr	enemy239_at02.spr	enemy239_st02.spr	enemy239_wlk.spr
+enemy240	enemy240_st01.spr	enemy240_st02.spr	enemy240_st02.spr	enemy240_wlk.spr	enemy240_wlk.spr	enemy240_wlk.spr	enemy240_wlk.spr	enemy240_bat.spr	enemy240_die.spr	enemy240_at01.spr	enemy240_at02.spr	enemy240_at02.spr	enemy240_st02.spr	enemy240_wlk.spr
+boss098	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_st01.spr	boss98_at01.spr	boss98_at01.spr	boss98_at01.spr	boss98_st01.spr	boss98_st01.spr
+enemy241	enemy241_st02.spr	enemy241_st02.spr	enemy241_st02.spr	enemy241_wlk.spr	enemy241_wlk.spr	enemy241_wlk.spr	enemy241_wlk.spr	enemy241_st02.spr	enemy241_die.spr				enemy241_st02.spr	enemy241_wlk.spr
+passerby361	passerby361.spr	passerby361.spr	passerby361.spr											
+passerby362	passerby362.spr	passerby362.spr	passerby362.spr											
+boss099	boss099.spr	boss099.spr	boss099.spr											
+enemy242	enemy242_st01.spr	enemy242_st02.spr	enemy242_st02.spr	enemy242_wlk.spr	enemy242_wlk.spr	enemy242_wlk.spr	enemy242_wlk.spr	enemy242_bat.spr	enemy242_die.spr	enemy242_at01.spr	enemy242_at02.spr	enemy242_at02.spr	enemy242_st02.spr	enemy242_wlk.spr
+passerby363	passerby363_st01.spr	passerby363_st01.spr	passerby363_st01.spr											
+passerby364	passerby364_st01.spr	passerby364_st01.spr	passerby364_st01.spr											
+boss119		boss119_st.spr	boss119_st.spr		boss119_wlk.spr		boss119_run.spr							
+boss120		boss120_st.spr	boss120_st.spr		boss120_wlk.spr		boss120_run.spr							
+boss121		boss121_st.spr	boss121_st.spr		boss121_wlk.spr		boss121_run.spr							
+boss122		boss122_st.spr	boss122_st.spr		boss122_wlk.spr		boss122_run.spr							
+boss123		boss123_st.spr	boss123_st.spr		boss123_wlk.spr		boss123_run.spr							
+boss124		boss124_st.spr	boss124_st.spr		boss124_wlk.spr		boss124_run.spr							
+boss125		boss125_st.spr	boss125_st.spr		boss125_wlk.spr		boss125_run.spr							
+boss126		boss126_st.spr	boss126_st.spr		boss126_wlk.spr		boss126_run.spr							
+passerby365	passerby365_st01.spr	passerby365_st01.spr	passerby365_st01.spr											
+passerby366	passerby366_st01.spr	passerby366_st01.spr	passerby366_st01.spr											
+passerby367	passerby367_st01.spr	passerby367_st01.spr												
+passerby368	passerby368_st01.spr	passerby368_st01.spr	passerby368_st01.spr											
+passerby369	passerby369_st01.spr	passerby369_st01.spr	passerby369_st01.spr											
+boss127	boss127_st01.spr	boss127_st01.spr	boss127_st02.spr	boss127_wlk.spr	boss127_wlk.spr	boss127_wlk.spr	boss127_wlk.spr	boss127_wlk.spr	boss127_die.spr	boss127_at01.spr	boss127_at02.spr	boss127_at02.spr	boss127_st02.spr	boss127_wlk.spr
+boss128	boss128_st01.spr	boss128_st01.spr	boss128_st02.spr	boss128_wlk.spr	boss128_wlk.spr	boss128_wlk.spr	boss128_wlk.spr	boss128_wlk.spr	boss128_die.spr	boss128_at01.spr	boss128_at02.spr	boss128_at02.spr	boss128_st02.spr	boss128_wlk.spr
+boss102	boss102_st01.spr	boss102_st02.spr	boss102_st02.spr	boss102_wlk.spr	boss102_wlk.spr	boss102_wlk.spr	boss102_wlk.spr	boss102_bat.spr	boss102_die.spr	boss102_at01.spr	boss102_at02.spr	boss102_at02.spr	boss102_st02.spr	boss102_wlk.spr
+boss103	boss103_st01.spr	boss103_st02.spr	boss103_st02.spr	boss103_wlk.spr	boss103_wlk.spr	boss103_wlk.spr	boss103_wlk.spr	boss103_bat.spr	boss103_die.spr	boss103_at01.spr	boss103_at02.spr	boss103_at02.spr	boss103_st02.spr	boss103_wlk.spr
+boss106	boss106_st01.spr	boss106_st02.spr	boss106_st02.spr	boss106_wlk.spr	boss106_wlk.spr	boss106_wlk.spr	boss106_wlk.spr	boss106_bat.spr	boss106_die.spr	boss106_at01.spr	boss106_at02.spr	boss106_at02.spr	boss106_st02.spr	boss106_wlk.spr
+boss107	boss107_st01.spr	boss107_st02.spr	boss107_st02.spr	boss107_wlk.spr	boss107_wlk.spr	boss107_wlk.spr	boss107_wlk.spr	boss107_bat.spr	boss107_die.spr	boss107_at01.spr	boss107_at02.spr	boss107_at02.spr	boss107_st02.spr	boss107_wlk.spr
+boss109	boss109_st01.spr	boss109_st02.spr	boss109_st02.spr	boss109_wlk.spr	boss109_wlk.spr	boss109_wlk.spr	boss109_wlk.spr	boss109_bat.spr	boss109_die.spr	boss109_at01.spr	boss109_at02.spr	boss109_at02.spr	boss109_st02.spr	boss109_wlk.spr
+boss110	boss110_st01.spr	boss110_st02.spr	boss110_st02.spr	boss110_wlk.spr	boss110_wlk.spr	boss110_wlk.spr	boss110_wlk.spr	boss110_bat.spr	boss110_die.spr	boss110_at01.spr	boss110_at02.spr	boss110_at02.spr	boss110_st02.spr	boss110_wlk.spr
+boss112	boss112_st01.spr	boss112_st02.spr	boss112_st02.spr	boss112_wlk.spr	boss112_wlk.spr	boss112_wlk.spr	boss112_wlk.spr	boss112_bat.spr	boss112_die.spr	boss112_at01.spr	boss112_at02.spr	boss112_at02.spr	boss112_st02.spr	boss112_wlk.spr
+boss113	boss113_st01.spr	boss113_st02.spr	boss113_st02.spr	boss113_wlk.spr	boss113_wlk.spr	boss113_wlk.spr	boss113_wlk.spr	boss113_bat.spr	boss113_die.spr	boss113_at01.spr	boss113_at02.spr	boss113_at02.spr	boss113_st02.spr	boss113_wlk.spr
+boss116	boss116_st01.spr	boss116_st02.spr	boss116_st02.spr	boss116_wlk.spr	boss116_wlk.spr	boss116_wlk.spr	boss116_wlk.spr	boss116_bat.spr	boss116_die.spr	boss116_at01.spr	boss116_at02.spr	boss116_at02.spr	boss116_st02.spr	boss116_wlk.spr
+boss118	boss118_st01.spr	boss118_st02.spr	boss118_st02.spr	boss118_wlk.spr	boss118_wlk.spr	boss118_wlk.spr	boss118_wlk.spr	boss118_bat.spr	boss118_die.spr	boss118_at01.spr	boss118_at02.spr	boss118_at02.spr	boss118_st02.spr	boss118_wlk.spr

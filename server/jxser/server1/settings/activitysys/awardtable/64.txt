@@ -1,0 +1,11 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+64	Th«n N´ng Ch©n ß¨n	{tbProp={6,1,2113,1,0,0},}	1	2	570	15	
+64	Ti™n Th∂o LÈ Æ∆c bi÷t	{tbProp={6,1,1181,1,0,0},}	1	4	571	15	
+64	Khi™u chi’n L‘ bao	{tbProp={6,1,2006,1,0,0},}	1	7.6	572	15	
+64	N’n B∏t tr©n phÛc nguy÷t	{tbProp={6,1,1817,1,0,0},}	1	15	573	15	
+64	BÊ huy’t Æ¨n	{tbProp={6,1,2366,1,0,0},nExpiredTime=20100628,}	1	20	574	15	
+64	ßπi M∑ HÊ Bæc Kinh Chi MÈng	{tbProp={0,197},nQuality=1,}	1	0.2	575	15	
+64	ßπi M∑ HÊ Nha ßi”n Chi HÂn	{tbProp={0,202},nQuality=1,}	1	0.2	576	15	
+64	Th«n b› kho∏ng thπch	{tbProp={6,1,398,1,0,0},}	1	1	577	15	
+64	Ti”u C«u chi y	{tbProp={6,1,2367,1,0,0},nExpiredTime=20100628,}	1	25	578	15	
+64	Ti”u tÛc chi ngoa	{tbProp={6,1,2368,1,0,0},nExpiredTime=20100628,}	1	25	579	15	

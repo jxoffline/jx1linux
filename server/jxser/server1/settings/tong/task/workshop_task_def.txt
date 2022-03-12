@@ -1,0 +1,2 @@
+TASK_ID_FIRST	TASK_ID_LAST	TASK_NAME	SYNC_FLAG	TASK_DESCRIBE
+ID b¾t ®Çu?ID chiÕm dông kh«ng liªn tôc, h·y xãa tr¾ng dßng) 	ID kÕt thóc	Tªn nhiÖm vô 	0: kh«ng ®ång bé, 1: ®ång bé víi client	Miªu t¶ nhiÖm vô 

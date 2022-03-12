@@ -1,0 +1,2 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+30	Ngò Hµnh Kú Th¹ch	"return {tbProp={6,1,2125,1,0,0},}"	3	100	168	9	

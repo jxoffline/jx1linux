@@ -1,0 +1,121 @@
+¹«¹²£º		
+KiÕm 	 (0,0,0) 	45000
+§¬n §ao	 (0,0,1) 	45000
+C«n	 (0,0,2) 	45000
+th­¬ng 	 (0,0,3) 	45000
+Chïy 	 (0,0,4) 	45000
+Song ®ao	 (0,0,5) 	45000
+Phi Tiªu	 (0,1,0) 	45000
+Phi §ao	 (0,1,1) 	45000
+Ná tiÔn	 (0,1,2) 	45000
+Cµ Sa ( nam) 	 (0,2,0) 	75000
+§¹o bµo (nam) 	 (0,2,1) 	75000
+NhÉn trang (nam) 	 (0,2,2) 	75000
+Sa Bµo (nam) 	 (0,2,3) 	75000
+Gi¸p kh¶i (nam) 	 (0,2,4) 	75000
+C¸i Y (nam) 	 (0,2,5) 	75000
+Khinh Bµo (nam) 	 (0,2,6) 	75000
+Cµ Sa (n÷) 	 (0,2,7) 	75000
+§¹o y (n÷) 	 (0,2,8) 	75000
+T¸ng Y (n÷) 	 (0,2,9) 	75000
+H­¬ng Sam (n÷) 	 (0,2,10) 	75000
+Kh¶i Gi¸p (n÷) 	 (0,2,11) 	75000
+C¸i Y (n÷) 	 (0,2,12) 	75000
+N÷ Phôc	 (0,2,13) 	75000
+NhÉn	 (0,3,0) 	15000
+D©y chuyÒn	 (0,4,0) 	15000
+Hé Th©n phï 	 (0,4,1) 	15000
+Hµi (nam) 	 (0,5,0) 	60000
+Giµy nam	 (0,5,1) 	60000
+Giµy n÷ 	 (0,5,2) 	60000
+Giµy (n÷) 	 (0,5,3) 	60000
+Th¾t l­ng	 (0,6,0) 	45000
+Yªu ®¸i (Kim) 	 (0,5,1) 	45000
+T¨ng M·o (nam) 	 (0,7,0) 	75000
+§¹o qu¸n (nam) 	 (0,7,1) 	75000
+Ph¸t KÕt (nam) 	 (0,7,2) 	75000
+Ph¸t qu¸n (nam) 	 (0,7,3) 	75000
+§Çu Kh«i (nam) 	 (0,7,4) 	75000
+§Çu hoµn (nam) 	 (0,7,5) 	75000
+Sa m·o (nam) 	 (0,7,6) 	75000
+T¨ng M·o (n÷) 	 (0,7,7) 	75000
+§¹o qu¸n (n÷) 	 (0,7,8) 	75000
+DiÖn Tr¸o (n÷) 	 (0,7,9) 	75000
+§Çu Hoµn (n÷) 	 (0,7,10) 	75000
+Khinh Kh«i (n÷) 	 (0,7,11) 	75000
+§Çu Xoa (n÷) 	 (0,7,12) 	75000
+Träng Kh«i (n÷) 	 (0,7,13) 	75000
+Thñ Tr¹c	 (0,8,0) 	45000
+Hé uyÓn	 (0,8,1) 	45000
+H­¬ng Nang	 (0,9,0) 	15000
+Ngäc Béi	 (0,9,1) 	15000
+Lam Thñy Tinh	 (4,238,1) 	200
+Tö Thñy Tinh	 (4,239,1) 	200
+Lôc Thñy Tinh	 (4,240,1) 	200
+"Vâ L©m MËt TÞch" 	 (6,1,26) 	50
+"TÈy Tñy Kinh" 	 (6,1,22) 	50
+"ThiÕt La H¸n" 	 (6,1,23) 	200
+"Bµn Nh­îc T©m Kinh" 	 (6,1,12) 	100
+Hoµng Kim B¶o H¹p	 (6,1,69) 	500
+C¸t t­êng hång bao	 (6,1,19) 	1000
+Mai Kh«i Hoa Vò 	 (6,0,20) 	10000
+T©m T©m T­¬ng ¸nh phï 	 (6,1,18) 	1000
+Phi Phong	 (6,1,15) 	500
+Tr­êng MÖnh hoµn	 (6,0,1) 	1000
+Gia Bµo hoµn	 (6,0,2) 	1000
+§¹i Lùc hoµn	 (6,0,3) 	1000
+Cao ThiÓm hoµn	 (6,0,4) 	1000
+Cao Trung hoµn	 (6,0,5) 	1000
+Phi Tèc hoµn	 (6,0,6) 	1000
+B¨ng Phßng hoµn	 (6,0,7) 	1000
+L«i Phßng hoµn	 (6,0,8) 	1000
+Háa Phßng hoµn	 (6,0,9) 	1000
+§éc Phßng hoµn	 (6,0,10) 	1000
+Tinh Hång B¶o Th¹ch	 (4,353,1) 	300
+
+Kim:		
+'ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1' 	 (6,1,56) 	120
+'ThiÕu L©m C«n ph¸p. QuyÓn 2' 	 (6,1,57) 	80
+'ThiÕu L©m §ao ph¸p. QuyÓn 3' 	 (6,1,58) 	40
+'Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1' 	 (6,1,37) 	120
+"Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 1" 	 (6,1,38) 	120
+"Thiªn V­¬ng §ao ph¸p. QuyÓn 1" 	 (6,1,39) 	80
+ §å phæ Hoµng Kim - §Þnh Quèc Thanh Sa Tr­êng Sam	159	40
+
+Méc:		
+'Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh' 	 (6,1,45) 	80
+'Tô TiÔn thuËt. B¹o Vò Lª Hoa' 	 (6,1,27) 	120
+'Phi Tiªu thuËt. Cöu Cung Phi Tinh' 	 (6,1,46) 	40
+'H·m TÜnh thuËt. Lo¹n Hoµn KÝch' 	 (6,1,28) 	20
+'Ngò §éc Ch­ëng Ph¸p. QuyÓn 1' 	 (6,1,47) 	120
+'Ngò §éc §ao ph¸p. QuyÓn 2' 	 (6,1,48) 	80
+'Ngò §éc NhiÕp T©m thuËt. QuyÓn 3' 	 (6,1,49) 	20
+ §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi	166	40
+ §å phæ Hoµng Kim - §Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	161	40
+
+Thñy:		
+'DiÖt KiÕm MËt TÞch' 	 (6,1,42) 	120
+'Nga Mi PhËt Quang Ch­ëng MËt TÞch' 	 (6,1,43) 	80
+'Phæ §é MËt TÞch' 	 (6,1,59) 	40
+'Thóy Yªn §ao ph¸p' 	 (6,1,40) 	80
+'Thóy Yªn Song ®ao' 	 (6,1,41) 	40
+ §å phæ Hoµng Kim - An Bang Cóc Hoa Th¹ch ChØ hoµn	165	40
+§Þnh Quèc ¤ Sa Ph¸t ®¸i	160	40
+
+Háa:		
+'C¸i Bang Ch­ëng Ph¸p' 	 (6,1,54) 	120
+"C¸i Bang Bæng ph¸p" 	 (6,1,55) 	80
+'V©n Long KÝch. M©u ph¸p' 	 (6,1,35) 	80
+'L­u Tinh. §ao ph¸p' 	 (6,1,36) 	40
+"NhiÕp Hån. Tr­íc Chó"	 (6,1,53) 	20
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	167	40
+ §å phæ Hoµng Kim - §Þnh Quèc Tö §»ng Hé uyÓn	162	20
+
+Thæ:		
+"Th¸i Cùc QuyÒn Phæ.QuyÓn 3" 	 (6,1,33) 	120
+'Th¸i Cùc KiÕm Phæ. QuyÓn 2' 	 (6,1,34) 	120
+'Ngù Phong thuËt' 	 (6,1,50) 	80
+'Ngù L«i thuËt' 	 (6,1,51) 	120
+'Ngù T©m thuËt' 	 (6,1,52) 	20
+ §å phæ Hoµng Kim - §Þnh Quèc Ng©n Tµm Yªu ®¸i	163	40
+ §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn	164	20

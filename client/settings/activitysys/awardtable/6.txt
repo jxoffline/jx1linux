@@ -1,0 +1,5 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+6	ThÇn C«ng §¹i Thµnh Bao	"return {szName=\"Éñ¹¦´ó³É°ü\",tbProp={6,1,1402,1,0,0},}"	1	10	37	
+6	N÷ Oa V¸ Trêi Bao	"return {szName=\"Å®æ´²¹Ìì°ü\",tbProp={6,1,1683,1,0,0},}"	2	20	38	
+6	°Ù±¦Îå»¨ºÐ	"return {szName=\"°Ù±¦Îå»¨ºÐ\",tbProp={6,1,1741,1,0,0},}"	3	35	39	
+6	Ä®»¯Ò×ÈÝ°ü	"return {szName=\"Ä®»¯Ò×ÈÝ°ü\",tbProp={6,1,1728,1,0,0},}"	3	35	40	

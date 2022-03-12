@@ -1,0 +1,19 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+11	LÖnh bµi vinh dù Hoµng Kim	"return {szName=\"»Æ½ğÎäÁÖÈÙÓşÁî\",tbProp={6,1,1254,1,0,0},}"	1	0.5	71	5
+11	LÖnh bµi vinh dù B¹ch Ng©n	"return {szName=\"°×ÒøÎäÁÖÈÙÓşÁî\",tbProp={6,1,1255,1,0,0},}"	1	5	72	5
+11	LÖnh bµi vinh dù Thanh ®ång	"return {szName=\"ÇàÍ­ÎäÁÖÈÙÓşÁî\",tbProp={6,1,1256,1,0,0},}"	1	2.5	73	5
+11	LÖnh bµi vinh dù	"return {szName=\"ĞşÄ¾ÎäÁÖÈÙÓşÁî\",tbProp={6,1,1294,1,0,0},}"	1	5	74	5
+11	LÖnh bµi vinh dù Hµn thiÕt	"return {szName=\"ºÚÌúÎäÁÖÈÙÓşÁî\",tbProp={6,1,1257,1,0,0},}"	1	6	75	5
+11	HuyÒn tinh kho¸ng th¹ch cÊp 9	"return {szName=\"Ğş¾§¿óÊ¯[9¼¶]\",tbProp={6,1,147,9,0,0},}"	1	0.1	76	5
+11	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {szName=\"Ğş¾§¿óÊ¯[8¼¶]\",tbProp={6,1,147,8,0,0},}"	1	0.3	77	5
+11	HuyÒn tinh kho¸ng th¹ch cÊp 7	"return {szName=\"Ğş¾§¿óÊ¯[7¼¶]\",tbProp={6,1,147,7,0,0},}"	1	15	78	5
+11	HuyÒn tinh kho¸ng th¹ch cÊp 6	"return {szName=\"Ğş¾§¿óÊ¯[6¼¶]\",tbProp={6,1,147,6,0,0},}"	1	15	79	5
+11	HuyÒn tinh kho¸ng th¹ch cÊp 5	"return {szName=\"Ğş¾§¿óÊ¯[5¼¶]\",tbProp={6,1,147,5,0,0},}"	1	20	80	5
+11	HuyÒn thiÕt b¶o r­¬ng	"return {szName=\"ĞşÌú±¦Ïä\",tbProp={6,1,1831,1,0,0},}"	1	25.04	81	5
+11	Kim Tª	"return {szName=\"½ğÏ¬\",tbProp={4,979,1,1,0,0},}"	1	0.5	82	5
+11	LÖnh Bµi Tr­êng Ca M«n	"return {szName=\"³¤¸èÃÅÁîÅÆ\",tbProp={4,996,1,1,0,0},}"	1	0.5	83	5
+11	ThÊt Th¸i To¸i Ngäc	"return {szName=\"Æß²ÊËéîÚ\",tbProp={6,1,1919,1,0,0},}"	1	2	84	5
+11	Long V¨n Ngäc Bİch	"return {szName=\"ÁúÎÆÓñèµ\",tbProp={6,1,1825,1,0,0},}"	1	0.05	85	5
+11	Tinh Hång B¶o Th¹ch	"return {szName=\"ĞÉºì±¦Ê¯\",tbProp={4,353,1,1,0,0},}"	1	2	86	5
+11	M¶nh Bæ Thiªn Th¹ch (trung)	"return {szName=\"²¹ÌìÊ¯ËéÆ¬£¨ÖĞ£©\",tbProp={6,1,1309,1,0,0},}"	1	0.5	87	5
+11	M¶nh Bæ Thiªn Th¹ch (®¹i)	"return {szName=\"²¹ÌìÊ¯ËéÆ¬£¨´ó£©\",tbProp={6,1,1310,1,0,0},}"	1	0.01	88	5

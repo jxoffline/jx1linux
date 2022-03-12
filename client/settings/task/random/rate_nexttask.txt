@@ -1,0 +1,39 @@
+TaskName	Rate
+Tªn nhiÖm vô TÇng 2	Chän cÊp ®é thêi gian
+NgÉu nhiªn_MËt §å_Thu thËp D­îc hoµn 	5000
+NgÉu nhiªn_MËt §å_Thu thËp S¸t Thñ Gi¶n	5000
+NgÉu nhiªn_MËt §å_Thu thËp Kho¸ng Th¹ch	5000
+NgÉu nhiªn_MËt §å_Thu thËp Hoa hång	5000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (§­êng M«n) 	1000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Ngò §éc) 	1000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng (Nga Mi) 	1000
+NgÉu nhiªn_MËt §å_Thu thËpThóy Yªn MËt tŞch kü n¨ng	1000
+NgÉu nhiªn_MËt §å_Thu thËpC¸i Bang MËt tŞch kü n¨ng	1000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn NhÉn	1000
+NgÉu nhiªn_MËt §å_Thu thËpVâ §ang MËt tŞch kü n¨ng	1000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng C«n L«n	1000
+NgÉu nhiªn_MËt §å_Thu thËp ThiÕu L©m MËt tŞch kü n¨ng	1000
+NgÉu nhiªn_MËt §å_Thu thËp MËt tŞch kü n¨ng Thiªn V­¬ng	1000
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Thiªn Hoµng 	2000
+NgÉu nhiªn_MËt §å_Thu thËp mét bé Kim Phong	2000
+NgÉu nhiªn_MËt §å_Thu thËp Tµng B¶o §å To¸i PhiÕn 	2000
+NgÉu nhiªn_MËt §å_Thu thËp HuyÒn ThiÕt KiÕm	10000
+NgÉu nhiªn_MËt §å_Thu thËp §¹i Phong §ao	10000
+NgÉu nhiªn_MËt §å_Thu thËp Kim C« Bæng	10000
+NgÉu nhiªn_MËt §å_Thu thËp Ph¸ Thiªn Kİch	10000
+NgÉu nhiªn_MËt §å_Thu thËp Ph¸ Thiªn Chïy	10000
+NgÉu nhiªn_MËt §å_Thu thËp B¸ V­¬ng Tiªu	10000
+NgÉu nhiªn_MËt §å_Thu thËp Tóy NguyÖt §ao	10000
+NgÉu nhiªn_MËt §å_Thu thËp Khæng T­íc Linh	10000
+NgÉu nhiªn_MËt §å_Thu thËp NhÉn	5000
+NgÉu nhiªn_MËt §å_Thu thËp D©y chuyÒn	5000
+NgÉu nhiªn_MËt §å_Thu thËpHé Th©n phï 	5000
+NgÉu nhiªn_MËt §å_Thu thËp H­¬ng Nang	5000
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Béi	5000
+NgÉu nhiªn_MËt §å_Thu thËp Ngäc Tr¹c 	10000
+NgÉu nhiªn_MËt §å_Thu thËp Hé uyÓn	10000
+NgÉu nhiªn_MËt §å_Thu thËp Th«ng Thiªn Ph¸t Qu¸n	10000
+NgÉu nhiªn_MËt §å_Thu thËp YÓm NhËt Kh«i	10000
+NgÉu nhiªn_MËt §å_Thu thËp B¹ch Kim yªu ®¸i	10000
+NgÉu nhiªn_MËt §å_Thu thËpThiªn Tµm Ngoa	10000
+NgÉu nhiªn_MËt §å_Thu thËp Phi Phông Ngoa	10000

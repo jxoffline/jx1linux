@@ -1,0 +1,24 @@
+[MapInfo]
+; sè l­îng khu vùc trªn b¶n ®å
+Area_Count=3
+
+
+[Area_1]
+
+; M¹c Cao QuËt
+damahupos=\\settings\\maps\\Î÷±±±±Çø\\Äª¸ß¿ß\\tangburanboss.txt
+damahumap=340
+
+
+[Area_2]
+
+; Tr­êng B¹ch s¬n  Nam
+damahupos=\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjiziboss.txt
+damahumap=321
+
+
+[Area_3]
+
+  ; Tr­êng B¹ch s¬n  B¾c 
+damahupos=\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjuedashiboss.txt
+damahumap=322

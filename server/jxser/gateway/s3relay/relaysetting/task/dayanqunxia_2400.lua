@@ -1,0 +1,30 @@
+Include("\\script\\event\\2011dayanqunxia\\event.lua")
+
+local nStartDate = 20110123000
+local nEndDate = 201102210000
+
+function TaskShedule()
+	
+	TaskName("ßπi Y’n Qu«n Hi÷p 24h x’p hπng Tˆu L≠Óng")
+
+	-- “ªÃÏ“ª¥Œ£¨µ•Œª∑÷÷”
+	TaskInterval(1440)
+	-- …Ë÷√¥•∑¢ ±º‰
+	TaskTime(0, 0)
+	OutputMsg("Trong thÍi gian di‘n ra hoπt ÆÈng ßπi Y’n Qu«n Hi÷p, sœ c®n c¯ vµo Tˆu L≠Óng cÒa ng≠Íi ch¨i vµo lÛc 24h mÁi ngµy ti’n hµnh x’p hπng")
+	-- ÷¥––Œﬁœﬁ¥Œ
+	TaskCountLimit(0)
+end
+
+function TaskContent()
+	local nCurDate = tonumber(tbQunXia:GetLocalDate("%Y%m%d%H%M"))
+	if nCurDate < %nStartDate or nCurDate > %nEndDate then
+		return
+	end
+	tbQunXia:PaiMing()
+end
+
+function GameSvrConnected(dwGameSvrIP)
+end
+function GameSvrReady(dwGameSvrIP)
+end

@@ -1,0 +1,34 @@
+TaskName	TaskType	Genre	Detail	Particular	Level	GoodsFive	Quality	GoodsNum	DelGoods	RecordSeed	Money	KillNpcName	DropRate	TalkNpcName	TalkNpcMap	TaskText
+Tªn nhiÖm vô 	Lo¹i h×nh nhiÖm vô 	Tæng lo¹i	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	M· sè Hoµng Kim	Sè l­îng	cã thÓ xãa  	Log ghi l¹i H¹t ngÉu nhiªn	Gi¸ 	M· sè thèng kª sè l­îng qu¸i bÞ giÕt	Tû lÖ r¬i	Tªn nh©n vËt §èi tho¹i	Khu vùc nh©n vËt §èi tho¹i	Miªu t¶ nhiÖm vô 
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	s¸t qu¸i											400				M¹c Cao TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_Phi Sa	s¸t qu¸i											401				M¹c Cao Phi Sa
+NgÉu nhiªn_S¸t qu¸i_M¹c TÆc	s¸t qu¸i											402				M¹c Cao M¹c TÆc 
+NgÉu nhiªn_S¸t qu¸i_Sa §¹o	s¸t qu¸i											403				M¹c Cao Sa §¹o 
+NgÉu nhiªn_S¸t qu¸i_§ao Tr¶m (Tr­êng B¹ch b¾c) 	s¸t qu¸i											404				Tr­êng B¹ch B¾c §ao Tr¶m 
+NgÉu nhiªn_S¸t qu¸i_ L¹c Quang (Tr­êng B¹ch b¾c) 	s¸t qu¸i											405				Tr­êng B¹ch B¾c L¹c Quang
+NgÉu nhiªn_S¸t qu¸i_ Hµn Th­¬ng (Tr­êng B¹ch b¾c) 	s¸t qu¸i											406				Tr­êng B¹ch B¾c Hµn Th­¬ng
+NgÉu nhiªn_S¸t qu¸i_§o¹t Ph¸ch (Tr­êng B¹ch b¾c) 	s¸t qu¸i											407				Tr­êng B¹ch B¾c §o¹t Hån 
+NgÉu nhiªn_S¸t qu¸i_ S¶n Vò 	s¸t qu¸i											408				Tr­êng B¹ch nam S¶n Vò 
+NgÉu nhiªn_S¸t qu¸i_ Gi¸ng Chïy 	s¸t qu¸i											409				Tr­êng B¹ch nam Gi¸ng Chïy
+NgÉu nhiªn_S¸t qu¸i_ L·nh §ao 	s¸t qu¸i											410				Tr­êng B¹ch nam L·nh §ao
+NgÉu nhiªn_S¸t qu¸i_ S­¬ng §ao 	s¸t qu¸i											411				Tr­êng B¹ch nam S­¬ng §ao
+NgÉu nhiªn_S¸t qu¸i_ tÇng 3 Sa M¹c_ TËt Vò 	s¸t qu¸i											412				Sa M¹c 3 TËt Vò 
+NgÉu nhiªn_S¸t qu¸i_ tÇng 3 Sa M¹c_ TËt Viªm	s¸t qu¸i											413				Sa M¹c 3 TËt Viªm
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt Vò 	s¸t qu¸i											414				Sa M¹c 3 TËt Vò 
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt Phong	s¸t qu¸i											415				Sa M¹c 3 TËt Phong 
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt §iÖn	s¸t qu¸i											416				Sa M¹c 3 TËt §iÖn
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u V©n	s¸t qu¸i											417				Sa M¹c 2 L­u V©n 
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u Quang	s¸t qu¸i											418				Sa M¹c 2 L­u Quang 
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u Phong	s¸t qu¸i											419				Sa M¹c 2 L­u Phong 
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ KÕ Chñy	s¸t qu¸i											420				D­îc V­¬ng 4 KÕ Chñy 
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ Xuyªn s¬n 	s¸t qu¸i											421				D­îc V­¬ng 4 Xuyªn s¬n  
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ §ao Kh¸ch	s¸t qu¸i											422				D­îc V­¬ng 4 §ao Kh¸ch 
+NgÉu nhiªn_S¸t qu¸i_H¾c C©n (Kho¶ Lang ®éng) 	s¸t qu¸i											423				Kho¶ Lang ®éng H¾c C©n 
+NgÉu nhiªn_S¸t qu¸i_ Lang Bæng (Kho¶ Lang ®éng) 	s¸t qu¸i											424				Kho¶ Lang ®éng Lang Bæng 
+NgÉu nhiªn_S¸t qu¸i_¶nh C«n (Kho¶ Lang ®éng) 	s¸t qu¸i											425				Kho¶ Lang ®éng ¶nh C«n 
+NgÉu nhiªn_S¸t qu¸i_§ao Kh¸ch (TiÕn Cóc ®éng) 	s¸t qu¸i											426				TiÕn Cóc ®éng §ao Kh¸ch  
+NgÉu nhiªn_S¸t qu¸i_§o¹t MÖnh Liªm (TiÕn Cóc ®éng) 	s¸t qu¸i											427				TiÕn Cóc ®éng §o¹t MÖnh Liªm 
+NgÉu nhiªn_S¸t qu¸i_ B¸o §èm (TiÕn Cóc ®éng) 	s¸t qu¸i											428				TiÕn Cóc ®éng B¸o ®èm 
+NgÉu nhiªn_S¸t qu¸i_Voi (C¸n Viªn ®éng) 	s¸t qu¸i											429				C¸n Viªn ®éng - Voi 
+NgÉu nhiªn_S¸t qu¸i_Voi Hoµng Hµ (C¸n Viªn ®éng) 	s¸t qu¸i											430				C¸n Viªn ®éng Voi Hoµng hµ 
+NgÉu nhiªn_S¸t qu¸i_Nh·n KÝnh Xµ (C¸n Viªn ®éng) 	s¸t qu¸i											431				C¸n Viªn ®éng Nh·n KÝnh xµ 

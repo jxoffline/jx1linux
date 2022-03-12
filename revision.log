@@ -1,0 +1,35 @@
+------------------
+Eurofun JXLinux 
+------------------
+Fb: https://fb.com/groups/volamquan
+Team: Eurofun
+
+8.1.8
+---------
+- Thêm chức năng xoá core dump
+- Rương phần thưởng không thể tắt
+- Map tiếng Hoa -> map tiếng Việt
+- Ngoại hình trang bị, vũ khí Vũ Hồn và các loại ngựa cao cấp bi mất hiển thị
+- Trang trí các thành thị bằng cây đào, đèn, các đoàn NPC múa lân và tự đốt pháo.
+- Nhận hộp quà năm mới ở Chân núi Trường Bạch (đi từ NPC Thần Bí Thương Nhân, Tương Dương)
+- Farm quái ở các map Trường Bạch Sơn Bắc/Nam, Mạc Cao Quật và Sa Mạc 3 để nhận bao lì xì, mở lấy pháo và ép pháo tại các NPC Đại Thần Tài ở trung tâm thành thị.
+- Add và mở map Hoa Sơn phái
+- Add, chỉnh sửa NPC id và phần thưởng nhiệm vụ phái
+- Chỉnh sửa skills và hiển thị skills
+- Chỉnh sửa lại quest nhiệm vụ 9x Hoa Sơn, nhận được luôn chiêu 120 và 2 đại thành bí kíp 90 + 120
+- Add các NPC sử dụng skill 9x, cưỡi ngựa Chiếu Dạ ở cổng Biện Kinh
+- Hướng dẫn sử dụng trick Ma Vân Kiếm Khí với Hoa Sơn kiếm
+- Hoàn thiện script và giao diện hướng dẫn cho chuỗi nhiệm vụ 150 của 11 phái
+- Thêm tính năng khởi động nhiệm vụ 150 Nguyệt Ca Đảo bất kì lúc nào từ thuyền phu Dương Châu
+- Quái ở Nguyệt Ca Đảo chết sẽ rớt Hộ Mạch Đơn
+- Nhiệm vụ 150 có phần thưởng Cẩm hộp, cho phép lựa chọn 1 trong 3: Đại thành bí kíp 150, 10 000 Chân Nguyên hoặc 400 Tinh Ngọc
+- Cập nhật chuỗi nhiệm vụ Kiếm Gia hỗ trợ chơi ofline
+- Bổ sung NPC nhận đồ xanh
+- Sửa các lỗi liên quan đến chuối nhiệm vụ Tín sứ
+- Thêm nhiều vật phẩm vào Kỳ Trân Các
+- Chỉnh sửa, cập nhật nhiều lỗi nhỏ khác
+
+8.1.9
+---------
+- Bổ sung 4 loại ngựa mới (1 Thiết mã và 3 cáo ba đuôi)
+

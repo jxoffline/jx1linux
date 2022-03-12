@@ -1,0 +1,2 @@
+Id	EventId	Name	StartDate	EndDate	Message	Param1	Param2	Param3	Param4	Param5	Param6	Param7	Param8	Param9	Param10	Param11	Param12	Param13	Param14	Param15	Param16	Param17	Param18	Param19	Param20
+1	1	Test				lib:CheckItemInBag("return {szName = \"浓情巧克力\",tbProp = {6,1,445,1,0,0},}",1,"材料不足")										lib:ConsumeEquiproomItem("return {szName = \"浓情巧克力\",tbProp = {6,1,445,1,0,0},}",1)									

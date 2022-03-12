@@ -1,0 +1,1 @@
+Include( "\\script\\tong\\map\\entrance_trap.lua" )

@@ -1,0 +1,23 @@
+1	½£ÏÀ±Ò
+2	Phóc Duyªn
+3	TiÒn ®ång
+4	Tİch lòy
+5	TiÒn vµng
+6	Ng©n Nguyªn b¶o
+7	Ng©n phiÕu
+8	Nguyªn B¶o
+9	ĞÂ½ğ±Ò£¬ÒÔÇø·ÖÓëÌ¨ÍåµÄ»õ±Ò
+10	 ®iÓm cèng hiÕn
+11	ÁªÈüÈÙÓşµãÊı
+12	Tİch Lòy Xu
+13	Uy danh
+14	Tinh LuyÖn Th¹ch
+15	Tinh lùc
+16	Huy Ch­¬ng C¶nh Kü Tr­êng
+17	Long LÖnh Kú
+18	L©n LÖnh Kú
+19	Quy LÖnh Kú
+20	Phông LÖnh Kú
+21	ÎåĞĞÊ¯
+22	Hµnh HiÖp LÖnh
+23	¹¦Ñ«Öµ,(·ûÀë³åÍ»Õ½)

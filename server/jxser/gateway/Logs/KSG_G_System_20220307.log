@@ -1,0 +1,11 @@
+2022-03-07 23:06:55	Deliver statdata: 0 bytes
+2022-03-07 23:11:27	Node[1] connect: Ip(127.0.0.1 : 43659), Identity(1)
+2022-03-07 23:11:27	ClientConnectCreate:[1]127.0.0.1 : 43659
+2022-03-07 23:13:01	GetRoleInfo(HÈiQu∏nV‚L©m) OK: Enter Node[0](127.0.0.1 : 40346)
+2022-03-07 23:13:01	GetRoleData(HÈiQu∏nV‚L©m) OK: datalen(3720)
+2022-03-07 23:13:01	EnterGame(HÈiQu∏nV‚L©m) OK: Move from Node[0] to Node[1]
+2022-03-07 23:14:01	QuitSave[HÈiQu∏nV‚L©m] OK: Leave Node[1]
+2022-03-07 23:14:01	SaveRoleData(HÈiQu∏nV‚L©m) OK: datalen(3720)
+2022-03-07 23:14:37	Node[1] disconnect: Ip(127.0.0.1 : 43659), Identity(1)
+2022-03-07 23:14:37	ClientConnectClose:[1]
+

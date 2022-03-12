@@ -1,0 +1,100 @@
+---- ÎÄ¼þÃû¡¡£ºsuxiaobaijuwan_150.lua
+---- ´´½¨Õß¡¡£ºwangjingjun
+---- ÄÚÈÝ¡¡¡¡£º150¼¶¼¼ÄÜµÄËÙÐ§°×¾ÔÍè
+---- ´´½¨Ê±¼ä£º2011-07-28 10:57:36
+--
+--
+--Include("\\script\\global\\baijuwanhead.lua")
+--Include("\\script\\dailogsys\\dailogsay.lua")
+Include("\\script\\vng_event\\tochieukynang150\\head.lua")
+--
+--
+--tbFastSpeedSkill_Banjuwan_150 = {}
+--
+--tbFastSpeedSkill_Banjuwan_150.nTargetExp = 1540
+--
+--function tbFastSpeedSkill_Banjuwan_150:AddSkillStatckExp(nSkillId, nExp)
+--	local nTotleExp = nExp
+--	local nNextExp = GetSkillNextExp(nSkillId) - GetSkillExp(nSkillId)
+--	local nNeedAddExp = 0
+--	local szSkillName = GetSkillName(nSkillId)
+--	while nExp > nNextExp do
+--		if GetCurrentMagicLevel(nSkillId, 0) >= GetSkillMaxLevel(nSkillId) then
+--			Msg2Player(format("Sö dông B¹ch C©u Hoµn §Æc BiÖt thµnh c«ng, <color=yellow> %s <color> ®é tu luyÖn n©ng cao <color=yellow> %d <color>", szSkillName, nTotleExp))
+--			return
+--		end
+--		nNeedAddExp = nNextExp
+--		nExp = nExp - nNeedAddExp
+--		AddSkillExp(nSkillId, nNeedAddExp, 1)		
+--		nNextExp = GetSkillNextExp(nSkillId)
+--	end
+--	AddSkillExp(nSkillId, nExp, 1)
+--	Msg2Player(format("Sö dông B¹ch C©u Hoµn §Æc BiÖt thµnh c«ng, <color=yellow> %s <color> ®é tu luyÖn n©ng cao <color=yellow> %d <color>", szSkillName, nTotleExp))
+--end
+--
+--function tbFastSpeedSkill_Banjuwan_150:CheckSkill(nSkillId)
+--	local nCurSkillLevel = GetCurrentMagicLevel(nSkillId, 0);
+--	local nSkillExp = GetSkillExp(nSkillId)
+--	
+--	if HaveMagic(nSkillId) == -1 then
+--		return 0
+--	end
+----	print("Ñ§Ï°ÁËµ±Ç°µÄ¼¼ÄÜ, nSkillId = " .. nSkillId)
+----	print(nSkillExp .. "\t" .. nCurSkillLevel)
+--	if nSkillExp ~= -1 and nCurSkillLevel >= 1 and nCurSkillLevel < GetSkillMaxLevel(nSkillId) then
+--		return 1
+--	end
+--end
+--
+--function tbFastSpeedSkill_Banjuwan_150:AddSkillToList(tbDec, tbSrc)
+--	for i = 1, getn(tbSrc) do
+--		local nSkillId = tbSrc[i]
+--		if self:CheckSkill(nSkillId) == 1 then
+--			tinsert(tbDec , nSkillId)
+--		end
+--	end
+--end
+--
+--function tbFastSpeedSkill_Banjuwan_150:GetCanUpdateSkill()
+--	local tbSkill = {};
+--	
+--	self:AddSkillToList(tbSkill, ARY_UPGRADE_SKILL_150)
+--	return tbSkill;
+--end
+--
+--function tbFastSpeedSkill_Banjuwan_150:ShowMenu(nItemIndex)
+--	local tbSkill = self:GetCanUpdateSkill()
+--	
+--	local szTitle = "Xin h·y lùa chän kü n¨ng mµ ng­¬i muèn t¨ng:"
+--	
+--	tbOpt = {}
+--	for i=1, getn(tbSkill) do
+--		local nSkillId = tbSkill[i]
+--		local szSkillName = GetSkillName(nSkillId)
+--		tinsert(tbOpt, 	{szSkillName, self.UseItem, {self, nItemIndex, nSkillId}}	)
+--	end
+--	tinsert(tbOpt , {"Hñy bá "})
+--	CreateNewSayEx(szTitle, tbOpt)
+--end
+--
+--function tbFastSpeedSkill_Banjuwan_150:UseItem(nItemIndex, nSkillId)
+--	if not self:CheckSkill(nSkillId) then
+--		return
+--	end
+--	if IsMyItem(nItemIndex) == 1 then
+--	
+--		self:AddSkillStatckExp(nSkillId, self.nTargetExp)
+--		RemoveItemByIndex(nItemIndex)
+--	end
+--end
+--
+function main(nItemIndex)
+--	tbFastSpeedSkill_Banjuwan_150:ShowMenu(nItemIndex)
+--	return 1
+	tbTrainSkill150:ResetDailyTask()
+	if tbVNG_BitTask_Lib:CheckBitTaskValue(tbTrainSkill150.tbBIT_BCH_USE, 50, "Mçi nh©n vËt chØ ®­îc sö dông tèi ®a 50 lÇn", "~=") ~= 1 then
+		return 1
+	end
+	tbVNG_BitTask_Lib:addTask(tbTrainSkill150.tbBIT_BCH_USE, 1);
+	Msg2Player("Chóc mõng §¹i HiÖp nhËn thµnh c«ng 1 lÇn ®æi ®iÓm tu luyÖn kÜ n¨ng 150.");
+end

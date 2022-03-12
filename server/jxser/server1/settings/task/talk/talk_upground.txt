@@ -1,0 +1,21 @@
+TextID	When	Where	Who	Why1	Why2	What
+8001	ngµy x­a rÊt l©u	n	cã vÞ ®¹i hiÖp ®· tõng nãi	muèn trë thµnh Cao thñ vâ l©m tuyÖt ®Ønh	n	kh«ng cã ph©n l­îng nhÊt ®Þnh
+8002	ta nhí m­êi mÊy n¨m tr­íc	n	cã vÞ Vâ l©m chÝ t«n tõng nãi	muèn trë thµnh hiÖp sÜ ®­îc mu«n ng­êi ng­ìng mé 	n	kh«ng ®¹t ®­îc sè l­îng nhÊt ®Þnh
+8003	n	n	cã vÞ cao thñ danh chÊn giang hå tõng nãi	muèn x­ng b¸ vâ l©m 	n	n
+8004	n	n	cã vÞ qu¸i nh©n tõng nãi	muèn ®¹t ®­îc danh hiÖu lµ ng­êi ®Ö nhÊt giang hå 	n	n
+8005	n	n	n	muèn hoµn thµnh ®¹i nghiÖp thu phôc Hoµng TriÒu C­¬ng Thæ 	n	n
+8006	n	n	n	n	n	n
+8007	n	n	n	n	n	n
+8008	n	n	n	n	n	n
+8009	n	n	n	n	n	n
+8010	n	n	n	n	n	n
+8011	n	n	n	n	n	n
+8012	n	n	n	n	n	n
+8013	n	n	n	n	n	n
+8014	n	n	n	n	n	n
+8015	n	n	n	n	n	n
+8016	n	n	n	n	n	n
+8017	n	n	n	n	n	n
+8018	n	n	n	n	n	n
+8019	n	n	n	n	n	n
+8020	n	n	n	n	n	n

@@ -1,0 +1,385 @@
+key	value
+K_WORLD	世界
+K_CITY	城市
+K_TEAM	队伍
+K_NEARBY	附近
+
+K_FN_SHAOLIN	少林派
+K_FN_TIANWANG	天王帮
+K_FN_TANGMEN	唐门
+K_FN_WUDU	五毒教
+K_FN_EMEI	峨嵋派
+K_FN_CUIYAN	翠烟门
+K_FN_GAIBANG	丐帮
+K_FN_TIANREN	天忍教
+K_FN_WUDAN	武当派
+K_FN_KUNLUN	昆仑派
+
+K_INFO_BULLETIN	公告
+K_INFO_SYSTEM	系统
+
+K_PR_FRIEND	
+K_PR_BROTHER	亲人\n
+K_PR_MATE	配偶\n
+K_PR_ENEMY	仇人\n
+
+U_RELAY	Relay
+U_ERROR_ON_SHUTDOWN	Relay关闭时出错。
+U_LOAD_AUCTION_FILE_FAIL	读取拍卖模块配置文件失败！
+U_INIT_AUCTION_DATA_FAIL	初始化追杀数据失败
+U_FAIL_TO_OPEN_AUCTION_DB	打开拍卖数据库失败
+U_FAIL_TO_OPEN_KILLER_DB	打开追杀任务数据库失败
+U_ERR_IN_KILLDATA_FORMATTODATA	程序存在隐患,报告程序员, in KKillerData::FormatToData
+U_RELAY_ALREADY_RUN	已有S3Relay尚在运行中。
+U_RELAYGUARD_ALREADY_RUN	检测到有RelayGuard正在运行，同时启动Relay是危险的！\n所以偶不想让Relay现在就运行！
+
+G_AUCTIONSUCCESS	%s以%d的最高价买走物品, 拍卖结束
+G_AUCTIONSUCCESSTOWINNER	恭喜成功竞买该物品
+G_AUCTIONSUCCESSTOOWNER	%s以%d的最高价买走物品, 请在指定时间内领钱
+G_AUCTIONSUCCESSTAKEMOENYFAIL	您没有及时领钱, 系统丢弃
+G_AUCTIONSUCCESSTAKEITEMFAIL	您没有及时领取物品, 系统丢弃
+G_AUCTIONCHEATER	%s在拍卖过程通过转移物品作弊, 是个骗子
+G_AUCTIONFAILCONTINUE	您的物品这次拍卖失败, 已经入下一轮拍卖, %d小时%d分钟%d秒后开始
+G_AUCTIONFAIL	您的物品拍卖失败, 请领取物品
+G_AUCTIONJOINFAIL	该物品竞买人已达上限, 您加入失败
+G_AUCTIONJOINFAILNOMONEY	目前物品最高价为 %d, 您身上的钱不够, 无法加入竞买
+G_AUCTIONJOINSUCCESS	你加入的竞买
+G_AUCTIONJOINSUCCESSTOALL	%s加入该物品竞买队列
+
+G_AUCTIONBIDDERHIGHEST	目前出价最高者是%s, 出价为%d两银子
+G_AUCATIONQUITFAIL	您是出价最高, 不能推出拍卖
+G_AUCATIONQUITSUCCESS	%s退出了拍卖
+G_AUCTIONSUCESSGETMONEY	您领取拍卖物品的钱, 税后是%d两银子
+G_AUCTIONFAILGETITEM	您领取了拍卖失败的物品
+
+G_AUCTIONSUBMITSUCCESS	您成功提交了一件拍卖物品, 底价为%d, 加价单位为%d
+
+G_TASKCOUNTLIMIT	系统任务已满, 创建追杀%s任务失败
+G_CREATETASKCOUNTLIMIT	创建任务数额已满, 创建追杀%s任务失败
+G_TAKETASKLINIT	每个人最多领取%d个任务, 你已经到了最大值
+G_TASKFAILURE	追杀%s的任务已经结束,没有人完成
+G_TASKSUCCESS	追杀%s的任务已经被%s完成
+G_TAKEREWARD	请在%d小时%d分钟%d秒内领取杀死%s任务的赏金,数额%d
+G_TAKEBACKREWARD	请在%d小时%d分钟%d秒内领取未完成通辑%s任务的赏金,数额%d
+G_TAKETASKSUCCESS	你成功领取了追杀%s的任务
+G_TAKERLIMIT	这个任务的领取者已经达到最大值%d人, 领取失败
+G_TASKNOTEXIST	任务已经不存在
+G_TAKEMONEY	您领取了杀死%s的赏金%d
+G_TAKEBACKMONEY	您领回了悬赏杀死%s的酬金%d
+G_TAKETASKDUP	你已经领取过这个任务, 不能再领取
+G_CREATETASKSUCCESS	你成功创建追杀%s的任务, 酬金为%d两银子
+G_TASKCANCEL	杀死%s的任务被取消
+G_TASKCANNTCANCEL	追杀%s的任务已过取消时间
+G_TASKCANCELGETMONEY	杀死%s的任务已经被被取消, 退回%d两银子
+G_TAKEOWNTASK	不能接受自己创建任务
+G_TAKEKILLSELF	不能接受追杀自己任务
+G_TASKNOTACTIVE	任务已经不在激活状态, 请涮洗任务
+G_TASKBEDELETED	未在规定时间内对话NPC,追杀%s的任务已经系统清除
+G_CREATETASKFAIL	创建任务失败, 返回你的系统佣金和酬金%d两
+G_TASKBETAKED	%s领取了您创建的追杀%s的任务
+
+G_TONG_PASS_TEST	恭喜%s已经通过考验期！
+G_TONG_INFO_TO_PASS_TEST	%s进入考验期，请尽快扩大规模！
+G_TONG_NOT_PASS_TEST	%s未通过考验期，被解散！
+G_TONG_MASTER	帮主
+G_TONG_DIRECTOR	长老
+G_TONG_MANAGER	队长
+G_TONG_CHANGE_CAMP	帮主改变了本帮的阵营！
+G_TONG_STORE_MONEY	%s向帮会基金贡献金钱%d！
+G_TONG_GET_MONEY	%s从帮会基金取走金钱%d！
+G_TONG_UP_LEVEL	本帮等级升至 %d 级！
+G_TONG_DOWN_LEVEL	本帮等级降至 %d 级！
+G_TONG_CHANGE_LEVEL	本帮等级变为 %d 级！
+G_TONG_CREATE_UNION	本帮帮主建立了一个帮会联盟 %s！
+G_TONG_DISPATCH_MONEY	帮主给所有帮众发钱了！
+G_TONG_DISPATCH_MONEY_OL	帮主给在线帮众发钱了！
+G_TONG_DISPATCH_MONEY_VALUE	长老每人%d，队长每人%d，帮众每人%d！
+G_TONG_AUTHORIZE_JOIN	%s 批准 %s 加入本帮！
+G_TONG_APPOINT	%s被任命为%s！
+G_TONG_APPOINT_MASTER	%s被任命为帮主！
+G_TONG_APPOINT_DIRECTOR	%s被任命为长老！
+G_TONG_APPOINT_MANAGER	%s被任命为队长！
+G_TONG_APPOINT_MEMBER	%s被任命为普通帮众！
+G_TONG_KICK_MEMBER	%s 把 %s 踢出帮会！
+G_TONG_LEAVE	%s叛离本帮！
+G_TONG_CHANGE_MASTER	%s把帮主之位传给了%s！
+G_TONG_LEAVE_MSG	%s 离开本帮，绝尘而去！
+G_TONG_JOIN_SELFUNION	帮会 %s 加入本帮所在联盟 %s！
+G_TONG_JOIN_SELFUNION_MASTER	帮会 %s 加入本帮所在联盟 %s，本帮花费%d万帮会资金！
+G_TONG_JOIN_UNION	本帮花费%d万帮会资金，加入帮会联盟 %s！
+G_TONG_JOIN_UNION_LOG	帮会 %s 加入由帮会 %s 创建的帮会联盟 %s ！双方各扣除%d万帮会资金。
+G_TONG_DISMISS_UNION	盟主解散了帮会联盟！
+G_TONG_KICK_UNION	盟主把本帮踢出联盟！
+G_TONG_LEAVE_UNION	本帮离开帮会联盟！
+G_TONG_KICK_UNION_ELSE	盟主把帮会 %s 踢出联盟！
+G_TONG_LEAVE_UNION_ELSE	帮会 %s 离开本帮所在联盟！
+G_TONG_ACCEPTMASTER	帮会 %s 帮主%s传位给%s！\n
+G_TONG_MALE_TITLE_CHANGE	%s将男帮众称号修改为%s！
+G_TONG_FEMALE_TITLE_CHANGE	%s将女帮众称号修改为%s！
+G_TONG_MEMBER_TITLE_CHANGE	%s的称号被修改为%s！
+	
+G_RR_ROLE_DEL	角色 %d 被删除了。
+
+G_CITYWAR_NOTIFY_SIGNUP	%s 城区擂台赛已经开始报名，欢迎所有等级达到 %d 的帮会前来报名参赛！！
+G_CITYWAR_NOTIFY_SIGNUP_OK	您的帮会已经成功参赛，请等候擂台开赛！！
+G_CITYWAR_NOTIFY_SIGNUP_TOALL	%s 帮会已经报名参加 %s 城区的擂台争霸赛！！
+G_CITYWAR_NOTIFY_SIGNUP_LOG	%s 帮会已经报名参加 %s 城区的擂台争霸赛，竞标金额为 %u ！！
+G_CITYWAR_NOTIFY_NO_SIGNUP	%s 城区的擂台争霸赛无人报名，本周太守万事无忧。
+G_CITYWAR_NOTIFY_SINGLE_SIGNUP	%s 城区的擂台争霸赛只有 %s 一个帮会报名，直接获取挑战资格！！
+G_CITYWAR_NOTIFY_SIGNUP_COMPLETE	%s 城区的擂台赛报名完毕，共有 %d 个帮会参战，赛程也已确定，届时请各帮会及时参战。
+G_CITYWAR_NOTIFY_ARENA_START	%s 城区的擂台赛已经开始，请第一轮参赛各方即刻入场，逾时不候！！
+G_CITYWAR_NOTIFY_ARENA_RESULT	帮会 %s 在擂台争霸赛中击败了帮会 %s，成功进入下一轮角逐！！
+G_CITYWAR_NOTIFY_ARENA_RESULT2	帮会 %s 在擂台赛决赛中击败了帮会 %s，成为 %s 城区的挑战者！！
+G_CITYWAR_NOTIFY_WAR_STARTED	%s 城区大战已经正式开始，帮会 %s 和 %s 马上开始了激烈搏斗！！
+G_CITYWAR_NOTIFY_WAR_RESULT	%s 城区大战胜负已决，帮会 %s 成为新的城主！！太守：%s
+G_CITYWAR_NOTIFY_WAR_RESULT2	%s 城区大战胜负已决，帮会 %s 成功保持了统治权！！太守：%s
+G_CITYWAR_NOTIFY_WAR_RESULT3	%s 城区目前并无太守，帮会 %s 成为公认的第一届统治者！！
+G_CITYWAR_NOTIFY_TAX_SET	您成功地设置了 %s 城区本周的税率和物价。
+G_CITYWAR_NOTIFY_SIGNUP_OUT	因为投标金不够，您的帮会报名 %s 城区失败！！
+G_CITYWAR_NOTIFY_SIGNUP_OUT2	投标金 %d 两已经返还帮会基金，请查收。
+G_CITYWAR_NOTIFY_CHANGE_CITYMASTER	帮会 %s 帮主传位，%s 城区新太守为：%s
+
+G_CITYWAR_WARNING_ARENACANCELED	打雷咯，下雨啦，擂台比赛取消了！！
+G_CITYWAR_WARNING_WARRESET	%s 城区新一轮擂台赛开始报名,所有上一轮活动即刻终止！！
+G_CITYWAR_WARNING_SIGNUPTIMEOUT	对不起，报名阶段已经结束。
+G_CITYWAR_WARNING_ALREADYSIGNUP	您的帮会已经报过名了！
+G_CITYWAR_WARNING_SIGNUPFULL	本次擂台赛名额已满，请您下次再来。
+G_CITYWAR_WARNING_NOTENOUGHFEE	对不起，您的帮会基金不够交纳报名费 %d 两。
+G_CITYWAR_WARNING_LEVELLOW	对不起，您的帮会等级不够 %d 级。
+G_CITYWAR_WARNING_NOTTONGLEADER	你不是帮会帮主！！
+G_CITYWAR_WARNING_TONGERROR	无效帮会！！
+G_CITYWAR_WARNING_TAXALREADYSET	你已经设置过本周的税率了！！
+G_CITYWAR_WARNING_BECHALLENGER	你已经获得 %s 城区的挑战权了！！
+G_CITYWAR_WARNING_BECITYOWNER	您的帮会已经是 %s 城区的统治者了！！
+G_CITYWAR_WARNING_TOOFEWCROWS	对不起，您的帮会人数不够 %d 人，仍不够资格。
+G_CITYWAR_WARNING_TESTINGPERIOD	对不起，您的帮会正处于考验期，不允许参赛。
+G_CITYWAR_WARNING_SAMECAMP	您的帮会和 %s 城区统治者 %s 同属一个阵营！！
+G_CITYWAR_WARNING_NOTUNIONLEADER	您的帮会和其他帮会结成了联盟，但是只有盟主才能攻城！！
+G_CITYWAR_WARNING_PERIODNOTMATCH	前阶段不符，应该是 %d，却是 %d。
+
+L_AUCTION_WINNNER_QUIT	城市ID=不知道 出价最高者退出游戏 拍卖ID=%d  退出者=%s
+L_ADD_AUCTION_ITEM	城市ID=%d 提交物品 拍卖ID=%d 底价=%d 入扎单位=%d 提交人=%s
+L_ADD_AUCTION_ITEM_SUCC	城市ID=%d 拍卖成功 拍卖ID=%d 成交价格=%d
+L_ADD_AUCTION_ITEM_FAIL	城市ID=%d 拍卖失败 拍卖ID=%d
+L_ADD_AUCTION_ITEM_ING	城市ID=%d 开始拍卖 拍卖ID=%d
+L_ADD_TO_AUCTION	城市ID=%d 加入拍卖 拍卖ID=%d 竞买者=%s
+L_AUCTION_ADD_PRICE	城市ID=%d 出价 拍卖ID=%d 竞买者=%s 上一次价格=%d 加价倍数=%d
+
+L_CW_SIGNUP	参与竞标帮会: 
+L_CW_KICKOUT_TONG	被淘汰竞标帮会: 
+L_START_ARENA_ERROR	擂台赛前提条件(目标城市赛程／上一场擂台赛结束)错误...
+L_ARENA_RESULT_RECORD_ERROR	Arena result record error...
+L_ARENA_END	帮会擂台赛结束了。
+L_START_CITY_WAR_ERROR	StartCityWar error....
+L_END_CITY_WAR_ERROR	End City War error....
+L_ILLEGAL_TAX_RATE	illegal tax rates....\n
+L_SET_TAX_NOT_PERMITTED	set tax not permitted !!!
+
+L_KILLER_CREATE_TASK	创建任务 任务ID=%d 创建者=%s  被追杀人=%s 系统租金=%d 总时间=%d 赏金=%d
+L_KILLER_ACTIVE_FAILURE	状态转换 任务ID=%d   总时间=%d 剩余时间=%d ACTIVE-> FAILURE
+L_KILLER_ACTIVE_CLOSE	状态转换  任务ID=%d 总时间=%d 剩余时间=%d ACTIVE-> CLOSE
+L_KILLER_CLOSE_FAILURE	状态转换 任务ID=%d 总时间=%d 剩余时间=%d CLOSE-> FAILURE
+L_KILLER_SUCCESS_DELETESIGN	状态转换 SUCCESS/FAILURE-> DELETESIGN 任务ID=%d 总时间=%d 剩余时间=%d
+L_KILLER_CANCEL_TASK	取消任务 任务ID=%d 创建者=%s 被杀者=%s 总时间=%d 剩余时间=%d 赏金=%d 取消者=%s 任务状态 = %d
+L_KILLER_GET_TASK	领取任务 任务ID=%d, 领取人= %s, 
+L_KILLER_GET_MONEY	领取钱 任务ID=%d 领钱类型=%d  领钱金额(税前)=%d
+
+L_TONG_MSG	帮会[%s]:%s
+L_TONG_DISPATCH_MONEY	帮会[%s]给所有人发钱：长老%d个；队长%d个；帮众%d个；分别发钱：%d %d %d ，总共 %d
+L_TONG_DISPATCH_MONEY_OL	帮会[%s]给在线的发钱：长老%d个；队长%d个；帮众%d个；分别发钱：%d %d %d ，总共 %d
+
+L_TONG_CREATE_FAIL_NAME_1	帮会创建失败：帮会名问题1
+L_TONG_CREATE_FAIL_NAME_2	帮会创建失败：帮会名 %s 问题2：过长 %s
+L_TONG_CREATE_FAIL_NAME_3	帮会创建失败：帮会名问题3：帮会同名或帮主同名或者同名的帮会联盟 %s %s
+L_TONG_CREATE_FAIL_MEM	帮会创建失败：内存问题 %s %s
+L_TONG_KICK_MEMBER	帮会踢人：%s踢%s！
+L_TONG_KICK_MEMBER_CWS	帮会踢人：攻城战状态：%d
+L_TONG_KICK_NOT_ALLOW_IN_CW	帮会踢人：擂台赛期间或攻城战期间不能踢人！
+L_TONG_TOLOAD_TONG_COUNT	要载入的帮会数量：%d
+L_TONG_UNFOUND_UNION_HEADER	联盟成员离开出错：找不到盟主！！！
+L_TONG_LONG_0	帮会战导致帮会经验变化；胜利帮会：%s ，失败帮会：%s ！
+L_TONG_LONG_1	胜利帮会原等级 %d ，胜利帮会原经验 %d；
+L_TONG_LONG_2	失败帮会原等级 %d ，失败帮会原经验 %d；
+L_TONG_LONG_3	胜利帮会现等级 %d ，胜利帮会现经验 %d；
+L_TONG_LONG_4	失败帮会现等级 %d ，失败帮会现经验 %d；
+L_TONG_LONG_5	[GM操作]任命[%s]为帮会[%s]帮主！
+L_TONG_LONG_6	[GM操作]任命[%s]为帮会[%s]帮主成功！
+L_TONG_LONG_7	[GM操作]设定帮会等级为 %s ！
+L_TONG_LONG_8	[GM操作]设定帮会经验为 %s ！
+L_TONG_LONG_9	[GM操作]设定帮会等级为 %s ！操作成功
+L_TONG_LONG_10	[GM操作]设定帮会经验为 %s ！操作成功
+L_TONG_LONG_11	[GM操作]设定帮会[%s]中成员[%s]入帮时间为：%d年%d月%d日！
+L_TONG_LONG_12	[GM操作]设定帮会[%s]中成员[%s]入帮时间为：%d年%d月%d日！操作成功
+L_TONG_LONG_13	[GM操作]强制解散帮会[%s]！
+L_TONG_LONG_14	[GM操作]强制解散帮会[%s]！操作成功
+
+L_RR_SAVE_FAIL	保存玩家好友信息出错！
+L_RR_SAVE_FAIL_2	保存玩家好友信息出错：%s
+
+L_SCRIPT_0	包含(Include)的脚本文件%s时出错。
+L_SCRIPT_1	脚本指令TaskSetMode传入的参数数量不对！
+L_SCRIPT_2	脚本指令TaskSetStartDay传入的参数数量不对！
+
+L_TASKCENTRE_0	下次运行时间：%d!
+L_TASKCENTRE_1	下次运行时间：%d月%d日!
+L_TASKCENTRE_2	载入定时任务设定文件失败：%s!!!!!!!!
+L_TASKCENTRE_3	载入定时任务设定文件失败，严重问题!!!!!!!!
+L_TASKCENTRE_4	载入定时任务设定文件：%s
+L_TASKCENTRE_5	定时任务数量：%d
+L_TASKCENTRE_6	定时任务%d：%s ，次数：%d
+L_TASKCENTRE_7	清除定时任务：%s，任务设定次数：%d  已执行次数：%d
+L_TASKCENTRE_8	通过脚本指令直接添加定时任务：%s
+L_TASKCENTRE_9	定时任务初始化参数设定成功：%s
+L_TASKCENTRE_10	加载脚本文件%s时出错，请检查语法.
+L_TASKCENTRE_11	定时任务脚本文件加载失败：%s，严重问题！！！
+L_TASKCENTRE_12	卸载所有任务！
+L_TASKCENTRE_13	得到脚本指令发来的消息，卸载一个任务：%s
+L_TASKCENTRE_14	设定定时任务名称：%s
+L_TASKCENTRE_15	设定定时任务运行时间：%d时%d分!
+L_TASKCENTRE_16	目前时间是：%d时%d分!
+L_TASKCENTRE_17	今天不会运行：时间过了！
+L_TASKCENTRE_18	下次运行时间：%d:%d! %d
+L_TASKCENTRE_19	下次运行时间：%d月%d日!
+L_TASKCENTRE_19_1	下次运行时间：%d年%d月%d日!
+L_TASKCENTRE_20	设定定时任务运行时间错误：%d时%d分%d秒!!!!!!!
+L_TASKCENTRE_21	设定定时任务普通模式多次运行间的间隔时间：%d秒一次!
+L_TASKCENTRE_22	设定定时任务 日 模式多次运行间的间隔时间：%d天一次!
+L_TASKCENTRE_23	设定定时任务 月 模式多次运行间的间隔时间：%d月一次!
+L_TASKCENTRE_24	设定定时任务执行次数：%d !
+L_TASKCENTRE_25	设定定时任务模式：%d ，模式0：普通模式，每天几次；模式1：每几天一次；模式2：每几月一次；
+L_TASKCENTRE_26	设定定时任务开始日期错误：月份参数错误 %d 月
+L_TASKCENTRE_27	设定定时任务开始日期错误：日期参数错误 %d 日
+L_TASKCENTRE_28	设定定时任务开始日期：%d 月 %d 日
+L_TASKCENTRE_29	执行定时任务：%s
+L_TASKCENTRE_30	执行任务脚本出错!%s
+L_TASKCENTRE_31	执行定时任务脚本出错：%s！！！！！！！
+
+L_TONGCONNECT_0	帮主传位：传给%s，攻城战状态：%d！
+L_TONGCONNECT_1	帮主传位：攻城战传位操作锁定！
+L_TONGCONNECT_2	帮主传位：%s接受传位！攻城战状态：%d！
+L_TONGCONNECT_4	%s和您解除了好友关系。
+L_TONGCONNECT_5	%s和您解除了夫妻关系。
+L_TONGCONNECT_6	%s和您解除了亲人关系。
+L_TONGCONNECT_7	帮主传位失败：帮会(%s)基金不足%d万
+L_TONGCONNECT_8	帮主传位成功：帮会(%s)帮主之位由(%s)传给(%s)，帮会基金扣除%d万.
+
+L_RELAY_LOG_START	\r\n*\r\n***** S3Relay Start (@ %04d/%02d/%02d %02d:%02d:%02d.%03d) >>>>>\r\n*\r\n\r\n
+L_RELAY_LOG_END	\r\n*\r\n***** S3Relay Stop (@ %04d/%02d/%02d %02d:%02d:%02d.%03d) <<<<<\r\n*\r\n\r\n
+
+L_S3RELAY_INIT_ALREADY	警告: S3Relay已经启动！
+L_S3RELAY_INIT_START	S3Relay-开始启动！
+L_S3RELAY_INIT_FINISHED	S3Relay-启动完毕！
+L_S3RELAY_INIT_FAIL	FAIL: S3Relay启动失败！
+L_S3RELAY_LOGIN_FAIL	FAIL: ***帐号密码错误!***
+L_S3RELAY_UNINIT_START	S3Relay-开始关闭！
+L_S3RELAY_UNINIT_FINISHED	S3Relay-关闭完成！
+L_S3RELAY_UNINIT_RUNTIMER_FAIL	FAIL: 记录运行时间失败！
+L_S3RELAY_UNINIT_SHAREDB_FAIL	FAIL: 共享数据库关闭出错！
+L_S3RELAY_UNINIT_OFFLINEMSGDB_FAIL	FAIL: 关闭离线留言数据库出错！
+
+L_S3RELAY_DISCONN_RELAY_ROOT	S3Relay: 与RelayRoot的链接断开了 - 
+L_S3RELAY_TO_RECONNECT_RELAYROOT	S3Relay: 正在重连RelayRoot
+L_S3RELAY_DISCONN_GS_CHAT	S3Relay: 与GameSvr的聊天连接断开了 - 
+L_S3RELAY_NOTIFY_TO_STOP	Relay的服务将被停止！\n请确认网关与RelayRoot都已开启，\n并检查登陆时的密码帐号是否正确。
+
+L_S3RELAY_INIT_SCRIPT_FIAIL	FAIL: 启动脚本模块出错！
+L_S3RELAY_INIT_NC_CHECK_FAIL	FAIL: 未能通过网卡检查！
+L_S3RELAY_INIT_HEAVEN_FAIL	FAIL: 启动Heaven模块出错！
+L_S3RELAY_INIT_RAINBOW_FAIL	FAIL: 启动Rainbow模块出错！
+L_S3RELAY_INIT_CHNLMGR_FAIL	FAIL: 启动聊天频道模块出错！
+L_S3RELAY_INIT_FRIENDMGR_FAIL	FAIL: 启动好友模块出错！
+L_S3RELAY_INIT_RELAYCENTRE_FAIL	FAIL: 启动RelayCentre出错！
+L_S3RELAY_INIT_ROOTCENTRE_FAIL	FAIL: 启动RootCentre出错！
+L_S3RELAY_INIT_ROOTCLIENT_FAIL	FAIL: 与RootRelay建立连接出错 - %s
+L_S3RELAY_INIT_GATEWAYCENTRE_FAIL	FAIL: 启动网关连接管理模块出错！
+L_S3RELAY_INIT_GATEWAY_FAIL	FAIL: 与网关建立连接出错 - %s
+L_S3RELAY_INIT_HOSTCENTRE_FAIL	FAIL: 启动游戏世界服务器连接管理模块出错！
+L_S3RELAY_INIT_SHAREDB_FAIL	FAIL: 打开共享数据库出错！
+L_S3RELAY_INIT_OFFLINEMSGDB_FAIL	FAIL: 打开离线留言数据库出错！
+
+L_RELAYSRV_START_FAIL	FAIL: relay服务-启动失败！
+L_HOSTSRV_START_FAIL	FAIL: 游戏服务器连接服务-启动失败！
+L_CHATSRV_START_FAIL	FAIL: 聊天服务-启动失败！
+L_TONGSRV_START_FAIL	FAIL: 帮派服务-启动失败！
+
+L_TONGSET_INIT_OK	帮派模块-初始化成功
+L_TONGSET_INIT_FAILED	FAIL: 帮派模块-初始化失败！
+
+L_DUNGEONMAP_INIT_OK	副本地图初始化成功
+L_DUNGEONMAP_INIT_FAILED	副本地图初始化失败！
+
+L_TONGSVR_NEW_CONNECT	帮派服务-与ip:%s建立连接。
+L_TONGSVR_CLOSE_CONNECT	帮派服务-关闭与ip:%s的连接。
+
+L_TONG_CREATE_ONE	帮派-[%s]创建[%s]成功。
+L_TONG_CREATE_ONE_FAIL	FAIL: 帮派-[%s]创建[%s]失败。
+
+L_TONGDB_STORE_BRIEF_BEGIN	帮派数据库-保存帮派信息开始
+L_TONGDB_STORE_BRIEF_SUCCESS	帮派数据库-保存帮派信息成功
+L_TONGDB_STORE_BRIEF_FAILED	帮派数据库-保存帮派[%s]信息失败！
+L_TONGDB_STORE_MEMBER_BEGIN	帮派数据库-保存成员信息开始
+L_TONGDB_STORE_MEMBER_SUCCESS	帮派数据库-保存成员信息成功
+L_TONGDB_STORE_MEMBER_FAILED	帮派数据库-保存成员[%s]信息失败！
+L_TONGDB_OPEN_FAILED	FAIL: 帮派数据库打开失败！
+
+L_TONGDB_FLUSH_SUCCESS	帮派数据库-刷新成功。
+L_TONGDB_FLUSH_FAILED	帮派数据库-刷新失败！
+L_TONGDB_BACKUP_BEING	帮派数据库-开始备份过程...
+L_TONGDB_BACKUP_FAILED	帮派数据库-备份-出错！
+L_TONGDB_BACKUP_SUCCESS	帮派数据库-备份-成功。
+L_TONGDB_BACKUP_OPEN_ORIG_FAIL	帮派数据库-备份-打开原有库失败！
+L_TONGDB_BACKUP_OPEN_BK_FAIL	帮派数据库-备份-创建备份库失败！
+L_TONGDB_BACKUP_ACCE_TONG_FAIL	帮派数据库-备份-意图访问原帮会信息失败！
+L_TONGDB_BACKUP_COPY_TONG_FAIL	帮派数据库-备份-复制帮会[%s]数据出错！
+L_TONGDB_BACKUP_ERR_TONG	帮派数据库-备份-遇见错误帮会[%s]！
+L_TONGDB_BACKUP_ACCE_MEMB_FAIL	帮派数据库-备份-意图访问原成员库失败！
+L_TONGDB_BACKUP_COPY_MEMB_FAIL	帮派数据库-备份-复制帮会成员[%s]出错！
+L_TONGDB_BACKUP_ERR_MEMB	帮派数据库-备份-遇见错误帮会成员[%s]！
+
+L_PR_ERROR_RELATION_RECORD	玩家关系-[%s]纪录加载时发现错误的数据。
+L_PR_NOT_ON_LINE_WHEN_ADD_RELA	玩家关系-[%s]与[%s]建立[%s]关系时前者不在线。
+L_PR_MATE_NOT_MATCH	玩家关系-[%s]与[%s]的配偶关系不匹配。
+
+L_HOSTCONNECT_RECV_UNKNOW_PKG	警告:host连接收到不明的数据包(%d)。
+L_BACKUP_FINISHED	备份全部成功执行完毕。
+L_BACKUP_FINISHED_FAILED	备份全部执行完毕，期间有错误发生！
+L_BACKUP_DOING	正在执行备份，请稍侯．．．．．．
+
+L_NOTENOUGHSPACE_INFO	磁盘空间已经少于%dG，数据库将不会备份，请清理空间！
+L_RELATION_RENAME	您的%s%s已经更名为%s，请重新登录后更新好友列表
+L_TONGMEMBER_RENAME	帮会成员%s已经更名为%s
+L_RELATION_FRIEND	好友
+L_RELATION_ENEMY	仇人
+L_RELATION_RELATIVE	亲人
+L_RELATION_MATE	配偶
+
+G_CITYWARDATA_0	<最新一轮擂台对阵>\n
+G_CITYWARDATA_1	 决赛双方: 
+G_CITYWARDATA_2	 半决赛对阵: 
+G_CITYWARDATA_3	 第 %u 轮对阵: 
+G_CITYWARDATA_4	%s 对 %s
+G_CITYWARDATA_5	%s 胜 %s
+G_CITYWARDATA_6	<< %s 城区 >>\n
+G_CITYWARDATA_7	、
+G_CITYWARDATA_8	比赛尚未进行...
+G_CITYWARDATA_9	<挑战 %s 城区 - 擂台大战>\n  
+G_CITYWARDATA_10	  目前是和平时期\n
+G_CITYWARDATA_11	  城区擂台赛正在报名\n
+G_CITYWARDATA_12	  城区擂台赛程已公布\n
+G_CITYWARDATA_13	  城区擂台赛正在进行\n
+G_CITYWARDATA_14	  已经决出挑战者帮会 %s, 城市攻防战一触即发\n
+G_CITYWARDATA_15	  攻城战已经开始\n
+G_CITYWARDATA_16	  混沌时期\n
+G_CITYWARDATA_17	  本城区太守为 %s, 统领帮会 %s\n
+G_CITYWARDATA_18	  交易税率设定为 %u, 物价指数为 %u\n
+G_CITYWARDATA_19	  新税率尚未发布\n
+G_CITYWARDATA_20	  占领时间: %ld 天\n
+G_CITYWARDATA_21	  占领时间: ？\n
+G_CITYWARDATA_22	  本城仍没有太守\n
+L_ADD_SELF_TAG_TOO_FAST	您发表心情太频繁了，请在%d分%d秒后再试
+L_ADD_SELF_TAG_MSG	%s发布了一条心情：%s
+L_RECEIVE_OTHER_TAG	您收到来自%s的江湖评价
+L_ADD_OTHER_TAG_TOO_FAST	您对%s的评价太频繁了，请在%d分%d秒后再试
+L_RELATION_NOT_ALLOW_TAG	请先和%s成为好友/亲人/配偶关系再给他/她评价吧
+L_STR_FORBIDJUDGE	对方现在不允许被评价
+

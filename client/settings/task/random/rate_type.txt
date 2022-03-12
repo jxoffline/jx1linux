@@ -1,0 +1,6 @@
+TaskType	Rate10	Rate20	Rate30	Rate40	Rate50	Rate60	Rate70	Rate80	Rate90	Rate100
+Lo¹i h×nh nhiÖm vô 	cÊp ®é 10	cÊp ®é 20	cÊp ®é 30	cÊp ®é 40	cÊp ®é 50	 cÊp ®é 60	cÊp ®é 70	cÊp ®é 80	cÊp ®é 90	cÊp ®é 100
+NhiÖm vô §èi tho¹i 	0	0	0	0	0	0	0	0	0	0
+NhiÖm vô thu thËp 	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+NhiÖm vô S¸t qu¸i 	0	0	0	0	0	0	0	100	200	300
+hiÓn thŞ nhiÖm vô 	0	0	0	0	0	0	0	0	0	0

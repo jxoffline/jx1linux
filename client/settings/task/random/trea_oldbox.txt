@@ -1,0 +1,71 @@
+Name	Quality	Genre	Detail	Particular	Level	GoodsFive	ItemRate	IsPublic
+Tªn	PhÈm chÊt	Ph©n lo¹i vËt phÈm	DetailType	ParticularType	®¼ng cÊp	Ngò Hµnh	Tû lÖ 	Cã b¸o c¸o hay kh«ng?
+MÆt n¹ - ¤ng Giµ Noel	0	0	11	70	1	1	5000	0
+MÆt n¹ - Thiªn Sø Gi¸ng Sinh	0	0	11	71	1	1	1000	0
+MÆt n¹ - §Çu «ng ®Þa	0	0	11	72	1	1	3000	0
+MÆt n¹ - Nam S­ 	0	0	11	73	1	1	3000	0
+MÆt n¹ - B¾c S­ 	0	0	11	74	1	1	3000	0
+MÆt n¹ - Long Ch©u	0	0	11	75	1	1	5000	0
+MÆt n¹ - §Çu Rång	0	0	11	76	1	1	5000	0
+MÆt n¹ - Th©n Rång	0	0	11	77	1	1	5000	0
+MÆt n¹ - §u«i Rång	0	0	11	78	1	1	5000	0
+Tµng B¶o §å	0	6	2	3	1	1	150000	0
+Tiªn Th¶o Lé 	0	6	1	71	1	1	275070	0
+Phóc Duyªn Lé (§¹i) 	0	6	1	124	1	1	300000	0
+ThÇn bÝ kho¸ng th¹ch	0	6	1	398	1	1	10000	0
+Vâ L©m MËt TÞch	0	6	1	26	1	0	1000	0
+TÈy Tñy Kinh	0	6	1	22	1	0	2000	0
+§Þnh Quèc Thanh Sa Tr­êng Sam	1	159	1	1	1	0	100	1
+§Þnh Quèc ¤ Sa Ph¸t Qu¸n	1	160	1	1	1	0	50	1
+§Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	1	161	1	1	1	0	100	1
+§Þnh Quèc Tö §»ng Hé uyÓn	1	162	1	1	1	0	100	1
+§Þnh Quèc Ng©n Tµm Yªu ®¸i	1	163	1	1	1	0	100	1
+An Bang B¨ng Tinh Th¹ch H¹ng Liªn	1	164	1	1	1	0	30	1
+An Bang Cóc Hoa Th¹ch ChØ hoµn	1	165	1	1	1	0	100	1
+An Bang §iÒn Hoµng Th¹ch Ngäc Béi	1	166	1	1	1	0	100	1
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	1	167	1	1	1	0	100	1
+Méng Long Kim Ti ChÝnh Hång Cµ Sa	1	2	1	1	1	0	50	1
+Phôc Ma Tö Kim C«n	1	6	1	1	1	0	50	1
+Tø Kh«ng Gi¸ng Ma Giíi ®ao	1	11	1	1	1	0	50	1
+H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	1	16	1	1	1	0	50	1
+H¸m Thiªn Uy Vò Thóc yªu ®¸i	1	18	1	1	1	0	50	1
+H¸m Thiªn Thõa Long ChiÕn Ngoa	1	20	1	1	1	0	50	1
+KÕ NghiÖp B«n L«i Toµn Long th­¬ng	1	21	1	1	1	0	50	1
+Ngù Long L­îng Ng©n B¶o ®ao	1	26	1	1	1	0	50	1
+V« Gian û Thiªn KiÕm	1	31	1	1	1	0	50	1
+V« Ma Hång Truy NhuyÔn Th¸p hµi	1	40	1	1	1	0	50	1
+V« Ma TÈy T­îng Ngäc KhÊu 	1	39	1	1	1	0	50	1
+V« TrÇn Thanh T©m H­íng ThiÖn Ch©u	1	42	1	1	1	0	50	1
+Tª Hoµng Phông Nghi ®ao	1	46	1	1	1	0	50	1
+Tª Hoµng B¨ng Tung CÈm uyÓn	1	49	1	1	1	0	50	1
+BÝch H¶i Uyªn ¦¬ng Liªn Hoµn ®ao	1	51	1	1	1	0	50	1
+U Lung MÆc Thï NhuyÔn Lý 	1	60	1	1	1	0	50	1
+U Lung Kim Xµ Ph¸t ®¸i	1	56	1	1	1	0	50	1
+Minh ¶o Tµ S¸t §éc NhËn	1	61	1	1	1	0	50	1
+Chó Ph­îc DiÖt L«i C¶nh Phï 	1	67	1	1	1	0	50	1
+B¨ng Hµn §¬n ChØ Phi §ao	1	71	1	1	1	0	50	1
+Thiªn Quang Hoa Vò M¹n Thiªn	1	76	1	1	1	0	50	1
+S©m Hoang Phi Tinh §o¹t Hån	1	81	1	1	1	0	50	1
+Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	1	77	1	1	1	0	50	1
+§Þa Ph¸ch H¾c DiÖm Xung Thiªn Liªn	1	87	1	1	1	0	50	1
+§ång Cõu Gi¸ng Long C¸i Y	1	92	1	1	1	0	50	1
+§ång Cõu Kh¸ng Long Hé UyÓn	1	94	1	1	1	0	50	1
+§Þch Kh¸i Lôc Ngäc Tr­îng	1	96	1	1	1	0	50	1
+Ma S¸t Quû Cèc U Minh Th­¬ng	1	101	1	1	1	0	50	1
+Ma Hoµng Kim Gi¸p Kh«i	1	106	1	1	1	0	50	1
+Ma Hoµng ¸n XuÊt Hæ H¹ng Khuyªn	1	107	1	1	1	0	50	1
+Ma ThÞ s¬n  H¶i Phi Hång Lý 	1	115	1	1	1	0	50	1
+L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	1	119	1	1	1	0	50	1
+CËp Phong Tam Thanh Phï 	1	122	1	1	1	0	50	1
+CËp Phong Ch©n Vò KiÕm	1	121	1	1	1	0	50	1
+S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	1	126	1	1	1	0	50	1
+L«i Khung Thiªn §Þa Hé phï 	1	132	1	1	1	0	50	1
+Vô ¶o B¾c Minh §¹o qu¸n	1	136	1	1	1	0	50	1
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 4	0	6	1	147	4	0	120000	0
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 5	0	6	1	147	5	0	10000	0
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 6	0	6	1	147	6	0	3000	0
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 7	0	6	1	147	7	0	1000	0
+HuyÒn Tinh Kho¸ng Th¹ch cÊp 8	0	6	1	147	8	0	300	0
+Lam Thñy Tinh	0	4	238	1	1	1	30000	0
+Lôc Thñy Tinh	0	4	240	1	1	1	30000	0
+Tö Thñy Tinh	0	4	239	1	1	1	30000	0

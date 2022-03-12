@@ -1,0 +1,4 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+10	C鵦 ph萴 chi nguy猲	"return {szName=\"极品之源\",tbProp={6,1,2130,-1,-1,0},}"	8	100	89	2
+10	Ph骳 Duy猲 Tinh Th筩h	"return {szName=\"福缘晶石\",tbProp={6,1,1835,-1,-1,0},}"	6	100	92	2
+10	Ti襫	"return {nJxb=1}"	60000	100	93	2

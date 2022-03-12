@@ -1,0 +1,41 @@
+TaskName	AwardType	AwardText	Genre	Detail	Particular	Level	GoodsFive	Quality	RandomSeed	GoodsNum	MoneyNum	ExpNum	ReputeNum	AwardTask	SelectEvent	ArrayID	ArrayRate	AilledAward
+Tªn nhiÖm vô 	Lo¹i h×nh phÇn th­ëng	tªn phÇn th­ëng	Tæng lo¹i	Ph©n lo¹i	Lo¹i nhá 	®¼ng cÊp	Ngò Hµnh	Trang bŞ Hoµng Kim	H¹t ngÉu nhiªn	Sè l­îng vËt phÈm	TiÒn	kinh nghiÖm 	Danh väng	Tªn nhiÖm vô b¾t ®Çu	Chän ngÉu nhiªn trong sù kiÖn	ID ph©n bè 	tû lÖ ph©n bè 	hÖ thèng phÇn th­ëng
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	kinh nghiÖm 	30 v¹n kinh nghiÖm										300000				1	15	
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	kinh nghiÖm 	50 v¹n kinh nghiÖm										500000				1	45	
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	kinh nghiÖm 	100 v¹n kinh nghiÖm										1000000				1	30	
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	kinh nghiÖm 	500 v¹n kinh nghiÖm										5000000				1	10	
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	vËt phÈm 	Mai Kh«i Hoa Vò 	6	0	20	1	0			1						2	70	
+NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch	NgÉu nhiªn_MËt ®å nhiÖm vô 	NgÉu nhiªn_MËt ®å nhiÖm vô 														2	30	
+
+NgÉu nhiªn_S¸t qu¸i_Phi Sa	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_M¹c TÆc	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_Sa §¹o	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_§ao Tr¶m (Tr­êng B¹ch b¾c) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ L¹c Quang (Tr­êng B¹ch b¾c) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ Hµn Th­¬ng (Tr­êng B¹ch b¾c) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_§o¹t Ph¸ch (Tr­êng B¹ch b¾c) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ S¶n Vò 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ Gi¸ng Chïy 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ L·nh §ao 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ S­¬ng §ao 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+
+NgÉu nhiªn_S¸t qu¸i_ tÇng 3 Sa M¹c_ TËt Vò 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ tÇng 3 Sa M¹c_ TËt Viªm	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt Vò 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt Phong	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 3 Sa M¹c_ TËt §iÖn	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u V©n	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u Quang	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 2 Sa M¹c_ L­u Phong	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ KÕ Chñy	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ Xuyªn s¬n 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_tÇng 4 D­îc V­¬ng_ §ao Kh¸ch	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_H¾c C©n (Kho¶ Lang ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ Lang Bæng (Kho¶ Lang ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_¶nh C«n (Kho¶ Lang ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_§ao Kh¸ch (TiÕn Cóc ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_§o¹t MÖnh Liªm (TiÕn Cóc ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_ B¸o §èm (TiÕn Cóc ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_Voi (C¸n Viªn ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_Voi Hoµng Hµ (C¸n Viªn ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch
+NgÉu nhiªn_S¸t qu¸i_Nh·n Kİnh Xµ (C¸n Viªn ®éng) 	hÖ thèng phÇn th­ëng																	NgÉu nhiªn_S¸t qu¸i_TÈu Th¹ch

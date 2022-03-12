@@ -1,0 +1,574 @@
+key	value
+G_CONFIRM_WORD	确定
+G_STR_YES	是的
+G_STR_CANCEL	取消
+G_NO_WORD	无
+G_ACCEPT_WORD	同意
+G_REFUSE_WORD	拒绝
+G_LOOKOVER_WORD	查看
+G_IGNORE_WORD	忽略
+G_GOTO_WORD	定位
+G_DONT_GO	不去
+
+G_MSG_EXCHANGE_FAIL	前方路途不太通畅，还是过会再来吧。
+
+G_BLACKLIST_UNITNAME	黑名单
+G_GSCHANGEDNOTIFY_0	请输入对方名字:
+G_GSCHANGEDNOTIFY_1	%s 被加入黑名单。
+G_GSCHANGEDNOTIFY_2	抱歉, 频道还未开放,消息无法发到!
+G_GSCHANGEDNOTIFY_3	%s不在游戏中，他(/她)在下次上线时才会收到您刚才发送的消息。
+G_GSCHANGEDNOTIFY_4	抱歉, %s 不在游戏中,消息无法发到!
+G_GSCHANGEDNOTIFY_5	发送于[%02d:%02d %d/%d]: 
+G_GSCHANGEDNOTIFY_6	GM频道说话，请在前面输入\"[gm]\"
+
+G_SHORTCUTKEY_0	取消离线时消息转发。
+G_SHORTCUTKEY_1	设置离线时转发消息给%s！
+G_SHORTCUTKEY_2	设置把消息转发给%s！\n输入 /OfflineTrans 可以取消设置。
+G_SHORTCUTKEY_3	游戏设为3D模式，重新启动游戏后生效。
+G_SHORTCUTKEY_4	游戏设为2D模式，重新启动游戏后生效。
+G_SHORTCUTKEY_5	游戏设定改变为全屏运行，将在下次启动游戏的时候生效。
+G_SHORTCUTKEY_6	游戏设定改变为窗口运行，将在下次启动游戏的时候生效。
+
+G_CHATPHRASE_0	可能此刻我正离开，无法回复你！
+G_CHATPHRASE_1	练功中，请勿打扰！
+G_CHATPHRASE_2	我吃饭去了，一会儿再联系！
+G_CHATPHRASE_3	我有事离开一会儿，过会儿再找我！
+
+G_UiChatPhrase_0	请勿使用不合适的词语!
+G_UiChatPhrase_1	启用自动回复。
+G_UiChatPhrase_2	取消自动回复。
+G_UiChatPhrase_3	经验 %I64d/%I64d
+G_UiChatPhrase_4	练功
+G_UiChatPhrase_5	战斗
+G_UiChatPhrase_6	屠杀
+
+G_DEFAULT_FORMAT_STRING	XXXXXXXX万XXXX两
+
+G_UiChatCentre_0	新建组
+G_UiChatCentre_1	重命名组
+G_UiChatCentre_2	删除组
+G_UiChatCentre_3	发送消息
+G_UiChatCentre_4	删除
+G_UiChatCentre_5	移动到其它组
+G_UiChatCentre_6	其它
+G_UiChatCentre_7	输入新的组名称
+G_UiChatCentre_8	输入新组的名称
+
+G_UIGAME_0	聊天
+G_UIGAME_1	好友
+G_UIGAME_2	交易
+G_UIGAME_3	入队
+G_UIGAME_4	组队
+G_UIGAME_5	跟随
+G_UIGAME_6	信息
+G_UIGAME_7	帮会
+G_UIGAME_8	仇杀
+G_UIGAME_9	送钱
+G_UIGAME_10	公频关键字
+G_UIGAME_11	离开队伍
+G_UIGAME_12	踢出队伍
+G_UIGAME_13	坐标定位
+G_UIGAME_14	申请入帮
+G_UIGAME_15	踢下线
+G_ITEM_GOLDCOIN	XXXXXX万XXXX
+G_ITEM_ENERGY	X,XXX,XXX,XXX
+G_TIME_0	夜半
+G_TIME_1	鸡鸣
+G_TIME_2	平旦
+G_TIME_3	日出
+G_TIME_4	食时
+G_TIME_5	隅中
+G_TIME_6	日中
+G_TIME_7	日昳
+G_TIME_8	晡时
+G_TIME_9	日入
+G_TIME_10	黄昏
+G_TIME_11	人定
+G_TIME_12	子
+G_TIME_13	丑
+G_TIME_14	寅
+G_TIME_15	卯
+G_TIME_16	辰
+G_TIME_17	巳
+G_TIME_18	午
+G_TIME_19	未
+G_TIME_20	申
+G_TIME_21	酉
+G_TIME_22	戌
+G_TIME_23	亥
+
+G_NUMBER_1	一
+G_NUMBER_2	二
+G_NUMBER_3	三
+G_NUMBER_4	四
+
+G_PLAYERBAR_0	%s%s时%s刻
+G_PLAYERBAR_1	%d月%d日 %d:%02d
+G_PLAYERBAR_2	请您不要在消息中使用不合适的词语!
+
+G_PLAYERBAR_3	消息将在%d秒后发出!
+G_PLAYERBAR_4	千里传音无法连续使用，请您先运息片刻。
+G_PLAYERBAR_5	给GM发送消息，请保持一定的时间间隔。
+G_PLAYERBAR_6	消息发送失败。
+G_PLAYERBAR_7	您的等级不足%d级，无法使用千里传音发送消息。
+G_PLAYERBAR_8	您的银两不足%d两，无法使用千里传音发送消息。
+G_PLAYERBAR_9	您的内力不足%d点，无法使用千里传音发送消息。
+G_PLAYERBAR_10	您使用千里传音, 花费银两%d两。
+G_PLAYERBAR_11	您使用千里传音, 消耗内力%d点。
+G_PLAYERBAR_12	转生次数：%d
+G_PLAYERBAR_13	未转生
+
+G_CONNECTINFO_0	角色名字：%s
+G_CONNECTINFO_1	此账号正在使用中,请输入二级密码
+
+
+G_FRIEND_UNITNAME	好友
+G_BROTHER_UNITNAME	亲人
+G_ENEMY_UNITNAME	仇人
+G_MATE_UNITNAME	配偶
+G_DEFAULT_GROUPNAME	我的
+
+G_DiceWeaveBingo_0	嘿嘿，这位客官可要下注吗？这可是滚滚的财源喔
+G_DiceWeaveBingo_1	没钱可别进来！
+G_DiceWeaveBingo_2	哟，这位客官，你可以投色子了
+G_DiceWeaveBingo_3	嘿嘿，可惜，客官你输了！
+G_DiceWeaveBingo_4	你赢了一些钱
+G_DiceWeaveBingo_5	你赢了一笔钱
+G_DiceWeaveBingo_6	你中了累积大奖！
+G_DiceWeaveBingo_7	这位客官，可想再来一次？
+
+G_EquipRepairAlert_0	你的 %s 看样子马上就要坏了。
+G_EquipRepairAlert_1	你感到你的 %s 有了一些裂痕。
+
+G_UiGetString_0	输入的数字太小！
+G_UiGetString_1	输入的字串太少！
+G_UiGetString_2	输入的字数超过允许的最大长度！
+
+G_ACTIVE_TIME_FORMAT	%d 小时
+G_KillerAllTask_0	负
+G_KillerAllTask_1	%d万
+G_KillerAllTask_2	%04d两
+G_KillerAllTask_3	两
+G_KillerAllTask_5	%d两
+G_KillerAllTask_6	对不起，您没有足够的现金，建立一个通缉任务至少需要纹银
+G_KillerAllTask_7	！！
+G_KillerAllTask_8	哦，知道了.....
+
+G_MSGCENTREPAD_0	系统
+G_MSGCENTREPAD_1	打开
+G_MSGCENTREPAD_2	关闭
+
+G_UiMsgSel_0	结束对话
+G_UiMsgSel_1	[--脚本或脚本处理有错！--]
+G_UiMsgSel_2	越子跟你说：
+
+G_MSG_RECONNECTING	正在帮助您进行第 <color=red>%d<color> 次断线重连。\n%s...
+G_MSG_WAIT_TO_RECONNECT	%d 秒钟之后将进行第 <color=red>%d<color> 次断线重连。
+G_MSG_WAIT_NEXT_GROUP_RECONNECT	%d 秒钟之后将进行下一组断线重连。
+
+
+G_RECONNECT_QUIT_BTN_LABEL	退出游戏
+
+G_RECONNECT_START_AT_ONCE	立即重连
+
+G_RECONNETMSG_0	此次重连失败
+G_RECONNETMSG_1	正在进行账号与密码验证
+G_RECONNETMSG_2	正在接收角色列表数据
+G_RECONNETMSG_3	正在连接游戏服务器
+G_RECONNETMSG_4	正在进入游戏
+G_RECONNETMSG_5	点卡不足，请充值后再继续游戏。
+
+G_LIMITTIMEMSG_IDINFO_0	您的帐号暂时不属于防沉迷管辖范围。但未填写实名身份认证信息，随时可能被纳入防沉迷范围，请立即到官方网站作实名身份认证。
+G_LIMITTIMEMSG_IDINFO_1	您的帐号属于防沉迷管辖范围。
+G_LIMITTIMEMSG_IDINFO_2	您的帐号不属于防沉迷管辖范围。已填写实名身份认证信息。
+G_LIMITTIMEMSG_IDINFO_3	您的帐号属于防沉迷管辖范围。请注意合理安排学习生活。已填写实名身份认证信息。	
+
+G_LIMITTIMEMSG_ONLINE_TIME	累计在线：%d小时%d分，累计下线：%d小时%d分。
+G_LIMITTIMEMSG_ONLINE_S1	仍处于健康游戏时间。
+G_LIMITTIMEMSG_ONLINE_S1_I	您可尽情享受游戏的乐趣。
+G_LIMITTIMEMSG_ONLINE_S2	已处于疲劳游戏时间。
+G_LIMITTIMEMSG_ONLINE_S2_I	您的游戏收益将降为正常值的50%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。
+G_LIMITTIMEMSG_ONLINE_S3	已进入不健康游戏时间。
+G_LIMITTIMEMSG_ONLINE_S3_I	为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。
+
+G_REFUSELOGINROLEMSG_0	此帐号有%d个角色因使用外挂而被冻结。
+G_REFUSELOGINROLEMSG_1	%s：警告%d次，角色冻结%d小时
+G_REFUSELOGINROLEMSG_2	%s：角色永久冻结
+
+G_C_S_GOLD	金
+G_C_S_WOOD	木
+G_C_S_WATER	水
+G_C_S_FIRE	火
+G_C_S_EARTH	土
+
+G_SEX_MALE	男
+G_SEX_FEMALE	女
+
+G_STALL_0	您的广告包含不合适的文字,请修改!
+
+G_MSG_RENASCENCE	你已经身受重伤！
+G_MSG_BACK_TO_TOWN	回城休养
+
+G_SysMsgCentre_0	%s邀请你加入他的队伍
+G_SysMsgCentre_1	%s申请加入你的队伍
+G_SysMsgCentre_2	%s希望与你成为好友
+G_SysMsgCentre_3	%s希望与你交易
+G_SysMsgCentre_4	%s希望申请加入你的帮会
+G_SysMsgCentre_5	%s代表帮会申请加入你的联盟
+G_SysMsgCentre_5_IB	%s代表帮会申请加入你的联盟(需扣双方各500万帮会基金)
+G_SysMsgCentre_6	忽略
+G_SysmsgCentre_7	最新游戏调整和更新公告
+
+G_TONG_0	长老
+G_TONG_1	队长
+G_TONG_2	帮众
+G_TONG_3	请选择职位
+G_TONG_4	请选择详细职位
+G_TONG_5	那个位置已经有人了
+
+G_TONG_6	你真的要离开帮会？你需要付出%d两为代价。
+G_TONG_7	你真的要解散联盟？
+G_TONG_8	你真的要剔除这个帮会吗？
+G_TONG_9	你的帮会真的要离开联盟？
+G_TONG_10	帮主
+G_TONG_11	请输入联盟名字
+G_TONG_12	阁下所起的名字，似乎不太恰当吧。
+G_TONG_13	%s盟主
+G_TONG_14	%s成员
+G_TONG_15	  《空缺》         
+G_TONG_16	男性
+G_TONG_17	女性
+G_TONG_18	只发给在线的属下
+G_TONG_19	长老:%d人 队长:%d人 帮众:%d人 发放金额总额:%d两
+G_TONG_20	(帮会基金不足)
+G_TONG_21	发给所有我的属下
+
+G_NAME_NOT_CORRECT	名字不合法。
+
+G_TREMBLEITEM_0	请放上至少一颗宝石。
+G_TREMBLEITEM_1	请放上想镶嵌宝石的物品。
+G_TREMBLEITEM_2	五行宝石只可以放一颗。
+
+G_STR_WAIT_TRADING	等待交易执行
+G_STR_OTHER_OK	对方已锁定
+G_STR_OTHER_NOT_OK	等待对方锁定
+G_STR_OPP_DROP_ITEM	对方新放下一个物品
+G_STR_OPP_PICK_ITEM	对方拿走了一个物品
+G_STR_OPP_EXCHANGE_ITEM	对方交换了一个物品
+G_STR_OPP_CHANGE_MONEY	对方改变了金钱数量，现在是%s
+G_STR_OPP_LOCK	对方锁定交易
+
+G_UI_PASSWORD_NOT_MATCH	两次输入的密码不匹配。
+G_UI_BOX_WITHOUT	您的扩展储物箱和密码保护功能尚未开启,请到巴陵县沈九(188,198)处购买以开启此功能。
+G_UI_BOX_WITHOUT_IB	您的扩展储物箱和密码保护功能尚未开启,请去奇珍阁购买<扩展箱图谱>以开启此功能！
+G_UI_PASSWORD_NO_ZERO	密码不能为0或为空。
+G_UI_CLEAR_PASSWORD	您确定要设置密码为空,即清除密码吗？清除密码后，密码保护功能将失效。
+G_UI_NO_ZERO_HEAD	密码的起始字符不能为0。
+G_UI_PWD_LEN_OVERFLOW	您的密码已达到最大长度
+
+G_UI_KILLER_NO_TASK	目前没有通缉任务可以领取！
+G_UI_KILLER_NO_CANCEL	请遵守杀手的职业道德。
+
+G_UI_BILL_STRING_TELECOM	电信收费
+G_STR_CONFIRMCHASING	您确定要镶嵌吗？
+G_STR_CANCEL	已撤销 
+
+G_STR_ITEM_RCLICK_BUY_MSG	按住Shift键同时右键点击物品可将其立即买入
+G_STR_ITEM_RCLICK_SELL_MSG	按住Shift键同时右键点击物品可将其立即卖出
+
+G_STR_CHENGDU	成都
+G_STR_FENGXIANG	凤翔
+G_STR_DALI	大理府
+G_STR_BIANJING	汴京
+G_STR_YANGZHOU	扬州
+G_STR_LINAN	临安
+G_STR_XIANGYANG	襄阳
+
+G_STR_NEXT_CHALLENGER	下周攻城帮会
+G_STR_MAYOR	太守
+G_STR_CITY_OWNER	占领帮会
+G_STR_TAX	税率
+G_STR_PRICE_PARAM	物价指数
+
+G_STR_CANCEL_PASSWORD	取消密码设定
+G_STR_INPUT_OLDPASS	输入原有密码以取消密码设定
+
+G_STR_WAITING_OFFLINE_RETURN	正在向服务器请求离线挂机,请等待……
+G_STR_ON_FIGHT_STATE	你目前处于战斗状态中，无法进入离线挂机状态，请你进入非战斗状态后再使用离线挂机。
+G_STR_NOT_CORRECT_MAP	你不能在这个区域使用离线挂机功能，请你到相应的特定区域（包括七大城市、八个新手村以及十大门派内）使用离线挂机。
+G_STR_NO_TIME_LEFT	你的离线挂机剩余时间为：0。请你使用了离线挂机物品，再使用该功能。
+G_STR_SUCESS	现在开始离线挂机，你的离线挂机剩余时间为：%d分钟。
+G_STR_REQUEST_TIMEOUT	请求离线挂机超时，请重新登录游戏。
+
+G_STR_SJ_KILLER	宋金风云轼杀者
+G_STR_GTE_FLAG	宋金风云夺旗者
+G_STR_RESCUE	宋金风云营救者
+
+G_STR_PLAYERS	十大玩家
+G_STR_ZHI	之
+G_STR_PERSONAL_REPORT	个人战报
+G_STR_CACULATE_COUNT	数量
+G_STR_GRADE	积分
+G_STR_APPRAIZE	评价
+G_STR_CURRENT_GRADE	您目前的个人奖励积分:
+G_STR_CURRENT_DEATH	死亡次数:
+G_STR_OPERATE_REMIND	(按~键切换战绩报表)
+G_STR_MAX_SERIAL_KILL	最大连斩数:
+G_STR_MINUTE	%s剩余%d分钟|
+G_STR_BATTLE_LEVEL	战场等级:%s
+G_STR_BATTLE_PRIMARY	初级
+G_STR_BATTLE_INTERMEDIATE	中级
+G_STR_BATTLE_ADVANCED	高级
+G_STR_SONG	宋
+G_STR_JIN	金
+G_STR_REN	人
+
+G_STR_KILL_ENEMY_NPC	杀敌NPC
+G_STR_KILL_ENEMY_NUM	杀敌玩家
+G_STR_SERIES_KILL	当前连斩
+G_STR_WIN_1VS1	单挑胜数
+G_STR_GET_JEWELLERY	珍宝获得
+G_STR_GET_FLAG	夺旗
+
+G_STR_BATTLEWAR_START	详细规则信息请询问后营军需官
+G_STR_COUNT_DOWN	%d秒倒计时: %d
+
+G_STR_INPUT_POSITION	请输入目的地坐标
+
+G_STR_BATTLE_LIST	宋金排名
+G_STR_WORLD_LIST	世界排名
+
+G_STR_RECORDER	开始录像(CTRL+R)
+G_STR_PAUSE_REC	暂停(CTRL+P)
+G_STR_SAVE_REC	保存录像(CTRL+S)
+G_STR_PAUSE_OR_START	暂停或保存(CTRL+P/CTRL+S)
+
+G_STR_COMPOUND_CRYOLITE	提炼玄晶矿石
+G_STR_UPDATE_CRYOLITE	升级玄晶矿石
+G_STR_UPDATE_PROPMINE	升级属性矿石
+G_STR_CONFIRM_COMPOUND	您确定要用这些首饰提炼玄晶矿石吗?
+G_STR_CONFIRM_UPDATE_CRYOLITE	您确定要升级这些玄晶矿石吗?
+G_STR_CONFIRM_UPDATE_PROPMINE	您确定要升级这些属性矿石吗?
+G_STR_CONFIRM_DISTILL	您确定要用这些矿石和装备提取属性矿石吗?
+G_STR_CONFIRM_FORGE	您确定要用这些装备和矿石打造紫色装备吗?
+G_STR_CONFIRM_ENCHASE	您确定要用这些矿石镶嵌紫色装备吗?
+G_STR_CONFIRM_ATLAS	您确定要用这些黄金图谱,技能书和矿石融合成黄金装备吗?
+G_STR_RESOURCE_NOT_ENOUGHT	您放入的原材料不足
+G_STR_PARTNER_DELETE	您将删除此同伴
+G_STR_PARTNER_SKILL_DELETE	您将遗忘此技能
+
+G_STR_CONSUME	可选材料
+G_STR_CRYOLITE	玄晶
+G_STR_ATLAS	图谱
+G_STR_MATERIAL	材料
+G_STR_PROPMINE	矿石
+G_STR_RING	戒指
+G_STR_NECKLACE	项链/护身符
+G_STR_PENDANT	玉佩/香囊
+G_STR_EQUIP	蓝色装备
+G_STR_ORGMINE	原矿
+G_STR_NO_JEWERY_EQUIP	蓝白装备
+G_STR_PURPLE_EQUIP	紫色装备
+
+G_STATE_TEXT_ON_GOING	进行中
+G_STATE_TEXT_FINISHED	已完成
+
+G_STR_JXONLINE_ALREADY_RUNNING	剑侠自动更新程序正在运行中，请先退出
+G_STR_JXREPLAY_FILE	剑侠录像
+G_STR_SPEEDUP	快进
+G_STR_SLOWDONW	慢放
+G_STR_SAVE_SCREENFILE	截屏文件已保存到
+G_STR_SAVE_REPFILE	录像文件已保存到
+G_STR_REC_START	游戏录像录制中
+G_STR_REC_PAUSE	游戏录像暂停中
+G_STR_MULT_CROSS	x
+G_STR_MSG_VOERFLOW	您发送的信息超长了，可能无法发送！
+
+G_STR_DELETE_PARTNER	您将删除此同伴
+
+G_STR_HEALTH_WARNING	累计在线时间：%d时%d分, 累计休息时间：%d时%d分
+G_STR_HEALTH_WARNING_V	累计在线时间：%d时%d分
+G_STR_HEALTH_WARNING1	您累计在线时间已满%d小时。
+G_STR_TIRED_WARNING1	您已经进入疲劳游戏时间，您的收益将降为正常值的50％。
+G_STR_TIRED_WARNING2	请您尽快休息休息，做适当身体活动。
+G_STR_TIRED_WARNING3	为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。
+G_STR_DANGER_WARNING1	您已进入不健康游戏时间，请您立即休息休息。
+G_STR_DANGER_WARNING2	如不休息，您的身体健康将受到损害，您的收益已降为零。
+
+K_SERVER_NAME_PRIFIX	剑侠情缘网络版
+K_UIGAME_0	关键字(空格分隔)
+K_SHOT_FOLDER	\\剑侠截图\\
+K_CHANNEL_TEAM	队伍
+K_CHANNEL_NEARBY	附近
+
+K_SYSTEM_MSG_SENDER_NAME	公告
+K_INPUT_CURSOR	│
+
+INTERNET_FILE_PATH	http://jx.kingsoft.com/yxqd/JXAnnounce.ini
+INTERNET_INIFILE_SECTION	最新公告内容
+
+U_ERR_CODE_0	未知的错误(错误号: %d)
+U_GAME_LOGO	八零剑侠·胜者为王
+
+U_MSG_RECENT_UPDATE_NOTIFY	最新游戏调整和更新公告
+
+G_STR_SUCCESS	成功
+G_STR_FAILURE	失败
+G_STR_CREATE_CHATROOM	聊天室“%s”创建%s！
+G_STR_ENTERN_CHATROOM	%s进入了聊天室“%s”。
+G_STR_LEAVE_CHATROOM	%s离开了聊天室“%s”。
+G_STR_PREVENT_CHATROOM	%s被踢入聊天室“%s”的黑名单，将不能进入该聊天室发言!
+G_STR_UNPREVENT_CHATROOM	%s从聊天室“%s”中的黑名单中解除，可以进入该聊天室发言了。
+G_STR_KICKOUT_CHATROOM	%s被踢出了聊天室“%s”
+G_STR_BE_CLOSE_CHATROOM	聊天室“%s”将在%d分钟后关闭，您可以去杂货店购买道具延长其时间。
+
+G_STR_DIALOG_PREFIX	%s对%s说：
+G_STR_SPEAK_TO_SELF	%s自言自语地说：
+G_STR_INPUT_CHATROOM_NAME	请输入聊天室名称
+G_STR_INPUT_CHATROOM_PWD	请输入聊天室密码
+G_STR_CURRENT_CHATROOM	当前聊天室: 
+G_STR_PWD_CHANGED	聊天室“%s”的密码更改成功！
+G_ACTIVE_TIME_FORMAT_HOUR	%d时
+G_ACTIVE_TIME_FORMAT_MIN	%d分
+
+G_STR_CHATROOM_ACHIVE_LIMITATION	本服务器的聊天室数目达到上限，不能再创建聊天室了！
+G_STR_ROOMNAME_CONFLICT	用此名字的聊天室已经存在！
+G_STR_ROOMNAME_OVERFLOW	聊天室名字超长
+G_STR_ROOMNAME_NOT_ELIGIBLE	该聊天室名称不合法！
+G_STR_ALREADY_IN_SOMEROOM	您已经在一个聊天室中了，不能同时进入两个聊天室！
+G_STR_IN_BLACKLIST	您被列于该聊天室的黑名单中，不能进入该聊天室！
+G_STR_CHATROOM_FULL	该聊天室人数已经达到上限！
+G_STR_WRONG_PASSWORD	密码错误！
+G_STR_BLACKLIST_FULL	黑名单满了，不能再往黑名单中添加人员！
+G_STR_PULL_ADMIN	不能把管理员踢人黑名单中
+G_STR_NOT_IN_CHATROOM	此人不在聊天室中！
+G_STR_CHATROOM_TIME_FULL	聊天室时间达到上限，不能再继续充时间了！
+G_STR_ADDTIME_SUCCESS	聊天室“%s”充时成功！
+G_STR_ADDTIME_RESULT	聊天室“%s”时间延长为%s
+G_STR_CHATROOM_TIME_OVER	聊天室“%s”的时间已到！
+G_STR_YOU	你
+G_STR_PLEASE_EXIT_CHATROOM	请先退出其它聊天室！
+G_STR_ITEM_LOCK_CANNOT_OPERATE	装备栏处于锁定状态，不能操作！
+G_STR_FIGHTSTATE_CANNOT_OPERATE	你现在处于战斗状态，不能操作！
+G_STR_ITEM_BIND_INFO_H	装备名称\t\t\t\t解除绑定等待时间
+G_STR_ITEM_BIND_INFO	<color=green>%s<color>\t\t\t\t<color=yellow>%d<color>小时
+G_STR_UNBIND_ITEM_TIP_Q	你目前有<color=red>%d<color>件装备在申请解除绑定，要现在查看吗（以后可按<color=white>F11<color>键查看）？
+G_STR_UNBIND_TIP1	是的，我现在就看看
+G_STR_UNBIND_TIP2	不用了，我已经知道了
+G_STR_CHATROOM_MENU_SAY_TO	对话
+G_STR_CHATROOM_MENU_SEND_MSG	发送消息
+G_STR_CHATROOM_MENU_FRIEND	加为好友
+G_STR_CHATROOM_MENU_KICK	删除
+G_STR_CHATROOM_MENU_KICK_TO	黑名单
+
+G_STR_WAN	万
+G_STR_YI	亿
+G_STR_TONG_DATE_DESC	今日为帮会第 <color=gold>%u<color> 周的第 <color=white>%u<color> 天\n
+G_STR_WEEKGOAL_LEVEL	当前周目标难度设定： <color=green>%d <color>级\n\n
+G_STR_TONG_WEEKLY_AIM	帮会需完成的贡献度：%u\t帮会已完成的贡献度：%u
+G_STR_PERSONAL_WEEKLY_AIM	个人需完成的贡献度：%u\t个人已完成的贡献度：%u
+G_STR_UNFINISHED	未完成
+G_STR_FINISHED	已完成
+G_STR_PROCESS_STATUS	剩余天数：%d\t帮会：<%s> 个人：<%s>
+G_STR_TONG_PRIZE	帮会奖励：%d万战备基金\t个人奖励：%d贡献度 %d万经验\n\n
+G_STR_TONG_PRIZE_IB	帮会奖励：%d个召唤令牌\t个人奖励：%d万经验\n\n
+
+G_STR_NAME	姓名
+G_STR_TITLE	称号
+G_STR_CURRENT_LEVEL	当前等级
+G_STR_CURRENT_OFFER	当前贡献度
+G_STR_JION_TIME	入帮时间
+
+G_STR_TONG_MASTER	帮主
+G_STR_TONG_DIRECTOR	长老
+G_STR_TONG_MANAGER	队长
+G_STR_TONG_MEMBER	帮众
+G_STR_TONG_RETIRE	隐士
+
+G_STR_UNION_MASTER	盟主
+G_STR_UNION_MEMBER	盟帮
+
+G_STR_STORE_PERSONAL_OFFER	欲存贡献度
+G_STR_STORE_MONEY	欲存资金
+G_STR_BUILD_FUND_TITLE	欲存基金(单位：万)
+G_STR_INPUT_TONG_MONEY	欲转资金(单位：万)
+G_STR_TRANSFORM_BUILD_FUND	欲转基金(单位：万)
+G_STR_DISPENSE_POINT	发给：%s
+
+G_STR_APPLY_JION_LEAGUE	申请加入联盟
+
+G_STR_LEVEL	级
+
+G_STRING_MONEY_C	两
+G_STRING_FUYUAN_C	福缘
+G_STRING_COIN_C	铜钱
+G_STRING_SCORE_C	积分
+G_STRING_GOLDCOIN_C	铜钱
+G_STRING_HONOUR_C	荣誉点
+G_STRING_GOLDCOIN_SCORE_C	商会积分
+G_STRING_CONTRIBUTION_C	贡献度
+G_STRING_BUILDFUND_C	帮会建设度
+
+G_VICEROY_FENGXIANG	[太守]
+G_VICEROY_CHENGDU	[太守]
+G_VICEROY_DALI	[太守]
+G_VICEROY_BIANJING	[太守]
+G_VICEROY_XIANGYANG	[太守]
+G_VICEROY_YANGZHOU	[太守]
+G_VICEROY_LINAN	[太守]
+
+G_STR_NW_MINISTER	大丞相
+G_STR_NW_MARSHAL	兵马大元帅
+G_STR_NW_PIONEER	先锋官
+
+G_STR_YinYan_TIPS	阴:%d,阳:%d
+
+G_STR_MARKET_ORIGINAL	原价:           铜钱
+G_STR_MARKET_PRICE	现价:           铜钱
+G_STR_MARKET_DISCOUNT_PIC	\\spr\\Ui3\\买卖\\新奇珍阁界面\\%d.spr
+G_STR_TODAY	今天
+G_STR_SOME_DAYS_AGO	天前
+G_STR_JUDGE_FOR_ME	对我的评价
+G_STR_JUDGE_FOR_HIM	对%s的评价
+G_STR_HIM	他
+G_STR_HER	她
+G_STR_FUREN	夫人
+G_STR_XIANGGONG	相公
+G_STR_XINQING	的心情
+G_STR_JUDGE	发表评价文字
+G_STR_FORBIDJUDGE	对方现在不允许被评价
+G_STR_FILT	包含敏感文字，禁止发送
+
+G_STR_FIND_PATH	寻路
+G_STR_INPUT_POINT	增加的点数
+G_STR_CTRL_CLICK_TO_VIEW	Ctrl+鼠标左键查看物品信息
+G_STR_DEFAULT_PAGE_SETTED	已成功设置默认页
+
+G_STR_SIGN_GUIDE_TXT	说点什么吧(输入文字后点击发表)
+G_STR_JUDGE_GUIDE_TXT	在此输入文字评价您的侠友
+
+G_STR_FIND_PATH_WRONG_WORLD	请到该NPC所在地图再进行寻路！
+G_STR_BINGO_MACHINE_STAR	%s×%d
+G_STR_BINGO_MACHINE_CUR_CATHECTIC	投注：%u混元灵露。
+G_STR_BINGO_MACHINE_CATHECTIC	您投注%d个混元灵露！
+G_STR_BINGO_MACHINE_TOTAL_COUNT	彩池混元灵露: %u
+G_STR_BINGO_MACHINE_AWARD_DESC	您得到%s×%d或%s×%d枚混元灵露！
+G_STR_BEGIN	开始
+G_STR_CONTINUE	继续
+G_STR_BINGO_MACHINE_AWARD_NOTHING	很遗憾，您这次运气不好！
+G_STR_BINGO_MACHINE_NO_CATHECTIC	请设置单次投注额
+G_STR_BINGO_MACHINE_REFINING_TOTAL	您当前有%d混元灵露！
+G_STR_BINGO_MACHINE_NOT_SPACE	您的背包空间不足,请清理
+G_STR_BINGO_MACHINE_BIG_AWARD	您获得大奖%u混元灵露！
+
+G_STR_DATE_FORMATE	%Y年%m月%d日 %H:%M:%S
+G_STR_WEEK_MONDAY	星期一
+G_STR_WEEK_TUESDAY	星期二
+G_STR_WEEK_WEDNESDAY	星期三
+G_STR_WEEK_THURSDAY	星期四
+G_STR_WEEK_FRIDAY	星期五
+G_STR_WEEK_SATURDAY	星期六
+G_STR_WEEK_SUNDAY	星期日
+G_STR_HUOYUEDU	今日总活跃度:%d
+G_STR_ACTICALENDAR_CLICK_TIPS	左键选中显示详细信息，右键选中可进行寻路
+G_STR_ACTICALENDAR_CANT_FIND_NPC	此活动没有寻路

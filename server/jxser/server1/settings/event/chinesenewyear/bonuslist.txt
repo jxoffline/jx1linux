@@ -1,0 +1,106 @@
+mID	Type	TypeName	Name	Worth	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	Message	Announce
+1	1	Trang bŞ Hoµng Kim	§éng S¸t B¹ch Kim §iªu Long Giíi	0	143												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+2	1	Trang bŞ Hoµng Kim	§éng S¸t B¹ch Ngäc Cµn Kh«n Béi	1000000000	144												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+3	1	Trang bŞ Hoµng Kim	§éng S¸t B¹ch Kim Tó Phông Giíi	2000000000	145												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+4	1	Trang bŞ Hoµng Kim	§éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn	2000000000	146												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+5	1	Trang bŞ Hoµng Kim	An Bang B¨ng Tinh Th¹ch H¹ng Liªn	1200000000	164												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+6	1	Trang bŞ Hoµng Kim	An Bang Cóc Hoa Th¹ch ChØ hoµn	400000000	165												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+7	1	Trang bŞ Hoµng Kim	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	400000000	166												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+8	1	Trang bŞ Hoµng Kim	An Bang Kª HuyÕt Th¹ch Giíi ChØ 	500000000	167												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+9	1	Trang bŞ Hoµng Kim	HiÖp Cèt ThiÕt HuyÕt Sam	400000000	186												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+10	1	Trang bŞ Hoµng Kim	HiÖp Cèt §a T×nh Hoµn	1200000000	187												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+11	1	Trang bŞ Hoµng Kim	HiÖp Cèt §an T©m Giíi	400000000	188												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+12	1	Trang bŞ Hoµng Kim	HiÖp Cèt T×nh ı KÕt	400000000	189												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+13	1	Trang bŞ Hoµng Kim	Nhu T×nh C©n Quèc Nghª Th­êng	400000000	190												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+14	1	Trang bŞ Hoµng Kim	Nhu T×nh Thôc N÷ H¹ng Liªn	1200000000	191												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+15	1	Trang bŞ Hoµng Kim	Nhu T×nh  Phông Nghi Giíi ChØ 	400000000	192												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+16	1	Trang bŞ Hoµng Kim	Nhu T×nh  TuÖ T©m Ngäc Béi	400000000	193												LÔ quan tÆng b¹n 1 <name>.	<player>LÔ quan tÆng b¹n <player>1 bé Trang bŞ Hoµng Kim:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+17	2	MËt tŞch kü n¨ng	Tô TiÔn thuËt. B¹o Vò Lª Hoa	20000000	6	1	27	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+18	2	MËt tŞch kü n¨ng	H·m TÜnh thuËt.Lo¹n Hoµn Kİch	6000000	6	1	28	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+19	2	MËt tŞch kü n¨ng	Th¸i Cùc QuyÒn Phæ. QuyÓn 3	40000000	6	1	33	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+20	2	MËt tŞch kü n¨ng	Th¸i Cùc KiÕm Phæ. QuyÓn 2	60000000	6	1	34	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+21	2	MËt tŞch kü n¨ng	L­u Tinh. §ao ph¸p	60000000	6	1	36	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+22	2	MËt tŞch kü n¨ng	Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	30000000	6	1	37	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+23	2	MËt tŞch kü n¨ng	Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	70000000	6	1	38	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+24	2	MËt tŞch kü n¨ng	Thiªn V­¬ng §ao ph¸p.QuyÓn 3	15000000	6	1	39	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+25	2	MËt tŞch kü n¨ng	Thóy Yªn §ao ph¸p	30000000	6	1	40	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+26	2	MËt tŞch kü n¨ng	Thóy Yªn Song ®ao	15000000	6	1	41	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+27	2	MËt tŞch kü n¨ng	DiÖt KiÕm MËt TŞch	35000000	6	1	42	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+28	2	MËt tŞch kü n¨ng	Nga Mi  PhËt Quang Ch­ëng MËt TŞch	45000000	6	1	43	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+29	2	MËt tŞch kü n¨ng	Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	30000000	6	1	45	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+30	2	MËt tŞch kü n¨ng	Phi Tiªu thuËt. Cöu Cung Phi Tinh	20000000	6	1	46	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+31	2	MËt tŞch kü n¨ng	Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	20000000	6	1	47	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+32	2	MËt tŞch kü n¨ng	Ngò §éc §ao ph¸p. QuyÓn 2	15000000	6	1	48	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+33	2	MËt tŞch kü n¨ng	Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	6000000	6	1	49	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+34	2	MËt tŞch kü n¨ng	Ngù Phong thuËt	10000000	6	1	50	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+35	2	MËt tŞch kü n¨ng	Ngù L«i thuËt	12000000	6	1	51	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+36	2	MËt tŞch kü n¨ng	Ngù T©m thuËt	6000000	6	1	52	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+37	2	MËt tŞch kü n¨ng	NhiÕp Hån. Chó thuËt	6000000	6	1	53	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+38	2	MËt tŞch kü n¨ng	C¸i Bang Ch­ëng Ph¸p	30000000	6	1	54	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+39	2	MËt tŞch kü n¨ng	C¸i Bang C«n ph¸p	20000000	6	1	55	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+40	2	MËt tŞch kü n¨ng	ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	20000000	6	1	56	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+41	2	MËt tŞch kü n¨ng	ThiÕu L©m C«n ph¸p. QuyÓn 2	10000000	6	1	57	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+42	2	MËt tŞch kü n¨ng	ThiÕu L©m §ao ph¸p. QuyÓn 3	30000000	6	1	58	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+43	2	MËt tŞch kü n¨ng	Phæ §é MËt TŞch	6000000	6	1	59	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 quyÓn MËt tŞch kü n¨ng:<name>, Chóc <player> C¸t T­êng Nh­ ı 
+44	2	B¶o vËt	Vâ L©m MËt TŞch	70000000	6	1	26	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+45	2	B¶o vËt	TÈy Tñy Kinh	35000000	6	1	22	1									LÔ quan tÆng b¹n 1 quyÓn "<name>".	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+46	2	B¶o vËt	Lam Thñy Tinh	8000000	4	238	1	1									LÔ quan tÆng b¹n 1 viªn <name>.	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+47	2	B¶o vËt	Lôc Thñy Tinh	8000000	4	240	1	1									LÔ quan tÆng b¹n 1 viªn <name>.	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+48	2	B¶o vËt	Tö Thñy Tinh	9000000	4	239	1	1									LÔ quan tÆng b¹n 1 viªn <name>.	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+49	2	B¶o vËt	Tinh Hång B¶o Th¹ch	9000000	4	353	1	1									LÔ quan tÆng b¹n 1 viªn <name>.	<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+50	2	B¶o vËt	MiÔn Tö lÖnh	0														<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+51	2	B¶o vËt	Trïng Sinh lÖnh	0														<player>LÔ quan tÆng b¹n <player>1 mãn b¶o vËt:<name>. Chóc <player> C¸t T­êng Nh­ ı 
+52	2	LÔ vËt th«ng th­êng	Phi Phong	200000	6	1	15	1									LÔ quan tÆng b¹n 1 bé <name>.	
+53	2	LÔ vËt th«ng th­êng	Hoa hång	20000	6	0	20	1									LÔ quan tÆng b¹n 1 ®ãa <name>.	
+54	2	LÔ vËt th«ng th­êng	Phóc Duyªn Lé (§¹i) 	3000000	6	1	124	1									LÔ quan tÆng b¹n 1 <name>.	
+55	2	LÔ vËt th«ng th­êng	Phóc Duyªn Lé (Trung) 	1200000	6	1	123	1									LÔ quan tÆng b¹n 1 <name>.	
+56	2	LÔ vËt th«ng th­êng	Phóc Duyªn Lé (TiÓu) 	600000	6	1	122	1									LÔ quan tÆng b¹n 1 <name>.	
+57	2	LÔ vËt th«ng th­êng	Thiªn s¬n  B¶o Lé 	500000	6	1	72	1									LÔ quan tÆng b¹n 1 <name>.	
+58	2	LÔ vËt th«ng th­êng	B¸ch Qu¶ Lé 	500000	6	1	73	1									LÔ quan tÆng b¹n 1 <name>.	
+59	2	LÔ vËt th«ng th­êng	T©m T©m T­¬ng ¸nh phï 	50000	6	1	18	1									LÔ quan tÆng b¹n 1 <name>.	
+60	2	MÆt n¹ 	MÆt n¹ - TuyÕt B¸o	2000000	0	11	27	1									LÔ quan tÆng b¹n 1 <name>.	
+61	2	MÆt n¹ 	MÆt n¹ - Thanh lang	2000000	0	11	30	1									LÔ quan tÆng b¹n 1 <name>.	
+62	2	MÆt n¹ 	MÆt n¹ - Nhİm	2000000	0	11	35	1									LÔ quan tÆng b¹n 1 <name>.	
+63	2	MÆt n¹ 	MÆt n¹ - GÊu n©u	2000000	0	11	38	1									LÔ quan tÆng b¹n 1 <name>.	
+64	2	MÆt n¹ 	MÆt n¹ -Tr©u rõng	2000000	0	11	40	1									LÔ quan tÆng b¹n 1 <name>.	
+65	2	MÆt n¹ 	MÆt n¹ - Nh·n Kİnh M·ng xµ 	2000000	0	11	43	1									LÔ quan tÆng b¹n 1 <name>.	
+66	2	MÆt n¹ 	MÆt n¹ - Kim §iªu	0	0	11	47	1									LÔ quan tÆng b¹n 1 <name>.	
+67	2	MÆt n¹ 	MÆt n¹ - Kim Miªu	2000000	0	11	54	1									LÔ quan tÆng b¹n 1 <name>.	
+68	2	MÆt n¹ 	MÆt n¹ - Kim T¬ HÇu	2000000	0	11	61	1									LÔ quan tÆng b¹n 1 <name>.	
+69	2	MÆt n¹ 	MÆt n¹ - H­¬u ®èm	2000000	0	11	65	1									LÔ quan tÆng b¹n 1 <name>.	
+70	2	MÆt n¹ 	MÆt n¹ - Heo tr¾ng	2000000	0	11	66	1									LÔ quan tÆng b¹n 1 <name>.	
+71	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kinh nghiÖm t¨ng 50%	200000	531	5	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+72	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kinh nghiÖm t¨ng 100%	5000000	531	10	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+73	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kinh nghiÖm t¨ng 150%	800000	531	15	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+74	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kinh nghiÖm t¨ng 200%	1200000	531	20	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+75	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê Sinh lùc t¨ng 1000 ®iÓm	500000	527	10	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+76	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê Néi lùc t¨ng 1000 ®iÓm	500000	528	10	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+77	3	Tr¹ng th¸i t¹m thêi	Néi nöa giê Sinh lùc vµ Néi lùc håi phôc 40®iÓm/gi©y	100000	532	10	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+78	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê May m¾n t¨ng 10 ®iÓm	200000	530	5	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+79	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê May m¾n t¨ng 30 ®iÓm	500000	530	15	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+80	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê May m¾n t¨ng 50 ®iÓm	1000000	530	25	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+81	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê May m¾n t¨ng 80 ®iÓm	2000000	530	40	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+82	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê May m¾n t¨ng 100 ®iÓm	3000000	530	50	1	32400									LÔ quan gióp b¹n t¨ng thªm n¨ng lùc, cã thÓ <name>.	
+83	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kh«ng mÊt m¸u	0														
+84	3	Tr¹ng th¸i t¹m thêi	Néi trong nöa giê kh«ng Néi lùc	0														
+85	2	§¹i B¶o hoµn (míi) 	C«ng Tèc hoµn	80000	6	1	218	1									LÔ quan tÆng b¹n 1 <name>.	
+86	2	§¹i B¶o hoµn (míi) 	Bµo Tèc hoµn	10000	6	1	219	1									LÔ quan tÆng b¹n 1 <name>.	
+87	2	§¹i B¶o hoµn (míi) 	Phæ Phßng hoµn	10000	6	1	220	1									LÔ quan tÆng b¹n 1 <name>.	
+88	2	§¹i B¶o hoµn (míi) 	§éc Phßng hoµn	10000	6	1	221	1									LÔ quan tÆng b¹n 1 <name>.	
+89	2	§¹i B¶o hoµn (míi) 	B¨ng Phßng hoµn	10000	6	1	222	1									LÔ quan tÆng b¹n 1 <name>.	
+90	2	§¹i B¶o hoµn (míi) 	Háa Phßng hoµn	10000	6	1	223	1									LÔ quan tÆng b¹n 1 <name>.	
+91	2	§¹i B¶o hoµn (míi) 	L«i Phßng hoµn	10000	6	1	224	1									LÔ quan tÆng b¹n 1 <name>.	
+92	2	§¹i B¶o hoµn (míi) 	Gi¶m Th­¬ng hoµn	10000	6	1	225	1									LÔ quan tÆng b¹n 1 <name>.	
+93	2	§¹i B¶o hoµn (míi) 	Gi¶m H«n hoµn	10000	6	1	226	1									LÔ quan tÆng b¹n 1 <name>.	
+94	2	§¹i B¶o hoµn (míi) 	Gi¶m §éc hoµn	10000	6	1	227	1									LÔ quan tÆng b¹n 1 <name>.	
+95	2	§¹i B¶o hoµn (míi) 	Gi¶m B¨ng hoµn	10000	6	1	228	1									LÔ quan tÆng b¹n 1 <name>.	
+96	2	§¹i B¶o hoµn (míi) 	Phæ C«ng hoµn	10000	6	1	229	1									LÔ quan tÆng b¹n 1 <name>.	
+97	2	§¹i B¶o hoµn (míi) 	§éc C«ng hoµn	10000	6	1	230	1									LÔ quan tÆng b¹n 1 <name>.	
+98	2	§¹i B¶o hoµn (míi) 	B¨ng C«ng hoµn	10000	6	1	231	1									LÔ quan tÆng b¹n 1 <name>.	
+99	2	§¹i B¶o hoµn (míi) 	Háa C«ng hoµn	10000	6	1	232	1									LÔ quan tÆng b¹n 1 <name>.	
+100	2	§¹i B¶o hoµn (míi) 	L«i C«ng hoµn	10000	6	1	233	1									LÔ quan tÆng b¹n 1 <name>.	
+101	2	§¹i B¶o hoµn (míi) 	Tr­êng MÖnh hoµn	10000	6	1	234	1									LÔ quan tÆng b¹n 1 <name>.	
+102	2	§¹i B¶o hoµn (míi) 	Tr­êng Néi hoµn	10000	6	1	235	1									LÔ quan tÆng b¹n 1 <name>.	
+103	4	TrŞ kinh nghiÖm	TrŞ kinh nghiÖm 1v¹n 	20000	10000												LÔ quan tÆng b¹n <name>.	
+104	4	TrŞ kinh nghiÖm	TrŞ kinh nghiÖm 5 v¹n	100000	50000												LÔ quan tÆng b¹n <name>.	
+105	4	TrŞ kinh nghiÖm	TrŞ kinh nghiÖm 10 v¹n	200000	100000												LÔ quan tÆng b¹n <name>.	

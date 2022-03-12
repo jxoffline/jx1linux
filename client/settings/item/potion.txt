@@ -1,0 +1,26 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	Ò©Æ·ÊôĞÔ1	ÊôĞÔ1ÊıÖµ	ÊôĞÔ1Ê±¼ä(ÓÎÏ·Ñ­»·Êı£©	Ò©Æ·ÊôĞÔ2	ÊôĞÔ2ÊıÖµ	ÊôĞÔ2Ê±¼ä	Ò©Æ·ÊôĞÔ3	ÊôĞÔ3ÊıÖµ	ÊôĞÔ3Ê±¼ä	Ò©Æ·ÊôĞÔ4	ÊôĞÔ4ÊıÖµ	ÊôĞÔ4Ê±¼ä	Ò©Æ·ÊôĞÔ5	ÊôĞÔ5ÊıÖµ	ÊôĞÔ5Ê±¼ä
+Kim S¸ng D­îc (tiÓu)	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Håi phôc chót İt khİ huyÕt		50	1	0	153	10	100												
+Kim S¸ng D­îc (trung)	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Håi phôc khİ huyÕt t­¬ng ®èi nhanh.		100	2	0	153	25	100												
+Kim S¸ng D­îc (®¹i)	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	Håi phôc khİ huyÕt cùc nhanh.		250	3	0	153	25	200												
+Håi Thiªn ®¬n	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	ThÇn d­îc ch÷a th­¬ng, c¶i tö hoµn sinh		500	4	0	153	50	200												
+Cöu ChuyÓn Hoµn Hån ®¬n	1	0	0	\spr\item\medecine\obj-potion03.spr	310	1	1	ÁÆÉËÊ¥Ò©£¬ÆğËÀ»ØÉú¡£ÉúÃü»Ö¸´9999µã¡£		2000	5	0	153	500	100												
+Ng­ng ThÇn ®¬n (tiÓu)	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Cã thÓ håi phôc chót İt Néi lùc		50	1	0	154	5	200												
+Ng­ng ThÇn ®¬n (trung)	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Håi phôc Néi lùc t­¬ng ®èi nhanh.		100	2	0	154	10	200												
+Ng­ng ThÇn ®¬n (®¹i)	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Håi phôc Néi lùc côc nhanh		250	3	0	154	20	250												
+§¹i Bæ t¸n	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Håi phôc Néi lôc trong nh¸y m¾t		500	4	0	154	50	200												
+¤ ®Çu Hoµn thÇn ®¬n	1	1	0	\spr\item\medecine\obj-potion08.spr	312	1	1	´ó²¹ÉñÒ©£¬¿É»Ø¸´ÄÚÁ¦9999µã¡£		2000	5	0	154	500	100												
+Thõa Tiªn MËt (tiÓu)	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	§ång thêi håi phôc chót İt Sinh lùc vµ Néi lùc.		80	1	0	153	10	100	154	6	100									
+Thõa Tiªn MËt (trung)	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	§ång thêi håi phôc nhanh Sinh lùc vµ Néi lùc 		150	2	0	153	25	100	154	6	250									
+Thõa Tiªn MËt (®¹i)	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	§ång thêi håi phôc cùc nhanh Sinh lùc vµ Néi lùc		375	3	0	153	25	200	154	15	200									
+ThÊt KhiÕu Bæ t©m ®¬n	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	LËp tøc håi phôc Sinh lùc vµ Néi lùc		750	4	0	153	50	200	154	30	200									
+Ngò Hoa Ngäc Lé Hoµn	1	2	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Mét lo¹i thÇn d­îc, phôc håi c¶ sinh mÖnh vµ néi lùc. 		3000	5	0	153	500	100	154	500	100									
+Tam Hoa T¸n 	1	3	0	\spr\item\medecine\obj-potion16.spr	19	1	1	Cã thÓ håi phôc 1000 ®iÓm thÓ lùc.		50	1	0	95	50	200			
+Tam Hoa T¸n 	1	3	0	\spr\item\medecine\obj-potion16.spr	19	1	1	Cã thÓ håi phôc 1000 ®iÓm thÓ lùc.		50	2	0	95	50	200			
+B¸nh Trung thu	1	3	0	\spr\item\special\ÔÂ±ı.spr	329	1	1	Lo¹i b¸nh Trunh Thu Song Hoµng LiªnbiÕn chÊt rÊt nhanh, mïi vŞ rÊt khã ngöi. 		88	3	0	153	100	100	154	100	100
+Toµn Qu¶ hoµn	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Cã thÓ håi phôc 5000 ®iÓm thÓ lùc.		100	4	0	95	200	200			
+Toµn Qu¶ hoµn	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Cã thÓ håi phôc 5000 ®iÓm thÓ lùc.		100	5	0	95	200	200			
+Thanh Ng­u Gi¶i ®éc t¸n	1	4	0	\spr\item\medecine\obj-potion23.spr	19	1	1	Lo¹i bæ d­îc th«ng th­êng, t¸c dông kh«ng cao.		10	1	0	109	2	200			
+Ho¾c H­¬ng Chİnh khİ hoµn	1	4	0	\spr\item\medecine\obj-potion24.spr	19	1	1	Cã chót İt t¸c dông gi¶i ®éc		20	2	0	109	5	200			
+Tam ThuËn t¸n	1	4	0	\spr\item\medecine\obj-potion25.spr	19	1	1	Gi¶i ®éc rÊt hiÖu qu¶ 		50	3	0	109	10	200			
+Ng©n KiÒu Khø ®éc ®¬n	1	4	0	\spr\item\medecine\obj-potion26.spr	19	1	1	Gi¶i ®éc cùu kú hiÖu qu¶ 		100	4	0	109	20	200			
+Long §µm Hãa §éc ®¬n	1	4	0	\spr\item\medecine\obj-potion27.spr	19	1	1	Kh«ng ®éc kh«ng thÓ gi¶i		200	5	0	109	100	200			

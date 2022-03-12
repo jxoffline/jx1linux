@@ -1,0 +1,2 @@
+Ãû³Æ	ItemGenre	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	¼Û¸ñ	ËµÃ÷ÎÄ×Ö
+Thæ ®Şa phï 	5	\spr\item\special\Obj_TownPortal.spr	38	1	1	500	Mét lo¹i bïa ph¸p, gióp b¹n mau chãng ®Õn n¬i muèn ®Õn. 

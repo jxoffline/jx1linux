@@ -1,0 +1,24 @@
+[Setting]
+MaxRoleCount = 15
+MaxConnectCount = 10
+BackupSleepTime = 0
+GetPassInterval = 300
+Password = 7yUAGT0r_QKDyB0UIA6C1FeKE9eA4eB6
+Port = 5001
+
+[AntiBot]
+RefuseLogin = 0
+DelayTime = 1800
+UnRefuseTime = 150
+MaxChance = 3
+
+[Database]
+Ip = 127.0.0.1
+User = root
+Password = 7yUAGT0r_QKDyB0UIA6C1FeKE9eA4eB6
+Database = server1
+
+[FixIp]
+IntranetIp = 127.0.0.1
+InternetIp = 127.0.0.1
+

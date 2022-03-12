@@ -1,0 +1,22 @@
+EQUIPNAME	PLATINAID	GOLDID	TASKRATE	RECOIN	HUNDUNDING
+[Thiªn Tø] Méng Long Kim Ti ChÝnh Hång Cµ Sa	2	2	2	2	
+[Thiªn Tø] H¸m Thiªn Thõa Long ChiÕn Ngoa	20	20	3	3	
+[Thiªn Tø] KÕ NghiÖp HuyÒn Vò Hoµng Kim Kh¶i	22	22	3	3	
+[Thiªn Tø] V« Gian CÇm VËn Hé UyÓn	34	34	2.5	3	
+[Thiªn Tø] V« Ma Hång Truy NhuyÔn Th¸p Hµi	40	40	2.5	3	
+[Thiªn Tø] Tª Hoµng B¨ng Tung CÈm Uyªn	49	49	2.5	3	
+[Thiªn Tø] BÝch H¶i Hång L¨ng Ba	54	54	2	2	
+[Thiªn Tø] U Lung Kim Xµ Ph¸t §¸i	56	56	2.5	2	
+[Thiªn Tø] Minh ¶o U §éc ¸m Y	62	62	2.5	3	
+[Thiªn Tø] Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï	77	77	2.5	3	
+[Thiªn Tø] §ång Cõu Kh¸ng Long Hé Thñ	94	94	2.5	2	
+[Thiªn Tø] §Þch Kh¸i CÈu TÝch B× Hé UyÓn	99	99	2.5	2	
+[Thiªn Tø] Ma S¸t Tµn D­¬ng Anh HuyÕt Gi¸p	102	102	2	2	
+[Thiªn Tø] L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	119	119	2.5	2	
+[Thiªn Tø] CËp Phong Tam Thanh Phï	122	122	2.5	2	
+[Thiªn Tø] L«i Khung Thiªn §Þa Hé Phï	132	132	2	2	
+[Thiªn Tø] H¸m Thiªn Hæ §Çu KhÈn Thóc UyÓn	19	19	3	1	
+[Thiªn Tø] V« Ma B¨ng Tinh ChØ Hoµn	38	38	2.5	1	
+[Thiªn Tø] Thiªn Quang Thóc Thiªn Ph­îc §Þa Hoµn	80	80	2.5	1	
+[Thiªn Tø] L¨ng Nh¹c Thiªn §Þa HuyÒn Hoµng Giíi	120	120	3	1	
+[Thiªn Tø] S­¬ng Tinh Phong B¹o ChØ Hoµn	130	130	2.5	1	

@@ -1,0 +1,9 @@
+经脉ID	经脉名称	存放经脉进度的任务变量
+1	цc M筩h	4001
+2	Nh﹎ M筩h	4002
+3	Xung M筩h	4003
+4	ыi M筩h	4004
+5	 Duy M筩h	4005
+6	Dng Duy M筩h	4006
+7	 Khi猽 M筩h	4007
+8	Dng Khi猽 M筩h	4008

@@ -1,0 +1,109 @@
+EqType	FightStand	NormalStand1	NormalStand2	FightWalk	NormalWalk	FightRun	NormalRun	Wound	Die	Attack1	Attack2	Magic	SitDown	JunpFly
+Tay kh«ng	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+®¬n thñ kiÕm 1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWPuncture	MeleeWCut	MeleeWMagic	SitDown	JumpFly
+®¬n thñ kiÕm 2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWPuncture	MeleeWCut	MeleeWMagic	SitDown	JumpFly
+®¬n thñ kiÕm 3	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWPuncture	MeleeWCut	MeleeWMagic	SitDown	JumpFly
+®¬n thñ ®ao 1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+®¬n thñ ®ao 2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+®¬n thñ ®ao 3	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Lo¹i tr­êng th­¬ng 1	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng th­¬ng 2	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng th­¬ng 3	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng c«n 1	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng c«n 2	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng c«n 3	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Lo¹i Song kiÕm 1	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song kiÕm 2	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song kiÕm 3	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song chïy 1	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song chïy 2	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song chïy 3	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+¸m khÝ 	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	DartThrow	DartThrow	FreeMagic	SitDown	JumpFly
+®¬n thñ kiÕm 4	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWPuncture	MeleeWCut	MeleeWMagic	SitDown	JumpFly
+®¬n thñ kiÕm 5	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+®¬n thñ ®ao 4	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+®¬n thñ ®ao 5	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Lo¹i tr­êng th­¬ng 4	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng th­¬ng 5	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng c«n 4	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Lo¹i tr­êng c«n 5	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Lo¹i Song kiÕm 4	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song kiÕm 5	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song chïy 4	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Lo¹i Song chïy 5	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+<<Î´·­Òë>>	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Ë«²øÊÖ-½ð	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Ë«²øÊÖ-Ë®	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Ë«²øÊÖ-Ä¾	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Ë«²øÊÖ-»ð	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+³¤¹÷-½ð¹÷	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+³¤¹÷-»ð¹÷	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+³¤Ç¹-½ðÇ¹	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+³¤Ç¹-»ðÇ¹	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-½ð	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-Ä¾	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-Ë®	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ»ðµ¶-»ð	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-À×	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ½£-Ë®	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ½£-À×	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖÀ×½£-À×	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Ë«´¸-½ð	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Ë«µ¶-Ë®	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-·¢¹â1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ½£-·¢¹â1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ»ðµ¶-·¢¹â1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖÀ×½£-·¢¹â1	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+³¤¹÷-·¢¹â1	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+³¤Ç¹-·¢¹â1	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Ë«´¸-·¢¹â1	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Ë«µ¶-·¢¹â1	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Ë«²øÊÖ-·¢¹â1	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Ë«×¦-·¢¹â1	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+¿ÕÊÖ-·¢¹â1	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+µ¥ÊÖµ¶-·¢¹â2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ½£-·¢¹â2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖ»ðµ¶-·¢¹â2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+µ¥ÊÖÀ×½£-·¢¹â2	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+³¤¹÷-·¢¹â2	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+³¤Ç¹-·¢¹â2	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	RangeWDie	RangeWCut	RangeWPuncture	RangeWMagic	SitDown	JumpFly
+Ë«´¸-·¢¹â2	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPull	DoubleWPound	DoubleWMagic	SitDown	JumpFly
+Ë«µ¶-·¢¹â2	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Ë«²øÊÖ-·¢¹â2	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Ë«×¦-·¢¹â2	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+¿ÕÊÖ-·¢¹â2	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Quy Y TriÒn Thñ	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Cùc L¹c T¨ng C«n	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Minh Ph­îng H­ Kh«ng Giíi §ao	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng ChiÕn ThÇn Chïy	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Minh Ph­îng Anh Hïng Th­¬ng	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Minh Ph­îng B¸ V­¬ng B¶o §ao	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng T¶n Hoa Tr­êng KiÕm	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng L¨ng Tiªu TriÒn Thñ	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng V¹n Hoa B¶o §ao	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng Ph­¬ng Hoa Song §ao	DoubleWStand	FreeStand2	FreeStand1	DoubleWWalk	DoubleWWalk	DoubleWRun	DoubleWRun	DoubleWWound	DoubleWDie	DoubleWPound	DoubleWPull	DoubleWMagic	SitDown	JumpFly
+Minh Ph­îng Diªm La TriÒn Thñ	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Minh V­¬ng B¶o §ao	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng LiÔm DiÖm Phi §ao	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Thiªn Hoang Tô TiÔn	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Thiªn Kiªu Phi Tiªu	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng ThiÕt HuyÕt TriÒn Thñ	FreeStand3	FreeStand2	FreeStand1	FreeWalk	NormalWalk	FreeRun	NormalRun	FreeWound	FreeDie	FreeAttack	FreeAttack	FreeMagic	SitDown	JumpFly
+Minh Ph­îng Quang Phôc Tr­îng	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Minh Ph­îng Dôc NhËt Th­¬ng	RangeWStand	FreeStand2	FreeStand1	RangeWWalk	RangeWWalk	RangeWRun	RangeWRun	RangeWWound	MeleeWDie	RangeWPuncture	RangeWCut	RangeWMagic	SitDown	JumpFly
+Minh Ph­îng SÝ §Þa §ao	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng Kh«ng Minh KiÕm	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng Bång Lai KiÕm	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng Cöu Thiªn #?	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Minh Ph­îng Tham Th­¬ng KiÕm	MeleeWStand	FreeStand2	FreeStand1	MeleeWWalk	MeleeWWalk	MeleeWRun	MeleeWRun	MeleeWWound	MeleeWDie	MeleeWCut	MeleeWPuncture	MeleeWMagic	SitDown	JumpFly
+Null														

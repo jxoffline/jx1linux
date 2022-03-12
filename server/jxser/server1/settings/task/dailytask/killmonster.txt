@@ -1,0 +1,18 @@
+TaskId	TaskName	MapId	MapName	MonsterName	KillCount
+1		141	D­îc V­¬ng ®éng tÇng 1	Phong Minh 	20
+2		193	Vò Di s¬n	Sãi x¸m	20
+3		92	Thôc C­¬ng s¬n	KhØ x¸m	20
+4		167	§iÓm Th­¬ng s¬n	X¸ LÞ 	20
+5		122	Hoµng Hµ Nguyªn §Çu	B¹ch Hæ 	20
+6		42	Thiªn T©m ®éng	L­u L­¬ng	20
+7		182	NghiÖt Long ®éng	Lang bæng	20
+8		38	ThiÕt th¸p tÇng 1 	§ao binh 	20
+9		166	Thiªn TÇm th¸p tÇng 3	¶nh C«n	20
+10		196	D­¬ng Gi¸c ®éng	Phi Liªm 	20
+11		123	L·o Hæ ®éng	Kho¸i Thèi	20
+12		9	Tr­êng Giang Nguyªn §Çu	¸c Ni	20
+13		181	L­ìng Thñy ®éng	S¬n tÆc	20
+14		202	Phï Dung ®éng	Tr­êng th­¬ng	20
+15		224	Sa m¹c ®Þa biÓu	XÝch LuyÖn Xµ 	20
+16		322	Tr­êng B¹ch s¬n B¾c	L¹c Quang	20
+17		321	Tr­êng B¹ch s¬n Nam 	S­¬ng §ao 	20

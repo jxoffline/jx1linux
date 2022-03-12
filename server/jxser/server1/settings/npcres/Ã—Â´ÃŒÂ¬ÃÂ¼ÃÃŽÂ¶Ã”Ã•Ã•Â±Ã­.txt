@@ -1,0 +1,198 @@
+Status	ÎÄ¼şÃû	ÀàĞÍ	²¥·Å·½Ê½	Ö÷½ÇÉíºó¿ªÊ¼Ö¡	Ö÷½ÇÉíºó½áÊøÖ¡	¶¯»­×ÜÖ¡Êı	¶¯»­×Ü·½ÏòÊı	¶¯»­Ö¡¼ä¸ô	Í¼·Ö¼¸°ê	ËµÃ÷£ºÍ¼Ö»ÄÜ·Ö1¡¢2¡¢3°ê
+Status1	Special	Head	Loop			8	1	50	1	Cho¸ng
+Status2	Special	Foot	Loop			8	1	50	1	Tróng ®éc
+Status3	Special	Body	Loop	0	29	8	1	50	1	®ãng b¨ng 
+Status4	Special	Body	Loop	10	20	8	1	50	1	®èt 
+Status5	Special	Body				8	1	50	1	hçn lo¹n
+Status6	\spr\skill\Îå¶¾½Ì\wdu_06_ÎŞĞÎ¹Æ.spr	Foot	Loop	0	0	30	1	18	1	V« H×nh §éc
+Status7	\spr\skill\Îå¶¾½Ì\wdu_07_¶¾¶Ü.spr	Body	Loop	0	15	20	1	12	1	§éc thuÉn
+Status8	\spr\skill\Îå¶¾½Ì\wdu_08_±ùÀ¶Ğş¾§.spr	Head	Loop	0	0	30	1	18	1	B¨ng Lam HuyÒn Tinh
+Status9	\spr\skill\Îå¶¾½Ì\wdu_09_À×¶¯¾ÅÌì.spr	Head	Loop	0	0	30	1	18	1	L«i ®éng Cöu Thiªn 
+Status10	\spr\skill\Îå¶¾½Ì\wdu_10_³àÑæÊ´Ìì.spr	Head	Loop	0	0	30	1	18	1	Xİch DiÖm Thùc Thiªn
+Status11	\spr\skill\Îå¶¾½Ì\wdu_11_Íò¹ÆÊ´ĞÄ.spr	Head	Loop	0	0	30	1	18	1	V¹n §éc Thùc T©m
+Status12	\spr\skill\Îå¶¾½Ì\wdu_12_ÒÆ»¨½ÓÓñ.spr	Head	Loop	0	0	20	1	12	1	Di Hoa TiÕp Ngäc
+Status13	\spr\skill\À¥ÂØ\kl_06_´óÀËÊ´¿Õ.spr	Body	Loop	5	15	20	1	12	1	§¹i L·ng Thùc Kh«ng
+Status14	\spr\skill\À¥ÂØ\kl_07_ÒıÀ×¶İµØ.spr	Body	Loop	7	22	30	1	18	1	DÉn L«i §én §Şa
+Status15	\spr\skill\À¥ÂØ\kl_08_ÁÒ»ğºì³¾.spr	Body	Loop	7	22	30	1	18	1	LiÖt Háa Hång TrÇn
+Status16	\spr\skill\À¥ÂØ\kl_09_Ä¾Öé±ø½â.spr	Body	Loop	40	40	40	1	16	1	Méc Ch©u Binh Gi¶i
+Status17	\spr\skill\À¥ÂØ\kl_10_»¬²»ÁôÊÖ.spr	Body	Loop	4	12	15	1	12	1	Ho¹t BÊt L­u Thñ 
+Status18	\spr\skill\Îäµ±\wd_08_ÈË½£ºÏÒ».spr	Body	Loop	7	22	30	1	18	1	Nh©n KiÕm Hîp NhÊt  
+Status19	\spr\skill\Îäµ±\wd_06_×øÍüÎŞÎÒ.spr	Head	Loop	0	0	36	1	21	1	Täa Väng V« Ng· 
+Status20	\spr\skill\Îäµ±\wd_07_ÆßĞÇÕó.spr	Foot	Loop	0	0	30	1	24	1	ThÊt Tinh TrËn
+Status21	\spr\skill\ÌìÈÌ\mag_tr_06_»ğ¶Ü.spr	Body	Loop	4	12	15	1	18	1	Háa ThuÉn
+Status22	\spr\skill\ÌìÈÌ\mag_tr_07_ÍµÌì»»ÈÕ.spr	Head	Loop	0	0	15	1	3	1	Th©u Thiªn Ho¸n NhËt
+Status23	\spr\skill\ÌìÈÌ\mag_tr_08_ÎüĞÇ´ó·¨.spr	Head	Loop	0	0	15	1	3	1	HÊp Tinh §¹i Ph¸p
+Status24	\spr\skill\ÌìÈÌ\mag_tr_09_½èÁ¦´òÁ¦.spr	Head	Loop	0	0	15	1	3	1	T¸ Lùc §¶ Lùc
+Status25	\spr\skill\ÌìÈÌ\mag_tr_10_Ê´¹ÇÑªØğ.spr	Head	Loop	0	0	15	1	30	1	Thùc Cèt HuyÕt NhÉn 
+Status26	\spr\skill\ÌìÈÌ\mag_tr_11_»ÃÓ°·Éºü.spr	Head	Loop	0	0	15	1	12	1	¶o ¶nh Phi Hå 
+Status27	\spr\skill\ÌìÈÌ\mag_tr_12_·ÉºèÎŞ¼£.spr	Head	Loop	0	0	15	1	12	1	Phi Hång V« Tİch
+Status28	\spr\skill\ÌìÈÌ\mag_tr_13_À÷Ä§¶á»ê.spr	Head	Loop	0	0	15	1	12	1	LŞch Ma §o¹t Hån
+Status29	\spr\skill\ÌìÈÌ\mag_tr_14_ÎåĞĞÕó.spr	Foot	Loop	0	0	15	1	18	1	Ngò hµnh trËn
+Status30	\spr\skill\ÌìÈÌ\mag_tr_15_ÌìÄ§½âÌå.spr	Head	Loop	0	0	15	1	15	1	Thiªn Ma Gi¶i ThÓ 
+Status31	\spr\skill\´äÑÌ\mag_cy_06_Ñ©¶Ü.spr	Body	Loop	4	12	16	1	18	1	TuyÕt ThuÉn
+Status32	\spr\skill\´äÑÌ\mag_cy_07_±ù¶Ü.spr	Body	Loop	4	12	16	1	18	1	B¨ng ThuÉn
+Status33	\spr\skill\´äÑÌ\mag_cy_09_Ñ©Ó°.spr	Body	Loop	16	16	16	1	15	1	TuyÕt ¶nh
+Status34	\spr\skill\´äÑÌ\mag_cy_12_ÉãĞÄÊõ.spr	Head	Loop	0	0	18	1	6	1	NhiÕp T©m ThuËt
+Status35	\spr\skill\ÌÆÃÅ\tm_01_¶¾¸½¼Ó.spr	Head	Loop	0	0	30	1	18	1	T¨ng ®éc
+Status36	\spr\skill\ÌÆÃÅ\tm_02_±ù¸½¼Ó.spr	Head	Loop	0	0	30	1	18	1	T¨ng b¨ng
+Status37	\spr\skill\¶ëáÒ\mag_em_06_Çï·çÒ¶.spr	Foot	Loop	0	0	16	1	16	1	Thu Phong DiÖp
+Status38	\spr\skill\¶ëáÒ\mag_em_07_×íÏÉÍûÔÂ.spr	Foot	Loop	0	0	16	1	16	1	Tóy Tiªn Väng NguyÖt
+Status39	\spr\skill\¶ëáÒ\mag_em_08_Á÷Ë®.spr	Foot	Loop	0	0	16	1	16	1	L­u Thñy 
+Status40	\spr\skill\¶ëáÒ\mag_em_09_ÃÎµû.spr	Foot	Loop	0	0	16	1	16	1	Méng §iÖp 
+Status41	\spr\skill\¶ëáÒ\mag_em_10_·ğĞÄ´ÈÓÓ.spr	Foot	Loop	0	0	15	1	15	1	PhËt T©m Tõ H÷u
+Status42	\spr\skill\¶ëáÒ\mag_em_11_·çÓêÆ®Ïã.spr	Head	Loop	0	0	4	1	6	1	Phong Vò Phiªu H­¬ng
+Status43	\spr\skill\Ø¤°ï\mag_gb_11_×íµû¿ñÎè.spr	Body	Loop	4	12	16	1	19	1	Tóy §iÖp Cuång Vò 
+Status44	\spr\skill\Ø¤°ï\mag_gb_12_´ò¹·Õó.spr	Foot	Loop	0	0	8	1	19	1	§¶ CÈu bæng
+Status45	\spr\skill\ÉÙÁÖ\sl_07_ÂŞººÕó.spr	Foot	Loop	0	0	10	1	8	1	La H¸n TrËn
+Status46	\spr\skill\ÌìÍõ\tw_01_»ğÑÛ½ğ¾¦.spr	Head	Loop	0	0	10	1	16	1	Háa Nh·n Kim T×nh
+Status47	\spr\skill\ÌìÍõ\tw_02_ÌìÍõÕ½Òâ.spr	Body	Loop	20	20	20	1	40	1	Thiªn V­¬ng ChiÕn ı 
+Status48	\spr\skill\ÌìÍõ\tw_03_Õ´ÒÂÊ®°Ëµø.spr	Body	Loop	5	15	20	1	40	1	Triªm Y ThËp B¸t §iÖt
+Status49	\spr\skill\ÌìÍõ\tw_04_½ğÖÓÕÖ.spr	Body	Loop	5	15	20	1	20	1	Kim Chung Tr¸o
+Status50	\spr\skill\²¹³ä\mag_spe_Ñ£ÔÎ.spr	Head	Loop	0	0	10	1	10	1	HiÖu qu¶ cho¸ng
+Status51	\spr\skill\²¹³ä\ĞÒÔËĞÇ.spr	Foot	Loop	0	0	15	1	15	1	H¹nh VËn Tinh 
+Status52	\spr\skill\others\c.spr	Body	Loop	0	0	13	1	12	1	BÊt ®éng Minh V­¬ng 
+Status53	\spr\skill\sl\»ÛÑÛÖä.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status54	\spr\skill\wu\»¯ÏÕÎªÒÄ.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status55	\spr\skill\em\em_²¤ÂÜĞÄ¾­.spr	Body	Loop	0	0	20	1	12	1	Thanh ¢m Ph¹n X­íng
+Status56	\spr\skill\em\ÇáÒôèó³ª.spr	Foot	Loop	0	0	20	1	12	1	3h
+Status57	\spr\skill\gb\»¬²»ÁôÊÖ.spr	Body	Loop	0	0	15	1	12	1	Ho¹t BÊt L­u Thñ 
+Status58	\spr\skill\tr\±¯ËÖÇå·ç.spr	Body	Loop	0	0	15	1	12	1	Ho¹t BÊt L­u Thñ 
+Status59	\spr\skill\gb\´ò¹·Õó.spr	Foot	Loop	0	0	18	1	12	1	Ho¹t BÊt L­u Thñ 
+Status60	\spr\skill\À¥ÂØ\Bz_dian3_±¬Õ¨.spr	Body	Loop	0	0	8	1	8	1	Ho¹t BÊt L­u Thñ 
+Status61	\spr\skill\À¥ÂØ\kl_15_ËêÔÂÎŞÇé·û.spr	Body	Loop	0	0	20	1	12	1	Ho¹t BÊt L­u Thñ 
+Status62	\spr\skill\À¥ÂØ\kl_14_ÆúĞÄ·û.spr	Body	Loop	0	0	20	1	12	1	Mª Tung ¶o ¶nh
+Status63	\spr\skill\others\±¼Á÷µ½º£.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status64	\spr\skill\others\¹ÂÄ¾¶İÀ×.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status65	\spr\skill\others\½ğÎÚÓ³Ñ©.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status66	\spr\skill\others\¿üÄ¾ĞÇÕÕ.spr	Head	Loop	0	0	15	1	15	1	Nh­ Lai Thiªn DiÖp 
+Status67	\spr\skill\others\lucky.spr	Head	Loop	0	0	15	1	50	1	May m¾n
+Status68	\spr\skill\bm\Äàöú.spr	Body	Loop	0	0	15	1	50	1	Nª Thu C«ng 
+Status69	\spr\skill\bm\¹êÃü.spr	Head	Loop	0	0	15	1	50	1	Tr­êng Sinh Quy MÖnh QuyÕt
+Status70	\spr\skill\bm\Áéºü.spr	Head	Loop	0	0	15	1	50	1	Linh Hå Khai ThÇn thuËt 
+Status71	\spr\skill\bm\¼¦È®.spr	Foot	Loop	0	0	15	1	50	1	Kª KhuyÓn Th¨ng Thiªn 
+Status72	\spr\skill\gongcheng\1jia.spr	Foot	Loop	0	0	14	1	50	1	§Ö nhÊt c«ng thµnh
+Status73	\spr\skill\zhongqiu\zq_sl_001.spr	Head	Loop	0	0	10	1	15	1	B¸nh trung thu 
+Status74	\spr\skill\zhongqiu\zq_sl_002.spr	Head	Loop	0	0	10	1	15	1	QuÕ Hoa Töu
+Status75	\spr\skill\christmas\star1.spr	Head	Loop	0	0	10	1	100	1	Hoa ®¨ng 
+Status76	\spr\skill\christmas\star2.spr	Head	Loop	0	0	10	1	100	1	Hoa ®¨ng 
+Status77	\spr\skill\christmas\star2.spr	MiniMap	Loop	0	0	10	1	100	1	phãng to b¶n ®å nhá 
+Status78	\spr\skill\task\taskfinish.spr	Foot	Loop	0	0	27	1	50	1	Hoµn thµnh nhiÖm vô 
+Status79	\spr\skill\special\skill_heart.spr	Body	Loop	0	0	20	1	40	1	Tr¹ng th¸i kü n¨ng
+Status80	\spr\skill\²¹³ä\mag_spe_µÇÂ¼.spr	Foot	Loop	0	0	20	1	50	1	Hoµn thµnh nhiÖm vô  S¸t thñ  
+Status81	\spr\skill\others\title_yl.spr	Foot	Loop	0	0	10	1	30	1	Vßng trßn Vâ L©m §¹i Héi 1
+Status82	\spr\skill\others\title_bj.spr	Foot	Loop	0	0	10	1	30	1	Vßng trßn Vâ L©m §¹i Héi 2
+Status83	\spr\skill\others\title_zw.spr	Foot	Loop	0	0	11	1	30	1	Vßng trßn Vâ L©m §¹i Héi 3
+Status84	\spr\skill\others\title_dg.spr	Foot	Loop	0	0	10	1	30	1	Vßng trßn Vâ L©m §¹i Héi 4
+Status85	\spr\skill\others\title_ab.spr	Foot	Loop	0	0	10	1	30	1	Vßng trßn Vâ L©m §¹i Héi 5
+Status86	\spr\skill\kl\Ò»ÆøÈıÇå·û.spr	Head	Loop	0	0	15	1	30	1	HuyÒn Thiªn V« Cùc
+Status87	\spr\skill\partner\Í¬°éÆÕ·À.spr	Head	Loop	0	0	1	1	1	1	Kü n¨ng §ång hµnh 
+Status88	\spr\skill\partner\Í¬°é¶¾·À.spr	Head	Loop	0	0	1	1	1	1	Kü n¨ng §ång hµnh 
+Status89	\spr\skill\partner\Í¬°é±ù·À.spr	Head	Loop	0	0	1	1	1	1	Kü n¨ng §ång hµnh 
+Status90	\spr\skill\partner\Í¬°é»ğ·À.spr	Head	Loop	0	0	1	1	1	1	Kü n¨ng §ång hµnh 
+Status91	\spr\skill\partner\Í¬°éÀ×·À.spr	Head	Loop	0	0	1	1	1	1	Kü n¨ng §ång hµnh 
+Status92	\spr\skill\partner\Í¶Ê¯¶¾.spr	Foot	Loop	0	0	15	1	30	1	Kü n¨ng §ång hµnh 
+Status93	\spr\skill\partner\Í¶Ê¯±ù.spr	Foot	Loop	0	0	15	1	30	1	Kü n¨ng §ång hµnh 
+Status94	\spr\skill\partner\Í¶Ê¯»ğ.spr	Foot	Loop	0	0	15	1	30	1	Kü n¨ng §ång hµnh 
+Status95	\spr\skill\partner\ÇàÄ¾¹¦.spr	Foot	Loop	0	0	15	1	30	1	Kü n¨ng §ång hµnh 
+Status96	\spr\skill\partner\skill_bairenzhan.spr	Foot	Loop	0	0	15	1	30	1	B¸ch Nh©n Tr¶m
+Status97	\spr\skill\partner\skill_qianrenzhan.spr	Body	Loop	0	0	20	1	40	1	Thiªn Nh©n Tr¶m
+Status98	\spr\skill\partner\skill_zhanshouzhe.spr	Head	Loop	0	0	15	1	30	1	§ao phñ 
+Status99	\spr\skill\partner\skill_zhanshouwang.spr	Body	Loop	0	0	20	1	40	1	Tr¶m ®Çu v­¬ng
+Status100	\spr\skill\task\skill_mupai.spr	Foot	Loop	0	0	10	1	30	1	Tİn sø lÖnh – méc
+Status101	\spr\skill\task\skill_tongpai.spr	Foot	Loop	0	0	10	1	30	1	Tİn sø lÖnh – §ång
+Status102	\spr\skill\task\skill_yinpai.spr	Foot	Loop	0	0	11	1	30	1	Tİn sø lÖnh – B¹c
+Status103	\spr\skill\task\skill_jinpai.spr	Foot	Loop	0	0	10	1	30	1	Tİn sø lÖnh - Vµng
+Status104	\spr\skill\task\skill_yucijinpai.spr	Foot	Loop	0	0	10	1	30	1	Ngù Tø lÖnh bµi - vµng 
+Status105	\spr\skill\task\randomtask.spr	Head	Loop	0	0	20	1	37	1	tr¹ng th¸i nhiÖm vô ngÉu nhiªn 
+Status106	\spr\skill\²¹³ä\mag_spe_Ñ£ÔÎ.spr	Head	Loop	0	0	10	1	10	1	cho¸ng (Gi¸ng Sinh) 
+Status107	\spr\skill\top_tong\bangzhu.spr	Foot	Loop	0	0	16	1	35	1	Bang chñ Vâ L©m §Ö NhÊt Bang
+Status108	\spr\skill\top_tong\bangzhong.spr	Foot	Loop	0	0	16	1	35	1	Bang chóng Vâ L©m §Ö NhÊt Bang
+Status109	\spr\skill\special\Õ¨µ¯ÈË±êÊ¾.spr	Head	Loop	0	0	18	1	50	1	HiÓn thŞ ng­êi nĞm ph¸o
+Status110	\spr\skill\tw\µ¹ĞéÌì.spr	Body	Loop	0	0	28	1	15	1	§¶o H­ Thiªn_Kh¸ng bïa chó
+Status111	\spr\skill\sl\´ó³ËÈçÀ´Öä.spr	Body	Loop	0	0	25	1	25	1	§¹i Thõa Nh­ Lai Chó_Ph¶n ®ßn bïa chó
+Status112	\spr\skill\others\²ÔÓ¬¹â»·.spr	Body	Loop	0	0	11	1	11	1	Vßng s¸ng Th­¬ng D¨ng
+Status113	\spr\skill\others\Ïã½¶¹â»·.spr	Foot	Loop	0	0	21	1	31	1	Vßng s¸ng H­¬ng Tiªu
+Status114	\spr\skill\others\²ÔÓ¥¹â»·.spr	Body	Loop	0	0	21	1	63	1	Vßng s¸ng Th­¬ng ¦ng
+Status115	\spr\skill\others\»ğÑæ¹â»·.spr	Foot	Loop	0	0	13	1	18	1	Vßng s¸ng Háa DiÖm
+Status116	\spr\skill\others\°µÓ°¹â»·.spr	Foot	Loop	0	0	10	1	16	1	Vßng s¸ng ¸m ¶nh
+Status117	\spr\skill\others\Æß½£¹â»·.spr	Foot	Loop	0	0	20	1	34	1	Vßng s¸ng ThÊt KiÕm
+Status118	\spr\skill\wu\ÎüĞÇ÷Ê.spr	Body	Loop	0	0	25	1	20	1	HÊp Tinh YÓm
+Status119	\spr\skill\em\±ÕÔÂ·÷³¾.spr	Foot	Loop	0	0	25	1	20	1	BÕ NguyÖt PhÊt TrÇn
+Status120	\spr\skill\gb\»ìÌìÆø¹¦.spr	Head	Loop	0	0	11	1	20	1	Hçn Thiªn Khİ C«ng
+Status121	\spr\skill\tr\Ä§ÒôÊÉÆÇ.spr	Body	Loop	0	0	20	1	40	1	Ma ¢m PhÖ Ph¸ch
+Status122	\spr\skill\wd\³öÓÙ²»È¾.spr	Body	Loop	0	0	27	1	35	1	XuÊt ø BÊt NhiÔm
+Status123	\spr\skill\kl\Á½ÒÇÕæÆø.spr	Body	Loop	0	0	23	1	20	1	L­ìng Nghi Ch©n Khİ
+Status124	\spr\skill\others\Áé²ÎÁ¦.spr	Foot	Loop	0	0	17	1	20	1	Linh S©m Lùc
+Status125	\spr\skill\others\totempole_phoenix.spr	Head	Loop	0	0	18	1	90	1	Phông Hoµng Ên
+Status126	\spr\skill\others\totempole_fetch.spr	Head	Loop	0	0	25	1	50	1	LuyÖn vâ hån
+Status127	\spr\skill\others\totempole_buymen.spr	Head	Loop	0	0	17	1	147	1	§µo Chu TiÒn
+Status128	\spr\skill\others\totempole_children.spr	Head	Loop	0	0	18	1	50	1	ThŞ vÖ doanh
+Status129	\spr\skill\others\totempole_pith.spr	Head	Loop	0	0	9	1	130	1	Linh s©m lùc
+Status130	\spr\skill\others\totempole_proficient.spr	Head	Loop	0	0	16	1	50	1	Hoµng Kim LÖnh
+Status131	\spr\skill\others\totempole_mask.spr	Head	Loop	0	0	20	1	70	1	V« Song S¸t TrËn
+Status132	\spr\skill\others\Î±×°.spr	Body	Loop	0	0	15	1	70	1	Kü n¨ng ngôy trang
+Status133	\spr\skill\task\wenhao.spr	Head	Loop	0	0	16	1	37	1	C©u hái LÔ t×nh nh©n
+Status134	\spr\skill\task\process_000.spr	Foot	Loop	0	0	20	1	60	1	Thanh diÔn tiÕn LÔ T×nh Nh©n
+Status135	\spr\skill\others\ib_citymaster.spr	Foot	Loop	0	0	10	1	30	1	Trang bŞ B¹ch Kim
+Status136	\spr\skill\others\title_new_zw.spr	Foot	Loop	0	0	15	1	15	1	Tèng Kim Chiªu Vâ HiÖu óy
+Status137	\spr\skill\others\title_new_yl.spr	Foot	Loop	0	0	11	1	18	1	Tèng Kim Vò L©m Trung Lang T­íng
+Status138	\spr\skill\others\title_new_bj.spr	Foot	Loop	0	0	20	1	23	1	Tèng Kim Phiªu Kú §¹i T­íng Qu©n
+Status139	\spr\skill\others\title_new_ab.spr	Foot	Loop	0	0	15	1	30	1	Tèng Kim An Bang §¹i T­íng Qu©n
+Status140	\spr\skill\others\title_new_dg.spr	Foot	Loop	0	0	15	1	15	1	Tèng Kim §Şnh Quèc Nguyªn So¸i
+Status141	\spr\item\script\tisheng_skill.spr	Body	Loop	0	0	8	1	18	1	Kim Chung Tr¸o
+Status142	\spr\skill\others\jingyingsaiguanjun.spr	Foot	Loop	0	0	15	1	18	1	Qu¸n qu©n anh hïng ®Êu
+Status143	\spr\skill\others\jingyingsaiyajun.spr	Foot	Loop	0	0	15	1	15	1	¸ qu©n anh hïng ®Êu
+Status144	\spr\skill\others\jingyingsaijijun.spr	Foot	Loop	0	0	15	1	15	1	Quı qu©n anh hïng ®Êu
+Status145	\spr\skill\others\vip_guanghuan.spr	Foot	Loop	0	0	15	1	15	1	vipÕÊºÅ¹â»·
+Status146	\spr\skill\others\hongguanhuan.spr	Foot	Loop	0	0	15	1	15	1	ºìÉ«¹â»·
+Status147	\spr\skill\others\lvguagnhuan.spr	Foot	Loop	0	0	15	1	15	1	ÂÌÉ«¹â»·
+Status148	\spr\skill\others\languanhuan.spr	Foot	Loop	0	0	15	1	15	1	À¶É«¹â»·
+Status149	\spr\skill\others\jinguanhuan.spr	Foot	Loop	0	0	15	1	15	1	½ğÉ«¹â»·
+Status150	\spr\skill\others\heiguanhuan.spr	Foot	Loop	0	0	15	1	15	1	ºÚÉ«¹â»·
+Status151	\spr\skill\others\jianwangzhixia.spr	Foot	Loop	0	0	15	1	35	1	½£ÍøÖ®ÏÄ¸öÈË»îÔ¾¶È
+Status152	\spr\skill\others\xianfengguan.spr	Foot	Loop	0	0	10	1	20	1	ÏÈ·æ¹Ù¹â»·
+Status153	\spr\skill\others\bingmayuanshuai.spr	Foot	Loop	0	0	10	1	20	1	±øÂíÔªË§¹â»·
+Status154	\spr\skill\others\dachengxiang.spr	Foot	Loop	0	0	10	1	20	1	´óØ©Ïà¹â»·
+Status155	\spr\skill\others\huangdi.spr	Foot	Loop	0	0	10	1	50	1	»ÊµÛ¹â»·
+Status156	\spr\skill\others\tianzi.spr	Foot	Loop	0	0	10	1	56	1	Ìì×Ó¹â»·
+Status157	\spr\skill\others\chaoji_diyibang.spr	Foot	Loop	0	0	20	1	56	1	Siªu CÊp §Ö NhÊt Bang
+Status158	\spr\skill\others\gaoji_diyibang.spr	Foot	Loop	0	0	20	1	56	1	Cao CÊp §Ö NhÊt Bang
+Status159	\spr\skill\others\shengguanqindun.spr	Body	Loop	0	0	15	1	56	1	Ê¥¹âÇß¶Ü£¨Ğ§¹û£©
+Status160	\spr\skill\zhongqiu\zq_sl_003.spr	Head	Loop	0	0	20	1	60	1	Hång NguyÖt
+Status161	\spr\skill\zhongqiu\lanyue.spr	Head	Loop	0	0	10	1	100	1	À¶ÔÂ
+Status162	\spr\skill\others\vip_sc.spr	Foot	Loop	0	0	20	1	80	1	ÖĞ¼¶VIP¹â»·
+Status163	\spr\skill\others\vip_sr.spr	Foot	Loop	0	0	20	1	80	1	¸ß¼¶VIP¹â»·
+Status164	\spr\skill\others\vip_sp.spr	Foot	Loop	0	0	20	1	80	1	³¬¼¶VIP¹â»·
+Status165	\spr\skill\others\dati.spr	Foot	Loop	0	0	20	1	56	1	´ğÌâ±ÈÈü¹â»·
+Status166	\spr\item\newyear2010\×í¾Æ.spr	Head	Loop	0	0	12	1	110	1	Tóy Töu
+Status167	\spr\skill\others\¸ñµ².spr	Head	Loop	0	0	20	1	56	1	
+Status168	\spr\skill\others\ÖØ»÷.spr	Head	Loop	0	0	20	1	56	1	
+Status169	\spr\skill\others\Ë²ÒÆ.spr	Head	Loop	0	0	50	1	56	1	
+Status170	\spr\skill\others\zhongyueguanjun.spr	Body	Loop	0	0	30	1	56	1	ÖĞÔ½PKÈü¹Ú¾ü
+Status171	\spr\skill\others\jianmianhui_1st.spr	Foot	Loop	0	0	20	1	80	1	Ê×½ì½ğÉ½ÂÛ½£¹â»·
+Status172	\spr\skill\others\jianghugaoshou.spr	Foot	Loop	0	0	15	1	60	1	VIPÕÊºÅ¹â»·½­ºş¸ßÊÖ
+Status173	\spr\skill\others\wulinhaojie.spr	Foot	Loop	0	0	15	1	60	1	VIPÕÊºÅ¹â»·ÎäÁÖºÀ½Ü
+Status174	\spr\skill\others\jianxiazhizun.spr	Foot	Loop	0	0	15	1	60	1	VIPÕÊºÅ¹â»·½£ÏÀÖÁ×ğ
+Status175	\spr\skill\others\dubutianxia.spr	Foot	Loop	0	0	15	1	60	1	VIPÕÊºÅ¹â»·¶À²½ÌìÏÂ
+Status176	\spr\skill\others\xiridaxia.spr	Foot	Loop	0	0	15	1	15	1	ÎôÈÕ´óÏÀ»î¶¯
+Status177	\spr\skill\others\¶À¹ÂÇó°Ü.spr	Head	Loop	0	0	20	1	40	1	§éc C« CÇu B¹i
+Status178	\spr\skill\others\ÎäÁÖÖÁ×ğ.spr	Head	Loop	0	0	20	1	40	1	Vâ L©m Chİ T«n
+Status179	\spr\skill\others\Ò»´ú×ÚÊ¦.spr	Head	Loop	0	0	20	1	40	1	NhÊt §¹i T«ng s­ 
+Status180	\spr\skill\others\¾øÊÀ¸ßÊÖ.spr	Head	Loop	0	0	20	1	40	1	TuyÖt ThÕ Cao Thñ
+Status181	\spr\skill\others\ÃûÂú½­ºş.spr	Head	Loop	0	0	20	1	40	1	Vang Danh Giang Hå
+Status182	\spr\skill\others\ÏÀÃûÔ¶²¥.spr	Head	Loop	0	0	20	1	40	1	HiÖp Danh ViÔn B¸
+Status183	\spr\skill\others\ÎäÁÖĞÂĞã.spr	Head	Loop	0	0	20	1	40	1	Vâ L©m T©n Tó
+Status184	\spr\skill\others\³õÈë½­ºş.spr	Head	Loop	0	0	20	1	40	1	Míi nhËp giang hå 
+Status185	\spr\skill\others\ÈëÃÅµÜ×Ó.spr	Head	Loop	0	0	20	1	40	1	NhËp M«n §Ö Tö
+Status186	\spr\skill\others\longzhidui2.spr	Foot	Loop	0	0	15	1	83	1	2012ÁúÖ®¶Ó¹â»·
+Status187	\spr\skill\others\pkno1tong.spr	Foot	Loop	0	0	15	1	60	1	2012ÖĞÔ½µÚÒ»°ï
+Status188	spr\skill\ÃÅÅÉ½ø½×\½ğ.spr	Body	Loop	0	0	20	1	40	1	½ø½×boss½ğÏµ¹â»·
+Status189	spr\skill\ÃÅÅÉ½ø½×\Ä¾.spr	Body	Loop	0	0	20	1	40	1	½ø½×bossÄ¾Ïµ¹â»·
+Status190	spr\skill\ÃÅÅÉ½ø½×\Ë®.spr	Body	Loop	0	0	20	1	40	1	½ø½×bossË®Ïµ¹â»·
+Status191	spr\skill\ÃÅÅÉ½ø½×\»ğ.spr	Body	Loop	0	0	20	1	40	1	½ø½×boss»ğÏµ¹â»·
+Status192	spr\skill\ÃÅÅÉ½ø½×\ÍÁ.spr	Body	Loop	0	0	20	1	40	1	½ø½×bossÍÁÏµ¹â»·
+Status193	\spr\skill\others\jianghugaoshou.spr	Foot	Loop	0	0	15	1	60	1	Tèng Kim Long Hæ ViÖt Nam "Vâ Häc Kú Tµi"
+Status194	\spr\skill\others\wulinhaojie.spr	Foot	Loop	0	0	15	1	60	1	Tèng Kim Long Hæ ViÖt Nam "Vang Danh Tø Ph­¬ng"
+Status195	\spr\skill\others\jianxiazhizun.spr	Foot	Loop	0	0	15	1	60	1	Tèng Kim Long Hæ ViÖt Nam "Th©n Thñ BÊt Phµm"
+Status196	\spr\skill\others\dubutianxia.spr	Foot	Loop	0	0	15	1	60	1	Tèng Kim Long Hæ ViÖt Nam "Thiªn H¹ V« Song"
+Status197	\spr\skill\saotrungsinh7.spr	Head	Loop	0	0	20	1	20	1	sao trïng sinh 7

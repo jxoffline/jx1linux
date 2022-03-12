@@ -1,0 +1,13 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Long §µi §Çu	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®ÁúÌ§Í·\",tbProp={0,521},nQuality=1,nUsageTime=6000,}"	1	100	1	
+1	[Kh«ng h¹n chÕ] Long Hoµng Long Khİ B¹ch Long Tøc	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®°×ÁúÏ¢\",tbProp={0,522},nQuality=1,nUsageTime=6000,}"	1	100	2	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ TrÊn Minh Chi Liªn	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®ÕòÚ¤Ö®Á´\",tbProp={0,523},nQuality=1,nUsageTime=6000,}"	1	100	3	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Cöu HiÖn Chi ChØ	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®¾ÅÏÖÖ®Ö¸\",tbProp={0,524},nQuality=1,nUsageTime=6000,}"	1	100	4	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Ngäc Tiªu Dao	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®ÓñåĞÒ£\",tbProp={0,525},nQuality=1,nUsageTime=6000,}"	1	100	5	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Hoµng Kim L©n	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®»Æ½ğÁÛ\",tbProp={0,526},nQuality=1,nUsageTime=6000,}"	1	100	6	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Bµn Long Kh«i	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®ÅÍÁú¹å\",tbProp={0,527},nQuality=1,nUsageTime=6000,}"	1	100	7	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Long Khèc Thiªn Lı	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®Áú¿ŞÇ§Àï\",tbProp={0,528},nQuality=1,nUsageTime=6000,}"	1	100	8	
+1	[Kh«ng h¹n chÕ] Thiªn Hoµng Long Khİ Né Long Chi §ång	"return {szName=\"[ÎŞÏŞÖÆ]Ìì»ÍÁúÆ÷Ö®Å­ÁúÖ®Í«\",tbProp={0,529},nQuality=1,nUsageTime=6000,}"	1	100	9	
+1	Tiªn Th¶o Lé ®Æc biÖt	"return {szName=\"ÌØĞ§ÏÉ²İÂ¶\",tbProp={6,1,1181,1,0,0},nExpiredTime=10080,}"	5	100	10	
+1	Thiªn s¬n  B¶o Lé 	"return {szName=\"ÌìÉ½ÓñÂ¶\",tbProp={6,1,72,1,0,0},}"	10	100	11	
+1	B¶o hép vËn may	"return {szName=\"Õä²ØĞÒÔËÉÙÏÀ±¦ºĞ\",tbProp={6,1,2083,2,0,0},}"	1	100	12	

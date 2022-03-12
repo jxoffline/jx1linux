@@ -1,0 +1,21 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+TrÇm §µn H­¬ng Nang (Thæ)	0	9	0	\spr\item\equip\waist\obj-waist01.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ cá Hu©n Y, d©n gian th­êng dïng. 		100	1	0																						36	1	38	1								
+Tiªn X¹ H­¬ng Nang (Thæ)	0	9	0	\spr\item\equip\waist\obj-waist02.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lµi, dïng rÊt phæ biÕn. 		400	2	0																						36	7	38	1								
+Giµ Nam H­¬ng Nang (Thæ)	0	9	0	\spr\item\equip\waist\obj-waist03.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ c©y Nhò h­¬ng, phó gia th­êng dïng. 		900	3	0																						36	14	38	1								
+Long Tiªn H­¬ng Nang (Thæ)	0	9	0	\spr\item\equip\waist\obj-waist04.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lan, mïi vŞ thanh nh·. 		1600	4	0																						36	20	38	1								
+t¨ng sinh lùc	0	9	0	\spr\item\equip\waist\obj-waist05.spr	36	1	2	Lo¹i h­¬ng liÖu cao cÊp ®­îc tinh chÕ tõ nhiÒu lo¹i d­îc th¶o, dïng trong nh÷ng dŞp träng ®¹i. 		2500	5	0																						36	27	38	1								
+H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist06.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Tö Ph­¬ng, quan gia thİch dïng. 		3600	6	0																						36	34	38	1								
+t¨ng sinh lùc	0	9	0	\spr\item\equip\waist\obj-waist07.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c©y TrÇm §µn, Hoµng gia thİch dïng. 		4900	7	0																						36	40	38	1								
+H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist08.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c¸c lo¹i X¹ h­¬ng, Hoµng gia thİch dïng. 		6400	8	0																						36	47	38	1								
+t¨ng sinh lùc	0	9	0	\spr\item\equip\waist\obj-waist09.spr	36	1	2	Lo¹i h­¬ng liÖu chØ cã trong nh÷ng tæ kiÕn ®Æc hiÕm, quı phÈm trong hµng quı phÈm. 		8100	9	0																						36	54	38	1								
+H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist10.spr	36	1	2	Long Tiªn(n­íc miÕng cña Rång), lo¹i h­¬ng liÖu cùc quı, b¶o vËt cña thÕ gian. 		10000	10	0																						36	60	38	1								
+Bİch Ngäc Ngäc Béi(Thæ)	0	9	1	\spr\item\equip\waist\obj-waist11.spr	36	1	2	Gäi lµ Ngäc béi, thùc chÊt chØ lµ mét lo¹i ®¸ ®Ñp. 		100	1	0																						36	1	38	0								
+MÆc Ngäc Ngäc Béi(Thæ)	0	9	1	\spr\item\equip\waist\obj-waist12.spr	36	1	2	Lo¹i ngäc béi th«ng th­êng, th­ sinh nghÌo nhÊt còng cã thÓ ®eo. 		400	2	0																						36	7	38	0								
+Hoµng Ngäc Ngäc Béi(Thæ)	0	9	1	\spr\item\equip\waist\obj-waist13.spr	36	1	2	S¾c nh­ hoa §µo, thİch hîp víi nh÷ng thiÕu n÷ nhu m×. 		900	3	0																						36	14	38	0								
+D­¬ng Chi B¹ch Ngäc(Thæ)	0	9	1	\spr\item\equip\waist\obj-waist14.spr	36	1	2	Trong ngäc cã kh¾c nh÷ng hoa v¨n hoa mai, rÊt khã t×m thÊy. 		1600	4	0																						36	20	38	0								
+t¨ng sinh lùc	0	9	1	\spr\item\equip\waist\obj-waist15.spr	36	1	2	Tuy ngò s¾c kh«ng thÓ hiÖn râ nĞt, nh­ng còng lµ mét lo¹i b¶o ngäc hiÕm thÊy. 		2500	5	0																						36	27	38	0								
+Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist16.spr	36	1	2	§­îc mµi tõ lo¹i Thanh Ngäc Quı hiÕm, c¸c v¨n nh©n Nho sÜ th­êng thİch ®eo. 		3600	6	0																						36	34	38	0
+t¨ng sinh lùc	0	9	1	\spr\item\equip\waist\obj-waist17.spr	36	1	2	Lo¹i Bİch Ngäc Ngäc Béi tinh quı, V­¬ng T«n c«ng tö kh«ng ai lµ kh«ng thİch. 		4900	7	0																						36	40	38	0
+Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist18.spr	36	1	2	Mµi tõ lo¹i MÆc Ngäc quı hiÕm, mµu s¾c thanh nh·, hµm chøa linh khİ. 		6400	8	0																						36	47	38	0
+t¨ng sinh lùc	0	9	1	\spr\item\equip\waist\obj-waist19.spr	36	1	2	Mµi tõ lo¹i Hoµng Ngäc quı hiÕm, mµu s¾c thanh nh·, hµm chøa linh khİ. 		8100	9	0																						36	54	38	0
+Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist20.spr	36	1	2	Lo¹i ngäc quı hiÕm nhÊt trong c¸c lo¹i ngäc, chØ Hoµng ®Õ míi cã. 		10000	10	0																						36	60	38	0

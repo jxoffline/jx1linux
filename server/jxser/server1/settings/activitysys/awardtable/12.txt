@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+12	Cùc phÈm chi nguyªn	"return {szName=\"¼«Æ·Ö®Ô´\",tbProp={6,1,2130,-1,-1,0},}"	6	100	90	2
+12	ThÊt truyÒn bÝ ph¸p	"return {szName=\"Ê§´«ÃØ·¨\",tbProp={6,1,2131,-1,-1,0},}"	1	100	94	2

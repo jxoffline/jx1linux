@@ -1,0 +1,5 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+76	7	{tbProp={6,1,2405,1,0,0},nExpiredTime=20100816,}	1	35	696	18	
+76	thµnh 	{tbProp={6,1,2406,1,0,0},nExpiredTime=20100816,}	1	35	697	18	
+76	§¹I	{tbProp={6,1,2407,1,0,0},nExpiredTime=20100816,}	1	15	698	18	
+76	CHIÕN	{tbProp={6,1,2408,1,0,0},nExpiredTime=20100816,}	1	15	699	18	

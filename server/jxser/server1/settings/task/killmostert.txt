@@ -1,0 +1,42 @@
+TaskId	TaskName	MapId	MapName	MonsterName	KillCount
+1		141	D­îc V­¬ng ®éng tÇng 1	Phong Minh 	99
+2		193	Vò Di s¬n	Sãi x¸m	99
+3		92	Thôc C­¬ng s¬n	KhØ x¸m	99
+4		167	§iÓm Th­¬ng s¬n	X¸ LÞ 	99
+5		122	Hoµng Hµ Nguyªn §Çu	B¹ch Hæ 	99
+6		21	Thanh Thµnh S¬n	KÒn KÒn	99
+7		42	Thiªn T©m ®éng	L­u L­¬ng	99
+8		182	NghiÖt Long ®éng	Lang bæng	99
+9		38	ThiÕt th¸p tÇng 1 	§ao binh 	99
+10		56	Hoµnh S¬n Ph¸i	Kim §iªu	99
+11		166	Thiªn TÇm th¸p tÇng 3	¶nh C«n	99
+12		196	D­¬ng Gi¸c ®éng	Phi Liªm 	99
+13		319	L©m Du Quan	B«n L«i	99
+14		123	L·o Hæ ®éng	Kho¸i Thèi	99
+15		9	Tr­êng Giang Nguyªn §Çu	¸c Ni	99
+16		181	L­ìng Thñy ®éng	S¬n tÆc	99
+17		202	Phï Dung ®éng	Tr­êng th­¬ng	99
+18		224	Sa m¹c ®Þa biÓu	XÝch LuyÖn Xµ 	99
+19		322	Tr­êng B¹ch s¬n B¾c	L¹c Quang	99
+20		321	Tr­êng B¹ch s¬n Nam 	S­¬ng §ao 	99
+21		227	Sa M¹c 3	TËt Phong 	99
+22		93	TiÕn Cóc ®éng	Gi¶ Giíi Nh©n	1
+23		93	TiÕn Cóc ®éng	TrÞnh Cöu NhËt	1
+24		93	TiÕn Cóc ®éng	Chu Së B¸ 	1
+25		93	TiÕn Cóc ®éng	Trang Minh Trung	1
+26		225	Sa M¹c 1	Cam ChÝnh C« 	1
+27		225	Sa M¹c 1	Vò NhÊt ThÕ 	1
+28		225	Sa M¹c 1	D­¬ng Phong  DËt	1
+29		225	Sa M¹c 1	Hµ Sinh Vong	1
+30		75	Kho¶ Lang ®éng	T¨ng ChØ ãan	1
+31		75	Kho¶ Lang ®éng	VÖ Biªn Thµnh	1
+32		75	Kho¶ Lang ®éng	Cè Thñ §»ng	1
+33		75	Kho¶ Lang ®éng	Gia C¸t Kinh Hång	1
+34		321	Tr­êng B¹ch s¬n Nam 	Phan Ng¹t Nh¹n	1
+35		321	Tr­êng B¹ch s¬n Nam 	Liªn H×nh Th¸i	1
+36		321	Tr­êng B¹ch s¬n Nam 	Bµo TriÖt s¬n 	1
+37		321	Tr­êng B¹ch s¬n Nam 	V¹n Hå Tinh	1
+38		340	M¹c Cao QuËt	Trö Thiªn MÉn	1
+39		340	M¹c Cao QuËt	§o¹n L¨ng NguyÖt	1
+40		340	M¹c Cao QuËt	T¶  DËt Minh	1
+41		340	M¹c Cao QuËt	NhËm Th­¬ng Khung	1

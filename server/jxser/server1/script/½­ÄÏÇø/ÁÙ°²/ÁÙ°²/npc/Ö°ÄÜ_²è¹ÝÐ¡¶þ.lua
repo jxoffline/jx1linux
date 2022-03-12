@@ -1,0 +1,6 @@
+-- ÁÙ°²¡¡Ö°ÄÜ¡¡²è¹ÝÐ¡¶þ
+-- by£ºDan_Deng(2003-09-16)
+
+function main()
+	Talk(1,"","Dïng mét Êm Long TÜnh nhÐ? ")
+end;

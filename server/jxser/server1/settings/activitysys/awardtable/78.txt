@@ -1,0 +1,5 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+78	Th t Tinh BÈi	{tbProp={6,1,2420,1,0,0},nExpiredTime=20100823,}	1	60	704	18	
+78	Thµnh V≠¨ng Kh´i	{tbProp={6,1,2421,1,0,0},nExpiredTime=20100823,}	1	33	705	18	
+78	ßπi Th∏nh Gi∏p	{tbProp={6,1,2422,1,0,0},nExpiredTime=20100823,}	1	5	706	18	
+78	Chi’n Th«n Ngoa	{tbProp={6,1,2423,1,0,0},nExpiredTime=20100823,}	1	2	707	18	

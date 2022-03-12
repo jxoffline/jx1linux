@@ -1,0 +1,191 @@
+TitleName	TitleId	SpeicalGraphic	FaceId	AuraSkill	AuraSkillLevel	ExtSkill1	ExtSkillLevel1	ExtSkill2	ExtSkillLevel2	ExtSkill3	ExtSkillLevel3	ExtSkill4	ExtSkillLevel4	ExtSkill5	ExtSkillLevel5	Memo
+Binh sÜ 	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+HiÖu óy 	2	7	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thèng LÜnh 	3	13	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phã t­íng 	4	21	0	0	0	0	0	0	0	0	0	0	0	0	0	
+§¹i t­íng 	5	32	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nguyªn So¸i 	6	43	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Tæng l·nh ®éi	7	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ThËp ®¹i cao thñ 	8	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ThiÕu L©m cao thñ 	9	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn V­¬ng cao thñ 	10	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi §­êng M«n cao thñ 	11	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Ngò §éc cao thñ 	12	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Nga Mi cao thñ 	13	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thóy Yªn cao thñ 	14	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C¸i Bang cao thñ 	15	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn NhÉn  cao thñ 	16	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Vâ §ang cao thñ 	17	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C«n L«n cao thñ 	18	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi tuyÓn thñ 	19	82	0	0	0	0	0	0	0	0	0	0	0	0	0	
+ThiÕu L©m kiÖt xuÊt	20	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thiªn V­¬ng kiÖt xuÊt	21	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+§­êng M«n  kiÖt xuÊt	22	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ngò §éc kiÖt xuÊt	23	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nga Mi  kiÖt xuÊt	24	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thóy Yªn kiÖt xuÊt	25	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+C¸i Bang kiÖt xuÊt	26	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thiªn NhÉn  kiÖt xuÊt	27	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ §ang  kiÖt xuÊt	28	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+C«n L«n  kiÖt xuÊt	29	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi phãng viªn chiÕn tr­êng	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi nh©n viªn c«ng t¸c	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ThiÕu L©m Qu¸n qu©n	32	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn V­¬ng  Qu¸n qu©n	33	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi §­êng M«n Qu¸n qu©n	34	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Ngò §éc Qu¸n qu©n	35	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Nga Mi Qu¸n qu©n	36	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thóy Yªn Qu¸n qu©n	37	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C¸i Bang Qu¸n qu©n	38	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn NhÉn Qu¸n qu©n	39	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Vâ §ang Qu¸n qu©n	40	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C«n L«n Qu¸n qu©n	41	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ThiÕu L©m ¸ qu©n	42	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn V­¬ng ¸ qu©n	43	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi §­êng M«n ¸ qu©n	44	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Ngò §éc ¸ qu©n	45	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Nga Mi ¸ qu©n	46	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thóy Yªn ¸ qu©n	47	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C¸i Bang ¸ qu©n	48	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn NhÉn ¸ qu©n	49	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Vâ §ang ¸ qu©n	50	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C«n L«n ¸ qu©n	51	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ThiÕu L©m h¹ng 3	52	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn V­¬ng h¹ng 3	53	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi §­êng M«n h¹ng 3	54	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Ngò §éc h¹ng 3	55	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Nga Mi h¹ng 3	56	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thóy Yªn h¹ng 3	57	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C¸i Bang h¹ng 3	58	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Thiªn NhÉn h¹ng 3	59	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Vâ §ang h¹ng 3	60	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi C«n L«n h¹ng 3	61	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Qu¸n qu©n Song ®Êu	62	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ¸ qu©n Song ®Êu	63	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi h¹ng 3 Song ®Êu	64	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Qu¸n qu©n Ngò hµnh ®Êu	65	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ¸ qu©n Ngò hµnh ®Êu	66	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi h¹ng 3 Ngò hµnh ®Êu	67	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Qu¸n qu©n ThËp ®Êu	68	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ¸ qu©n ThËp ®Êu	69	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi h¹ng 3 ThËp ®Êu	70	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Qu¸n qu©n ThËp lôc ®Êu	71	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ¸ qu©n ThËp lôc ®Êu	72	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi h¹ng 3 ThËp lôc ®Êu	73	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi Qu¸n qu©n toµn khu vùc	74	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi ¸ qu©n toµn khu vùc	75	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §¹i héi h¹ng 3 toµn khu vùc	76	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thanh Long Vâ sÜ 	77	96	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thanh Long KiÕm S¸t 	78	97	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thanh Long Vò TuyÖt 	79	98	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Long ThÇn KiÕm 	80	99	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m liªn ®Êu Qu¸n qu©n	81	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m liªn ®Êu ¸ qu©n	82	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m liªn ®Êu h¹ng 3	83	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m liªn ®Êu h¹ng t­ 	84	82	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m kiÖt xuÊt liªn ®Êu Qu¸n qu©n	85	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m kiÖt xuÊt liªn ®Êu ¸ qu©n	86	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m kiÖt xuÊt liªn ®Êu h¹ng 3	87	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ l©m kiÖt xuÊt liªn ®Êu h¹ng t­ 	88	82	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tèng binh	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tèng HiÖu óy	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tèng Thèng lÜnh	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tèng Phã t­íng	92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tèng §¹i t­íng	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kim binh	94	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kim HiÖu óy	95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kim Thèng LÜnh	96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kim Phã t­íng	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kim §¹i t­íng	98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TuyÓn thñ vâ l©m lÇn 2	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Binh sÜ 	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+HiÖu óy 	101	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thèng LÜnh 	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phã t­íng 	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+§¹i t­íng 	104	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §Ö NhÊt Bang	105	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vâ L©m §Ö NhÊt Bang	106	108	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n ThiÕu L©m ®¹i héi Vâ L©m lÇn 2	107	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Thiªn V­¬ng ®¹i héi Vâ L©m lÇn 2	108	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n §­êng M«n ®¹i héi Vâ L©m lÇn 2	109	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Ngò §éc ®¹i héi Vâ L©m lÇn 2	110	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Nga Mi ®¹i héi Vâ L©m lÇn 2	111	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Thóy Yªn ®¹i héi Vâ L©m lÇn 2	112	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n C¸i Bang ®¹i héi Vâ L©m lÇn 2	113	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Thiªn NhÉn ®¹i héi Vâ L©m lÇn 2	114	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n Vâ §ang ®¹i héi Vâ L©m lÇn 2	115	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n C«n Lu©n ®¹i héi Vâ L©m lÇn 2	116	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n ThiÕu L©m ®¹i héi Vâ L©m lÇn 2	117	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Thiªn V­¬ng ®¹i héi Vâ L©m lÇn 2	118	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n §­êng M«n ®¹i héi Vâ L©m lÇn 2	119	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Ngò §éc ®¹i héi Vâ L©m lÇn 2	120	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Nga Mi ®¹i héi Vâ L©m lÇn 2	121	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Thóy Yªn ®¹i héi Vâ L©m lÇn 2	122	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n C¸i Bang ®¹i héi Vâ L©m lÇn 2	123	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Thiªn NhÉn ®¹i héi Vâ L©m lÇn 2	124	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n Vâ §ang ®¹i héi Vâ L©m lÇn 2	125	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n C«n Lu©n ®¹i héi Vâ L©m lÇn 2	126	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n ThiÕu L©m ®¹i héi Vâ L©m lÇn 2	127	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Thiªn V­¬ng ®¹i héi Vâ L©m lÇn 2	128	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n §­êng M«n ®¹i héi Vâ L©m lÇn 2	129	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Ngò §éc ®¹i héi Vâ L©m lÇn 2	130	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Nga Mi ®¹i héi Vâ L©m lÇn 2	131	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Thóy Yªn ®¹i héi Vâ L©m lÇn 2	132	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n C¸i Bang ®¹i héi Vâ L©m lÇn 2	133	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Thiªn NhÉn ®¹i héi Vâ L©m lÇn 2	134	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n Vâ §ang ®¹i héi Vâ L©m lÇn 2	135	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n C«n Lu©n ®¹i héi Vâ L©m lÇn 2	136	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n song ®Êu ®¹i héi Vâ L©m lÇn 2	137	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n song ®Êu ®¹i héi Vâ L©m lÇn 2	138	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n song ®Êu ®¹i héi Vâ L©m lÇn 2	139	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n chiÕn ®éi ngò hµnh ®¹i héi Vâ L©m lÇn 2	140	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n chiÕn ®éi ngò hµnh ®¹i héi Vâ L©m lÇn 2	141	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n chiÕn ®éi ngò hµnh ®¹i héi Vâ L©m lÇn 2	142	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n ChiÕn ®éi thËp toµn ®¹i héi Vâ L©m lÇn 2	143	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n ChiÕn ®éi thËp toµn ®¹i héi Vâ L©m lÇn 2	144	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n ChiÕn ®éi thËp toµn ®¹i héi Vâ L©m lÇn 2	145	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n tam ®Êu ®¹i héi Vâ L©m lÇn 2	146	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n tam ®Êu ®¹i héi Vâ L©m lÇn 2	147	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n tam ®Êu ®¹i héi Vâ L©m lÇn 2	148	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Qu¸n qu©n chiÕn ®éi server ®¹i héi Vâ L©m lÇn 2	149	84	0	0	0	0	0	0	0	0	0	0	0	0	0	
+¸ qu©n chiÕn ®éi server ®¹i héi Vâ L©m lÇn 2	150	81	0	0	0	0	0	0	0	0	0	0	0	0	0	
+TÕ qu©n chiÕn ®éi server ®¹i héi Vâ L©m lÇn 2	151	83	0	0	0	0	0	0	0	0	0	0	0	0	0	
+ThËp ®¹i cao thñ vâ l©m	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó Ph­îng T­êng	153	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó Thµnh §«	154	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó §¹i Lý	155	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó BiÖn Kinh	156	85	642	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó T­¬ng D­¬ng	157	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó D­¬ng Ch©u	158	107	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Th¸i thó L©m An	159	85	636	0	0	0	0	0	0	0	0	0	0	0	0	
+Méng long v« ¶nh thÇn ch­ëng	160	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phôc ma hé quèc thÇn binh	161	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tø kh«ng kim ®ao hé ph¸p	162	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+KÕ nghiÖp kim th­¬ng b¸o quèc	163	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+H¸m thiªn tÕ thÕ thÇn chïy	164	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ngù long cuång ®ao b¸ kh¸ch	165	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+V« yÓm thanh ®¨ng hång nhan	166	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+V« gi¸n kiÕm tr¶m t×nh t¬	167	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thª phông phong vò cöu thiªn	168	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+BÝch h¶i tuyÖt thÕ khuynh thµnh	169	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+U long ®éc bé vâ l©m	170	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Minh hoan hoµnh ®ao ®o¹t mÖnh	171	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B¨ng hµn nh©n nghÜa v« song	172	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thiªn quang v¹n hoa ®o¹t hån	173	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+S©m hoang thiªn lý tuyÖt s¸t	174	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+§ång cõu long gi¸ng tø h¶i	175	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+§Þch kh¸i c«n t¶o bÊt b×nh	176	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ma s¸t thiªn diÖm chiÕn háa	177	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ma phÖ xÝch nhËt mª t×nh	178	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+L¨ng nh¹c khÝ qu¸n tr­êng kh«ng	179	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+CËp phong ®¹o cèt tiªn phong	180	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+S­¬ng tinh phong khiÕu tuyÕt vò	181	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+L«i khung diÖt ma thÇn l«i	182	135	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Chiªu Vâ HiÖu óy	183	0	0	0	0	830	2	0	0	0	0	0	0	0	0	
+Vò L©m Trung Lang T­íng	184	0	0	0	0	831	4	0	0	0	0	0	0	0	0	
+Phiªu m· ®¹i t­íng qu©n	185	0	0	0	0	832	6	0	0	0	0	0	0	0	0	
+An Bang §¹i T­íng Qu©n	186	0	0	0	0	833	8	0	0	0	0	0	0	0	0	
+§Þnh Quèc Nguyªn So¸i	187	0	0	0	0	834	10	0	0	0	0	0	0	0	0	
+Vâ L©m Minh Chñ	188	145	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thiªn H¹ §Ö NhÊt Bang	189	145	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Trïng Sinh 7	190	135	0	0	0	0	0	0	0	0	0	0	0	0	0	

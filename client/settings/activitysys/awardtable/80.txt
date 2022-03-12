@@ -1,0 +1,24 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+80	Phi TËc hoµn	{tbProp={6,0,6,1,0,0},}	1	2	745	18	
+80	ßπi L˘c hoµn	{tbProp={6,0,3,1,0,0},}	1	3	746	18	
+80	Ti™n Th∂o LÈ Æ∆c bi÷t	{tbProp={6,1,1181,1,0,0},}	1	4	747	18	
+80	Thi’t La H∏n	{tbProp={6,1,23,1,0,0},}	1	3	748	18	
+80	Khi™u chi’n L‘ bao	{tbProp={6,1,2006,1,0,0},}	1	10.14	749	18	
+80	ßπi M∑ HÊ Bæc Kinh Chi MÈng	{tbProp={0,197},nQuality=1,}	1	0.03	750	18	
+80	ßπi M∑ HÊ Nha ßi”n Chi HÂn	{tbProp={0,202},nQuality=1,}	1	0.03	751	18	
+80	Th«n b› kho∏ng thπch	{tbProp={6,1,398,1,0,0},}	1	0.3	752	18	
+80	Huy“n tinh kho∏ng thπch c p 6	{tbProp={6,1,147,6,0,0},}	1	3	753	18	
+80	Huy“n tinh kho∏ng thπch c p 7	{tbProp={6,1,147,7,0,0},}	1	2	754	18	
+80	Huy“n tinh kho∏ng thπch c p 8	{tbProp={6,1,147,8,0,0},}	1	1	755	18	
+80	PhÛ Qu˝ C»m Hπp	{tbProp={6,1,2402,1,0,0},nExpiredTime=20100823,}	1	5	756	18	
+80	Th«n Hµnh To∏i Phi’n	{tbProp={6,1,2410,1,0,0},nExpiredTime=20100823,}	1	15	757	18	
+80	NgÚ Hµnh K˙ Thπch	{tbProp={6,1,2125,1,0,0},}	1	31.5	758	18	
+80	Th«n N´ng Ch©n ß¨n	{tbProp={6,1,2113,1,0,0},}	1	1	759	18	
+80	N’n B∏t tr©n phÛc nguy÷t	{tbProp={6,1,1817,1,0,0},}	1	5	760	18	
+80	Thµnh ß´ Huy’t Chi’n L÷nh	{tbProp={6,1,2411,1,0,0},nExpiredTime=20100823,}	1	2	761	18	
+80	ßπi L˝ Huy’t Chi’n L÷nh	{tbProp={6,1,2412,1,0,0},nExpiredTime=20100823,}	1	2	762	18	
+80	Ph≠Óng T≠Íng Huy’t Chi’n L÷nh	{tbProp={6,1,2413,1,0,0},nExpiredTime=20100823,}	1	2	763	18	
+80	T≠¨ng D≠¨ng Huy’t Chi’n L÷nh	{tbProp={6,1,2414,1,0,0},nExpiredTime=20100823,}	1	2	764	18	
+80	Bi÷n Kinh Huy’t Chi’n L÷nh	{tbProp={6,1,2415,1,0,0},nExpiredTime=20100823,}	1	2	765	18	
+80	L©m An Huy’t Chi’n L÷nh	{tbProp={6,1,2416,1,0,0},nExpiredTime=20100823,}	1	2	766	18	
+80	D≠¨ng Ch©u Huy’t Chi’n L÷nh	{tbProp={6,1,2417,1,0,0},nExpiredTime=20100823,}	1	2	767	18	

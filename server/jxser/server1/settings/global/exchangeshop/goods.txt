@@ -1,0 +1,6 @@
+ItemId	ItemGenre	ItemDetailType	ParticularType	Level	nCount	SaleBeginDate	SaleEndDate	ExpiredTime	tbCostId	nTaskid	nBitPos	nBitCount	nMaxGetNum	nBind	szComment
+1	6	1	1019	1	1				18					0	Tr n Bang Thπch 1
+2	6	1	1019	2	1				18					0	Tr n Bang Thπch 2
+3	6	1	1019	3	1				18					0	Tr n Bang Thπch 3
+4	6	1	1019	4	1				18					0	Tr n Bang Thπch 4
+5	6	1	1021	1	1				18					0	Bang HÈi th«n mÀt hÂng bao

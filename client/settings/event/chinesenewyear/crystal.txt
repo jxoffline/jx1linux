@@ -1,0 +1,20 @@
+mID	Worth	ItemID	ItemName
+	1000	468	Hång PhiÕn B¨ng Tinh
+	1000	469	Hoµng PhiÕn B¨ng Tinh
+	1000	470	Lam PhiÕn B¨ng Tinh
+	1000	471	Tö  PhiÕn B¨ng Tinh
+	1000	472	Lôc PhiÕn B¨ng Tinh
+	1000	473	B¹ch PhiÕn B¨ng Tinh
+	50000	474	Hång Phæ B¨ng Tinh
+	50000	475	Hoµng Phæ B¨ng Tinh
+	50000	476	Lam Phæ B¨ng Tinh
+	50000	477	Tö Phæ B¨ng Tinh
+	50000	478	Lôc Phæ B¨ng Tinh
+	50000	479	B¹ch Phæ B¨ng Tinh
+	500000	480	Hång Hoa B¨ng Tinh
+	500000	481	Hoµng Hoa B¨ng Tinh
+	500000	482	Lam Hoa B¨ng Tinh
+	500000	483	Tö Hoa B¨ng Tinh
+	500000	484	Lôc Hoa B¨ng Tinh
+	500000	485	B¹ch Hoa B¨ng Tinh
+	2500000	486	Hoµn Mü B¨ng Tinh

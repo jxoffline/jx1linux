@@ -1,0 +1,12 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+83	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},pFun = function() AddGlobalNews(format([[Chóc mõng cao thñ %s sö dông lÔ bao ®ång kh¸nh phæ thiÖn nhËn ®­îc 500 hçn nguyªn linh lé]],GetName())); end}	500	1	779	20	
+83	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},}	20	5	780	20	
+83	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},}	2	28.5	781	20	
+83	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	10	783	20	
+83	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	8	784	20	
+83	B¹ch C©u Hoµn ®Æc biÖt	{tbProp={6,1,1157,1,0,0},}	1	40	786	20	
+83	Kim Tinh Hæ V­¬ng	{tbProp={0,10,14,1,5,0},nExpiredTime=43200,}	1	2	788	20	
+83	Tµi B¶o Thñy TÆc	{tbProp={6,1,2376,1,0,0},}	5	2	789	20	
+83	B¶o r­¬ng thÇn bÝ cña D· TÈu	{tbProp={6,1,2374,1,0,0},}	5	1	790	20	
+83	ThÝ LuyÖn ThiÕp	{tbProp={6,1,2317,1,0,0},}	5	2	791	20	
+83	Tö M·ng LÖnh	{tbProp={6,1,2350,1,0,0},}	1	0.5	793	20	

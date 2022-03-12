@@ -1,0 +1,49 @@
+MapId	X	Y	NpcRes	NpcName	NpcScript	TaskId
+337	1607	3163	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+337	1571	3198	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+337	1630	3254	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+337	1665	3220	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+338	1607	3163	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+338	1571	3198	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+338	1630	3254	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+338	1665	3220	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+339	1607	3163	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+339	1571	3198	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+339	1630	3254	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+339	1665	3220	1601	TiÓu Chiªu	\script\activitysys\npcdailog.lua	4
+380	1406	3364	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+380	1407	3395	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+380	1599	3249	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+380	1583	3303	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+383	1863	2697	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+383	1986	2961	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+383	1696	2906	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+383	1864	3048	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+386	1385	2835	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+386	1399	2943	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+386	1443	2525	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+386	1563	2609	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+888	1408	3361	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+888	1409	3437	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+888	1455	3276	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+888	1547	3326	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+891	1863	2697	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+891	1986	2961	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+891	1696	2906	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+891	1864	3048	364	TiÓu Kú Nhi	\script\activitysys\npcdailog.lua	1
+480	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+481	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+482	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+483	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+484	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+485	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+486	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+487	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+488	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+489	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+490	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+491	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+492	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+493	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+494	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3
+495	1575	3262	204	Phông Phông	\script\activitysys\npcdailog.lua	3

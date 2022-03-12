@@ -1,0 +1,2 @@
+MagicType	Min1	Max1	Min2	Max2	Min3	Max3	备注限制魔法属性(Min1Max1表示魔法属性第一个数值）
+139	0	0	0	0	0	0	不再产生技能加几的魔法属性

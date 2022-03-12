@@ -1,0 +1,194 @@
+FEATURE	DESC	TEAM_MASK_PRICE	TONG_MASK_PRICE
+140	MÆt n¹ - T©y B¾c S¬n tÆc ®Çu lÜnh 	466	2187
+141	MÆt n¹ - T©y Nam S¬n tÆc ®Çu lÜnh 	466	2187
+142	MÆt n¹ - Giang Nam S¬n tÆc ®Çu lÜnh 	466	2187
+143	MÆt n¹ - §«ng B¾c S¬n tÆc ®Çu lÜnh 	466	2187
+144	MÆt n¹ - Hoa B¾c S¬n tÆc ®Çu lÜnh 	466	2187
+145	MÆt n¹ - Nam Bé S¬n tÆc ®Çu lÜnh 	466	2187
+148	MÆt n¹ - S¬n tÆc ®Çu lÜnh	466	2187
+0	MÆt n¹ - §«ng B¾c Hæ 	780	3660
+1	MÆt n¹ - Hoa Nam Hæ 	780	3660
+2	MÆt n¹ - B¹ch Hæ 	780	3660
+149	MÆt n¹ - T©y B¾c S¬n tÆc Gi¸p 	466	2187
+150	MÆt n¹ - T©y B¾c S¬n tÆc Êt 	466	2187
+151	MÆt n¹ - T©y Nam S¬n tÆc Gi¸p 	466	2187
+152	MÆt n¹ - T©y Nam S¬n tÆc Êt 	466	2187
+153	MÆt n¹ - Giang Nam S¬n tÆc Gi¸p 	466	2187
+154	MÆt n¹ - Giang Nam S¬n tÆc Êt 	466	2187
+155	MÆt n¹ - Hoa Nam S¬n tÆc Gi¸p 	466	2187
+3	MÆt n¹ - Kim TiÒn B¸o	780	3660
+5	MÆt n¹ - Sãi x¸m 	780	3660
+6	MÆt n¹ - Sãi ®á 	780	3660
+156	MÆt n¹ - Hoa Nam S¬n tÆc Êt 	466	2187
+157	MÆt n¹ - §«ng B¾c S¬n tÆc Gi¸p 	466	2187
+158	MÆt n¹ - §«ng B¾c S¬n tÆc Êt 	466	2187
+159	MÆt n¹ - Hoa B¾c S¬n tÆc Gi¸p 	466	2187
+160	MÆt n¹ - Hoa B¾c S¬n tÆc Êt 	466	2187
+161	MÆt n¹ - Trung Nguyªn S¬n tÆc Gi¸p 	466	2187
+162	MÆt n¹ - Trung Nguyªn S¬n tÆc Êt 	466	2187
+8	MÆt n¹ - Sãi tuyÕt 	780	3660
+9	MÆt n¹ - Hå Ly 	780	3660
+10	MÆt n¹ - Hång Hå 	780	3660
+163	MÆt n¹ - S¬n tÆc Gi¸p 	466	2187
+164	MÆt n¹ - S¬n tÆc Êt 	466	2187
+165	MÆt n¹ - S¬n tÆc BÝnh 	466	2187
+166	MÆt n¹ - S¬n tÆc §inh 	466	2187
+167	MÆt n¹ - S¬n tÆc MËu 	466	2187
+168	MÆt n¹ - S¬n tÆc Kû 	466	2187
+169	MÆt n¹ - S¬n tÆc Canh 	466	2187
+11	MÆt n¹ - Heo rõng 	780	3660
+15	MÆt n¹ - GÊu n©u	780	3660
+16	MÆt n¹ - GÊu ®en	780	3660
+176	MÆt n¹ - Qu¸i thó 	933	4375
+190	MÆt n¹ - Méc nh©n	933	4375
+191	MÆt n¹ - §ång nh©n	933	4375
+192	MÆt n¹ - N÷ thÝch kh¸ch	933	4375
+193	MÆt n¹ - DiÖu Nh­ 	933	4375
+470	MÆt n¹ - DiÖu Èn 	933	4375
+471	MÆt n¹ - DiÖp B¨ng H©n	933	4375
+18	MÆt n¹ - D­¬ng Tö Ng¹c 	780	3660
+19	MÆt n¹ - Th»n l»n ®á 	780	3660
+21	MÆt n¹ - R¾n xanh 	780	3660
+473	MÆt n¹ - TÇn û Phong	933	4375
+474	MÆt n¹ - T¹ V©n La	933	4375
+476	MÆt n¹ - Thanh Liªn Tö 	933	4375
+478	MÆt n¹ - §ång TÞch Nhan	933	4375
+480	MÆt n¹ - Ngôy LiÔu ¤ng	933	4375
+411	MÆt n¹ - Hßa Th­îng chiÕn ®Êu	933	4375
+483	MÆt n¹ - La Khu«ng Sinh	933	4375
+22	MÆt n¹ - Kim Hoµn M·ng Xµ 	780	3660
+23	MÆt n¹ - XÝch LuyÖn M·ng Xµ 	780	3660
+32	MÆt n¹ - X¸ LÞ 	780	3660
+485	MÆt n¹ - §­êng Cõu	933	4375
+486	MÆt n¹ - §­êng Nhµn 	933	4375
+487	MÆt n¹ - §­êng V©n	933	4375
+488	MÆt n¹ - §­êng D· 	933	4375
+491	MÆt n¹ - H¹ Thµnh	933	4375
+492	MÆt n¹ - H¾c DiÖn Lang Qu©n	933	4375
+493	MÆt n¹ - §å DÞ 	933	4375
+33	MÆt n¹ - Ho¸n Hïng 	780	3660
+34	MÆt n¹ - Linh Miªu 	780	3660
+35	MÆt n¹ - Tµng Vùc HÇu 	780	3660
+412	MÆt n¹ - Ni c« chiÕn ®Êu	933	4375
+49	MÆt n¹ - Kim Quèc Quan viªn	933	4375
+1042	MÆt n¹ - Long B¸t	933	4375
+501	MÆt n¹ - LiÖu Kú 	933	4375
+502	MÆt n¹ - Phông HÊp Nh­ 	933	4375
+680	MÆt n¹ - Tõ Tù Lùc 	933	4375
+505	MÆt n¹ - KiÕm ThËp Tam	933	4375
+36	MÆt n¹ - KhØ x¸m 	780	3660
+37	MÆt n¹ - H¾c DiÖp HÇu 	780	3660
+39	MÆt n¹ - Sµi 	780	3660
+506	MÆt n¹ - YÕn Cöu	933	4375
+507	MÆt n¹ - Bµnh Liªn §øc	933	4375
+508	MÆt n¹ - L­u Phi Long 	933	4375
+509	MÆt n¹ - M¹c TiÓu Oanh	933	4375
+510	MÆt n¹ - §µm Tam Tho¸i	933	4375
+652	MÆt n¹ - Nam trung niªn ThÇn bÝ 	933	4375
+664	MÆt n¹ - Long Ngò 	933	4375
+40	MÆt n¹ - TuyÕt Qu¸i 	780	3660
+41	MÆt n¹ - Cãc	780	3660
+44	MÆt n¹ - Bß c¹p 	780	3660
+669	MÆt n¹ - Lé Tr­êng Thiªn 	933	4375
+670	MÆt n¹ - Lôc l©m	933	4375
+671	MÆt n¹ - Phan Nh­ Long 	933	4375
+673	MÆt n¹ - M«ng Cæ Vâ sÜ 	933	4375
+674	MÆt n¹ - Thñy TÆc 	933	4375
+675	MÆt n¹ - Hµ Hoa §¹o	933	4375
+676	MÆt n¹ - Long Truy Vò 	933	4375
+694	MÆt n¹ - Liªu §Þnh	1257	5892
+45	MÆt n¹ - NhÖn	780	3660
+46	MÆt n¹ - RÕt	780	3660
+54	MÆt n¹ - L¹c Quang	571	2187
+56	MÆt n¹ - Ng©n Nha	571	2187
+57	MÆt n¹ - S­¬ng §ao	571	2187
+59	MÆt n¹ - L·nh §ao	571	2187
+63	MÆt n¹ - Hµn Th­¬ng	571	2187
+94	MÆt n¹ - B«n L«i	571	2187
+109	MÆt n¹ - §éc Bé 	571	2187
+113	MÆt n¹ - Gi¸ng Chïy	571	2187
+134	MÆt n¹ - XÝch Ch­ëng	571	2187
+157	MÆt n¹ - Lang Bæng	571	2187
+851	MÆt n¹ - Bé Hi TrÇn	571	2187
+852	MÆt n¹ - KiÒu §Ønh Thiªn 	571	2187
+853	MÆt n¹ - §iªu DÞch §ao	571	2187
+854	MÆt n¹ - T©y M«n Giíi	571	2187
+855	MÆt n¹ - HÇu KhÊt KiÕm	571	2187
+856	MÆt n¹ - øng KhiÕu Phong	571	2187
+857	MÆt n¹ - Viªn NiÖm TÞch	571	2187
+858	MÆt n¹ - Ch÷ Thiªn MÉn 	571	2187
+511	MÆt n¹ - Tr­¬ng T«ng ChÝnh	857	5357
+523	MÆt n¹ - LiÔu Thanh Thanh	857	5357
+602	MÆt n¹ - PhiÕn Kh¸ch	857	5357
+582	MÆt n¹ - Lam Y Y	1428	5892
+566	MÆt n¹ - Cæ B¸ch	1428	5892
+562	MÆt n¹ - §¹o Thanh Ch©n Nh©n	1428	5892
+563	MÆt n¹ - Gia LuËt TÞ Ly	1428	5892
+564	MÆt n¹ - Hoµn Nhan TuyÕt Y	1428	5892
+565	MÆt n¹ - §oan Méc DuÖ 	1428	5892
+567	MÆt n¹ - Chung Linh Tó 	1428	5892
+568	MÆt n¹ - Hµ Linh Phiªu	1428	5892
+583	MÆt n¹ - M¹nh Th­¬ng L­¬ng	1428	5892
+739	MÆt n¹ - V­¬ng T¸ 	1428	5892
+740	MÆt n¹ - HuyÒn Gi¸c §¹i S­ 	1428	5892
+741	MÆt n¹ - §­êng BÊt NhiÔm	1428	5892
+742	MÆt n¹ - B¹ch Doanh Doanh	1428	5892
+743	MÆt n¹ - Thanh TuyÖt S­ Th¸i	1428	5892
+744	MÆt n¹ - Yªn HiÓu Tr¸i	1428	5892
+745	MÆt n¹ - Hµ Nh©n Ng· 	1428	5892
+746	MÆt n¹ - §¬n T­ Nam	1428	5892
+747	MÆt n¹ - TuyÒn C¬ Tö 	1428	5892
+748	MÆt n¹ - Hµn M«ng	1428	5892
+1138	MÆt n¹ - H¹ Thµnh	1428	5892
+1139	MÆt n¹ - T« Tõ Hinh	1428	5892
+1140	MÆt n¹ - §­êng Thiªn T©m	1428	5892
+1061	MÆt n¹ - Thµnh Niªn L«i KiÕm	1428	5892
+1062	MÆt n¹ - Thµnh Niªn TiÕu S­¬ng	1428	5892
+1063	MÆt n¹ - Thµnh Niªn Háa NhËn	1428	5892
+1064	MÆt n¹ - Thµnh Niªn H¶i §­êng	1428	5892
+1065	MÆt n¹ - Thµnh Niªn Kim Phong	1428	5892
+1043	MÆt n¹ - Thanh Niªn L«i KiÕm	1428	5892
+1044	MÆt n¹ - Thanh Niªn TiÕu S­¬ng	1428	5892
+1045	MÆt n¹ - Thanh Niªn Háa NhËn	1428	5892
+1046	MÆt n¹ - Thanh Niªn H¶i §­êng	1428	5892
+1047	MÆt n¹ - Thanh Niªn Kim Phong	1428	5892
+1056	MÆt n¹ - ThiÕu Niªn L«i KiÕm	1714	7142
+1057	MÆt n¹ - ThiÕu Niªn TiÕu S­¬ng	1714	7142
+1058	MÆt n¹ - ThiÕu Niªn Háa NhËn	1714	7142
+1059	MÆt n¹ - ThiÕu Niªn H¶i §­êng	1714	7142
+1060	MÆt n¹ - ThiÕu Niªn Kim Phong	1714	7142
+4	MÆt n¹ - TuyÕt B¸o	1142	3660
+7	MÆt n¹ - Thanh lang	1142	3660
+12	MÆt n¹ - NhÝm	1142	3660
+17	MÆt n¹ -Tr©u rõng	1142	3660
+20	MÆt n¹ - Nh·n KÝnh M·ng xµ 	1142	3660
+31	MÆt n¹ - Kim Miªu	1142	3660
+38	MÆt n¹ - Kim T¬ HÇu	1142	3660
+42	MÆt n¹ - H­¬u ®èm	1142	3660
+43	MÆt n¹ - Heo tr¾ng	1142	3660
+623	MÆt n¹ - ¤ng Giµ N«el (®á) 	2000	7142
+624	MÆt n¹ - Thiªn Sø Gi¸ng Sinh (®á) 	2000	7142
+726	MÆt n¹ - §Çu «ng ®Þa	1714	7142
+727	MÆt n¹ - Nam S­ 	1714	7142
+728	MÆt n¹ - B¾c S­ 	1714	7142
+729	MÆt n¹ - Long Ch©u	1714	7142
+730	MÆt n¹ - §Çu Rång	1714	7142
+731	MÆt n¹ - Th©n Rång	1714	7142
+732	MÆt n¹ - §u«i Rång	1714	7142
+1122	MÆt n¹ - T©n Niªn HiÖp Kh¸ch	2000	7142
+1123	MÆt n¹ - T©n Niªn HiÖp N÷ 	2000	7142
+1124	MÆt n¹ - Thá tr¾ng	2000	7142
+1125	MÆt n¹ - TuÇn Léc	2000	7142
+1126	MÆt n¹ - Tinh Linh (xanh) 	2000	7142
+1127	MÆt n¹ - Tinh Linh (tÝm) 	2000	7142
+1128	MÆt n¹ - Tinh Linh (®á) 	2000	7142
+1129	MÆt n¹ - Tinh Linh (vµng) 	2000	7142
+1130	MÆt n¹ - ¤ng Giµ N«el (xanh) 	2000	7142
+1131	MÆt n¹ - ¤ng Giµ N«el (Hång phÊn) 	2000	7142
+1132	MÆt n¹ - ¤ng Giµ N«el (tr¾ng) 	2000	7142
+1133	MÆt n¹ - ¤ng Giµ N«el (vµng) 	2000	7142
+1134	MÆt n¹ - Thiªn Sø Gi¸ng Sinh (xanh) 	2000	7142
+1135	MÆt n¹ - Thiªn Sø Gi¸ng Sinh (Hång phÊn) 	2000	7142
+1136	MÆt n¹ - Thiªn Sø Gi¸ng Sinh (tr¾ng) 	2000	7142
+1137	MÆt n¹ - Thiªn Sø Gi¸ng Sinh (vµng) 	2000	7142
+1141	MÆt n¹ - Niªn Thó 	2000	7142

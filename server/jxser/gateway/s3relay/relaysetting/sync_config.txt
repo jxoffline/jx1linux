@@ -1,0 +1,2 @@
+FileListName	FileListID	OnlyForGameServer
+\RelaySetting\sync_filelist_itemmall.txt	1	0

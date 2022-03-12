@@ -1,0 +1,5 @@
+Characteristic	VisionRadius	ActiveRadius	ForceSync	AIMaxTime	AIMode	AIParam1	AIParam2	AIParam3	AIParam4	AIParam5	AIParam6	AIParam7	AIParam8	AIParam9	AIParam10	NPCName
+1	500	500	800	6	21	100	0	0	0	0	0	0	0	0	攻击离自身最近的敌人	勇猛
+2	400	400	800	6	22	100	0	0	0	0	0	0	0	0	攻击对主人造成伤害的敌人	卫主
+3	500	500	800	6	23	100	20	50	0	0	0	0	0	0	攻击HP最少的敌人	流氓
+4	400	400	800	6	24	100	20	60	30	0	0	0	0	0	随机攻击敌人	懦弱

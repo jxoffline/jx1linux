@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+81	Phiªn Vò 	{tbProp={0,10,7,1,5,0},nExpiredTime=86400,}	1	5	768	18	
+81	Háa Tinh Kim Hæ V­¬ng	{tbProp={0,10,15,1,5,0},nExpiredTime=86400,}	1	95	769	18	

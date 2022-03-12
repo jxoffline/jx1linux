@@ -1,0 +1,53 @@
+Name	Quality	Genre	Detail	Particular	GoodsFive	Level	Magiclevel	TaskValue
+L­u Tinh. §ao ph¸p	0	6	1	36	0	1	0	2400000000
+Th¸i Cùc QuyÒn Phæ. QuyÓn 3	0	6	1	33	0	1	0	1900000000
+C¸i Bang Ch­ëng Ph¸p	0	6	1	54	0	1	0	1800000000
+Th¸i Cùc KiÕm Phæ. QuyÓn 2	0	6	1	34	0	1	0	1700000000
+Nga Mi  PhËt Quang Ch­ëng MËt TÞch	0	6	1	43	0	1	0	1700000000
+Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	0	6	1	38	0	1	0	1600000000
+DiÖt KiÕm MËt TÞch	0	6	1	42	0	1	0	1600000000
+C¸i Bang C«n ph¸p	0	6	1	55	0	1	0	1500000000
+Tô TiÔn thuËt. B¹o Vò Lª Hoa	0	6	1	27	0	1	0	1400000000
+Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	0	6	1	45	0	1	0	1300000000
+Vâ L©m MËt TÞch	0	6	1	26	0	1	0	1200000000
+Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	0	6	1	37	0	1	0	1100000000
+Thóy Yªn §ao ph¸p	0	6	1	40	0	1	0	1000000000
+Thóy Yªn Song ®ao	0	6	1	41	0	1	0	1000000000
+Phi Tiªu thuËt. Cöu Cung Phi Tinh	0	6	1	46	0	1	0	1000000000
+Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	0	6	1	47	0	1	0	1000000000
+Ngù L«i thuËt	0	6	1	51	0	1	0	1000000000
+Ngù Phong thuËt	0	6	1	50	0	1	0	900000000
+TÈy Tñy Kinh	0	6	1	22	0	1	0	900000000
+V©n Long KÝch. M©u ph¸p	0	6	1	35	0	1	0	900000000
+Thiªn V­¬ng §ao ph¸p.QuyÓn 3	0	6	1	39	0	1	0	700000000
+Ngò §éc §ao ph¸p. QuyÓn 2	0	6	1	48	0	1	0	700000000
+ThiÕu L©m §ao ph¸p. QuyÓn 3	0	6	1	58	0	1	0	700000000
+H·m TÜnh thuËt.Lo¹n Hoµn KÝch	0	6	1	28	0	1	0	600000000
+Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	0	6	1	49	0	1	0	600000000
+Ngù T©m thuËt	0	6	1	52	0	1	0	600000000
+NhiÕp Hån. Chó thuËt	0	6	1	53	0	1	0	600000000
+ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	0	6	1	56	0	1	0	600000000
+ThiÕu L©m C«n ph¸p. QuyÓn 2	0	6	1	57	0	1	0	560000000
+Phæ §é MËt TÞch	0	6	1	59	0	1	0	560000000
+Bµn Nh­îc T©m Kinh	0	6	1	12	0	1	0	240000000
+Tinh Hång B¶o Th¹ch	0	4	353	1	0	1	0	200000000
+ThiÕt La H¸n	0	6	1	23	0	1	0	60000000
+Phi Phong	0	6	1	15	0	1	0	15000000
+Thiªn s¬n  B¶o Lé 	0	6	1	72	0	1	0	4000000
+§¹i Lùc hoµn	0	6	0	3	0	1	0	3500000
+Phi Tèc hoµn	0	6	0	6	0	1	0	3000000
+B¸ch Qu¶ Lé 	0	6	1	73	0	1	0	3000000
+Tr­êng MÖnh hoµn	0	6	0	1	0	1	0	1200000
+Gia Bµo hoµn	0	6	0	2	0	1	0	1200000
+Cao ThiÓm hoµn	0	6	0	4	0	1	0	1000000
+Cao Trung hoµn	0	6	0	5	0	1	0	800000
+B¨ng Phßng hoµn	0	6	0	7	0	1	0	800000
+L«i Phßng hoµn	0	6	0	8	0	1	0	800000
+Háa Phßng hoµn	0	6	0	9	0	1	0	800000
+§éc Phßng hoµn	0	6	0	10	0	1	0	800000
+Phóc Duyªn Lé (TiÓu) 	0	6	1	122	0	1	0	600000
+ThiÖp mµu	0	6	1	1053	0	1	0	500000
+ThiÖp Nh­ ý 	0	6	1	1016	0	1	0	500000
+Mai Kh«i Hoa Vò 	0	6	0	20	0	1	0	30000
+Ph¸o Hoa	0	6	0	11	0	1	0	10000
+Tiªn Th¶o Lé 	0	6	1	71	0	1	0	24000000

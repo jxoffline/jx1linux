@@ -1,0 +1,24 @@
+EqName	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+Ngùa 1																																																
+Ngùa 2																																																
+Ngùa 3																																																
+Ngùa 4																																																
+Ngùa 5																																																
+Ngùa 6																																																
+Ngùa 7																																																
+Ngùa 8																																																
+Ngùa 9																																																
+Ngùa 10																																																
+Ngùa 11																																																
+Ngùa 12																																																
+Ngùa sè 13																																																
+ÂíÆ¥14																																																
+ÂíÆ¥15																																																
+ÂíÆ¥16																																																
+ÂíÆ¥17																																																
+ÂíÆ¥18																																																
+ÂíÆ¥19																																																
+ÂíÆ¥20																																																
+ÂíÆ¥21																																																
+ÂíÆ¥22																																																
+ÂíÆ¥23																																							..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr

@@ -1,0 +1,41 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+Th¶o Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes01.spr	26	2	2	Lo¹i giµy b»ng cá th­êng, chÕ t¸c th« s¬. 		35	1	0	30	7	7	31	20	20																36	1	32	20	33	0			38	0		
+Bè Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes01.spr	26	2	2	Lo¹i giµy b»ng v¶i th­êng trong nh©n gian th­êng dïng. 		130	2	0	30	12	12	31	20	20																36	8	32	29	33	0			38	0		
+Thiªn tÇng bè Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes02.spr	26	2	2	Lo¹i giµy v¶i dµy, mµu x¸m tro. 		325	3	0	30	18	18	31	20	20																36	14	32	39	33	0			38	0		
+C¸t Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes02.spr	26	2	2	Lo¹i giµy ®­îc tinh chÕ tõ cá C¸t ®»ng. 		500	4	0	30	24	24	31	20	20																36	20	32	49	33	0			38	0		
+Th­¬ng C¸t Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes03.spr	26	2	2	Dïng lo¹i C¸t §µng l©u n¨m, tİnh dÎo cùc cao. 		800	5	0	30	30	30	31	20	20																36	27	32	59	33	0			38	0		
+B¸ch Niªn Th­¬ng C¸t Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes03.spr	26	2	2	Lo¹i giµy cá ®­îc dïng nhiÒu ë vïng V©n Nam. 		1250	6	0	30	36	36	31	20	20																36	33	32	69	33	0			38	0		
+TrÜ VÜ Tèng Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes04.spr	26	2	2	Lo¹i giµy cùc phÈm ®· cã danh tiÕng h¬n tr¨m n¨m. 		1650	7	0	30	42	42	31	20	20																36	40	32	79	33	0			38	0		
+Giao Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes04.spr	26	2	2	Lo¹i giµy ®­îc lµm tõ l«ng chim trÜ. 		1925	8	0	30	48	48	31	20	20																36	47	32	89	33	0			38	0		
+Phong VÜ Tèng Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes05.spr	26	2	2	Lo¹i giµy ®­îc lµm tõ t¬ lôa cùc hiÕm, chØ cã ë ph­¬ng Nam. 		2500	9	0	30	54	54	31	20	20																36	54	32	99	33	0			38	0		
+Cöu TiÕt X­¬ng VÜ Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes05.spr	26	2	2	Dïng lo¹i cá X­¬ng Bå ë cè h­¬ng cña KhuÊt Nguyªn kÕt thµnh, nhÑ mµ ch¾c ch¾n		3200	10	0	30	60	60	31	20	20																36	60	32	109	33	0			38	0		
+Ng­u B× ngoa	0	5	1	\spr\item\equip\boots\obj-shoes06.spr	26	2	2	Lo¹i giµy lµm b»ng da bß th«ng th­êng. 		75	1	0	30	17	17	31	20	20																36	3	32	30	33	0			38	0		
+TËt Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes06.spr	26	2	2	Lo¹i giµy lµm tõ lo¹i cá ®Æc biÖt. 		300	2	0	30	28	28	31	20	20																36	10	32	44	33	0			38	0		
+¤ B× Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes07.spr	26	2	2	Lo¹i giµy da bß nh­ng ®· qua tinh chÕ. 		700	3	0	30	42	42	31	20	20																36	16	32	59	33	0			38	0		
+§»ng Méng Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes07.spr	26	2	2	Lo¹i giµy th­îng ®¼ng tinh chÕ tõ cá §»ng Méng. 		1200	4	0	30	56	56	31	20	20																36	22	32	74	33	0			38	0		
+Phi La Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes08.spr	26	2	2	Lo¹i giµy th­îng ®¼ng tinh chÕ tõ cá §»ng Méng vµ t¬ diÒu. 		1800	5	0	30	70	70	31	20	20																36	29	32	89	33	0			38	0		
+Lôc Thóy Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes08.spr	26	2	2	Giµy lµm tõ t¬ tróc. 		2500	6	0	30	84	84	31	20	20																36	35	32	104	33	0			38	0		
+Hæ B× Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes09.spr	26	2	2	Lo¹i giµy may tõ da hæ tr¾ng hiÕm thÊy. 		3250	7	0	30	98	98	31	20	20																36	42	32	119	33	0			38	0		
+Tª B× Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes09.spr	26	2	2	Lo¹i giµy th­îng ®¼ng, tinh chÕ tõ lôa vµ da tª gi¸c. 		4500	8	0	30	112	112	31	20	20																36	49	32	134	33	0			38	0		
+Long L©n Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes10.spr	26	2	2	Tuy gäi lµ Long L©n Ngoa, thùc tÕ ®­îc lµm tõ da c¸ sÊu.		6000	9	0	30	126	126	31	20	20																36	56	32	149	33	0			38	0		
+Thiªn Tµm Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes10.spr	26	2	2	Dïng Lo¹i t¬ Thiªn TÇm th­îng ®¼ng may thµnh, tİnh dÎo cùc cao		7250	10	0	30	140	140	31	20	20																36	62	32	164	33	0			38	0		
+Tó Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes11.spr	27	2	2	Lµ lo¹i hµi th«ng th­êng, ë ®©u còng thÊy. 		35	1	0	30	7	7	31	20	20																36	1	32	20	33	0			38	1		
+L¨ng T¬ Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes11.spr	27	2	2	Lµ lo¹i giµy dïng Lo¹i t¬ th­îng ®¼ng may thµnh. 		130	2	0	30	12	12	31	20	20																36	8	32	29	33	0			38	1		
+GÊm hµi	0	5	2	\spr\item\equip\boots\obj-shoes12.spr	27	2	2	Lo¹i giµy cña n÷ giíi, ®­îc may tõ gÊm th­îng h¹ng. 		325	3	0	30	18	18	31	20	20																36	14	32	39	33	0			38	1		
+Uyªn ¦¬ng Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes12.spr	27	2	2	Lo¹i giµy cã thªu h×nh hoa b­ím. 		500	4	0	30	24	24	31	20	20																36	20	32	49	33	0			38	1		
+Toan Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes13.spr	27	2	2	Dïng lo¹i t¬ danh tiÕng chÕ thµnh, ®é dÎo cùc cao. 		800	5	0	30	30	30	31	20	20																36	27	32	59	33	0			38	1		
+L©m Ngäc hµi	0	5	2	\spr\item\equip\boots\obj-shoes13.spr	27	2	2	Lo¹i giµy tõ t¬ th­îng ®¼ng, mµu s¾c tr¾ng xanh rÊt ®Ñp m¾t. 		1250	6	0	30	36	36	31	20	20																36	33	32	69	33	0			38	1		
+Liªn Phong Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes14.spr	27	2	2	Lo¹i giµy tõ t¬ th­îng ®¼ng, dµnh cho n÷ giíi. 		1650	7	0	30	42	42	31	20	20																36	40	32	79	33	0			38	1		
+Ph¹m Hång Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes14.spr	27	2	2	Lµ lo¹i giµy th­êng dïng trong nhµ PhËt. 		1925	8	0	30	48	48	31	20	20																36	47	32	89	33	0			38	1		
+B¹ch Chu ngoa	0	5	2	\spr\item\equip\boots\obj-shoes15.spr	27	2	2	Lo¹i giµy ®­îc may tõ lôa ®iÒu vµ t¬ Thiªn TÇm. 		2500	9	0	30	54	54	31	20	20																36	54	32	99	33	0			38	1		
+Kim Lò hµi	0	5	2	\spr\item\equip\boots\obj-shoes15.spr	27	2	2	Dïng t¬ Thiªn TÇm vµ c¸c sîi vµng máng may thµnh. 		3200	10	0	30	60	60	31	20	20																36	60	32	109	33	0			38	1		
+Léc B× ngoa	0	5	3	\spr\item\equip\boots\obj-shoes16.spr	27	2	2	Lo¹i giµy ®­îc may tõda Nai tr¾ng. 		75	1	0	30	17	17	31	20	20																36	3	32	30	33	0			38	1		
+Kş hµi	0	5	3	\spr\item\equip\boots\obj-shoes16.spr	27	2	2	Dïng nh÷ng lo¹i thùc vËt th­îng ®¼ng may thµnh. 		300	2	0	30	28	28	31	20	20																36	10	32	44	33	0			38	1		
+Ng©n §o¹n ngoa	0	5	3	\spr\item\equip\boots\obj-shoes17.spr	27	2	2	Lo¹i giµy may tõ c¸c thø lôa th«ng th­êng. 		700	3	0	30	42	42	31	20	20																36	16	32	59	33	0			38	1		
+Phï Dung ngoa	0	5	3	\spr\item\equip\boots\obj-shoes17.spr	27	2	2	Dïng nh÷ng lo¹i lôa th­îng ®¼ng may thµnh. 		1200	4	0	30	56	56	31	20	20																36	22	32	74	33	0			38	1		
+Háa T­êng Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes18.spr	27	2	2	Lo¹i giµy may tõ gÊm ®á. 		1800	5	0	30	70	70	31	20	20																36	29	32	89	33	0			38	1		
+Môc V©n ngoa	0	5	3	\spr\item\equip\boots\obj-shoes18.spr	27	2	2	May tõ vá c©y vµ c¸c lo¹i t¬ th­îng ®¼ng. 		2500	6	0	30	84	84	31	20	20																36	35	32	104	33	0			38	1		
+X­¬ng Hoµn ngoa	0	5	3	\spr\item\equip\boots\obj-shoes19.spr	27	2	2	Lo¹i giµy bİ truyÒn ®­îc lµm tõ lôa t¬ hoµn. 		3250	7	0	30	98	98	31	20	20																36	42	32	119	33	0			38	1		
+TuyÕt Doanh ngoa	0	5	3	\spr\item\equip\boots\obj-shoes19.spr	27	2	2	§­îc lµm tõ t¬ Thiªn TÇm vµ t¬ B¹ch Ng©n. 		4500	8	0	30	112	112	31	20	20																36	49	32	134	33	0			38	1		
+Sİnh Sa ngoa	0	5	3	\spr\item\equip\boots\obj-shoes20.spr	27	2	2	Dïng c¸c lo¹i t¬ cùc nhÑ chÕ thµnh, ®é dÎo rÊt cao. 		6000	9	0	30	126	126	31	20	20																36	56	32	149	33	0			38	1		
+Phi Phông Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes20.spr	27	2	2	Theo truyÒn thuyÕt, lo¹i giµy nµy ®­îc may tõ l«ng chim Phông Hoµng, cã thÓ cìi m©y, ®i trªn mÆt n­íc. 		7250	10	0	30	140	140	31	20	20																36	62	32	164	33	0			38	1		

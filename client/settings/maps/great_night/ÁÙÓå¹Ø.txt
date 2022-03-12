@@ -1,0 +1,2 @@
+map_ID	nPosX	nPosY
+319	1652	3550

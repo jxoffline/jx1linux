@@ -1,0 +1,5 @@
+SkillId	SkillName	ThiefStyle	AttackRadius	MaxLevel	TimePerCast	ThiefPercent	SkillCostType	Param1	Param2	Movie	TargetMovieInfo	SkillSound	TargetMovie	SkillIcon	Cost	Desc
+400	KiÕp Phó TÕ BÇn 	0	100	1	100	0	0	0	0	\spr\skill\²¹³ä\½Ù¸»¼ÃÆ¶1.spr	10,1,1	\sound\skill\½Ù¸»¼ÃÆ¶.wav	\spr\skill\²¹³ä\½Ù¸»¼ÃÆ¶2.spr	\spr\Ui\¼¼ÄÜÍ¼±ê\½Ù¸»¼ÃÆ¶.spr	50	<color=yellow>KiÕp Phó TÕ BÇn<color><enter><enter>Cã thÓ lÊy ®­îc tiÒn cña ng­êi ch¬i kh¸c<enter>TiÒn lÊy ®­îc sÏ bŞ hÖ thèng thu håi
+401	HiÓn thŞ sinh mÖnh	1	100	1	100	50	0	0	0					\spr\Ui\¼¼ÄÜÍ¼±ê\½Ù¸»¼ÃÆ¶.spr	50	Tªn kü n¨ng: t×m hiÓu tr¹ng th¸i gi¸ trŞ sinh mÖnh hiÖn thêi cña ®èi ph­¬ng
+402	HiÓn thŞ néi lùc	2	100	1	100	50	0	0	0					\spr\Ui\¼¼ÄÜÍ¼±ê\½Ù¸»¼ÃÆ¶.spr	50	Tªn kü n¨ng: t×m hiÓu tr¹ng th¸i gi¸ trŞ néi lùc hiÖn thêi cña ®èi ph­¬ng
+403	HiÓn thŞ sè tiÒn	3	100	1	100	50	0	0	0					\spr\Ui\¼¼ÄÜÍ¼±ê\½Ù¸»¼ÃÆ¶.spr	50	Tªn kü n¨ng: t×m hiÓu tr¹ng th¸i gi¸ trŞ tiÒn b¹c hiÖn thêi cña ®èi ph­¬ng

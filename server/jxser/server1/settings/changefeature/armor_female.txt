@@ -1,0 +1,17 @@
+Name	Feature	Price
+Sa Ni phôc	0	0
+NguyÖn B¹ch cµ sa	1	0
+ThÊt B¶o cµ sa 	2	0
+Linh Xµ y	6	0
+Hæ B× y	7	0
+Cöu VÜ B¹ch Hå trang	8	0
+CÈm Sam	9	0
+Thanh La sam	10	0
+TrÇm H­¬ng sam	11	0
+Kh¶m ThiÕt n÷ gi¸p	12	0
+Xİch Nh¹n gi¸p	13	0
+Tİch LŞch Kim Phông gi¸p	14	0
+Ph¸ Ma y	15	0
+B¹ch §iÖp quÇn	18	0
+NguyÖt Hoa quÇn	19	0
+L­u Tiªn QuÇn	20	0

@@ -1,0 +1,11 @@
+[MAIN]
+elementnum=1
+[0]
+activearea=1475,3080,1731,3336
+centerpoint=1602.7,3218.11,0
+elementtype=4000001
+image=ÓÎÏ·×ÊÔ´\background\01.jpg
+imageframe=0
+layer=1
+selfspeed=0,0
+speed=16,32

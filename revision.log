@@ -6246,6 +6246,7 @@ Ngay hieu luc: sau khi restart server 7h00 ngay 08/01/2015
 8.0 - 8.1.8
 ---------
 Update Patch: babyduck3k (edited and synthesized by thinhnguyen168)
+Noi dung:
 - Xoá bỏ logs và các tập tin dư thừa không cần thiết
 - Tổ chức lại một số thư mục scripts trên máy chủ CentOS
 - Thêm chức năng xoá core dump
@@ -6270,8 +6271,11 @@ Update Patch: babyduck3k (edited and synthesized by thinhnguyen168)
 - Sửa các lỗi liên quan đến chuối nhiệm vụ Tín sứ
 - Thêm nhiều vật phẩm vào Kỳ Trân Các
 - Chỉnh sửa, cập nhật nhiều lỗi nhỏ khác
+Ngay Up: 29/01/2022 - 27/02/2022
 
 8.1.9
 ---------
 Update Patch: babyduck3k (edited and synthesized by thinhnguyen168)
+Noi dung:
 - Bổ sung 4 loại ngựa mới (1 Thiết mã và 3 cáo ba đuôi)
+Ngay Up: 21h00 ngay 04/03/2022

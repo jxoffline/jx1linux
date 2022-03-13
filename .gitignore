@@ -110,6 +110,7 @@ client/music/music902.mp3
 client/music/music903.mp3
 
 # JX1 logging
+client/JxRep
 client/game_ycrash_*.dmp
 client/game_ycrash_*.log
 client/UserData/uicommon.ini

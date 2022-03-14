@@ -61,8 +61,6 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 60	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TiÒn ®iÖn
 61	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn V­¬ng §¹i ®iÖn
 62	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÈm cung
-63	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phßng ®Ö tö 1
-64	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phßng ®Ö tö 2
 65	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn V­¬ng ®¶o s¬n ®éng
 66	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¸y §éng §×nh hå tÇng 1
 67	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¸y §éng §×nh hå tÇng 2
@@ -86,8 +84,6 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 85	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ThËp Ph­¬ng ®iÖn
 86	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phô MÉu ®iÖn
 87	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Long Hæ ®iÖn
-88	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Nh· thÊt 1
-89	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Nh· thÊt 2
 90	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phôc Ng­u S¬n §«ng
 91	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mª cung Kª Qu¸n ®éng
 92	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thôc C­¬ng s¬n
@@ -127,8 +123,6 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 130	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L­u Tiªn ®éng tÇng 6
 131	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	C«n L«n ph¸i
 132	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¨ng HuyÖt ®éng
-133	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phßng §Ö tö
-134	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phßng §Ö tö
 135	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	KiÕn TÝnh Phong s¬n ®éng
 136	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kho¸i Ho¹t L©m
 137	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Vi ®iÖn
@@ -153,7 +147,6 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 156	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	phßng §Ö tö
 157	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	phßng §Ö tö
 158	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mª cung cÊm ®Þa
-159	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M«n lÇu
 160	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thñ Ngäc s¶nh
 161	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thóy Yªn LÇu
 162	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 §¹i Lý phñ 
@@ -185,8 +178,6 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 188	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ng©n ThiÒm tr¹i
 189	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tæng tr¹i
 190	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mª cung nhËp m«n
-191	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	phßng §Ö tö
-192	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	phßng §Ö tö
 193	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Vò Di s¬n
 194	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ngäc Hoa ®éng
 195	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Nh¹n §·ng s¬n
@@ -375,6 +366,11 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 384	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (s¬ cÊp) 
 385	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (trung cÊp) 
 386	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (cao cÊp) 
+388	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (90 - 119) 
+389	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (trªn 120) 
+391	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (90 - 119) 
+392	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (trªn 120) 
+394	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (90 - 119) 
 395	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (trªn 120) 
 396	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng liªn ®Êu KiÖt xuÊt (1)
 397	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng liªn ®Êu KiÖt xuÊt (1)
@@ -694,14 +690,8 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 984	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
 985	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Þa Cung Biªn Kinh
 987	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n ph¸i
-991	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»ªÉ½ÁªÈü»á³¡
-992	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»ªÉ½ÁªÈüÕ½³¡
-993	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»ªÉ½ÁªÈü×¼±¸³¡
+988	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Phï Li Xung §ét ChiÕn
+991	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng liªn ®Êu (11)
+992	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng liªn ®Êu (11)
+993	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	N¬i chuÈn bÞ liªn ®Êu (11)
 994	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T­ Qu¸ Nhai
-995	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TuyÕt S¬n Nam
-996	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TuyÕt S¬n B¾c
-997	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§«n Hoµng
-998	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÇm Long S¬n §éng 1
-999	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÇm Long S¬n §éng 2
-1000	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÇm Long S¬n §éng 3
-1001	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Nh¹n M«n Quan

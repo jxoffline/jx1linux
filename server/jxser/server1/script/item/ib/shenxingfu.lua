@@ -7,6 +7,7 @@ Include("\\script\\global\\playerlist.lua")
 Include("\\script\\item\\ib\\headshenxingfu.lua")
 Include("\\script\\task\\system\\task_string.lua");
 Include("\\script\\missions\\boss\\callboss_incity.lua")
+Include("\\script\\global\\nhmnghia\\hotro\\gotoboss_satthu.lua")
 IncludeLib("TONG")
 
 
@@ -98,6 +99,7 @@ end
 function vitri_khac()
 local tab_Content = {
 		--"VËn Tiªu/goto_vantieu",
+		"Boss s¸t thñ/gotobosssatthu",
 		"V­ît ¶i/goto_satthu",	
 		"TÝn Sø/goto_tinsu",		
 		"KiÕm Gia Mª Cung/goto_kiemgia",

@@ -1,0 +1,51 @@
+MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAMESVR_SET_6	GAMESVR_SET_7	GAMESVR_SET_8	GAMESVR_SET_9	GAMESVR_SET_10	GAMESVR_SET_11	GAMESVR_SET_12	GAMESVR_SET_13	GAMESVR_SET_14	GAMESVR_SET_15	GAMESVR_SET_16	±¸×¢
+1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Ph­îng T­êng
+2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Hoa S¬n
+11	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Thµnh §«
+37	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 BiÖn Kinh
+53	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ba L¨ng huyÖn
+78	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 T­¬ng D­¬ng
+80	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 D­¬ng Ch©u
+162	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 §¹i Lý phñ 
+176	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 L©m An
+75	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kho¶ Lang ®éng
+93	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TiÕn Cóc ®éng
+124	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	C¸n Viªn ®éng
+144	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	D­îc V­¬ng ®éng tÇng 4
+152	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TuyÕt B¸o ®éng tÇng 8
+225	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa M¹c 1
+226	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa M¹c 2
+227	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa M¹c 3
+321	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng B¹ch s¬n Nam 
+322	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng B¹ch s¬n B¾c
+340	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M¹c Cao QuËt
+341	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M¹c B¾c Th¶o Nguyªn
+342	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vi s¬n ®¶o
+388	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (90 - 119) 
+389	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (trªn 120) 
+391	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (90 - 119) 
+392	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (trªn 120) 
+394	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (90 - 119) 
+395	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (trªn 120) 
+523	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Minh NguyÖt trÊn (T­¬ng D­¬ng) 
+934	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing1
+935	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing2
+936	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+937	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+938	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+939	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+940	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+941	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+942	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+943	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+944	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+945	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+946	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
+947	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing4
+949	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ThÝ KiÕm Cèc
+957	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt Phßng cöa ¶i
+959	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn Long §éng
+968	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	NguyÖt Ca §¶o
+969	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	NguyÖt Ca MËt Cèc
+985	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Þa Cung Biªn Kinh
+987	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n ph¸i

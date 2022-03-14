@@ -3,7 +3,7 @@ Include("\\script\\global\\forbidmap.lua");
 --tinhpn 20100809: forbid Tong Map
 local tbUseOnlyInMap = 
 {
-	586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,
+	1,11,37,53,78,80,162,176,75,93,124,144,152,225,226,227,321,322,340
 }
 local checkOnlyUseInMap = function()
 	local nMapId = SubWorldIdx2MapCopy(SubWorld)

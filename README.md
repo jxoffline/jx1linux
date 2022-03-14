@@ -83,8 +83,8 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
   Chọn một trong các nhà cung cấp dịch vụ lưu trữ bên dưới
 
-  - **Mediafire**: [Tải về](https://www.mediafire.com/file/omnovkkq3fzmus3/server.7z/file)
-  - **Mega**: [Tải về](https://mega.nz/file/AEgn3Ygb#ZCkFH467mbzB9OxEvJ_ACKldr3Mui2UChE7tEJNOtP8)
+  - **Mediafire**: [Tải về](https://www.mediafire.com/file/5nmq7fm8vekks0u/server.7z/file)
+  - **Mega**: [Tải về](https://mega.nz/file/lIozmLgK#lb8iiuB840yNu1SvlSji_N0UuHD8laBEzsq2wkWtPHw)
 
 - **Bước 3**: Tải mã nguồn các scripts và tập tin thực cần thiết chạy game.
   

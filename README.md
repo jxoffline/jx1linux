@@ -97,7 +97,7 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - Dữ liệu gốc gồm 2 phần là `data` và `music`:
     - **data**: sau khi tải xong dữ liệu gốc trên máy bạn sẽ có 7 tập tin bao gồm `data-2.224.7z.001`, `data-2.224.7z.002`, `data-2.224.7z.003`, `data-2.224.7z.004`, `data-2.224.7z.005`, `data-2.224.7z.006` và `data-2.224.exe`. Chạy tập tin `data-2.224.exe` để nhận được thư mục `data` hoàn chỉnh. Copy hoặc cut thư mục `data` dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
     - **music**: sau khi tải dữ liệu âm thanh về bạn sẽ thu được tập tin `music.7z`. Giải nén tập tin này để lấy thư mục music. Chép đè vào thư mục `music` có sẵn trong `client` (`D:\client`).
-  - Sử dụng WinSCP kết nối vào máy chủ CentOS, sau đó chép toàn bộ thư mục jxser lên máy chủ này.
+  - Sử dụng WinSCP kết nối vào máy chủ CentOS, sau đó chép toàn bộ thư mục `jxser` lên máy chủ này.
   
 - **Bước 5**: Triển khai
   
@@ -114,8 +114,26 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   
     - Bấm lần lượt Bước 1, Bước 2 và Bước 3 nằm trên màn hình Desktop máy ảo `JXWindows-EuroFun`.
   
-    - Ở bước 3, trên ứng dụng `SecureCRT`, bấm Kết nối.
-      Nếu bạn vừa chép thư mục jxser ở bước 4 lên máy chủ CentOS, bấm nút `Nâng cấp` ở góc phải dưới trên ứng dụng `SecureCRT` để thực hiện ghi nhận cập nhật thư mục script mới. 
-  
-      Sau đó chờ một lúc và lần lượt bấm các nút tròn xanh lá ngay bên dưới: 1, 2, 3 và S1 để khởi động máy chủ.
+    - Ở `Bước 3`, trên ứng dụng `SecureCRT`, bấm Kết nối.
+      
+      Chờ đến khi dấu nhắc lệnh xuất hiện trên màn hình đen của ứng dụng SecureCRT.
+      
+      Trên thanh truy xuất nhanh `SecureCRT`, bạn sẽ tìm thấy các nút shortcut `1`, `2`, `3`, `S1` và `Nâng cấp` (các nút tròn xanh lá). Do bạn vừa chép `jxser` lên máu chủ CentOS, cần bấm shortcut **Nâng cấp** ở góc phải cùng để thực hiện ghi nhận cập nhật thư mục script mới. Những lần khởi động sau không cần phải bấm nút này nữa. 
+      
+      Cuối cùng, bấm lần lượt các shortcut 1, 2, 3 và S1 trên các tab khác nhau của  `SecureCRT` để khởi động máy chủ.
+      
+      Hoàn tất.
+      
+
+
+
+## 4. Công cụ hỗ trợ phát triển
+
+#### 4.1 JXStudio 20212
+
+Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3,  chỉnh sửa nhanh tài khoản, v.v...
+
+**Mega**: https://mega.nz/file/8VZhWZ6K#COZqGMq5ayWQX-9JtB5VTR94wS6V-gcJn8z0BclmqC4
+
+**Mediafire**: https://www.mediafire.com/file/yfhlwn0wkhkgkzt/JxStudio_2012.7z/file
 

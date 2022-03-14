@@ -133,7 +133,7 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
 Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3,  chỉnh sửa nhanh tài khoản, v.v...
 
-**Mega**: https://mega.nz/file/8VZhWZ6K#COZqGMq5ayWQX-9JtB5VTR94wS6V-gcJn8z0BclmqC4
+**Mega**: [Tải về](https://mega.nz/file/8VZhWZ6K#COZqGMq5ayWQX-9JtB5VTR94wS6V-gcJn8z0BclmqC4)
 
-**Mediafire**: https://www.mediafire.com/file/yfhlwn0wkhkgkzt/JxStudio_2012.7z/file
+**Mediafire**: [Tải về](https://www.mediafire.com/file/yfhlwn0wkhkgkzt/JxStudio_2012.7z/file)
 

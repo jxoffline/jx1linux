@@ -97,7 +97,6 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - Dữ liệu gốc gồm 2 phần là `data` và `music`:
     - **data**: sau khi tải xong dữ liệu gốc trên máy bạn sẽ có 7 tập tin bao gồm `data-2.224.7z.001`, `data-2.224.7z.002`, `data-2.224.7z.003`, `data-2.224.7z.004`, `data-2.224.7z.005`, `data-2.224.7z.006` và `data-2.224.exe`. Chạy tập tin `data-2.224.exe` để nhận được thư mục `data` hoàn chỉnh. Copy hoặc cut thư mục `data` dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
     - **music**: sau khi tải dữ liệu âm thanh về bạn sẽ thu được tập tin `music.7z`. Giải nén tập tin này để lấy thư mục music. Chép đè vào thư mục `music` có sẵn trong `client` (`D:\client`).
-  - Sử dụng WinSCP kết nối vào máy chủ CentOS, sau đó chép toàn bộ thư mục `jxser` lên máy chủ này.
   
 - **Bước 5**: Triển khai
   
@@ -109,6 +108,10 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
     - `server\Win\JXWindows-EuroFun.vmx`
   
     Nhớ chọn `I moved it` ở lần đầu chạy máy ảo.
+  
+  - Cập nhật jxser
+  
+    Sử dụng WinSCP kết nối vào máy chủ CentOS, sau đó chép toàn bộ thư mục `jxser` lên máy chủ này.
   
   - Sau khi cả 2 máo ảo đều khởi động xong, cần khởi động các dịch vụ trên máy chủ CentOS.
   

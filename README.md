@@ -140,3 +140,13 @@ Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Vi
 
 **Mediafire**: [Tải về](https://www.mediafire.com/file/yfhlwn0wkhkgkzt/JxStudio_2012.7z/file)
 
+
+
+#### 4.2 WinSCP
+
+Công cụ chép scripts, và các tập tin khác lên game server. 
+
+**Mega**: [Tải về](https://mega.nz/file/gNYGgLoC#HENaMk2ZBZiMPkc5ENFen2oMJYCo4Bhk2eaYBg8zhlM)
+
+**Mediafire**: [Tải về](https://www.mediafire.com/file/5zgm9qy5bcu3lfc/WinSCP.7z/file)
+

@@ -142,7 +142,17 @@ Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Vi
 
 
 
-#### 4.2 WinSCP
+#### 4.2 JXLuaEditor 1.0
+
+Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3,  chỉnh sửa nhanh tài khoản, v.v...
+
+**Mega**: [Tải về](https://mega.nz/file/4RJEVIzY#LtY9XKpUJwOm7-sVmU1qtLZmT1VTmtw--hmP5-NyrlY)
+
+**Mediafire**: [Tải về](https://www.mediafire.com/file/6u0x9mlkk0vz9j1/JxLuaEditor-v1.0.7z/file)
+
+
+
+#### 4.3 WinSCP
 
 Công cụ chép scripts, và các tập tin khác lên game server. 
 

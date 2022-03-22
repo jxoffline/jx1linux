@@ -144,7 +144,7 @@ Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Vi
 
 #### 4.2 JXLuaEditor 1.0
 
-Công cụ đa dụng hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3,  chỉnh sửa nhanh tài khoản, v.v...
+Công cụ hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3, không phá vỡ cấu trúc chữ gốc tiếng Trung. Đồng thời hỗ trợ chuyển ngữ nhanh với tổ hợp phím Ctrl + Shift + T.
 
 **Mega**: [Tải về](https://mega.nz/file/4RJEVIzY#LtY9XKpUJwOm7-sVmU1qtLZmT1VTmtw--hmP5-NyrlY)
 

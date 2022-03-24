@@ -156,7 +156,7 @@ Công cụ hỗ trợ biên tập Lua scripts hiển thị tiếng Việt TCVN3,
 
 Công cụ chép scripts, và các tập tin khác lên game server. 
 
-**Mega**: [Tải về](https://mega.nz/file/gNYGgLoC#HENaMk2ZBZiMPkc5ENFen2oMJYCo4Bhk2eaYBg8zhlM)
+**Mega**: [Tải về](https://mega.nz/file/II5wFZYT#6XCyrcJHlRrSHQKQQ_dG12sIef6-0rA9fySFMXpsRZU)
 
-**Mediafire**: [Tải về](https://www.mediafire.com/file/5zgm9qy5bcu3lfc/WinSCP.7z/file)
+**Mediafire**: [Tải về](https://www.mediafire.com/file/kbyox8j2hfq2p5r/WinSCP.7z/file)
 

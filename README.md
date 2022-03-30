@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/jxoffline/jx1linux/main/_/ijxoff1.jpg?raw=true">
+	<img width="200" height="200" margin-right="100%" src="https://github.com/jxoffline/jx1linux/raw/main/_/jxoff1.jpg?raw=true">
 </p>
 <p align="center">
 	<a href="https://fb.com/groups/volamquan">
@@ -15,6 +15,7 @@
  		<img src="https://img.shields.io/badge/license-GNU-yellow" alt="license">
 	</a>
 </p>
+
 
 
 

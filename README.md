@@ -1,3 +1,23 @@
+<p align="center">
+	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/jxoffline/jx1linux/main/_/ijxoff1.jfif?raw=true">
+</p>
+<p align="center">
+	<a href="https://fb.com/groups/volamquan">
+		<img src="https://raw.githubusercontent.com/jxoffline/jx1linux/main/_/love.svg" />
+	</a>
+	<a href="https://github.com/jxoffline/jx1linux/releases">
+ 		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
+	</a>
+	<a href="https://img.shields.io/badge/platform-win32,win64-cyan">
+ 		<img src="https://img.shields.io/badge/platform-win32,win64-cyan" alt="platform, system_requirements">
+	</a>
+	<a href="https://img.shields.io/badge/license-GNU-yellow">
+ 		<img src="https://img.shields.io/badge/license-GNU-yellow" alt="license">
+	</a>
+</p>
+
+
+
 # Võ lâm truyền kỳ Offline
 
 JXLinux 8.x Offline (Võ lâm truyền kỳ 1)
@@ -6,7 +26,7 @@ Các mã nguồn scripts được chỉnh sửa và phát triển bởi nhóm Eu
 
 
 
-## 1. Thông tin cơ bản
+## 1. 🚀 Thông tin cơ bản
 
 Tên mã: **JxOnline 1**
 
@@ -28,7 +48,7 @@ Phiên bản: **8.x**
 
 
 
-## 2. Hướng dẫn đóng góp
+## 2. ✨Hướng dẫn đóng góp
 
 ### 2.1. Tạo branch và pull request (PR)
 
@@ -68,7 +88,7 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
 
 
-## 3. Hướng dẫn cài đặt
+## 3. 🕹Hướng dẫn cài đặt
 
 - **Bước 1**: Tải dữ liệu gốc
 
@@ -130,7 +150,7 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
 
 
-## 4. Công cụ hỗ trợ phát triển
+## 4. ☣Công cụ hỗ trợ phát triển
 
 #### 4.1 JXStudio 20212
 

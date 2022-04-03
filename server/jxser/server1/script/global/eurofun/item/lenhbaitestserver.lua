@@ -27,18 +27,19 @@ Include( "\\script\\item\\item_header.lua" );
 TITLEDIALOG = "Tªn nh©n vËt: <color=green>%s<color>\n".."Tªn tµi kho¶n: <color=green>%s<color>\n".."Täa ®é: <color=green>%d, %d/%d<color>"
 
 function main()
-	dofile("script/global/pgaming/item/lenhbaitestserver.lua")
-		local nW,nX,nY = GetWorldPos()
-		local tbSay = {format(TITLEDIALOG, GetName(), GetAccount() ,nW,nX,nY)}
-			tinsert(tbSay, "LÊy ITEM (MagicScript,QuesKey, Gold Item)/TaoItem")
-			tinsert(tbSay, "LÊy list ®å hoµng kim/Goldequip")
-            tinsert(tbSay, "LÊy ®å tÝm/CreateItemPurple")
-			tinsert(tbSay,"Thay ®æi tr¹ng th¸i nh©n vËt/trangthai")
-			tinsert(tbSay, "Hñy vËt phÈm/DisposeItem")
-			tinsert(tbSay, "Söa lçi ThÇn Hµnh Phï/fixthanhanhphu")
-			tinsert(tbSay,"Thao t¸c lªn ng­êi ch¬i./luachonid1")
-			tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
-		CreateTaskSay(tbSay)
+	dofile("script/global/eurofun/item/lenhbaitestserver.lua")
+    local nW,nX,nY = GetWorldPos()
+    local tbSay = {format(TITLEDIALOG, GetName(), GetAccount() ,nW,nX,nY)}
+    tinsert(tbSay, "LÊy ITEM (MagicScript,QuesKey, Gold Item)/TaoItem")
+    tinsert(tbSay, "LÊy list ®å hoµng kim/Goldequip")
+    tinsert(tbSay, "LÊy ®å tÝm/CreateItemPurple")
+    tinsert(tbSay,"Thay ®æi tr¹ng th¸i nh©n vËt/trangthai")
+    tinsert(tbSay, "Hñy vËt phÈm/DisposeItem")
+    tinsert(tbSay, "Söa lçi ThÇn Hµnh Phï/fixthanhanhphu")
+    tinsert(tbSay,"Thao t¸c lªn ng­êi ch¬i./luachonid1")
+    tinsert(tbSay,"TriÖu håi lÖnh bµi test cò (!)./SummonLegacy")
+    tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
+    CreateTaskSay(tbSay)
 	return 1;
 end
 
@@ -222,4 +223,8 @@ end;
 function fixthanhanhphu()
 	DisabledUseTownP(0)
 	Talk(1,"","Tr¹ng th¸i sö dông thæ ®Þa phï vµ thÇn hµnh phï cña Quý nh©n sÜ ®· trë vÒ ban ®Çu!")
+end
+
+function SummonLegacy()
+    dofile("script/global/pgaming/item/lenhbaitestserver.lua")
 end

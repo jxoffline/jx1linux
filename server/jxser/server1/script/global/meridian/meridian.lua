@@ -13,7 +13,7 @@ local tbLevel2Item =
 	[9] = {szName = "Huy’t Long ßªng c p 8", tbProp = {6, 1, 30289,8}, nCount = 10}, --Item c p 8
 	[10] = {szName = "Huy’t Long ßªng c p 9", tbProp = {6, 1, 30289,9}, nCount = 10},--Item c p 9
 	[11] = {szName = "Huy’t Long ßªng c p 5", tbProp = {6, 1, 3328,5}, nCount = 10},
-	[12] = {szName = "Huy’t Long ßªng", tbProp = {6, 1, 3328,6}, nCount = 10},
+	[12] = {szName = "Huy’t Long ßªng c p 6", tbProp = {6, 1, 3328,6}, nCount = 10},
 	[13] = {szName = "Huy’t Long ßªng c p 12", tbProp = {6, 1, 30289,12}, nCount = 10},--Item c p 12
 	[14] = {szName = "Huy’t Long ßªng c p 8", tbProp = {6, 1, 3328,8}, nCount = 10},
 	[15] = {szName = "Huy’t Long ßªng 14", tbProp = {6, 1, 30289,14}, nCount = 10},--Item c p 14
@@ -43,12 +43,12 @@ function MeridianLevelUpCheck(nMeridianIndex, nNewLevel, nNeedZY, nNeedHMD, nZYT
 	
 	--–Ë“™’Ê‘™ ˝¡ø
 	if GetTask(nZYTaskID) < nNeedZY then
-		Msg2Player(format("MuËn xung kai huy÷t vﬁ nµy c«n %d Æi”m Ch©n Nguy™n, Ch©n Nguy™n cÒa c∏c hπ kh´ng ÆÒ!", nNeedZY));
+		Msg2Player(format("MuËn xung huy÷t vﬁ nµy c«n %d Æi”m Ch©n Nguy™n, Ch©n Nguy™n cÒa c∏c hπ kh´ng ÆÒ!", nNeedZY));
 		return 0;
 	end
 	--–Ë“™ª§¬ˆµ§ ˝¡ø
 	if CalcItemCount(3, %tbHuMaiDan[1], %tbHuMaiDan[2], %tbHuMaiDan[3], -1) < nNeedHMD then
-		Msg2Player(format("MuËn xung kai huy÷t vﬁ nµy c«n %d HÈ Mπch ß¨n, HÈ Mπch ß¨n cÒa c∏c hπ kh´ng ÆÒ!", nNeedHMD));
+		Msg2Player(format("MuËn xung huy÷t vﬁ nµy c«n %d HÈ Mπch ß¨n, HÈ Mπch ß¨n cÒa c∏c hπ kh´ng ÆÒ!", nNeedHMD));
 		return 0;
 	end
 	return 1;
@@ -56,9 +56,19 @@ end
 
 --≥Â—®ø€ŒÔ∆∑º∞Ã· æ
 function MeridianLevelUp(nMeridianIndex, nAcupIndex, nSuccessRate, nRollBackLevel, szMeridianName, szAcupName, nNeedZY, nNeedHMD, nZYTaskID, nWay)
-
+	if HaveMagic(1993) >= 0 then
+		nSuccessRate = nSuccessRate * 0.5
+	end
+	if HaveMagic(1994) >= 0 then
+		nSuccessRate = nSuccessRate * 0.5
+	end
 	if MeridianLevelUpCheck(nMeridianIndex, nAcupIndex, nNeedZY, nNeedHMD, nZYTaskID, nWay) == 0 then
 		return 0;
+	end
+	if GetCash() > 500000 then
+		Pay(500000)	-- Tr∂ 50 vπn Æ” t®ng rate
+		Msg2Player("Tr∂ <color=yellow>50 vπn l≠Óng <color>Æ” t®ng kh∂ n®ng xung mπch thµnh c´ng.")
+		nSuccessRate = nSuccessRate * 1.2
 	end
 	local bProtection = nil;
 	if nWay == 1 then
@@ -79,7 +89,7 @@ function MeridianLevelUp(nMeridianIndex, nAcupIndex, nSuccessRate, nRollBackLeve
 		return 1;
 	else
 		if bProtection then
-			Msg2Player("Do c„ Huy’t Long ßªng b∂o hÈ, kinh mπch sœ kh´ng bﬁ tÊn th t.")
+			Msg2Player("Do c„ Huy’t Long ßªng b∂o hÈ, kinh mπch kh´ng bﬁ tÊn th t.")
 		end
 		if nRollBackLevel == nAcupIndex - 1 then
 			Msg2Player(format("[%s] huy÷t vﬁ [%s] xung huy÷t th t bπi, ti™u hao %d Æi”m Ch©n Nguy™n vµ %d HÈ Mπch ß¨n!", szMeridianName, szAcupName, nNeedZY, nNeedHMD));
@@ -128,18 +138,26 @@ tbFactionToSkillId = {
 	[8] = 1226,
 	[9] = 1228,
 	[10] = 1229,
+	[11] = 1370,
+	[12] = 1986,
 };
 
 
 --∏˘æ›æ≠¬ˆµƒ∆Ωæ˘µ»º∂∫ÕΩ«…´µƒ√≈≈…¿¥…Ë÷√Ω¯Ω◊ººƒ‹
 function SetUpSkillIDAndLevel()
 	local nSkillLevel = %GetAvgMeridianLevel();
+	if HaveMagic(1993) >= 0 then
+		nSkillLevel = nSkillLevel + 1
+	end
+	if HaveMagic(1994) >= 0 then
+		nSkillLevel = nSkillLevel + 1
+	end
 	local nFaction = GetLastFactionNumber();
 	local nSkillID = %tbFactionToSkillId[nFaction + 1];
 	if nSkillID then
-		if HaveMagic(nSkillID) ~= nSkillLevel then
+		if HaveMagic(nSkillID) < nSkillLevel then
 			AddMagic(nSkillID, nSkillLevel);
-			Msg2Player(format("Ng≠¨i nhÀn Æ≠Óc v‚ c´ng th t truy“n cÒa m´n ph∏i c p %d, mÎ trang k‹ n®ng ra xem. ", nSkillLevel));
+			Msg2Player(format("Ng≠¨i nhÀn Æ≠Óc v‚ c´ng th t truy“n cÒa m´n ph∏i <color=yellow>c p %d<color>, mÎ trang k‹ n®ng ra xem.", nSkillLevel));
 		end
 	end
 end

@@ -695,3 +695,4 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 992	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng liªn ®Êu (11)
 993	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	N¬i chuÈn bÞ liªn ®Êu (11)
 994	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T­ Qu¸ Nhai
+1042	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò hån

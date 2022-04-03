@@ -15,7 +15,7 @@ function dialog_vocong_main()
 	local szTitle = "Xin chµo <color=red>"..GetName().."<color> ! §¹i hiÖp häc vâ c«ng g×?"
 	local tbOpt=
 	{
-	"Vµo Ph¸i Vµ Häc Skill 180/choose_faction",
+	"Vµo ph¸i vµ häc ®Õn skill 150/choose_faction",
 	"Häc khinh c«ng/khinhcong",
 	"NhËn c¸c lo¹i ®iÓm/CacLoaiDiem",
 	"LÊy Skill Theo ID/LaySkillID",
@@ -83,7 +83,7 @@ tbFaction =
 		szShowName = "ThiÕu L©m",
 		szFaction = "shaolin",
 		nShortFaction = "sl",
-		tbSkill = {318, 319, 321, 709, 1055, 1056, 1057,1220},
+		tbSkill = {318, 319, 321, 709, 1055, 1056, 1057},
 		tbRank={72},
 	},
 	[2] =
@@ -91,7 +91,7 @@ tbFaction =
 		szShowName = "Thiªn V­¬ng Bang",
 		szFaction = "tianwang",
 		nShortFaction = "tw",
-		tbSkill = {322, 325, 323, 708, 1058, 1059, 1060,1221},
+		tbSkill = {322, 325, 323, 708, 1058, 1059, 1060},
 		tbRank={69},
 	},
 	[3] =
@@ -99,7 +99,7 @@ tbFaction =
 		szShowName = "§­êng M«n",
 		szFaction = "tangmen",
 		nShortFaction = "tm",
-		tbSkill = {339, 302, 342, 710, 1069, 1070, 1071, 1110, 1223},
+		tbSkill = {339, 302, 342, 710, 1069, 1070, 1071, 1110},
 		tbRank={76},
 	},
 	[4] =
@@ -107,7 +107,7 @@ tbFaction =
 		szShowName = "Ngò §éc Gi¸o",
 		szFaction = "wudu",
 		nShortFaction = "wu",
-		tbSkill = {353, 355, 711, 1066, 1067,1222},
+		tbSkill = {353, 355, 711, 1066, 1067},
 		tbRank={80},
 	},
 	[5] =
@@ -115,7 +115,7 @@ tbFaction =
 		szShowName = "Nga Mi",
 		szFaction = "emei",
 		nShortFaction = "em",
-		tbSkill = {380, 328, 712, 1061, 1062, 1114,1224},
+		tbSkill = {380, 328, 712, 1061, 1062, 1114},
 		tbRank={64},
 	},
 	[6] =
@@ -123,7 +123,7 @@ tbFaction =
 		szShowName = "Thóy Yªn",
 		szFaction = "cuiyan",
 		nShortFaction = "cy",
-		tbSkill = {336, 337, 713, 1063, 1065,1225},
+		tbSkill = {336, 337, 713, 1063, 1065},
 		tbRank={67},
 	},
 	[7] =
@@ -131,7 +131,7 @@ tbFaction =
 		szShowName = "C¸i Bang",
 		szFaction = "gaibang",
 		nShortFaction = "gb",
-		tbSkill = {357, 359, 714, 1073, 1074,1227},
+		tbSkill = {357, 359, 714, 1073, 1074},
 		tbRank={78},
 	},
 	[8] =
@@ -139,7 +139,7 @@ tbFaction =
 		szShowName = "Thiªn NhÉn Gi¸o",
 		szFaction = "tianren",
 		nShortFaction = "tr",
-		tbSkill = {361, 362, 715, 1075, 1076,1226},
+		tbSkill = {361, 362, 715, 1075, 1076},
 		tbRank={81},
 	},
 	[9] =
@@ -147,7 +147,7 @@ tbFaction =
 		szShowName = "Vâ §ang",
 		szFaction = "wudang",
 		nShortFaction = "wd",
-		tbSkill = {365, 368, 716, 1078, 1079,1228},
+		tbSkill = {365, 368, 716, 1078, 1079},
 		tbRank={73},
 	},
 	[10] =
@@ -155,7 +155,7 @@ tbFaction =
 		szShowName = "C«n L«n",
 		szFaction = "kunlun",
 		nShortFaction = "kl",
-		tbSkill = {372, 375, 717, 1080, 1081,1229 },
+		tbSkill = {372, 375, 717, 1080, 1081},
 		tbRank={75},
 	},
 }
@@ -207,7 +207,7 @@ function vaohoason()
 	AddMagic(1365,20)--120
 	AddMagic(1384,20)--
 	AddMagic(1369,20)--
-	AddMagic(1370,20)--
+	--AddMagic(1370,20)--180
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=yellow>Hoa S¬n")
 end
 -----------------------------------------------------------------------------------------------------------
@@ -236,7 +236,7 @@ function vaovuhon()
 	AddMagic(1983,20)--
 	AddMagic(1984,20)--
 	AddMagic(1985,20)--
-	AddMagic(1986,20)--
+	--AddMagic(1986,20)--180
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=yellow>Vò Hån")
 end
 

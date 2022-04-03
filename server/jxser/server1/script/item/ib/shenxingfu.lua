@@ -11,7 +11,7 @@ Include("\\script\\global\\nhmnghia\\hotro\\gotoboss_satthu.lua")
 IncludeLib("TONG")
 
 
-function main(sel)	
+function main(sel)
 
 --local szTongName, nTongID = GetTongName();
 --if szTongName ~= nil and szTongName ~= "" then
@@ -25,19 +25,19 @@ function main(sel)
 		Msg2Player("HiÖn t¹i ng­¬i kh«ng thÓ sö dông thÇn hµnh phï!");
 		return 1
 	end
-	
+
 	local nSubWorldID = GetWorldPos();
 	if (nSubWorldID >= 375 and nSubWorldID <= 386) then
 		Msg2Player("B¶n ®å hiÖn t¹i ng­¬i ®ang ®øng thuéc khu vùc ®Æc thï, kh«ng thÓ sö dông thÇn hµnh phï.");
 		return 1
 	end
-	
+
 	if (nSubWorldID >= 416 and nSubWorldID <= 511) then
 		Msg2Player("B¶n ®å hiÖn t¹i ng­¬i ®ang ®øng thuéc khu vùc ®Æc thï, kh«ng thÓ sö dông thÇn hµnh phï.");
 		return 1
 	end
-	
-	if (nSubWorldID == 44 or nSubWorldID == 197 or nSubWorldID == 208 or nSubWorldID == 209 or nSubWorldID == 210 or nSubWorldID == 211 or nSubWorldID == 212 or (nSubWorldID >= 213 and nSubWorldID <= 223)	or nSubWorldID == 336 or nSubWorldID == 341 or nSubWorldID == 342	or nSubWorldID == 175	or nSubWorldID == 337	or nSubWorldID == 338	or nSubWorldID == 339 or ( nSubWorldID >= 387 and  nSubWorldID <= 395 ) )then 
+
+	if (nSubWorldID == 44 or nSubWorldID == 197 or nSubWorldID == 208 or nSubWorldID == 209 or nSubWorldID == 210 or nSubWorldID == 211 or nSubWorldID == 212 or (nSubWorldID >= 213 and nSubWorldID <= 223)	or nSubWorldID == 336 or nSubWorldID == 341 or nSubWorldID == 342	or nSubWorldID == 175	or nSubWorldID == 337	or nSubWorldID == 338	or nSubWorldID == 339 or ( nSubWorldID >= 387 and  nSubWorldID <= 395 ) )then
 		Msg2Player("B¶n ®å hiÖn t¹i ng­¬i ®ang ®øng thuéc khu vùc ®Æc thï, kh«ng thÓ sö dông thÇn hµnh phï.");
 		return 1
 	end;
@@ -47,7 +47,7 @@ function main(sel)
 		Msg2Player("B¶n ®å hiÖn t¹i ng­¬i ®ang ®øng thuéc khu vùc ®Æc thï, kh«ng thÓ sö dông thÇn hµnh phï.");
 		return 1
 	end;
-	
+
 	if (GetLevel() < 5) then
 		Say("Ng­êi ch¬i ph¶i ®¹t ®¼ng cÊp 5 trë lªn míi cã thÓ sö dông thÇn hµnh phï.", 0);
 		return 1
@@ -56,15 +56,15 @@ function main(sel)
 			Say("B¹n ®ang vËn Tiªu Bang Héi kh«ng thÓ sö dông THP")
 			return 1
 		end;
-		
-Say("ThÇn hµnh phï ®i ®Õn n¬i ®­îc chØ ®Þnh..!!!", 7, 
+
+Say("ThÇn hµnh phï ®i ®Õn n¬i ®­îc chØ ®Þnh..!!!", 7,
 		"Th«n trang - Thµnh thÞ - M«n ph¸i - CLD/gototown",
 		"Maps luyÖn c«ng/gotoluyencong",
-		"ThiÕt ®Æt ®iÓm håi sinh./set_backpos", 
+		"ThiÕt ®Æt ®iÓm håi sinh./set_backpos",
 		"§i lµm [Ho¹t ®«ng]./vitri_khac",
 		"§i Minh NguyÖt TrÊn - §µo Hoa §¶o./#tbVNGWORDPOS:GotoOtherMap()",
-		"Rêi khái/no");		
-	return 1	
+		"Rêi khái/no");
+	return 1
 end;
 
 function didenchienlongok()
@@ -79,37 +79,37 @@ function cong1()
 	Msg2Player("§· ®Õn ChiÕn Long §éng!")
 	NewWorld(959, 1670, 2959);
 	SetProtectTime(18*3)
-	AddSkillState(963, 1, 0, 18*3) 
+	AddSkillState(963, 1, 0, 18*3)
 end
 
 function cong2()
 	Msg2Player("§· ®Õn ChiÕn Long §éng!")
 	NewWorld(959, 1548, 2995);
 	SetProtectTime(18*3)
-	AddSkillState(963, 1, 0, 18*3) 
+	AddSkillState(963, 1, 0, 18*3)
 end
 
 function cong3()
 	Msg2Player("§· ®Õn ChiÕn Long §éng!")
 	NewWorld(959, 1701, 3152);
 	SetProtectTime(18*3)
-	AddSkillState(963, 1, 0, 18*3) 
+	AddSkillState(963, 1, 0, 18*3)
 end
 
 function vitri_khac()
 local tab_Content = {
 		--"VËn Tiªu/goto_vantieu",
 		"Boss s¸t thñ/gotobosssatthu",
-		"V­ît ¶i/goto_satthu",	
-		"TÝn Sø/goto_tinsu",		
+		"V­ît ¶i/goto_satthu",
+		"TÝn Sø/goto_tinsu",
 		"KiÕm Gia Mª Cung/goto_kiemgia",
 		--"ThÝ LuyÖn §­êng/goto_thiluyenduong",
 		"Viªm §Õ B¶o Tµng/goto_viemde",
 		"Phong L¨ng §é/goto_phonglangdo",
-		--"Tèng - Kim/gopos_step2battle",	
-		--"§Êu Tr­êng Sinh Tö/vaodautruong",		
+		--"Tèng - Kim/gopos_step2battle",
+		--"§Êu Tr­êng Sinh Tö/vaodautruong",
 		"Thiªn Tr× MËt C¶nh/goto_thientri",
-		--"Lo¹n ChiÕn Cöu Ch©u/goto_chaucoc",				
+		--"Lo¹n ChiÕn Cöu Ch©u/goto_chaucoc",
 		--"ChiÕn tr­êng ThÊt Thµnh §¹i ChiÕn/gopos_sevencityfield",
 		"KÕt thóc..!/no"
 	}
@@ -118,11 +118,11 @@ end
 
 function vaodautruong()
 	local nWeekDay = tonumber(GetLocalDate("%w"))
-	if  nWeekDay == 0 or  nWeekDay == 1 or  nWeekDay == 2 or  nWeekDay == 3 or  nWeekDay == 4 or  nWeekDay == 5  then 
+	if  nWeekDay == 0 or  nWeekDay == 1 or  nWeekDay == 2 or  nWeekDay == 3 or  nWeekDay == 4 or  nWeekDay == 5  then
 	Say("Thêi gian vµo §Êu Tr­êng 20h10 Thø 7 hµng TuÇn")
 	return 1
 	end
-	
+
 	local _, nTongID = GetTongName()
 	if (nTongID == 0) then
 		Msg2Player("Kh«ng cã trong bang héi, kh«ng thÓ tham gia.")
@@ -137,7 +137,7 @@ function vaodautruong()
 	--if (TONGM_GetFigure(nTongID, GetName()) == TONG_RETIRE) then
 	--	Say("Èn sü kh«ng thÓ tham gia .")
 	--	return
-	--end		
+	--end
 
 	local tbSay = {}
 	tinsert(tbSay,"HËu Doanh B¾c./#gotoDT(1572,2438)")
@@ -271,7 +271,7 @@ tbMapGoldBoss = {
 {"Hµn Ngu Dèt","Phong L¨ng ®é",336,"Kho¶ Lang ®éng",75,"T­¬ng D­¬ng",78,"Ph­îng T­êng",1,"Thµnh §«",11,"D­¬ng Ch©u",80,"BiÖn Kinh",37,"§¹i Lý",162,"L©m An",176},
 }
 
-local tbmap = 
+local tbmap =
 {
 	[20]={
 		{"L¨ng TÇn Thñy Hoµng",7, 2235, 2847},
@@ -325,21 +325,21 @@ function findgoldboss(f_bossx,f_bossy)
 		f_bossx1 = f_bossx;
 		f_bossy1 = f_bossy;
 	end
-	
+
 	if (f_bossy1 - f_bossx1 > 11) then
 		f_bossy1 = f_bossx1 + 11;
 	end
-	
+
 	local n_count = getn(tbMapGoldBoss);
 	local tab_Content = {}
-	
+
 	for i = f_bossx1, f_bossy1 do
 		tinsert(tab_Content, tbMapGoldBoss[i][1].."/#findgoldboss_Step2( "..i..")");
 	end
 	if (f_bossx1 ~= 1) then
 		tinsert(tab_Content, "Trang tr­íc/#findgoldboss( 1,"..(f_bossx1-1)..")");
 	end
-	
+
 	if (f_bossy1 < n_count) then
 		tinsert(tab_Content, "Trang sau/#findgoldboss( "..(f_bossy1+1)..","..n_count..")");
 	end
@@ -355,10 +355,10 @@ function findgoldboss_Step2(nId)
 		else
 			nNPCCount = getn(npcidxtab);
 		end
-		for j = 1, nNPCCount do 
-			x, y, subworld = GetNpcPos(npcidxtab[j]); 
+		for j = 1, nNPCCount do
+			x, y, subworld = GetNpcPos(npcidxtab[j]);
 			m,n,k = floor(x/32),floor(y/32),SubWorldIdx2ID(subworld)
-			
+
 			--tinsert(tbOpt, {tbMapGoldBoss[nId][1].."-"..tbMapGoldBoss[nId][i].."["..m.."-"..n.."]",bbbbb, {m,n,k}})
 			tinsert(tb,tbMapGoldBoss[nId][1].."-"..tbMapGoldBoss[nId][i].."["..floor(m/8).."-"..floor(n/16).."]/#findgoldboss_Step3("..m..","..n..","..k..")")
 		end
@@ -402,20 +402,20 @@ tab_RevivePos = {
 		{"Ba L¨ng huyÖn", 19, 53},{"Giang T©n Th«n", 10, 20},{"VÜnh L¹c trÊn", 43, 99},{"Chu Tiªn trÊn", 45, 100},{"§¹o H­¬ng th«n", 47, 101},{"Long M«n trÊn", 55, 121},{"Th¹ch Cæ trÊn", 59, 153},{"Long TuyÒn th«n", 65, 174},{"T©y S¬n th«n", 1, 175}
 	},
 	[9] = {	--"Dia ly"
-		{"Thiªn V­¬ng Bang", 21, 59},{"ThiÕu L©m ph¸i", 52, 103},{"§­êng M«n", 15, 25},{"Ngò §éc Gi¸o", 71, 183},{"Nga My ph¸i", 13, 13},{"Thóy Yªn m«n", 61, 154},{"Thiªn NhÉn gi¸o", 28, 49},{"C¸i Bang", 53, 115},{"Vâ §ang ph¸i", 40, 81},{"C«n L«n ph¸i", 58, 131},{"Hoa S¬n ph¸i", 987, 987}
+		{"Thiªn V­¬ng Bang", 21, 59},{"ThiÕu L©m ph¸i", 52, 103},{"§­êng M«n", 15, 25},{"Ngò §éc Gi¸o", 71, 183},{"Nga My ph¸i", 13, 13},{"Thóy Yªn m«n", 61, 154},{"Thiªn NhÉn gi¸o", 28, 49},{"C¸i Bang", 53, 115},{"Vâ §ang ph¸i", 40, 81},{"C«n L«n ph¸i", 58, 131},{"Hoa S¬n ph¸i", 987, 987}, {"Vò Hån", 1042, 1042},
 	},
 };
 --Cai gi do
 function set_backpos()
-	for i = 1, getn(tbBATTLEMAP) do 
+	for i = 1, getn(tbBATTLEMAP) do
 		if ( nMapId == tbBATTLEMAP[i] ) then
 			Msg2Player("Lóc nµy b¹n kh«ng thÓ sö dông vËt phÈm nµy");
 			return 1;
 		end
-	end	
-	
+	end
 
-	
+
+
 	local tab_Content = {
 		"Rêi khái/no",
 		"Thµnh §«/#setpos_step2(1)",
@@ -448,7 +448,7 @@ function setpos_step3(nIdx, nSubIdx)
 end;
 --"Dia ly"
 function gototown()
-	
+
 	local tab_Content = {
 		"Rêi khái/no",
 		"Thµnh thÞ /gopos_step2town",
@@ -464,7 +464,7 @@ end;
 
 
 function gotoluyencong()
-	
+
 	local tab_Content = {
 		"B¶n ®å cÊp 90/#gopos_step2lv90()",
 		"B¶n ®å cÊp trªn 90/#gopos_step2lv90x()",
@@ -522,7 +522,7 @@ function gopos_step3(nIdx, nSubIdx)
 	local szArr = split(szData);
 	local nPosX = floor(tonumber(szArr[1]) / 32);
 	local nPosY = floor(tonumber(szArr[2]) / 32);
-	
+
 	if (not nPosX or not nPosY) then
 		return
 	end;
@@ -534,7 +534,7 @@ function gopos_step3(nIdx, nSubIdx)
 end;
 
 tab_lv90map = {
-		
+
 		{322,1589,3164	,"Tr­êng B¹ch S¬n B¾c",},
 		{321,967,2313	,"Tr­êng B¹ch S¬n Nam",},
 		{75,1811,3012	,"Kho¶ Lang ®éng",},
@@ -598,7 +598,7 @@ end
 
 -------------**********-----------
 tab_lv90mapx = {
-				
+
 		{875,1576,3177	,"H¾c Sa ®éng",},
 		{917,1816,3392	,"Ph¸ch HuyÕt Cèc",},
 		{918,1816,3392	,"¸c Nh©n Cèc",},
@@ -626,7 +626,7 @@ function gopos_step2lv90x(ns, ne)
 	local tab_Content = {};
 	for i = ns_1, ne_1 do
 		tinsert(tab_Content, tab_lv90mapx[i][4].."/#gopos_step3lv90x( "..i..")");
-	end	
+	end
 	if (ns_1 ~= 1) then
 		tinsert(tab_Content, "Trang tr­íc/#gopos_step2lv90x( 1,"..(ns_1-1)..")");
 	end
@@ -661,8 +661,8 @@ function gopos_step2lv80(ns, ne)
 	for i = 1, 5 do
 		tinsert(tab_Content, tab_lv80map[i][4].."/#gopos_step3lv80( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -680,7 +680,7 @@ tab_lv70map = {
 		{319,1630,3587	,"L©m Du Quan",},
 		{123,1702,3350	,"L·o Hæ §éng",},
 		{206,1603,3215	,"TÇn L¨ng tÇng 2",},
-		
+
 	}
 
 function gopos_step2lv70(ns, ne)
@@ -689,8 +689,8 @@ function gopos_step2lv70(ns, ne)
 	for i = 1, 3 do
 		tinsert(tab_Content, tab_lv70map[i][4].."/#gopos_step3lv70( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -708,7 +708,7 @@ tab_lv60map = {
 		{79,1600,3206	,"T­¬ng D­¬ng Nha M«n MËt §¹o",},
 		{56,1516,3443	,"Hoµnh S¬n Ph¸i",},
 		{166,1649,3231	,"Thiªn T©m Th¸p tÇng 3",},
-		
+
 	}
 
 function gopos_step2lv60(ns, ne)
@@ -717,8 +717,8 @@ function gopos_step2lv60(ns, ne)
 	for i = 1, 3 do
 		tinsert(tab_Content, tab_lv60map[i][4].."/#gopos_step3lv60( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -735,7 +735,7 @@ end
 tab_lv50map = {
 		{182,1777,2982	,"NghiÖt Long §éng",},
 		{164,1611,3187	,"Thiªn T©m Th¸p",},
-		
+
 	}
 
 function gopos_step2lv50(ns, ne)
@@ -744,8 +744,8 @@ function gopos_step2lv50(ns, ne)
 	for i = 1, 2 do
 		tinsert(tab_Content, tab_lv50map[i][4].."/#gopos_step3lv50( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -771,8 +771,8 @@ function gopos_step2lv40(ns, ne)
 	for i = 1, 2 do
 		tinsert(tab_Content, tab_lv40map[i][4].."/#gopos_step3lv40( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -797,8 +797,8 @@ function gopos_step2lv30(ns, ne)
 	for i = 1, 2 do
 		tinsert(tab_Content, tab_lv30map[i][4].."/#gopos_step3lv30( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end
@@ -808,7 +808,7 @@ function gopos_step3lv30(nIdx)
 	NewWorld(tab_lv30map[nIdx][1], tab_lv30map[nIdx][2], tab_lv30map[nIdx][3])
 	SetFightState(1);
 	Msg2Player("Ngåi yªn! Chóng ta ®i "..tab_lv30map[nIdx][4].."!");
-	SetProtectTime(18*3) --cai gid 
+	SetProtectTime(18*3) --cai gid
 	AddSkillState(963, 1, 0, 18*3)
 end
 ---------------------map luyen cong 20----------------------------
@@ -824,8 +824,8 @@ function gopos_step2lv20(ns, ne)
 	for i = 1, 2 do
 		tinsert(tab_Content, tab_lv20map[i][4].."/#gopos_step3lv20( "..i..")");
 	end
-	
-	
+
+
 	tinsert(tab_Content, "Hñy bá/no");
 	Say("ThÇn Hµnh Phï, di chuyÓn ®Õn n¬i cÇn ®Õn.", getn(tab_Content), tab_Content);
 end

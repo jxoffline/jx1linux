@@ -3,6 +3,7 @@
 		<img width="200" height="200" margin-right="100%" src="https://github.com/jxoffline/jx1linux/raw/main/_/jxoff1.jpg?raw=true">
 	</a>
 </p>
+<p  align="center">Tham gia thảo luận tại <a href="https://fb.com/groups/volamquan">https://fb.com/groups/volamquan</a></p>
 <p align="center">
 	<a href="https://fb.com/groups/volamquan">
 		<img src="https://raw.githubusercontent.com/jxoffline/jx1linux/main/_/love.svg" />

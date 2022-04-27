@@ -22,9 +22,9 @@
 
 
 
-# Võ lâm truyền kỳ Offline
+# Võ lâm Offline
 
-JXLinux 8.x Offline (Võ lâm truyền kỳ 1)
+JXLinux 8.x Offline (Võ lâm 1)
 
 Các mã nguồn scripts được chỉnh sửa và phát triển bởi nhóm Eurofun phân phối lại theo giấy phép GNU GPL.
 
@@ -32,11 +32,11 @@ Các mã nguồn scripts được chỉnh sửa và phát triển bởi nhóm Eu
 
 ## 1. 🚀 Thông tin cơ bản
 
-Tên mã: **JxOnline 1**
+Tên mã: **JxOffline 1**
 
-Tiếng Trung: **剑侠情缘 (SWORDSMAN Online)**
+Tiếng Trung: **剑侠情缘**
 
-Tiếng Việt: **Võ lâm truyền kỳ 1 - JXLinux Offline**
+Tiếng Việt: **VLTK 1 - JXLinux Offline**
 
 Phiên bản: **8.x**
 
@@ -94,15 +94,11 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
 ## 3. 🕹Hướng dẫn cài đặt
 
-- **Bước 1**: Tải dữ liệu gốc
+- **Bước 1**: Cài đặt trò chơi phiên bản gốc, sau đó mở thư mục cài đặt lên và lưu ý 2 thư mục bên dưới.
 
-  - **data**: Tải 7 phần dữ liệu từ một trong các nhà cung cấp dịch vụ lưu trữ bên dưới
-    - **Mediafire**: [Phần 1](https://www.mediafire.com/file/n1t5qyr7e8g2awm/data-2.224.7z.001/file) [Phần 2](https://www.mediafire.com/file/tkojd9mnoabwp5q/data-2.224.7z.002/file)  [Phần 3](https://www.mediafire.com/file/ipuwd6iabut4ewv/data-2.224.7z.003/file)  [Phần 4](https://www.mediafire.com/file/sozig6zgbicuyfg/data-2.224.7z.004/file)  [Phần 5](https://www.mediafire.com/file/fnxfz3m2xquh20l/data-2.224.7z.005/file)  [Phần 6](https://www.mediafire.com/file/0h8274q87zbn1hi/data-2.224.7z.006/file)  [Phần 7](https://www.mediafire.com/file/xpchbyviuyhoyx0/data-2.224.exe/file)  
-    - **Mega**: [Phần 1](https://mega.nz/file/pYwFXIBA#H1Qe3KyaOQUKzSQGE5RgEix7ICMpNglFDHAguzDG7Pg) [Phần 2](https://mega.nz/file/ZZoHHQwL#c7i900t99sRCUS9R4LI2APngEkUQSEpU7am6l2D8bdk)  [Phần 3](https://mega.nz/file/dJ4jWSaQ#ilcy1-Alevt7u3MBqPu83ki0aYUOnk5woR1Y__MfACM)  [Phần 4](https://mega.nz/file/IMhVzY5T#c9Y7DSpICFbr4QoF_-cdHtrElIZQhIUNVB91pSzLsZ4)  [Phần 5](https://mega.nz/file/IdgXSIrJ#RobnS2GzWhPdWRhBAn3BgEYVXUpuPOZORW6QohGT3Jo)  [Phần 6](https://mega.nz/file/8QxzjAza#iZxG183ye8hta5XYCTl2ThmrFD7fxaWBlNyhxdd1vhc)  [Phần 7](https://mega.nz/file/IVg3kCDa#BYeMtFz-YF4Zeb7doRlD6YviDWzOfRH3PId8AN24NUI)
-  - **music**: Tải dữ liệu âm thanh từ một trong các nhà cung cấp dịch vụ lưu trữ bên dưới
-    - Mediafire: [Tải về](https://www.mediafire.com/file/renqzlxgiia55h9/music.7z/file)
-    - Mega: [Tải về](https://mega.nz/file/YEJnmQya#dvE2c1I5Hv7LUsE3XTIzOVwwD8VRdW_2OUl826jKLgo)
-
+  - **data**
+  - **music**
+  
 - **Bước 2**: Tải máy chủ ảo VMWare **WinXP** và **CentOS** `server.7z`.
 
   Chọn một trong các nhà cung cấp dịch vụ lưu trữ bên dưới
@@ -119,8 +115,8 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - Giải nén `jx1offline-main.zip` vào nơi bạn muốn lưu trữ hệ thống game. Giả sử bạn lưu ở ổ `D:\`. Sau khi giải nén bạn sẽ có 2 thư mục `D:\client` và `D:\server`.
   - Giải nén các máy chủ ảo `server.7z` vào thư mục server (`D:\server\`). Nếu giải nén thành công, bạn sẽ có thêm 2 thư mục `Win` và `CentOS` bên trong thư mục `server`.
   - Dữ liệu gốc gồm 2 phần là `data` và `music`:
-    - **data**: sau khi tải xong dữ liệu gốc trên máy bạn sẽ có 7 tập tin bao gồm `data-2.224.7z.001`, `data-2.224.7z.002`, `data-2.224.7z.003`, `data-2.224.7z.004`, `data-2.224.7z.005`, `data-2.224.7z.006` và `data-2.224.exe`. Chạy tập tin `data-2.224.exe` để nhận được thư mục `data` hoàn chỉnh. Copy hoặc cut thư mục `data` dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
-    - **music**: sau khi tải dữ liệu âm thanh về bạn sẽ thu được tập tin `music.7z`. Giải nén tập tin này để lấy thư mục music. Chép đè vào thư mục `music` có sẵn trong `client` (`D:\client`).
+    - **data**: Copy thư mục `data` ở **Bước 1** dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
+    - **music**: Copy thư mục `music` ở **Bước 1** chép đè vào thư mục music có sẵn trong `client` (`D:\client`).
   
 - **Bước 5**: Triển khai
   

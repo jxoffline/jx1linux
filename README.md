@@ -94,11 +94,11 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
 ## 3. 🕹Hướng dẫn cài đặt
 
-- **Bước 1**: Cài đặt trò chơi phiên bản gốc, sau đó mở thư mục cài đặt lên và lưu ý 2 thư mục bên dưới.
+- **Bước 1**: Cài đặt trò chơi phiên bản gốc, sau đó mở sẵn thư mục cài đặt lên chuẩn bị cho [Bước 4](#) ( bằng cách click phải chuột lên biểu tượng trò chơi vừa cài đặt xong, chọn `Open file location`). Lưu ý hai thư mục bên dưới đây:
 
   - **data**
   - **music**
-  
+
 - **Bước 2**: Tải máy chủ ảo VMWare **WinXP** và **CentOS** `server.7z`.
 
   Chọn một trong các nhà cung cấp dịch vụ lưu trữ bên dưới
@@ -117,7 +117,7 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - Dữ liệu gốc gồm 2 phần là `data` và `music`:
     - **data**: Copy thư mục `data` ở **Bước 1** dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
     - **music**: Copy thư mục `music` ở **Bước 1** chép đè vào thư mục music có sẵn trong `client` (`D:\client`).
-  
+
 - **Bước 5**: Triển khai
   
   - Vận hành máy chủ

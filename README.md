@@ -54,33 +54,7 @@ Phiên bản: **8.x**
 
 ## 2. ✨Hướng dẫn đóng góp
 
-### 2.1 Tạo nhánh và pull request (PR)
-
-- **Bước 1**: Tạo nhánh trên máy tính cá nhân với lệnh:
-
-  ```
-   git checkout -b <tên-nhánh>
-  ```
-
-	Xem cách đặt tên nhánh ở [Mục 2.2](#2.2-Quy-ước-đặt-tên-nhánh).
-
-- **Bước 2**: Chỉnh sửa, viết script thoải mái trên máy cá nhân.
-
-- **Bước 3**: Commit và push toàn bộ nội dung chỉnh sửa lên git server (đưa lên nhánh vừa tạo ở bước 1)
-
-  ```
-   git add .
-   git commit -m "ghi chú commit"
-   git push --set-upstream origin <tên nhánh cần push>
-  ```
-
-- **Bước 4**: Từ giao diện web github, tạo PR từ nhánh vừa đưa lên git server. Git sẽ có gợi ý sẵn, bấm vào đó nó tạo PR cho mình luôn hoặc tự tạo PR bằng cách chọn "New pull request": [#5 (comment)](https://github.com/huyngkh/jx1.retro/issues/5#issue-949030863)
-
-- **Bước 5**: Nếu có thay đổi chỉnh sửa gì trên nhánh/PR này. Mọi thao tác sẽ thực hiện trên nhánh đấy trong máy cá nhân, tức là thực hiện lại thao tác từ bước 1 đến bước 4.
-
-
-
-### 2.2 Quy ước đặt tên nhánh
+### 2.1 Quy ước đặt tên nhánh
 
 Khi đặt tên nhánh cần tuân theo quy ước như sau:
 
@@ -93,6 +67,10 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - **bin**: chỉnh sửa bao gồm các công cụ hỗ trợ, các tập tin nhị phân trong client, server.
   - **script**: chỉnh sửa bao gồm các tập tin scripts và tập tin cấu hình ini, txt.
   - **feat**: (viết tắt của feature) dùng khi bạn muốn đăng lên một tính năng lớn, trong nhánh gồm nhiều thay đổi về `script`, có khi kèm cả các tài liệu `doc` và file nhị phân `bin`.
+
+### 2.2 [Các bước thực hiện](./HowToContribute.md)
+
+Xem chi tiết tại [ĐÂY](./HowToContribute.md)
 
 
 ## 3. 🕹Hướng dẫn cài đặt

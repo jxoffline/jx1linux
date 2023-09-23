@@ -19,7 +19,7 @@
 	</a>
 </p>
 
-[🏡 Trở về trang chính](../README.md) > Hướng dẫn đóng góp
+[🏡 Trở về trang chính](https://github.com/jxoffline/jx1linux/blob/main/README.md) > Hướng dẫn đóng góp
 
 
 ## 2. ✨Hướng dẫn đóng góp
@@ -82,7 +82,7 @@ cd jx1linux
 git checkout -b <tên-nhánh>
 ```
 
-Xem cách đặt tên nhánh ở [Mục 2.1](../README.md#2.1-Quy-ước-đặt-tên-nhánh). Ví dụ: tên nhánh là `doc.cap-nhat-huong-dan-dong-gop`, gõ:
+Xem cách đặt tên nhánh ở [Mục 2.1](https://github.com/jxoffline/jx1linux/blob/main/README.md#21-quy-%C6%B0%E1%BB%9Bc-%C4%91%E1%BA%B7t-t%C3%AAn-nh%C3%A1nh). Ví dụ: tên nhánh là `doc.cap-nhat-huong-dan-dong-gop`, gõ:
 ```bash
 git checkout -b doc.cap-nhat-huong-dan-dong-gop
 ```

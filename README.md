@@ -68,9 +68,9 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
   - **script**: chỉnh sửa bao gồm các tập tin scripts và tập tin cấu hình ini, txt.
   - **feat**: (viết tắt của feature) dùng khi bạn muốn đăng lên một tính năng lớn, trong nhánh gồm nhiều thay đổi về `script`, có khi kèm cả các tài liệu `doc` và file nhị phân `bin`.
 
-### 2.2 [Các bước thực hiện](./HowToContribute.md)
+### 2.2 [Các bước thực hiện](./CONTRIBUTING.md)
 
-Xem chi tiết tại [ĐÂY](./HowToContribute.md)
+Xem chi tiết tại [ĐÂY](./CONTRIBUTING.md)
 
 
 ## 3. 🕹Hướng dẫn cài đặt

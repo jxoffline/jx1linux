@@ -73,7 +73,10 @@ Khi đặt tên nhánh cần tuân theo quy ước như sau:
 Xem chi tiết tại [ĐÂY](./CONTRIBUTING.md)
 
 
+
 ## 3. 🕹Hướng dẫn cài đặt
+
+#### 👉 Các bước cài đặt
 
 - **Bước 1**: Cài đặt trò chơi phiên bản gốc, sau đó mở sẵn thư mục cài đặt lên chuẩn bị cho [Bước 4](#) ( bằng cách click phải chuột lên biểu tượng trò chơi vừa cài đặt xong, chọn `Open file location`). Lưu ý hai thư mục bên dưới đây:
 
@@ -128,6 +131,50 @@ Xem chi tiết tại [ĐÂY](./CONTRIBUTING.md)
       
       Hoàn tất.
       
+
+
+**YouTube**: https://youtu.be/xrgB5tpAHNQ?si=XptYZwgmkFXR-q-1
+
+**FAQ** (câu hỏi thường gặp): https://fb.com/groups/volamquan/posts/997527467623112/
+
+
+
+#### 👉 Vài hình ảnh trong game
+
+Hoa Sơn tuyệt đỉnh
+
+![](./_/jx01.jpg)
+
+
+
+Ba Lăng huyện
+
+![](./_/jx02.jpg)
+
+
+
+Hoa Sơn phái tu tiên
+
+![](./_/jx03.jpg)
+
+
+
+Tiêu Dao (có thể tự mod thêm vào)
+
+![](./_/jx04.jpg)
+
+
+
+Hiệu thuốc Tương Dương
+
+![](./_/jx05.jpg)
+
+
+Kỳ nhân dị sĩ tụ tập tại Tương Dương phủ
+
+![](./_/jx06.jpg)
+
+
 
 
 

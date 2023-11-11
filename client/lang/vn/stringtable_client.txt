@@ -1,5 +1,5 @@
 key	value
-G_CONFIRM_WORD	 Sö dông
+G_CONFIRM_WORD	X¸c nhËn
 G_STR_YES	Muèn
 G_STR_CANCEL	 Hñy bá 
 G_NO_WORD	V« hÖ 
@@ -61,7 +61,7 @@ G_UIGAME_3	nhËp ®éi
 G_UIGAME_4	Tæ ®éi
 G_UIGAME_5	Theo sau
 G_UIGAME_6	Tin tøc 
-G_UIGAME_7	Bang héi
+G_UIGAME_7	Bang Héi
 G_UIGAME_8	Cõu s¸t
 G_UIGAME_9	®­a tiÒn
 G_UIGAME_10	Tªn truy nhËp
@@ -70,6 +70,7 @@ G_UIGAME_12	Trôc xuÊt khái tæ ®éi
 G_UIGAME_13	Täa ®é
 G_UIGAME_14	Xin phÐp nhËp bang
 G_UIGAME_15	§Èy rêi m¹ng
+G_UIGAME_18	ChuyÓn 
 G_ITEM_GOLDCOIN	XXXXXX v¹n XXXX
 G_ITEM_ENERGY	X,XXX,XXX,XXX
 G_TIME_0	nöa ®ªm
@@ -148,7 +149,7 @@ G_ACTIVE_TIME_FORMAT	%d giê
 G_KillerAllTask_0	thua
 G_KillerAllTask_1	%d v¹n 
 G_KillerAllTask_2	%04d l­îng 
-G_KillerAllTask_3	 l­îng
+G_KillerAllTask_3	l­îng
 G_KillerAllTask_5	%d l­îng 
 G_KillerAllTask_6	Xin lçi! B¹n ch­a cã ®ñ hiÖn kim, lËp mét b¶ng nhiÖm vô truy n· ph¶i cÇn rÊt nhiÒu tiÒn
 G_KillerAllTask_7	!! 
@@ -220,7 +221,7 @@ G_SysMsgCentre_6	Xem nhÑ
 G_SysmsgCentre_7	Th«ng b¸o míi nhÊt vÒ viÖc ®iÒu chØnh trß ch¬i
 
 G_TONG_0	Tr­ëng L·o
-G_TONG_1	§éi tr­ëng
+G_TONG_1	§éi tr­ëng 
 G_TONG_2	§Ö tö 
 G_TONG_3	Xin lùa chän chøc vÞ 
 G_TONG_4	Xin lùa chän chøc vÞ râ rµng
@@ -306,11 +307,11 @@ G_STR_RESCUE	Ng­êi gi¶i cøu
 G_STR_PLAYERS	10 ng­êi ®Çu
 G_STR_ZHI	 
 G_STR_PERSONAL_REPORT	Thµnh tÝch c¸ nh©n
-G_STR_CACULATE_COUNT	Sè l­îng
-G_STR_GRADE	TÝch lòy
+G_STR_CACULATE_COUNT	Sè l­îng 
+G_STR_GRADE	§iÓm TÝch Lòy
 G_STR_APPRAIZE	B×nh
 G_STR_CURRENT_GRADE	§iÓm tÝch lòy:
-G_STR_CURRENT_DEATH	Tö vong:
+G_STR_CURRENT_DEATH	Sè lÇn tö vong: 
 G_STR_OPERATE_REMIND	 (Ên phÝm ~ ®Ó bËt/t¾t) 
 G_STR_MAX_SERIAL_KILL	Liªn tr¶m:
 G_STR_MINUTE	%s cßn %d phót|
@@ -356,12 +357,16 @@ G_STR_RESOURCE_NOT_ENOUGHT	VËt liÖu cña b¹n ch­a ®ñ
 G_STR_PARTNER_DELETE	B¹n ®· xãa bá §ång hµnh nµy
 G_STR_PARTNER_SKILL_DELETE	B¹n ®· xã bá kü n¨ng nµy
 
+G_STR_USER_AGREEMENT	B¹n ®· ®äc vµ ®ång ý ®iÒu kho¶n sö dông trß ch¬i?
+G_STR_NOT_USER_AGREEMENT	B¹n ch­a nhÊn vµo nót ®ång ý ®iÒu kho¶n sö dông trß ch¬i, kh«ng thÓ ®¨ng nhËp vµo trß ch¬i
+G_STR_NOT_NEW_USER_AGREEMENT	B¹n ch­a nhÊn vµo nót ®ång ý ®iÒu kho¶n sö dông trß ch¬i, kh«ng thÓ t¹o nh©n vËt míi
+
 G_STR_CONSUME	Cã thÓ chän nguyªn liÖu
 G_STR_CRYOLITE	HuyÒn tinh
 G_STR_ATLAS	§å phæ 
 G_STR_MATERIAL	VËt liÖu
 G_STR_PROPMINE	Kho¸ng th¹ch 
-G_STR_RING	NhÉn
+G_STR_RING	NhÉn,
 G_STR_NECKLACE	D©y chuyÒn/hé th©n phï 
 G_STR_PENDANT	Ngäc béi/h­¬ng nang
 G_STR_EQUIP	Trang bÞ mµu xanh
@@ -412,7 +417,7 @@ U_GAME_LOGO	Vo Lam Truyen Ky
 U_MSG_RECENT_UPDATE_NOTIFY	Th«ng b¸o míi nhÊt vÒ viÖc ®iÒu chØnh trß ch¬i
 
 G_STR_SUCCESS	Thµnh c«ng
-G_STR_FAILURE	ThÊt b¹i
+G_STR_FAILURE	Hôt
 G_STR_CREATE_CHATROOM	 [%s] T¹o phßng míi %s!
 G_STR_ENTERN_CHATROOM	%s §¨ng nhËp phßng t¸n gÉu [%s]!
 G_STR_LEAVE_CHATROOM	%s Tho¸t khái phßng t¸n gÉu [%s]!
@@ -480,7 +485,7 @@ G_STR_JION_TIME	Thêi gian nhËp bang
 
 G_STR_TONG_MASTER	Bang chñ 
 G_STR_TONG_DIRECTOR	Tr­ëng L·o
-G_STR_TONG_MANAGER	§éi tr­ëng
+G_STR_TONG_MANAGER	§éi tr­ëng 
 G_STR_TONG_MEMBER	§Ö tö 
 G_STR_TONG_RETIRE	Èn sü
 
@@ -498,10 +503,10 @@ G_STR_APPLY_JION_LEAGUE	Xin gia nhËp liªn minh
 
 G_STR_LEVEL	
 
-G_STRING_MONEY_C	 l­îng
+G_STRING_MONEY_C	l­îng
 G_STRING_FUYUAN_C	Phóc Duyªn
 G_STRING_COIN_C	TiÒn ®ång
-G_STRING_SCORE_C	TÝch lòy
+G_STRING_SCORE_C	§iÓm TÝch Lòy
 G_STRING_GOLDCOIN_C	TiÒn vµng
 G_STRING_HONOUR_C	®iÓm vinh dù
 G_STRING_GOLDCOIN_SCORE_C	TÝch lòy th­¬ng héi
@@ -572,16 +577,11 @@ G_STR_HUOYUEDU	Tæng ®é n¨ng ®éng lµ: %d
 G_STR_ACTICALENDAR_CLICK_TIPS	NhÊn chuét tr¸i chän vµo tin tøc chi tiÕt hiÓn thÞ. NhÊn chuét ph¶i chän cã thÓ t×m ®­îc
 G_STR_ACTICALENDAR_CANT_FIND_NPC	Ho¹t ®éng nµy kh«ng cã t×m ®­êng
 
+G_TEAMOVERVIEW_FOLLOW_FAILED	§ång ®éi ë qu¸ xa, kh«ng thÓ theo sau
+G_TEAMOVERVIEW_VIEWITEM_FAILED	§ång ®éi ë qu¸ xa, kh«ng thÓ xem th«ng tin.
 G_MERIDIAN_PUNCH_NOTICE	X¸c ®Þnh xung huyÖt chø?
 G_MERIDIAN_CUR_ZHENYUAN	Ch©n Nguyªn hiÖn t¹i: %d ®iÓm
-G_MERIDIAN_SUC_RATE	TØ LÖ thµnh c«ng: %d%%
-G_MERIDIAN_COST_ZY	Tiªu hao Ch©n Nguyªn: %d ®iÓm
-G_MERIDIAN_COST_HMD	Tiªu hao Hé M¹ch §¬n: %d c¸i
-G_MERIDIAN_NOTICE_COST_ZY	LÇn xung huyÖt nµy c¸c h¹ cÇn tiªu hao Ch©n Nguyªn: %d ®iÓm
-G_MERIDIAN_NOTICE_COST_HMD	LÇn xung huyÖt nµy c¸c h¹ cÇn tiªu hao Hé M¹ch §¬n: %d c¸i
-G_MERIDIAN_NOTICE_SUC_RATE	TØ lÖ thµnh c«ng lÇn xung huyÖt nµy lµ: %d%%
-G_MERIDIAN_NOTICE_FAILED_PUNISH	LÇn xung huyÖt nµy cña c¸c h¹ thÊt b¹i lµ: %s
-G_MERIDIAN_NOTICE_FAILED_PROTECTION	Duy tr× huyÖt vÞ hiÖn t¹i.
+G_MERIDIAN_CUR_XUANYUAN	HuyÒn Nguyªn hiÖn t¹i: %d ®iÓm
 
 G_STR_MINIENCOUNTER_NAME	Phï Li Xung §ét ChiÕn
 G_STR_MINIENCOUNTER_REPORT_TITLE	%s <%s : %d ng­êi, %d ®iÓm > vs <%s : %d ng­êi, %d  ®iÓm >%d phót cßn l¹i
@@ -611,10 +611,130 @@ G_STR_MINIENCOUNTER_JIN_TITLE_3	Thèng lÜnh phe Kim
 G_STR_MINIENCOUNTER_JIN_TITLE_4	Phã t­íng phe Kim
 G_STR_MINIENCOUNTER_JIN_TITLE_5	§¹i t­íng phe Kim
 
-G_STR_SMELT_EQUIP	Trang bÞ 
+G_STR_FULL_BREATH_INFO	NÕu 8 kinh m¹ch ®Òu ®¹t tÇng %d, cã thÓ tiÕn hµnh KhÝ Doanh §an §iÒn ®Ó t¨ng kh¶ n¨ng Ngò Hµnh t­¬ng kh¾c \n Ch©n Nguyªn tiªu hao trong KhÝ Doanh §an §iÒn lÇn nµy : %d ®iÓm\n §¹i Hé M¹ch §¬n tiªu hao trong KhÝ Doanh §an §iÒn lÇn nµy: %d viªn\n KhÝ Doanh §an §iÒn lÇn nµy sÏ duy tr×: %d ngµy\n S¸t th­¬ng lªn hÖ %s t¨ng %d%%\n S¸t th­¬ng g©y ra bëi hÖ %s gi¶m %d%%
+G_STR_MERIDIAN_DU	§èc m¹ch
+G_STR_MERIDIAN_REN	NhiÖm m¹ch
+G_STR_MERIDIAN_CHONG	Xung m¹ch
+G_STR_MERIDIAN_DAI	§íi m¹ch
+G_STR_MERIDIAN_YINGWEI	¢m duy m¹ch
+G_STR_MERIDIAN_YANGWEI	D­¬ng duy m¹ch
+G_STR_MERIDIAN_YINGQIAO	¢m khiªu m¹ch
+G_STR_MERIDIAN_YANGQIAO	D­¬ng khiªu m¹ch
+G_STR_FULL_BREATH_FAIL	%s ch­a ®¹t tÇng %d
+G_STR_FULL_BREATH_BUFFINFO1	KhÝ Doanh §an §iÒn duy tr×: Kh«ng\n\nS¸t th­¬ng lªn hÖ %s t¨ng: Kh«ng\n\nS¸t th­¬ng g©y ra bëi hÖ %s gi¶m: Kh«ng
+G_STR_FULL_BREATH_BUFFINFO2	KhÝ Doanh §an §iÒn duy tr×: %d giê\n\nS¸t th­¬ng lªn hÖ %s t¨ng: %d%%\n\nS¸t th­¬ng g©y ra bëi hÖ %s gi¶m: %d%%
+G_STR_FULL_BREATH_BUFFINFO3	KhÝ Doanh §an §iÒn duy tr×: %d ngµy\n\nS¸t th­¬ng lªn hÖ %s t¨ng: %d%%\n\nS¸t th­¬ng g©y ra bëi hÖ %s gi¶m: %d%%
+G_STR_FULL_BREATH_BUFFINFO4	KhÝ Doanh §an §iÒn duy tr×: %2d phót\n\nS¸t th­¬ng lªn hÖ %s t¨ng: %d%%\n\nS¸t th­¬ng g©y ra bëi hÖ %s gi¶m: %d%%
+G_STR_FULL_BREATH_TITLE	KhÝ Doanh §an §iÒn
+
+G_STR_TRANSPAGE_COMFIRM_INFO	§ång ý tiÕn hµnh chuyÓn linh lÇn nµy?
+G_STR_TRANSPAGE_TITLE	ChuyÓn linh
+G_STR_TRANSPAGE_COMFIRM_INFO2	Sau khi chuyÓn sinh, cÊp ph¶i lín h¬n cÊp tr­íc khi chuyÓn sinh míi cã thÓ chuyÓn linh
+
+G_STR_RETAINER_LEVEL_NO_MATCH	Më M«n Kh¸ch cÇn ®¹t cÊp 120
 G_STR_SMELT_STEEL	V¨n C­¬ng
+G_STR_SMELT_ORNAMENTA	V¨n søc
 G_STR_SMELT_COAL	HuyÒn Háa Than
 G_STR_CONFIRM_SMELT	§¹i hiÖp muèn dung luyÖn trang bÞ vµ V¨n C­¬ng nµy?
 G_STR_CONFIRM_UNSMELT	§¹i hiÖp muèn thÝ luyÖn trang bÞ vµ V¨n C­¬ng nµy?
+G_STR_MERIDIAN_CENG1	Thuéc tÝnh tÇng 1: 
+G_STR_MERIDIAN_CENG2	Thuéc tÝnh tÇng 2: 
+
+G_STR_CONFIRM_ORNAMENTATION	X¸c nhËn muèn kh¶m trang bÞ vµ v¨n søc nµy? (NÕu v¨n søc cã ®iÓm chóc phóc th× ®iÓm chóc phóc sÏ mÊt hÕt)
+G_STR_CONFIRM_UNORNAMENTATION	X¸c nhËn muèn t¸ch v¨n søc cña trang bÞ nµy?
+G_STR_CONFIRM_FACTIONPENDANTDOWN	X¸c nhËn muèn t¸ch Linh Th¹ch cña v¨n søc nµy?
+G_STR_CONFIRM_SCOURINFO	§óc ThiÕt cßn trong tói: %d\n KÕt qu¶ tÈy luyÖn#%d læ \n §iÓm chóc phóc: %d\/50
+
 G_STR_EQUIP_SMELTNUM	Sè V¨n C­¬ng trang bÞ cã thÓ dung luyÖn: %d
 G_STR_EQUIP_UNSMELTNUM	Sè V¨n C­¬ng trang bÞ ®· dung luyÖn: %d
+
+G_STR_TITLETIME_TUSED	<color=yellow>Thêi h¹n danh hiÖu:<color> SÏ qu¸ h¹n vµo %s
+G_STR_TITLE_DATE_FORMATE	%Y-%m-%d %H giê %M phót %S gi©y
+G_STR_TITLE_MSG_1	<color=yellow>Thêi h¹n danh hiÖu:<color> Danh hiÖu hiÖn t¹i sÏ qu¸ h¹n vµo %s
+G_STR_TITLE_NOTITLE	V« hÖ 
+G_STR_TITLE_SPLITOR	\n
+G_STR_TITLE_TEMPSKILL	<color=yellow>HiÖu øng danh hiÖu:<color>
+G_STR_TITLE_HIDSKILL	<color=yellow>HiÖu øng Èn:<color>
+G_STR_TITLE_SOURCE	<color=yellow>C¸ch nhËn danh hiÖu:<color>
+
+G_STR_GIVE_ITEM_UI_CONFIRM_TITLE	§ång ý %s? Thao t¸c nµy kh«ng thÓ quay l¹i.	
+G_STR_GIVE_ITEM_UI_CONFIRM_TITLE_MORE	%s\n x¸c ®Þnh %s kh«ng? Thao t¸c nµy kh«ng thÓ quay l¹i.	
+G_STR_MANTLESYSTEM_XIANGQIANG_CONFIRM	§ång ý kh¶m? Thao t¸c nµy kh«ng thÓ quay l¹i.
+G_STR_MANTLESYSTEM_XIANGQIANG_INFO	Th«ng tin phi phong ®Æt vµo:\n  %d Sao %s:\n
+G_STR_MANTLESYSTEM_XIANGQIANG_INFONO_XING	Th«ng tin Phi Phong ®Æt vµo:\n  %s:\n
+G_STR_MANTLESYSTEM_XING_NUM	Sè Tinh ThÇn Th¹ch kh¶m: %d/%d
+G_STR_MANTLESYSTEM_XING	%2d Sao 
+G_STR_EMPTY	Kh«ng
+G_STR_XING	%d sao %s
+G_STR_OF	%s cña %s
+G_STR_MANTLESYSTEM_BLESS_VALUE	<color=HBlue>§ét ph¸ ®iÓm chóc phóc %d/%d<color>
+G_STR_COLOR_XING	<color=Green>%d sao %s<color>\n
+G_STR_COLOR_EMPTY_XING	<color=Green>%d sao Lç kh¶m trèng<color>\n
+G_STR_XIANGQIANG_DEBUG_INFO	"Lç kh¶m Tinh ThÇn Th¹ch: %d---CÊp: %d---Kh¶m Tinh ThÇn Th¹ch P: %d"
+G_STR_SLOT_NUM_DEBUG_INFO	"Sè lç më trang bÞ: %d
+G_STR_WENGANG_NUM_DEBUG_INFO	<color=Violet>\nThö nghiÖm: Sè V¨n C­¬ng ®· dung luyÖn: %d / %d \nThö nghiÖm: CÊp V¨n C­¬ng dung luyÖn tèi ®a %d\n
+G_STR_WENGANG_HAVED_DEBUG_INFO	<color=Violet>Thö nghiÖm: ID V¨n C­¬ng ®· dung luyÖn: %d,%d,%d,%d,%d,%d\n
+G_STR_WENGANG_HAVED_SEED_DEBUG_INFO	<color=Violet>Thö nghiÖm: H¹t gièng V¨n C­¬ng ®· dung luyÖn %d: %d\n
+
+G_STR_APPEARANCE_SHOPPINGCART_FULL	Giá cña ng­¬i ®· ®Çy, nhÊn vµo vËt phÈm trªn giá cã thÓ bá ra.
+G_STR_CLOTHES_ITEM_HEAD	Ngo¹i trang phÇn trªn
+G_STR_CLOTHES_ITEM_CLOTHES	Ngo¹i trang phÇn d­íi
+G_STR_CLOTHES_ITEM_ORIGIN_DURABILITY	§é bÒn lóc ®Çu: <color=yellow>300<color>
+G_STR_CLOTHES_ITEM_ONLY_SEX	Giíi h¹n [%s] sö dông 
+G_STR_CLOTHES_ITEM_OTHER_OPER	Cã thÓ b¸n shop,<color=green>kh«ng thÓ giao dÞch, kh«ng thÓ bá<color>
+G_STR_CLOTHES_ITEM_TIP_INSTRUCTION	%s
+G_STR_CLOTHES_ITEM_WEEK_PRICE	Gi¸ tuÇn: <color=yellow>%d %s<color>
+G_STR_CLOTHES_ITEM_MONTH_PRICE	Gi¸ th¸ng: <color=yellow>%d %s<color>
+G_STR_CLOTHES_ITEM_FOREVER_PRICE	Gi¸ vÜnh viÔn: <color=yellow>%d %s<color>
+G_STR_CLOTHES_ITEM_TAKE_PRICE	Gi¸ lÊy ra: <color=yellow>%d %s<color>
+
+G_STR_CONFIRM_EXCHANGE_SHOP_BUY	Ng­¬i x¸c nhËn muèn mua vËt phÈm nµy?
+G_STR_EXCHANGE_SHOP_ITEM_TIP_TITLE	§iÒu kiÖn ®æi:
+
+G_STR_SOMEONECHAT_INFO_LEFT_BRACKET	[
+G_STR_SOMEONECHAT_INFO_RIGHT_BRACKET	]
+G_STR_SOMEONECHAT_INFO_TRANSLIFT	TS%d
+G_STR_SOMEONECHAT_INFO_LEVEL	%d
+
+G_STR_MONTHLYRECHARGE_AMOUNT	Th¸ng nµy n¹p %d VN§ (1000 VN§ = 1 TiÒn §ång)
+G_STR_MONTHLYRECHARGE_TAKE	l·nh
+G_STR_MONTHLYRECHARGE_TAKEN	§· nhËn
+G_STR_MONTHLYRECHARGE_AWARDTAKEN	(§· nhËn)
+G_STR_AWARD_CHEST_TIPS	R­¬ng phÇn th­ëng phóc lîi n¹p, chuét ph¶i sö dông nhËn phÇn th­ëng
+G_STR_MONTHLYLOTTERY_SCROLL	%d.%d-%s
+G_STR_MONTHLYLOTTERY_TITLE	Danh s¸ch tróng th­ëng th¸ng %d ngµy
+G_STR_MONTHLYLOTTERY_FIRSTTIPS	ThiÕt HuyÕt ChiÕn Lang (HSD 14 ngµy, kh«ng khãa), 2000 ®iÓm Ch©n Nguyªn, 1000 ®iÓm HuyÒn Nguyªn, 1000000000 EXP
+G_STR_MONTHLYLOTTERY_SECTIPS	T©n NhËm HiÖp Ên Gi¸m (Trung) (Khãa, HSD 7 ngµy), 1000 ®iÓm Ch©n Nguyªn, 500000000 EXP
+G_STR_MONTHLYLOTTERY_THIRDTIPS	V¹n TiÔn BÊt X©m/Xuyªn Y (Khãa, HSD 7 ngµy), 200000000 EXP
+
+G_STR_JZDF_READY	Thi ®Êu b¾t ®Çu sau %d gi©y  Sè ng­êi tham gia: %d
+G_STR_JZDF_FIGHT	Vßng %d tÇng %d\nChiÕn ®Êu cßn: %d\nTiªu diÖt: %d    Tö vong: %d
+G_STR_JZDF_REST	Sè vßng: vßng %d   Thêi gian nghØ cßn: %d
+
+G_STR_NEWYEAR2020_FIRSTTIPS	Hoa Vò Th¹ch (Khãa), Tr¹m Lam Thóy Ngäc (khãa), Danh hiÖu §¹i HiÖp May M¾n
+G_STR_NEWYEAR2020_SECTIPS	Hoa Vò Th¹ch (Khãa), Tr¹m Lam Thóy Ngäc (khãa)
+G_STR_NEWYEAR2020_THIRDTIPS	Hoa Vò Th¹ch (Khãa), Tr¹m Lam Thóy Ngäc (khãa)
+
+G_STR_MAIL_DAY	%u ngµy
+G_STR_MAIL_HOUR	%u giê
+G_STR_MAIL_MIN	%u phót
+
+G_STR_SERIES_STAMP_ACTIVATE_ORDER	KÝch ho¹t thuéc tÝnh Èn thø %d
+
+G_STR_BULLION	Vµng nÐn
+G_STR_AUCTION_INSPECTINFO1	B¸o gi¸ kh«ng hîp lÖ, b¸o gi¸ ph¶i lµ sè nguyªn lín h¬n 0.
+G_STR_AUCTION_INSPECTINFO2	B¸o gi¸ kh«ng hîp lÖ, b¸o gi¸ ph¶i nhá h¬n 2,1 tû.
+G_STR_AUCTION_INSPECTINFO3	Ch­a chän ho¹t ®éng.
+G_STR_AUCTION_INTRODUCTION1	1. §¹i hiÖp cã thÓ vµo T­¬ng D­¬ng-Sø Gi¶ §Êu Gi¸ b¸n vËt phÈm chØ ®Þnh, tiÕn hµnh ®Êu gi¸ c¸ nh©n.\n2. B¸n thµnh c«ng, hÖ thèng thu 10% phÝ, tèi ®a 2 v¹n Kim §Ünh.\n3. VËt phÈm b¸n cã hiÖu lùc 24 giê, nÕu kh«ng ai mua, vËt phÈm hoµn tr¶ qua th­.\n4. Mçi ng­êi mçi ngµy tèi ®a b¸n 5 vËt phÈm, thu nhËp cã ®­îc tõ ®Êu gi¸ göi qua th­.\n5. VËt phÈm ®Êu gi¸ nhËn qua th­, kh«ng thu phÝ.
+G_STR_AUCTION_INTRODUCTION2	§Êu gi¸ gi¶m dÇn: \nGi¸ vËt phÈm theo thêi gian <color=yellow>kh«ng ngõng gi¶m<color>, ®¹i hiÖp cã thÓ nhÊp <color=yellow>Ra gi¸ mua<color> bÊt cø lóc nµo.\nMua lµ cã thÓ ®Êu gi¸ thµnh c«ng vËt phÈm t­¬ng øng, kh«ng cÇn ph¶i ®Êu gi¸ víi ng­êi kh¸c!
+G_STR_AUCTION_INTRODUCTION3	§Êu gi¸ dïng Vµng: \nTrong thêi gian ho¹t ®éng, tÊt c¶ ®¹i hiÖp cã thÓ tèn Kim §Ünh ®Êu gi¸ vËt phÈm chØ ®Þnh.\nHo¹t ®éng kÕt thóc, <color=yellow>ng­êi ra gi¸ cao nhÊt<color> cã thÓ nhËn vËt phÈm.\nTrong thêi gian ho¹t ®éng, mçi ®¹i hiÖp tèi ®a cã thÓ trë thµnh <color=yellow>ng­êi së h÷u gi¸ cao nhÊt cña 2 mãn vËt phÈm<color>\nMçi vËt phÈm ®Êu gi¸ thµnh c«ng <color=yellow>90 ngµy míi më khãa<color>
+	
+G_STR_AUCTION_DAY	%s%02u ngµy
+G_STR_AUCTION_HOUR	%s%02u giê
+G_STR_AUCTION_MIN	%s%02u phót
+G_STR_AUCTION_SEC	%s%02u gi©y
+
+G_COMPANION_BUWEI	VÞ trÝ
+G_COMPANION_EMPTY	§Æt Trang bÞ §ång Hµnh vµo
+
+G_STR_SP_NOT_ENOUGH	[%s] kh«ng ®ñ sè tÇng

@@ -1,6 +1,6 @@
 MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAMESVR_SET_6	GAMESVR_SET_7	GAMESVR_SET_8	GAMESVR_SET_9	GAMESVR_SET_10	GAMESVR_SET_11	GAMESVR_SET_12	GAMESVR_SET_13	GAMESVR_SET_14	GAMESVR_SET_15	GAMESVR_SET_16	±¸×¢
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Ph­îng T­êng
-2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	 Hoa S¬n
+1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ph­îng T­êng
+2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n
 3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	KiÕm C¸c T©y B¾c
 4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Quang ®éng
 5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kinh Hoµng ®éng
@@ -195,6 +195,8 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 207	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÇn L¨ng tÇng 3
 208	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i lao
 209	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	DiÔn vâ tr­êng
+210	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	DiÔn vâ tr­êng
+211	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	DiÔn vâ tr­êng
 212	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n tuyÖt ®Ønh
 213	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi Bang héi 1
 214	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi Bang héi 2
@@ -324,6 +326,7 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 340	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M¹c Cao QuËt
 341	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M¹c B¾c Th¶o Nguyªn
 342	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vi s¬n ®¶o
+343	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt thÊt Hoµnh S¬n
 344	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thµnh trÊn (s¬ cÊp) 
 345	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thµnh trÊn (trung cÊp) 
 346	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thµnh trÊn (cao cÊp) 
@@ -336,6 +339,7 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 353	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Doanh tr¹i (s¬ cÊp) 
 354	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Doanh tr¹i (trung cÊp) 
 355	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Doanh tr¹i (cao cÊp) 
+356	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng ®Êu (1) 
 357	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¬n ®Êu B×nh nguyªn (S¬ cÊp) 
 358	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¬n ®Êu B×nh nguyªn (Trung cÊp) 
 359	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¬n ®Êu B×nh nguyªn (Cao cÊp) 
@@ -366,11 +370,14 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 384	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (s¬ cÊp) 
 385	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (trung cÊp) 
 386	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	CÇu ranh giíi (cao cÊp) 
-388	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (90 - 119) 
+387	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (60-89) 
+388	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (90-119) 
 389	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Kú (trªn 120) 
-391	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (90 - 119) 
-392	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn MiÕu (trªn 120) 
-394	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (90 - 119) 
+390	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn miÕu (60-89) 
+391	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn miÕu (90-119) 
+392	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n ThÇn miÕu (trªn 120) 
+393	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (60-89) 
+394	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (90-119) 
 395	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn B¶o khè (trªn 120) 
 396	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng liªn ®Êu KiÖt xuÊt (1)
 397	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng liªn ®Êu KiÖt xuÊt (1)
@@ -448,6 +455,14 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 469	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (S¬ cÊp 6) 
 470	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (S¬ cÊp 7) 
 471	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (S¬ cÊp 8) 
+472	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 1) 
+473	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 2) 
+474	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 3) 
+475	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 4) 
+476	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 5) 
+477	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 6) 
+478	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 7) 
+479	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (S¬ cÊp 8) 
 480	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 1) 
 481	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 2) 
 482	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 3) 
@@ -464,6 +479,22 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 493	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 14) 
 494	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 15) 
 495	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th¸ch thøc thêi gian (Cao cÊp 16) 
+496	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 1) 
+497	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 2) 
+498	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 3) 
+499	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 4) 
+500	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 5) 
+501	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 6) 
+502	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 7) 
+503	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 8) 
+504	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 9) 
+505	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 10) 
+506	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 11) 
+507	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 12) 
+508	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 13) 
+509	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 14) 
+510	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 15) 
+511	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thö luyÖn tµi nghÖ (Cao cÊp 16) 
 512	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	V©n Trung §¹o
 513	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¸ch Hoa Cèc
 514	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S¬n TÆc ®éng
@@ -534,7 +565,7 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 579	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	HËu tr­êng liªn ®Êu (10)
 580	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng phe Tèng
 581	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng phe Kim
-582	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hang Gi¸ng Sinh_Khu vùc chuÈn bÞ
+582	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 583	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hang Gi¸ng Sinh
 584	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	N¬i chuÈn bÞ nh÷ng ho¹t ®éng dÞp xu©n
 585	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc ho¹t ®éng dÞp xu©n
@@ -549,25 +580,233 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 595	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc bang héi chung 2
 596	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc bang héi chung 3
 597	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc bang héi chung 4
-605	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng MËt L©m
-606	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng MËt L©m
-607	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng MËt L©m
+605	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vâ L©m §Ö NhÊt Bang
+606	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vâ L©m §Ö NhÊt Bang
+607	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vâ L©m §Ö NhÊt Bang
 608	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 609	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 610	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 611	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 612	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 613	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
+614	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (1)
+615	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (2)
+616	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (3)
+617	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (4)
+618	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (5)
+619	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (6)
+620	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (7)
+621	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (8)
+622	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (9)
+623	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (10)
+624	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (11)
+625	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (12)
+626	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (13)
+627	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (14)
+628	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (15)
+629	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (16)
+630	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (17)
+631	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (18)
+632	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (19)
+633	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (20)
+634	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (21)
+635	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (22)
+636	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (23)
+637	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (24)
+638	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (25)
+639	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (26)
+640	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (27)
+641	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (28)
+642	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (29)
+643	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (30)
+644	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (31)
+645	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (32)
+646	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (33)
+647	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (34)
+648	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (35)
+649	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (36)
+650	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc (37)
+651	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (1)
+652	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (2)
+653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (3)
+654	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (4)
+655	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (5)
+656	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (6)
+657	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (7)
+658	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (8)
+659	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (9)
+660	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quan s¸t tr­êng (10)
+661	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (1)
+662	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (2)
+663	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (3)
+664	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (4)
+665	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (5)
+666	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (6)
+667	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (7)
+668	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (8)
+669	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (9)
+670	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (10)
+671	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (11)
+672	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng vâ l©m ®¹i héi (12)
+673	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (1)
+674	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (2)
+675	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (3)
+676	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (4)
+677	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (5)
+678	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (6)
+679	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (7)
+680	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (8)
+681	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (9)
+682	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (10)
+683	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (11)
+684	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ (12)
+685	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (1)
+686	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (2)
+687	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (3)
+688	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (4)
+689	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (5)
+690	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (6)
+691	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (7)
+692	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (8)
+693	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (9)
+694	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (10)
+695	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (11)
+696	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (12)
+697	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (13)
+698	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (14)
+699	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (15)
+700	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (16)
+701	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (17)
+702	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (18)
+703	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (19)
+704	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (20)
+705	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (21)
+706	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (22)
+707	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (23)
+708	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (24)
+709	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (1)
+710	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (2)
+711	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (3)
+712	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (4)
+713	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (5)
+714	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (6)
+715	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (7)
+716	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (8)
+717	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (9)
+718	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (10)
+719	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (11)
+720	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (12)
+721	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (13)
+722	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (14)
+723	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (15)
+724	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (16)
+725	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (17)
+726	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (18)
+727	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (19)
+728	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (20)
+729	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (21)
+730	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (22)
+731	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (23)
+732	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (24)
+733	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (25)
+734	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (26)
+735	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (27)
+736	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (28)
+737	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (29)
+738	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (30)
+739	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (31)
+740	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (32)
+741	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (33)
+742	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (34)
+743	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (35)
+744	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (36)
+745	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (37)
+746	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (38)
+747	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (39)
+748	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (40)
+749	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (41)
+750	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (42)
+751	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (43)
+752	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (44)
+753	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (45)
+754	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (46)
+755	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (47)
+756	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (48)
+757	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (49)
+758	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (50)
+759	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (51)
+760	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (52)
+761	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (53)
+762	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (54)
+763	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (55)
+764	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (56)
+765	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (57)
+766	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (58)
+767	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (59)
+768	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (60)
+769	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (61)
+770	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (62)
+771	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (63)
+772	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (64)
+773	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (65)
+774	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (66)
+775	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (67)
+776	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (68)
+777	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (69)
+778	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (70)
+779	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (71)
+780	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (72)
+781	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (73)
+782	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (74)
+783	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (75)
+784	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (76)
+785	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (77)
+786	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (78)
+787	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (79)
+788	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (80)
+789	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (81)
+790	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (82)
+791	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (83)
+792	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (84)
+793	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (85)
+794	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (86)
+795	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (87)
+796	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (88)
+797	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (89)
+798	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (90)
+799	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (91)
+800	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (92)
+801	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (93)
+802	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thi ®Êu (94)
+803	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (1)
+804	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (2)
+805	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (3)
+806	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (4)
+807	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (5)
+808	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (6)
+809	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (7)
+810	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (8)
+811	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (9)
+812	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (10)
+813	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (11)
+814	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (12)
+815	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (13)
+816	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (14)
+817	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (15)
+818	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (16)
+819	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (17)
+820	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i ®Êu tr­êng (18)
 821	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ chiªu mé ®Ö tö
 822	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chiªu mé ®Ö tö
 823	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ ®¸nh qu¸i thó
 824	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc ®¸nh qu¸i thó
 825	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ - TÕt §oan Ngä
 826	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc TÕt §oan Ngä
+827	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ - Thu thËp vËt phÈm
+828	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc thu thËp vËt phÈm
 829	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
 830	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
 831	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
-827	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ - Thu thËp vËt phÈm
 832	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
 833	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
 834	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca M«n cÊm ®Þa
@@ -585,7 +824,10 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 846	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi hµo kiÖt 6
 847	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi hµo kiÖt 7
 848	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi hµo kiÖt 8
-851	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng chuÈn bÞ Viªm §Õ B¶o Tµng
+849	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ - TÕt §oan Ngä
+850	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc TÕt §oan Ngä
+851	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cöa vµo b¶o tang Viªm §Õ
+852	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cöa vµo b¶o tang Viªm §Õ
 853	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (1)
 854	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (2)
 855	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (3)
@@ -596,14 +838,18 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 860	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (8)
 861	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (9)
 862	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¶o tµng Viªm §Õ (10)
-863	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc ch¹y ®ua cña lÔ gi¶i phãng
-864	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n §¹i ChiÕn
-865	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n §¹i ChiÕn
-866	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n §¹i ChiÕn
-867	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n §¹i ChiÕn
+863	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc ®­êng ®ua
+864	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi Hoa S¬n (Trung cÊp)
+865	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i ®µi Hoa S¬n (Cao cÊp)
+866	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ch©n nói Hoa S¬n (Trung cÊp)
+867	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ch©n nói Hoa S¬n (Cao cÊp)
 868	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Hoang M¹c (s¬)
 869	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Hoang M¹c (trung)
 870	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Hoang M¹c (cao)
+871	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thanh ¢m §éng (1)
+872	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thanh ¢m §éng (2)
+873	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	An Kú Liªn §¬n §éng (1)
+874	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	An Kú Liªn §¬n §éng (2)
 875	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H¾c Sa ®éng
 876	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cæ thµnh (s¬ cÊp)
 877	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cæ thµnh (trung cÊp)
@@ -611,28 +857,31 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 879	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Th¹ch s¬n (s¬ cÊp)
 880	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Th¹ch s¬n (trung cÊp)
 881	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Th¹ch s¬n (cao cÊp)
+882	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ
 883	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Th¸p tiÔn (S¬ cÊp)
 884	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Th¸p tiÔn (Trung cÊp)
 885	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Th¸p tiÔn (Cao cÊp)
-895	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ho¹t ®éng Boss §Êu Ng­u
+895	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Xu©n Phong §¶o
+896	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cöu Ch©u Cèc
 897	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Danh nh©n ®­êng
 898	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quèc chiÕn Giíi KiÒu chiÕn
 899	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quèc chiÕn MËt L©m chiÕn
-900	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quèc chiÕn Hoµng Sa L©m
+900	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Quèc chiÕn Tèng Kim chiÕn tr­êng Phong V©n
 902	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng tïng l©m (s¬)
 903	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng tïng l©m (trung)
 904	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng tïng l©m (cao)
-906	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (chuÈn bÞ)
-907	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (1)
-908	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (2)
-909	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (3)
-910	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (4)
-911	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (5)
-912	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (6)
-913	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (7)
-914	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (8)
-915	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (9)
-916	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Sa m¹c (10)
+905	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr­êng Ca S¬n Trang
+906	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh (chuÈn bÞ)
+907	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh (1)
+908	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(2)
+909	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(3)
+910	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(4)
+911	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(5)
+912	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(6)
+913	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(7)
+914	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(8)
+915	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(9)
+916	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mïa an lµnh(10)
 917	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TÝch HuyÕt Cèc
 918	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Nh©n Cèc
 919	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thùc Cèt Nhai
@@ -641,46 +890,58 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 922	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bµn Long S¬n
 923	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Þa MÉu S¬n
 924	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	UyÓn Phông S¬n
-926	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn Thµnh §«
-927	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn BiÖn Kinh
-928	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn §¹i Lý
-929	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn Ph­îng T­êng
-930	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn L©m An
-931	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn T­¬ng D­¬ng
-932	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng C«ng Thµnh ChiÕn D­¬ng Ch©u
-934	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing1
-935	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing2
-936	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-937	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-938	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-939	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-940	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-941	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-942	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-943	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-944	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-945	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-946	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing3
-947	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	tianchimijing4
+925	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ThÝ LuyÖn §­êng
+926	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Thµnh §«
+927	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng BiÖn Kinh
+928	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng §¹i Lý
+929	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Ph­îng T­êng
+930	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng L©m An
+931	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng T­¬ng D­¬ng
+932	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng D­¬ng Ch©u
+934	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ngän nói Tr­êng B¹ch
+935	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 1
+936	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 2
+937	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (1)
+938	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr× TÇng 3 (2)
+939	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (3)
+940	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (4)
+941	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (5)
+942	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (6)
+943	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (7)
+944	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (8)
+945	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr× TÇng 3 (9)
+946	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr×  TÇng 3 (10)
+947	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Tr× tÇng thø 4
+948	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	KiÕm Gia Mª Cung.
 949	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ThÝ KiÕm Cèc
-950	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc Thµnh §«
-951	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc Ph­îng T­êng
-952	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc BiÖn Kinh
-953	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc L©m An
-954	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc §¹i Lý
-955	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc T­¬ng D­¬ng
-956	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¸c Lang Cèc D­¬ng Ch©u
+950	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+951	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+952	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+953	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+954	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+955	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
+956	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ác Lang Cèc
 957	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt Phßng cöa ¶i
+958	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng
 959	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn Long §éng
 960	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	L«i §µi Hoµng Thµnh T­
 961	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng chuÈn bÞ ho¹t ®éng Méc Nh©n
-896	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Lo¹n ChiÕn Cöu Ch©u Cèc
-972	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh Tèng Kim liªn server (s¬)
-973	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh Tèng Kim liªn server (trung)
-974	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh Tèng Kim liªn server (cao)
+962	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cöa vµo b¶o tang Viªm §Õ
+963	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu vùc chuÈn bÞ 
+964	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (1)
+965	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (2)
+966	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng (3)
+967	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	V« Danh MËt C¶nh
 968	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	NguyÖt Ca §¶o
 969	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	NguyÖt Ca MËt Cèc
-967	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	V« Danh MËt C¶nh
+970	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng liªn kÕt MËt L©m
+971	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Phong V©n liªn server
+972	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh Tèng Kim liªn server
+973	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh liªn server 2
+974	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§iÓm b¸o danh liªn server 3
+975	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	C¶nh Kü Tr­êng
+976	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiªn Trïng L©u
+977	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	thu nhÆt lóa n­íc
 978	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
 979	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
 980	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
@@ -689,10 +950,45 @@ MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAM
 983	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
 984	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bang héi thµnh b¶o 
 985	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Þa Cung Biªn Kinh
+986	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TuyÕt Nh©n §¹i ChiÕn
 987	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n ph¸i
 988	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ChiÕn tr­êng Phï Li Xung §ét ChiÕn
 991	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi tr­êng liªn ®Êu (11)
 992	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu tr­êng liªn ®Êu (11)
 993	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	N¬i chuÈn bÞ liªn ®Êu (11)
 994	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T­ Qu¸ Nhai
-1042	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò hån
+995	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt Phßng cöa ¶i
+996	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Cæ Th¸p Bang Héi
+997	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§¹i T¶n Quan
+998	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Anh Hïng Th¸p
+1001	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 1 (Thiªn) 
+1002	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 1 (§Þa) 
+1003	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 1 (NhËt) 
+1004	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 1 (NguyÖt) 
+1005	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 2 (¢m) 
+1006	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 2 (D­¬ng) 
+1007	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B¹ch Hæ §­êng tÇng 3
+1008	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Th«ng Thiªn Th¸p
+1009	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt §éng Sa M¹c
+1010	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt §éng Sa M¹c
+1011	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	MËt §éng Sa M¹c
+1012	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	QuyÕt ChiÕn §Ønh Phong
+1013	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	QuyÕt ChiÕn §Ønh Phong
+1014	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n Kh¸nh §iÓn 1
+1015	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoa S¬n Kh¸nh §iÓn 2
+1042	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò Hån 
+1043	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò Hån (LuyÖn Vâ Tr­êng)
+1044	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò Hån (LuyÖn Vâ Tr­êng)
+1045	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò Hån (LuyÖn Vâ Tr­êng)
+1046	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vò Hån (LuyÖn Vâ Tr­êng)
+1047	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu ChuÈn BÞ
+1048	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu Thi §Êu
+1049	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Héi Tr­êng Liªn §Êu (12)
+1050	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§Êu Tr­êng Liªn §Êu (12)
+1051	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu ChuÈn BÞ Liªn ®Êu (12)
+1052	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T­¬ng D­¬ng Thñ VÖ ChiÕn
+1053	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Liªn ®Êu 3v3
+1054	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ngò hµnh trËn
+1055	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Linh Lung Th¸p-Khu vùc chuÈn bÞ
+1056	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Linh Lung Th¸p
+1057	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ph¸i Tiªu Dao

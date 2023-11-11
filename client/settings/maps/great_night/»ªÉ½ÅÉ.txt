@@ -1,2 +1,0 @@
-map_ID	nPosX	nPosY
-333	1247	3229

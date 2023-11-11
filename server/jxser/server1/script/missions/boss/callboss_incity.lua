@@ -3,24 +3,24 @@ Include("\\script\\lib\\file.lua")
 Include("\\script\\config.lua")
 IncludeLib("LEAGUE")
 QY_GOLDBOSS_DPOS_INFO = {
-					[739]	= {"V­¬ng T¸ ",		739, 	95,	341,	0,	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\wangzuoboss.txt"},
-					[740]	= {"HuyÒn Gi¸c §¹i S­ ", 	740, 	95,	322, 	0, 	"\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjuedashiboss.txt"},
-					[741]	= {"§­êng BÊt NhiÔm", 	741, 	95, 336, 	1, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶ÉÄÏ°¶\\herenwoboss.txt"},
-					[742]	= {"B¹ch Doanh Doanh", 	742, 	95, 336,	1, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶É±±°¶\\baiyingyingboss.txt"},
-					[743]	= {"Thanh TuyÖt S­ Th¸i", 	743, 	95, 341, 	2, 	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\qingxiaoshitaiboss.txt"},
-					[744]	= {"Yªn HiÓu Tr¸i", 	744, 	95, 336, 	2, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶É±±°¶\\yanxiaoqianboss.txt"},
-					[745]	= {"Hµ Nh©n Ng· ", 	745, 	95, 321, 	3, 	"\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjiziboss.txt"},
-					[746]	= {"§¬n T­ Nam", 	746, 	95, 341, 	4, 	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\shansinanboss.txt"},
-					[747]	= {"TuyÒn C¬ Tö ", 	747, 	95, 340, 	4, 	"\\settings\\maps\\Î÷±±±±Çø\\Äª¸ß¿ß\\tangburanboss.txt"},
-					[748]	= {"Hµn M«ng", 		748, 	95, 342, 	1, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\hanmengboss.txt"},
-					[565]	= {"§oan Méc DuÖ ",	565, 	95, 227, 	3,	"\\settings\\maps\\Î÷±±±±Çø\\É³Ä®ÃÔ¹¬\\duanmuruiboss.txt"},
-					[582]	= {"Lam Y Y", 	582, 	95, 181, 	1,	"\\settings\\maps\\½­ÄÏÇø\\Á½Ë®¶´ÃÔ¹¬\\lanyiyiboss.txt"},
-					[567]	= {"Chung Linh Tó ", 	567, 	95, 181, 	2,	"\\settings\\maps\\½­ÄÏÇø\\Á½Ë®¶´ÃÔ¹¬\\zhonglingxiuboss.txt"},
-					[583]	= {"M¹nh Th­¬ng L­¬ng", 	583, 	95, 341, 	3,	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\wangzuoboss.txt"},
-					[1365]	= {"HuyÒn Nan §¹i S­", 	1365, 	95, 342, 	0, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
-					[1368]	= {"Thanh Liªn Tö", 	1368, 	95, 875, 	4,	"\\settings\\maps\\Î÷±±±±Çø\\É³Ä®ÃÔ¹¬\\qinglianziboss.txt"},
-					[1366]	= {"§­êng Phi YÕn", 	1366, 	95, 342, 	1, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
-					[1367]	= {"Tõ §¹i Nh¹c", 	1367,	95, 342,	4, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
+	[739]	= {"V­¬ng T¸ ",		739, 	95,	341,	0,	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\wangzuoboss.txt"},
+	[740]	= {"HuyÒn Gi¸c §¹i S­ ", 	740, 	95,	322, 	0, 	"\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjuedashiboss.txt"},
+	[741]	= {"§­êng BÊt NhiÔm", 	741, 	95, 336, 	1, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶ÉÄÏ°¶\\herenwoboss.txt"},
+	[742]	= {"B¹ch Doanh Doanh", 	742, 	95, 336,	1, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶É±±°¶\\baiyingyingboss.txt"},
+	[743]	= {"Thanh TuyÖt S­ Th¸i", 	743, 	95, 341, 	2, 	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\qingxiaoshitaiboss.txt"},
+	[744]	= {"Yªn HiÓu Tr¸i", 	744, 	95, 336, 	2, 	"\\settings\\maps\\ÖÐÔ­±±Çø\\·çÁê¶É±±°¶\\yanxiaoqianboss.txt"},
+	[745]	= {"Hµ Nh©n Ng· ", 	745, 	95, 321, 	3, 	"\\settings\\maps\\¶«±±Çø\\³¤°×É½Â´\\xuanjiziboss.txt"},
+	[746]	= {"§¬n T­ Nam", 	746, 	95, 341, 	4, 	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\shansinanboss.txt"},
+	[747]	= {"TuyÒn C¬ Tö ", 	747, 	95, 340, 	4, 	"\\settings\\maps\\Î÷±±±±Çø\\Äª¸ß¿ß\\tangburanboss.txt"},
+	[748]	= {"Hµn M«ng", 		748, 	95, 342, 	1, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\hanmengboss.txt"},
+	[565]	= {"§oan Méc DuÖ ",	565, 	95, 227, 	3,	"\\settings\\maps\\Î÷±±±±Çø\\É³Ä®ÃÔ¹¬\\duanmuruiboss.txt"},
+	[582]	= {"Lam Y Y", 	582, 	95, 181, 	1,	"\\settings\\maps\\½­ÄÏÇø\\Á½Ë®¶´ÃÔ¹¬\\lanyiyiboss.txt"},
+	[567]	= {"Chung Linh Tó ", 	567, 	95, 181, 	2,	"\\settings\\maps\\½­ÄÏÇø\\Á½Ë®¶´ÃÔ¹¬\\zhonglingxiuboss.txt"},
+	[583]	= {"M¹nh Th­¬ng L­¬ng", 	583, 	95, 341, 	3,	"\\settings\\maps\\¶«±±Çø\\Ä®±±²ÝÔ­\\wangzuoboss.txt"},
+	[1365]	= {"HuyÒn Nan §¹i S­", 	1365, 	95, 342, 	0, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
+	[1368]	= {"Thanh Liªn Tö", 	1368, 	95, 875, 	4,	"\\settings\\maps\\Î÷±±±±Çø\\É³Ä®ÃÔ¹¬\\qinglianziboss.txt"},
+	[1366]	= {"§­êng Phi YÕn", 	1366, 	95, 342, 	1, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
+	[1367]	= {"Tõ §¹i Nh¹c", 	1367,	95, 342,	4, 	"\\settings\\maps\\½­ÄÏÇø\\Î÷É½Óì\\big_goldboss.txt"},
 }
 ---------------------------------------------------------------------------------------------
 function QY_MakeBoss_RandInCity(bossid, bosslvl, series, mapid, posx, posy, bossname, str)
@@ -36,8 +36,7 @@ function QY_MakeBoss_RandInCity(bossid, bosslvl, series, mapid, posx, posy, boss
 
 		local nHour = tonumber(GetLocalDate("%H"));
 		if (nHour == 19) then
-			-- »Æ½ðBOSS¼ÆÊý
-			SetNpcParam(npcindex, 1, 1); -- ÊÇ·ñÊÇ19:30µÄ»Æ½ðBOSS
+			SetNpcParam(npcindex, 1, 1);
 			RemoteExecute("\\script\\mission\\boss\\bigboss.lua", "AddGoldBossCount", 0);
 		end
 	end

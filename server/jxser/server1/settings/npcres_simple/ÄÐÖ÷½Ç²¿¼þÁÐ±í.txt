@@ -1,5 +1,6 @@
 ÐòºÅ	²¿¼þ×é³É	²¿¼þ1	²¿¼þ2	²¿¼þ3	²¿¼þ4
-0	§Çu kh«i	Head	Hair		
-1	Trang bÞ 	Shoulder	Body	LeftHand	RightHead
-2	Vò khÝ 	LeftWeapon	RightWeapon		
+0	§Çu Tãc	Head	Hair		
+1	Trang BÞ	Shoulder	Body	LeftHand	RightHead
+2	Vò KhÝ	LeftWeapon	RightWeapon		
 3	Ngùa	HorseFront	HorseMiddle	HorseBack	
+4	Phi Phong	Mantle			

@@ -1,0 +1,19 @@
+[MAIN]
+elementnum=1
+[0]
+color=255,255,255,255
+elementtype=10000
+event=null
+groundoffset=1587.03,3214.28,0
+groupfile=null
+groupid=0
+id=0
+kind=“ª∞„¿‡–Õ
+mapedit=0
+obstacletype=1
+pointarray=(0.001587,-2.50513,0,) (0.648315,-0.498291,0,) (1.33826,0.062012,0,) (3.1709,-0.685547,0,) (2.03784,-2.44214,0,) (2,-3.45337,0,) (1.64673,-4.53394,0,) (1.07996,-4.53394,0,) (0.001587,-2.50513,0,) 
+pointnum=9
+radius=0.2
+regionoffset=3.03308,14.2813,0
+template=null
+templateindex=0

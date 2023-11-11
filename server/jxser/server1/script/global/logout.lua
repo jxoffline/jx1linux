@@ -13,7 +13,9 @@ Include("\\script\\global\\playerlist.lua")
 Include("\\script\\global\\logout_head.lua")
 
 Include("\\script\\misc\\eventsys\\eventsys.lua")
-
+-----------------------------------------------
+Include("\\script\\msgkiller\\msgkiller.lua")
+-----------------------------------------------
 function main()
 	if IsIPBonus() == 1 then
 		IpBonus_Close()
@@ -29,7 +31,7 @@ function main()
 	if ( MapId >= 387  and MapId <= 395) then
 		messenger_livegame()
 	end
-	
+	DelPlayer(PlayerIndex)
 	storm_logout()	--Storm
 	PlayerList:DelPlayer(PlayerIndex)
 	EventSys:GetType("OnLogout"):OnPlayerEvent(0, PlayerIndex)

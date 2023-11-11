@@ -1,16 +1,3 @@
-
-
--- ====================== 文件信息 ======================
-
--- 剑侠情缘网络版大陆版 - 
--- 文件用途：全局NPC死亡都会掉该脚本的OnGlobalNpcDeath函数
--- 创建者　：ZERO.SYS
--- 创建时间：2009-09-28 17:57:03
-
--- ======================================================
---默认全局PlayerIndex为物品所有者, PlayerIndex
---nNpcIndex 死亡的npc的NpcIndex
---nAttackerIndex 最后一击者 的PlayerIndex，, 
 IncludeLib("NPCINFO")
 Include("\\script\\lib\\string.lua")
 Include("\\script\\activitysys\\npcfunlib.lua")
@@ -26,6 +13,8 @@ Include("\\script\\bonusvlmc\\killmonster.lua")
 Include("\\script\\task\\150skilltask\\g_task.lua")
 Include("\\script\\misc\\eventsys\\eventsys.lua")
 
+Include("\\script\\msgkiller\\msgkiller.lua")
+
 function OnGlobalNpcDeath(nNpcIndex, nAttackerIndex)
 	if PlayerIndex and PlayerIndex > 0 then
 		--PlayerEvent:OnEvent("OnKillNpc", nNpcIndex, nAttackerIndex)
@@ -34,6 +23,7 @@ function OnGlobalNpcDeath(nNpcIndex, nAttackerIndex)
 		if NpcName2Replace then
 			szNpcName = NpcName2Replace(szNpcName)
 		end
+		add_msgkiller(PlayerIndex, "<color=red>Ngi v鮝 ti猽 di謙 <color=yellow>"..szNpcName.."<color>")
 		EventSys:GetType("NpcDeath"):OnEvent(szNpcName, nNpcIndex, nAttackerIndex, PlayerIndex)
 		
 		local nTeamSize = GetTeamSize()

@@ -12,7 +12,6 @@ Include("\\script\\task\\system\\task_string.lua");
 Include("\\script\\tagnewplayer\\fucmain.lua");
 Include("\\script\\tagnewplayer\\head.lua");
 Include("\\script\\tagnewplayer\\dispose_item.lua");
-Include("\\script\\thuhoiitem\\huyenvien\\funcmain_huyenvien.lua")
  -- §Òn bï PQCH -Created By - AnhHH - 20110919
 Include("\\script\\vng_event\\den_bu_pqch\\den_bu_pqch.lua")
 --§Òn bï event trång c©y th¸ng 6 2011 - Modified by DinhHQ - 20110713
@@ -53,15 +52,13 @@ function main()
 --	                tbOpt =                                                                                                        
 --	                {                                                                                        
 ----	                	 "Ta muèn tham gia/NWP_main",             
---	                	 "Ta muèn hñy vËt phÈm/DisposeItem",
-----	                	  "Ta tr¶ l¹i trang bÞ HuyÒn Viªn/ThuHoiHuyenVien_main",                        
+--	                	 "Ta muèn hñy vËt phÈm/DisposeItem",              
 --	                     	 "KÕt thóc/OnCancel",                                                                                   
 --	                }                
 --                else
 --	                tbOpt =                                                                                                        
 --	                {                                                                                        
-----	                	 "Ta muèn tham gia/NWP_main",    
-----	                	 "Ta tr¶ l¹i trang bÞ HuyÒn Viªn/ThuHoiHuyenVien_main",                                            
+----	                	 "Ta muèn tham gia/NWP_main",                                   
 --	                     	 "KÕt thóc/OnCancel",                                                                                   
 --	                }                        
 	end                                                                                              

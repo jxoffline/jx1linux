@@ -46,7 +46,6 @@ Include("\\script\\bonus_onlinetime\\head.lua")
 Include("\\script\\bonus_onlinetime\\func_onlineaward.lua")
 Include("\\script\\vonghoa\\exchangitem\\exchangeitem.lua")
 Include("\\script\\vonghoa\\item\\head.lua")
-Include("\\script\\traogiaithdnb\\thdnb7.lua");--20100908 haint code function trao giai thdnb
 Include("\\script\\baoruongthanbi\\dialogmain.lua")
 Include("\\script\\vlkh\\vlkh1.lua")
 

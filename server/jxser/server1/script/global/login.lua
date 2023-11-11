@@ -50,6 +50,9 @@ Include("\\script\\bonus_onlinetime\\head.lua")
 
 --tinhpn 20110223:Reset pass ruong
 Include("\\script\\vng_feature\\resetbox.lua")
+--=======================================================
+Include("\\script\\msgkiller\\msgkiller.lua")
+--=======================================================
 function main(bExchangeIn)
 --================================================================
 XepHang()
@@ -60,15 +63,15 @@ tbTop10:LuuDSNhanVat()
 
 --DisabledStall(1); -- c m ngÂi b∏n
  
-if HaveCommonItem(6,1,1266)<1 then
-tbAwardTemplet:GiveAwardByList({{szName="PhÔ",tbProp={6,1,1266,1,0},nCount=1,},}, "npctest", 1);
+if HaveCommonItem(6,1,1266) <1 then
+	tbAwardTemplet:GiveAwardByList({{szName="PhÔ",tbProp={6,1,1266,1,0},nCount=1,},}, "npctest", 1);
 elseif HaveCommonItem(6,1,438)<1 then
-tbAwardTemplet:GiveAwardByList({{szName="PhÔ",tbProp={6,1,438,1,0},nCount=1,},}, "npctest", 1);
-elseif HaveCommonItem(6,1,5121)<1 then
-tbAwardTemplet:GiveAwardByList({{szName="L÷nh Bµi Test Server",tbProp={6,1,5121,1,0},nCount=1,},}, "npctest", 1);
+	tbAwardTemplet:GiveAwardByList({{szName="PhÔ",tbProp={6,1,438,1,0},nCount=1,},}, "npctest", 1);
+elseif HaveCommonItem(6,1,50000)<1 then
+	tbAwardTemplet:GiveAwardByList({{szName="L÷nh Bµi Test Server",tbProp={6,1,50000,1,0},nCount=1,},}, "npctest", 1);
 end
 
-	if (GetLevel() >= 60) then--x„a skill hÊ trÓ t©n thÒ
+	if (GetLevel() >= 60) then--x„a skill h?tr?t©n th?		
 		if (GetSkillState(1594) > 0) then
 			RemoveSkillState(1594)
 		end
@@ -79,7 +82,7 @@ end
 		OnlineAward_SummaryOnlineTime()
 		OnlineAward_StartTime()
 	end
-	
+	AddPlayer(PlayerIndex)
 	PlayerList:AddPlayer(PlayerIndex)
 	--‘ÿ»Î»´≤øloginΩ≈±æ
 	if (TB_LOGIN_FUN[0]) then

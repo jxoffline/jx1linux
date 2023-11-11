@@ -23,14 +23,11 @@ Include("\\script\\event\\jiefang_jieri\\201004\\beat_tiger\\head.lua"); -- 寻花
 Include("\\script\\misc\\timeline\\timelinemanager.lua") --时间轴
 Include("\\script\\global\\autoexec_head.lua")
 Include("\\script\\activitysys\\npcfunlib.lua")
-Include("\\script\\global\\eurofun\\npc\\add_npc.lua")
 Include("\\script\\global\\huashan2013\\npc_hoason.lua")
 Include("\\script\\global\\vuhon\\npc_vuhon.lua")
 Include("\\script\\global\\autoexec_npc.lua")
-Include("\\script\\global\\thinh\\npc\\add_npc.lua")
 
 if (GetProductRegion() == "vn") then
-	-- 2006 中秋节活动头文件
 	Include("\\script\\event\\mid_autumn06\\autoexe.lua");
 	Include("\\script\\global\\judgeoffline_special.lua")	--用于无名谷——托管服务器地图
 	Include("\\script\\event\\collect_juanzhou\\autoaddnpc.lua")--收集神秘卷轴任务，明月镇npc
@@ -80,7 +77,6 @@ function main()
 	add_dialognpc(npclist_sevencity)
 	add_newtasknpc(addnewtasknpc);
 	add_xishancunnpc(xishancunnpc);
-	
 	add_spreadernpc(spreadernpc);		--加载游戏推广员
 	add_killertasknpc(addkillertasknpc);
 	add_alltollgatenpc();   --加载关卡任务的相关npc
@@ -88,10 +84,9 @@ function main()
 	--add_zhongqiunpc();		--加载中秋活动npc
 	cd_addsignnpc()			--加载卫国战争报名点NPC
 	wlls_autoexe()	--WLLS 武林联赛
-	--两周年活动NPC    
 	add_dialognpc(tbActNpcList)
 	tongwar_addsignnpc()
-	add_tongnpc()	--加载帮会相关npc
+	add_tongnpc()	
 	local n_date = tonumber(GetLocalDate("%Y%m%d"));
 	local szRegion = GetProductRegion();
 
@@ -102,7 +97,6 @@ function main()
 		--add_dialognpc(addmoontown_mulao);	--收集神秘卷轴任务，明月镇npc by子非鱼 2008-10-09删除过期NPC
 		--add_dialognpc(tbxmas2007_girl_binger) --2007圣诞活动，冰儿
 		--add_dialognpc(newyear_2008_chunjiecailu) --2008新年采禄活动
-		--西山屿
 		add_dialognpc(tbaddJinShanDao_NpcAndTrap.tbDialogNpc);--增加对话npc
 		tbaddJinShanDao_NpcAndTrap:AddTrapR()--增加右trap点
 		tbaddJinShanDao_NpcAndTrap:AddTrapL()--增加左trap点
@@ -130,10 +124,8 @@ function main()
 	
 	tbTimeLineManager:LoadAllTimeLine(tbTimeLineList);
 	AutoFunctions:Run()
-	add_npc_thinh()
 	add_npc_hoason()
     add_npc_vuhon()
-	add_npc_vng_new()
 	local szFile = "\\script\\event\\great_night\\great_night_head.lua"
 	DynamicExecute(szFile, "OnGreatNightServerStart")
 end;

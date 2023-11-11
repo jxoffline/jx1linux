@@ -1,8 +1,8 @@
 -- 登录脚本
 -- By: LaiLiGao(2004-06-20)
 -- Update: Dan_Deng(2004-07-09) 添加自动更新技能功能
-Msg2Player("Call to login_lod.lua")
-do return end
+--Msg2Player("Call to login_lod.lua")
+--do return end
 
 Include("\\script\\global\\login_head.lua")
 Include("\\script\\global\\systemconfig.lua") -- 系统配置

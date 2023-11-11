@@ -31,6 +31,7 @@ function main(nItemIdx)
 		[9] = {717},
 		[10] = {1365},
 		[11] = {1984},
+		[12] = {1894},
 	};
 	
 	local tb_Desc = {};

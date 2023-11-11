@@ -473,6 +473,10 @@ R¬i vµ biÕn mÊt-	471	Item		\spr\obj\item\quest.spr	\sound\sound_i008.wav	0	0	2	C
 C©y §µo	472	Item		\spr\npcres\passerby\passerby238\passerby238.spr		1080	0	150	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	16	150	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0											
 C©y Mai	473	Item		\spr\npcres\passerby\passerby239\passerby239.spr		1080	0	150	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	16	150	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0											
 TiÓu B¨ng Trô	474	Obstacle		\spr\skill\´äÑÌ\mag_cy_08_±ùÇ½_b.spr		0	0	100	Cycle_Image_Static	4	0	0	0	0	0	0	0	0	0	0	7	0	1	0	20	11	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0									0	1	0
-gate 1	475	Obstacle		\spr\vng\obj\batphuongtranhba\gateright.spr		0	0	100	Cycle_Image_Static	4	0	0	0	0	0	0	0	0	0	0	22	0	1	0	1	11	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0									0	1	0
-gate 2	476	Obstacle		\spr\vng\obj\batphuongtranhba\gateup.spr		0	0	100	Cycle_Image_Static	4	0	0	0	0	0	0	0	0	0	0	22	0	1	0	1	11	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0									0	1	0
-transport	477	Obstacle		\spr\vng\obj\batphuongtranhba\trap2.spr		0	0	100	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	15	0	1	0	32	329	295	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0
+½ð±¦Ê¯	475	Item		\spr\item\songjin\sjzh_jin.spr	\sound\sound_i008.wav	1200	0	80	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	20	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\item\songjin\sjzh_jin.spr	10	0	1	0	20	60	120	0	0	1
+Ä¾±¦Ê¯	476	Item		\spr\item\songjin\sjzh_mu.spr	\sound\sound_i008.wav	1200	0	80	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	20	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\item\songjin\sjzh_mu.spr	10	0	1	0	20	60	120	0	0	1
+Ë®±¦Ê¯	477	Item		\spr\item\songjin\sjzh_shui.spr	\sound\sound_i008.wav	1200	0	80	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	20	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\item\songjin\sjzh_shui.spr	10	0	1	0	20	60	120	0	0	1
+»ð±¦Ê¯	478	Item		\spr\item\songjin\sjzh_huo.spr	\sound\sound_i008.wav	1200	0	80	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	20	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\item\songjin\sjzh_huo.spr	10	0	1	0	20	60	120	0	0	1
+ÍÁ±¦Ê¯	479	Item		\spr\item\songjin\sjzh_tu.spr	\sound\sound_i008.wav	1200	0	80	Cycle_Image_Static	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	20	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\item\songjin\sjzh_tu.spr	10	0	1	0	20	60	120	0	0	1
+§ao ThuÉn	480	Item		\spr\obj\item\obj_wq_010.spr	\sound\sound_i005.wav	2400	0	2	Auto_Image_Target	4	0	0	0	0	0	0	0	0	0	0	8	0	1	0	38	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\obj\item\obj_wq_fall_010.spr	9	0	1	0	18	60	115	0	0	0
+CÇm	481	Item		\spr\obj\item\obj_wq_011.spr	\sound\sound_i005.wav	2400	0	2	Auto_Image_Target	4	0	0	0	0	0	0	0	0	0	0	8	0	1	0	38	60	115	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	\spr\obj\item\obj_wq_fall_011.spr	9	0	1	0	18	60	115	0	0	0

@@ -48,7 +48,7 @@ function main()
 		--"ÎÒÏë°ÑËéÆ¬»»³ÉÏàÍ¬»Æ½ğ×°±¸µÄÆäËûËéÆ¬/exchange_entry",
 		--"Ta muèn lÊy trang bŞ ®æi thµnh hån th¹ch/exchange_olditem",
 		--"Ta muèn dïng hån th¹ch ®æi lÖnh bµi/exchange_lingpai",
-		--"Ta muèn dïng lÖnh bµi ®æi trang bŞ/exchange_lingpai2goldequip",
+		"Ta muèn dïng lÖnh bµi ®æi trang bŞ/exchange_lingpai2goldequip",
 	}
 	for i = 1, getn(aryDescribe) do
 		local _,_, szOpt, szFun = strfind(aryDescribe[i], "([^/]+)/([^/]+)")

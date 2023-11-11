@@ -107,11 +107,11 @@ G_ITEM_9_1	§é bÒn: %3d / %3d
 G_ITEM_9_2	<color=red>§é bÒn %3d / %3d<color>
 G_ITEM_10	Nãn
 G_ITEM_11	Y phôc
-G_ITEM_12	Th¾t l­ng
-G_ITEM_13	Vò khÝ 
-G_ITEM_14	hµi
-G_ITEM_15	Hé uyÓn
-G_ITEM_16	D©y chuyÒn
+G_ITEM_12	Yªu §¸i
+G_ITEM_13	Vò KhÝ
+G_ITEM_14	Hµi Tö
+G_ITEM_15	Hé UyÓn
+G_ITEM_16	D©y ChuyÒn
 G_ITEM_17	NhÉn ph¶i (trªn) 
 G_ITEM_18	NhÉn tr¸i (d­íi) 
 G_ITEM_19	Ngäc béi
@@ -129,10 +129,22 @@ G_ITEM_30	\n<color=Fire>Thêi h¹n sö dông: %.2d:%.2d %.2d-%.2d-%d<color>\n
 G_ITEM_31	Gi¸ c¶: %d tiÒn vµng
 G_ITEM_32	Gi¸ c¶: %d tÝch lòy th­¬ng héi
 G_ITEM_33	Thu thËp ®¹o cô
+G_ITEM_34	Gi¸: %d Ng©n §Ünh
 G_ITEM_BIND_STATE	<color=Green>VËt phÈm nµy ®· ®­îc khãa b¶o hiÓm<color>\n
 G_ITEM_BIND_STATE2	<color=Green>VËt phÈm nµy ®· ®­îc khãa b¶o hiÓm vÜnh viÔn<color>\n
 G_ITEM_UNBIND_STATE	<color=Green>Thêi gian chê më khãa: %d giê<color>\n
 
+G_ITEM_FACTIONPENDANT_LEVEL	<color=Yellow>v¨n søc c¬ b¶n[CÊp %d]\n	
+G_ITEM_FACTIONPENDANT_ORNAMEN_EMPTY	<color><color=White><bclr=blue>\n Ch­a kh¶m v¨n søc\n
+G_ITEM_FACTIONPENDANT_ORNAMEN	<color><color=White><bclr=blue>\n Thuéc tÝnh v¨n søc [%d læ] ]\n
+G_ITEM_FACTIONPENDANT_NOTCH	Læ thø %d %s\n
+G_ITEM_FACTIONPENDANT_NOTCH_YUAN	Læ thø %d:  %s\n
+G_ITEM_FACTIONPENDANT_NOTCH_EMPTY	Rçng
+G_ITEM_FACTIONPENDANT_ACTIVEATTR	<bclr><color><color=Green>\n KÝch ho¹t thuéc tÝnh (Dùa vµo sè læ v¨n søc) \n
+G_ITEM_FACTIONPENDANT_ACTIVEATTR_NO	<color=DGreen> Ch­a kÝch ho¹t thuéc tÝnh <color>
+G_ITEM_FACTIONPENDANT_STONE_ATTR	<color=White><bclr=blue>\n%s<bclr><color>
+G_ITEM_FACTIONPENDANT_BLESSING	<color=HBlue> §iÓm chóc phóc tÈy luyÖn %d/50<color>\n
+		
 G_ItemList_0	Kh«ng thÓ sö dông Thæ §Þa Phï ë ®©y
 G_ItemList_1	R­¬ng chøa ®å ®ang trong tr¹ng th¸i bÞ khãa, kh«ng thÓ lÊy tiÒn
 G_ItemList_2	R­¬ng chøa ®å ®ang bÞ khãa, kh«ng thÓ ®iÒu chØnh trang bÞ! 
@@ -242,7 +254,7 @@ G_PlayerPK_1	§iÓm PK cña b¹n qu¸ nhiÒu, kh«ng thÓ h¹ thñ ®­îc!
 G_STR_GOOD_EXPIREDTIME	\n<color=Fire>Thêi gian b¸n vËt phÈm: %d ngµy %02d giê %02d phót<color>\n
 
 G_ProtocolProcess_0	 mét ng­êi 
-G_ProtocolProcess_1	 l­îng
+G_ProtocolProcess_1	l­îng
 G_ProtocolProcess_2	Ng©n l­îng
 G_ProtocolProcess_3	 cã ng­êi 
 G_ProtocolProcess_4	Bang chñ ®· ph¸t tiÒn cho B¹n: %d! 
@@ -278,8 +290,8 @@ G_ScriptFuns_2	L«i ®µi trong bæn thµnh hiÖn vÉn ch­a tiÕn hµnh thi ®Êu
 G_ScriptFuns_3	Khu vùc trong bæn thµnh gÇn ®©y kh«ng cã trËn thi ®Êu L«i ®µi nµo
 G_ScriptFuns_4	Tin tøc tæ ®éi
 G_ScriptFuns_5	 [Script] sö dông AddItem sè l­îng tham sè kh«ng phï hîp! 
-G_ScriptFuns_6	 [Script] sö dông AddGoldItem sè l­îng tham sè kh«ng phï hîp! 
-G_ScriptFuns_7	 [Script]GoldItem-tr­íc m¾t chØ ñng hé trang bÞ b»ng vµng! 
+G_ScriptFuns_6	[Script]Sö dông tham sè sè l­îng  AddQualityItem kh«ng phï hîp!
+G_ScriptFuns_7	[Script]QualityItem- HiÖn t¹i chØ hç trî trang bÞ!
 G_ScriptFuns_8	GetItem ParameterNotEnough!
 G_ScriptFuns_9	HaveItem ParameterNotEnough!
 G_ScriptFuns_10	DelCommonItem ParameterNotEnough!
@@ -300,7 +312,7 @@ G_MagicDesc_5	-
 G_MagicDesc_6	 N÷ 
 G_MagicDesc_7	 Nam 
 G_MagicDesc_8	KiÕm 
-G_MagicDesc_9	§¬n §ao
+G_MagicDesc_9	§¬n ®ao
 G_MagicDesc_10	C«n bæng 
 G_MagicDesc_11	th­¬ng 
 G_MagicDesc_12	Chïy 
@@ -324,7 +336,7 @@ G_STRING_AUTOHANGMSG_5	HiÖu lùc cuèi cïng cña ch¸o L¹p B¸t ®· ®­îc B¹n hÊp thô t
 
 G_TONG_FIGURE_CALL_MASTER	Bang chñ 
 G_TONG_FIGURE_CALL_DIRECTOR	Tr­ëng L·o
-G_TONG_FIGURE_CALL_MANAGER	§éi tr­ëng
+G_TONG_FIGURE_CALL_MANAGER	§éi tr­ëng 
 G_TONG_FIGURE_CALL_MEMBER	§Ö tö 
 G_TONG_FIGURE_CALL_RETIRE	Èn sü
 
@@ -356,10 +368,10 @@ G_STRING_ANTIBOT_STARTMSG	B¹n ®ang sö dông phÇn mÒm hack, hÖ thèng kh«ng ®¶m b¶o
 G_STRING_SONG	Tèng
 G_STRING_JIN	Kim
 
-G_STRING_MONEY	 l­îng
+G_STRING_MONEY	l­îng
 G_STRING_FUYUAN	Phóc Duyªn
 G_STRING_COIN	TiÒn ®ång
-G_STRING_SCORE	TÝch lòy
+G_STRING_SCORE	§iÓm TÝch Lòy
 G_STRING_GOLDCOIN	TiÒn vµng
 G_STRING_HONOUR	®iÓm vinh dù
 G_STRING_GOLDCOIN_SCORE	TÝch lòy th­¬ng héi
@@ -368,7 +380,11 @@ G_STRING_ENERGY	Tinh lùc
 G_STRING_CONTRIBUTION	 ®iÓm cèng hiÕn
 G_STRING_BUILDFUND	§é kiÕn thiÕt bang héi
 G_STRING_REFINING	Tinh LuyÖn Th¹ch
+G_STRING_ARENA_CREDITS	Huy Ch­¬ng C¶nh Kü Tr­êng
+G_STRING_SJGX	§iÓm c«ng hu©n
+G_STRING_GOLDCOIN_YINDING Ng©n §Ünh
 
+G_STRING_XINGYU	Tinh Ngäc
 G_STR_MOUSE_MAGIC_ITEM	B¹n ch­a sö dông B¹ch C©u hoµn kh«ng thÓ sö dông chøc n¨ng tù ®éng ®¸nh qu¸i!
 G_STR_ONLY_JEWELRY	¤ nµy chØ cã thÓ bá vµo trang søc (d©y chuyÒn, nhÉn, ngäc béi) ch­a ®­îc khãa b¶o hiÓm
 G_STR_ONLY_CRYOLITE	¤ vËt phÈm nµy chØ kh«ng thÓ bá vµo HuyÒn tinh kho¸ng th¹ch cïng lo¹i.
@@ -382,6 +398,8 @@ G_STR_ONLY_ORGMINE	¤ vËt phÈm nµy chØ cã thÓ bá vµo HuyÒn tinh kho¸ng th¹ch kh«n
 G_STR_ONLY_ATLAS	¤ vËt phÈm nµy chØ cã thÓ bá §å phæ Hoµng Kim hoÆc HuyÒn tinh kho¸ng th¹ch kh«ng cïng lo¹i.
 G_STR_ONLY_BOOK	¤ vËt phÈm nµy chØ cã thÓ bá kho¸ng th¹ch thuéc tÝnh hoÆc s¸ch kü n¨ng vµo.
 G_STR_NO_BINDITEM	Kh«ng thÓ ®Æt vµo vËt phÈm ®· ®­îc khãa b¶o hiÓm!
+G_STR_ONLY_FANTASYGOLD	Khung vËt phÈm nµy chØ cã thÓ bá HuyÒn Kim
+G_STR_ONLY_FANTASYGOLDESSENCE	Khung vËt phÈm nµy chØ cã thÓ bá HuyÒn Kim Chi Tinh
 
 G_STR_FORBIT_THROWITEM	Nh»m b¶o vÖ tµi s¶n cho b¹n! VËt ph¶m quý kh«ng ®­îc tïy ý vøt ra ngoµi!
 
@@ -409,7 +427,7 @@ K_S_WATER	Thñy
 K_S_FIRE	Háa
 K_S_EARTH	Thæ 
 
-K_C_BEGIN	T©n thñ 
+K_C_BEGIN	T©n Thñ
 K_C_JUSTICE	Ch¸nh ph¸i
 K_C_EVIL	Tµ ph¸i
 K_C_BALANCE	Trung lËp
@@ -451,6 +469,7 @@ K_WEAPON_SKILLID	Sè hiÖu kü n¨ng vËt lý t­¬ng øng
 K_MESSAGE_SYSTEM_ANNOUCE_HEAD	C«ng bè 
 K_MESSAGE_ITEM_EXPIREDITEM1	VËt phÈm [%s] sau %d giê %d phót ®Õn hÕt thêi h¹n sö dông. Qua thêi h¹n nµy hÖ thèng sÏ hñy bá ®¹o cô nµy.
 K_MESSAGE_ITEM_EXPIREDITEM2	§¹o cô [%s] ®· qu¸ h¹n sö dông, hÖ thèng sÏ tù ®éng hñy bá!
+K_MESSAGE_CLOTHES_ITEM_LACK_DURABILITY	§¹o cô ngo¹i trang [%s] cña ng­¬i ®· hÕt ®é bÒn!
 
 K_KIND_NAME_SECT	lo¹i h×nh Nh©n vËt  
 K_KIND_NAME_SPECIAL	NPC ®Æc thï  
@@ -525,7 +544,7 @@ L_NPCATTRIBM_20	 [ÊýÖµ]%sµ±Ç°¾«Á¦Ôö¼ÓÁË%dµã
 L_NPCATTRIBM_21	 [ÊýÖµ]%s¿ìËÙÃüÖÐ»Ø¸´Ôö¼Ó%d
 L_NPCATTRIBM_22	 [ÊýÖµ]%sÒÆ¶¯ËÙ¶ÈÔö¼Ó%d
 L_NPCATTRIBM_23	 [ÊýÖµ]%s»ðÏµ¼¼ÄÜ¼Ó%d¼¶
-L_NPCATTRIBM_24	 [ÊýÖµ]%s±ù¶³Ê±¼ä¼õÉÙ°Ù·ÖÖ®%d
+L_NPCATTRIBM_24	[Gi¸ trÞ] %s gi¶m %d thêi gian lµm chËm
 L_NPCATTRIBM_25	 [ÊýÖµ]%sÕðÍË°Ù·Ö±ÈÔö¼Ó%d
 L_NPCATTRIBM_26	 [ÊýÖµ]%sÉúÃüÉÏÏÞÔö¼ÓÁË°Ù·ÖÖ®%d (%dµã) 
 L_NPCATTRIBM_27	 [ÊýÖµ]%sÉúÃüÉÏÏÞÔö¼ÓÁË%dµã
@@ -580,6 +599,9 @@ L_NPCATTRIBM_75	 [ÊýÖµ]%sÑ£ÔÎ°Ù·Ö±ÈÔö¼Ó%d
 L_NPCATTRIBM_76	 [ÊýÖµ]%sÖÂÃüÒ»»÷¿¹ÐÔÔö¼Ó%d
 L_NPCATTRIBM_77	 [ÊýÖµ]%sÎïÀíÉËº¦Ôö¼Ó (%d) 
 L_NPCATTRIBM_78	 [ÊýÖµ]%s×´Ì¬ÃâÒß×´Ì¬±äÎª%d
+L_NPCATTRIBM_79	[Gi¸ trÞ] %s t¨ng %d thêi gian lµm chËm
+L_NPCATTRIBM_80	[ChØ sè] %s Long Khëi V©n T­¬ng t¨ng %d
+L_NPCATTRIBM_81	[ChØ sè ] %s NPC s¸t th­¬ng gi¶m miÔn %d
 
 L_NPCSET_0	ÎÄ¼þÔØÈëÊ§°Ü£º%s£¬ÇëÍ¨ÖªÑÐ·¢ÈËÔ±½øÐÐ´¦Àí£¡
 L_NPCSET_1	ÎÄ¼þÔØÈëÊ§°Ü£º%s
@@ -608,10 +630,11 @@ L_PLAYER_8	player Packing skill sync data failed...\n
 L_PLAYER_9	 [ÊýÖµ]%sÊµ¼ÊÔö¼Ó¾­Ñé%dµã
 L_PLAYER_10	%s (%s) ÔÚ%dÑ­»·¼ñÁË%dÁ½Òø×Ó\n
 L_PLAYER_11	%s\nSubWorld:%d\nReviveID:%d\nMpsX:%d\nMpsY:%d\n
-L_PLAYER_12	[%s][%s] sell %s(%s)(count:%d) to [%s][%s], GenTime:%u\r\n
+L_PLAYER_12	%s [%s][%s] sell %s(%s)(count:%d) to [%s][%s], GenTime:%u\r\n
 L_PLAYER_13	TradeTime: %d-%d %d:%d:%d\r\n\r\n
 L_PLAYER_14	%d/%d/%d %d:%d:%d
-L_PLAYER_15	%s\t%s\t%d\t%s\t%d\t%d\r\n
+L_PLAYER_15	%s\t%s\t%I64d\t%s\t%I64d\t%d\r\n
+L_PLAYER_15_LINUX	%s\t%s\t%lld\t%s\t%lld\t%d\r\n
 L_PLAYER_16	Account %s, Player %s UseSilver Type = %d, UseType = %d, Count = %d\n
 L_PLAYER_17	Exception Have Caught When Execute Script[%d]!!!!!
 L_PLAYER_18	 [trade]trade Óë%s½»Ò×¿ªÊ¼£¡
@@ -681,7 +704,7 @@ L_PLAYERSTALL_26	Some marked item don't exist, something wrong??
 L_PLAYERSTALL_27	Set seller %d to Stall_Sell_State\n,	m_nPlayerIndex);
 L_PLAYERSTALL_28	Recv  buy item info:	
 L_PLAYERSTALL_29	SellID = %d, ItemID= %d \n	
-L_PLAYERSTALL_30	 [%02d:%02d:%02d]: %s<%s> ´Ó %s<%s> ´¦ÒÔ %d µÄ¼Û¸ñÂò×ßÁË [%s]\r\n	
+L_PLAYERSTALL_30	StallLog (customer:)%s<%s> (seller:)%s<%s> TotalPrice:%d  Item:[%s %s] Count:%d\r\n	
 L_PLAYERSTALL_31	 [Unknown Time]: %s<%s> ´Ó %s<%s> ´¦ÒÔ %d µÄ¼Û¸ñÂò×ßÁË [%s]\r\n	
 L_PLAYERSTALL_32	 [%s]µÄÉú³ÉÊ±¼äÊÇ (%u) \r\n\r\n	
 L_PLAYERSTALL_33	´Ó [Account:%s] [Name:%s]µÄ°ÚÌ¯ÂòÈëÎïÆ·	Ö§³ö£º%d [%s]ÊÕÈë£º%d Ë°½ð£º%d\r\n	
@@ -792,6 +815,8 @@ MSG_TEAM_REFUSE_INVITE	%s cù tuyÖt lêi mêi cña nhãm B¹n!
 MSG_TEAM_CREATE	B¹n s¸ng lËp nªn mét nhãm míi
 MSG_TEAM_CREATE_FAIL	S¸ng lËp nhãm thÊt b¹i. 
 MSG_TEAM_CANNOT_CREATE	B¹n hiÖn giê kh«ng thÓ lËp nhãm 
+MSG_TEAM_CANNOT_LEAVE	B¹n kh«ng thÓ rêi ®éi!
+MSG_TEAM_CANNOT_KICK	B¹n kh«ng thÓ khai trõ ®éi!
 MSG_TEAM_TARGET_CANNOT_ADD_TEAM	§èi ph­¬ng hiÖn giê kh«ng thÓ lËp nhãm
 MSG_TEAM_OPEN	nhãm cña B¹n hiÖn giê kh«ng ®­îc phÐp tiÕp nhËn thªm héi viªn míi
 MSG_TEAM_CLOSE	nhãm cña B¹n hiÖn giê kh«ng ®­îc phÐp tiÕp nhËn thªm héi viªn míi
@@ -808,7 +833,7 @@ MSG_TEAM_LEAVE_SELF_MSG	nhãm mµ B¹n %s rêi khái.
 MSG_TEAM_CHANGE_CAPTAIN_FAIL1	§¶m nhËn nhãm tr­ëng thÊt b¹i! 
 MSG_TEAM_CHANGE_CAPTAIN_FAIL2	%s kh«ng ®ñ søc thèng so¸i! 
 MSG_TEAM_CHANGE_CAPTAIN_FAIL3	nhãm cña B¹n kh«ng thÓ chuyÓn giao cho ng­êi míi 
-MSG_TEAM_CHANGE_CAPTAIN	%s ®­îc ®¶m nhËn lµ nhãm tr­ëng
+MSG_TEAM_CHANGE_CAPTAIN	%s ®­îc bæ nhiÖm lµm §éi tr­ëng!
 MSG_TEAM_CHANGE_CAPTAIN_SELF	B¹n ®­îc %s ®¶m nhËn lµ nhãm tr­ëng! 
 MSG_TEAM_AUTO_CAPTAIN_SELF	B¹n ®­îc hÖ thèng chØ ®Þnh lµ nhãm tr­ëng! 
 MSG_TEAM_AUTO_CAPTAIN	%s ®­îc hÖ thèng chØ ®Þnh lµ nhãm tr­ëng! 
@@ -853,7 +878,11 @@ MSG_SHOP_NO_RESPECT	Uy danh kh«ng ®ñ!
 MSG_SHOP_NO_ENERGY	Tinh lùc kh«ng ®ñ!
 MSG_SHOP_NO_REFINING	Tinh LuyÖn Th¹ch kh«ng ®ñ!
 MSG_SHOP_NO_GOLDCOIN_NEW	Xu kh«ng ®ñ!
+MSG_SHOP_NO_ARENA_CREDITS	Huy Ch­¬ng Vinh Dù C¶nh Kü Tr­êng kh«ng ®ñ!
+MSG_SHOP_NO_SJGX	C«ng hu©n Tèng Kim kh«ng ®ñ!
+MSG_SHOP_NO_YINDING	Ng©n §Ünh kh«ng ®ñ!
 
+MSG_SHOP_NO_XINGYU	Tinh Ngäc kh«ng ®ñ.	
 MSG_NPC_NO_MANA	Néi lùc kh«ng ®ñ! 
 MSG_NPC_NO_STAMINA	ThÓ lùc kh«ng ®ñ! 
 MSG_NPC_NO_LIFE	Sinh mÖnh kh«ng ®ñ! 
@@ -872,8 +901,11 @@ MSG_ITEM_DAMAGED	Nh÷ng trang bÞ cña b¹n %s ®· sö dông qu¸ l©u, hao mßn triÖt ®Ó!
 MSG_ITEM_NEARLY_DAMAGED	Nh÷ng thø b¹n trang bÞ %s ®· s¾p bÞ hao mßn, xin kÞp thêi xö lý 
 MSG_ITEM_USINGTIMES_END	%s cña b¹n ®· hao mßn triÖt ®Ó!
 MSG_ITEM_UNFIT_SIZE_IMMEDIATE	Thanh c«ng cô chØ cã thÓ ®Æt vµo 1 vËt phÈm mµ th«i!
-MSG_ITEM_LEFTUSAGETIME_FADE	<color=yellow>%s<color> cña b¹n s¾p háng, cßn <color=yellow>%d<color> phót sö dông!
+MSG_ITEM_LEFTUSAGETIME_FADE	%s<color> cña b¹n s¾p háng, cßn <color=yellow>%d<color> phót sö dông!
 MSG_ITEM_LEFTUSAGETIME_TIMEOUT	 %s cña b¹n ®· h­ háng!
+
+MSG_CLOTHES_ITEM_DURABILITY_COST	KhÊu trõ ®é bÒn <color=yellow>%s<color> cña ng­¬i, ®é bÒn cßn <color=yellow>%d<color>!
+MSG_CLOTHES_ITEM_DURABILITY_COST_OUT	§é bÒn %s cña ng­¬i ®· vÒ 0, hoµn toµn háng råi!
 
 MSG_TRADE_STATE_OPEN	B¹n hiÖn giê cã thÓ giao dÞch. 
 MSG_TRADE_STATE_CLOSE	B¹n hiÖn giê kh«ng thÓ giao dÞch. 
@@ -889,6 +921,7 @@ MSG_TRADE_SEND_APPLY	B¹n gÆp %s xin phÐp giao dÞch!
 MSG_TRADE_GET_APPLY	%s xin phÐp cïng víi B¹n giao dÞch! 
 MSG_TRADE_REFUSE_APPLY	%s cù tuyÖt giao dÞch víi B¹n! 
 MSG_TRADE_TASK_ITEM	VËt phÈm nµy kh«ng thÓ giao dÞch!
+MSG_TRADE_FAIL_DISTANCE	Kho¶ng c¸ch qu¸ xa, kh«ng thÓ giao dÞch!
 
 MSG_PK_NORMAL_FLAG_0	Tr¹ng th¸i PK ë d¹ng luyÖn c«ng
 MSG_PK_NORMAL_FLAG_1	Tr¹ng th¸i PK ë d¹ng chiÕn ®Êu
@@ -963,6 +996,7 @@ MSG_TONG_NORIGHT_MEMBER_ONLINE	Bang chñ vµ tr­ëng l·o cã quyÒn h¹n nµy ®Òu kh«ng
 MSG_TONG_ADD_UNIONMEMBER_ERROR1	Liªn minh thÊt b¹i! Ng©n quü bang héi liªn minh kh«ng ®ñ!
 MSG_TONG_ADD_UNIONMEMBER_ERROR2	Liªn minh thÊt b¹i! Ng©n quü bang héi muèn liªn minh kh«ng ®ñ!
 
+MSG_CANT_FLLOW	HiÖn kh«ng thÓ xin theo.			
 MSG_CANT_SWITCH_HORSE	B¹n qu¸ mÖt råi kh«ng thÓ tiÕp tôc lªn hoÆc xuèng ngùa. 
 MSG_CANT_SWITCH_HORSE_WHEN_SIT	B¹n ngåi xuèng råi, kh«ng thÓ lªn ngùa. 
 MSG_SOMEONE_GIVE_YOU_MONEY	%s ®· cho B¹n mét sè tiÒn. 
@@ -1032,7 +1066,7 @@ G_CITYWARDATA_3	L­ît thi ®Êu thø %u:
 G_CITYWARDATA_4	%s ®Êu víi %s
 G_CITYWARDATA_5	%s th¾ng %s
 G_CITYWARDATA_6	<< Khu vùc thµnh %s >>\n
-G_CITYWARDATA_7	, 
+G_CITYWARDATA_7	<<Î´·­Òë>>
 G_CITYWARDATA_8	Thi ®Êu vÉn ch­a tiÕn hµnh...
 G_CITYWARDATA_9	<Khu vùc khiªu chiÕn %s - ®¹i chiÕn L«i ®µi>\n 
 G_CITYWARDATA_10	Tr­íc m¾t ®ang lµ thêi gian hßa b×nh \n
@@ -1097,3 +1131,99 @@ G_TRIP_FIXERROR	Lçi tr¹ng th¸i Liªn server, ®ang tiÕn hµnh söa lçi, xin h·y thö 
 
 
 MSG_TONG_AUTO_REFUSE_LEVEL	§¼ng cÊp cña ng­¬i qu¸ thÊp, bang héi nµy tõ chèi ®Ò nghÞ gia nhËp cña ng­¬i	
+G_MERIDIAN_ACU_OK	Xung huyÖt thµnh c«ng
+G_MERIDIAN_ACU_EXIST	HuyÖt vÞ nµy ®· ®­îc xung kai!
+G_MERIDIAN_WRONG_ORDER	Xin h·y theo tuÇn tù mµ xung huyÖt!
+G_MERIDIAN_NO_MATERIAL	Nguyªn liÖu xung huyÖt kh«ng ®ñ!
+G_MERIDIAN_ACU_FAILED	Xung huyÖt thÊt b¹i
+G_MERIDIAN_SYS_ERROR	Lçi hÖ thèng xung huyÖt!
+G_MERIDIAN_LEVEL_NOT_OPEN	§¼ng cÊp huyÖt vÞ nµy ch­a më!
+G_STR_NO_ENOUGH_ITEM	%kh«ng ®ñ
+G_STR_LONGLINGQI	Long LÖnh Kú
+G_STR_LINLINGQI	L©n LÖnh Kú
+G_STR_GUILINGQI	Quy LÖnh Kú
+G_STR_FENGLINGQI	Phông LÖnh Kú
+G_STR_WUXINGQISHI	Ngò Hµnh Kú Th¹ch
+G_STR_XINGXIALING	Hµnh HiÖp LÖnh
+G_STR_SJGX	§iÓm c«ng hu©n
+G_STR_GUTA_POINT	TÝch ®iÓm Cæ Th¸p
+G_STR_DIANQUAN	§iÓm QuyÓn
+MSG_MOVE_ITEM_FAIL_HINT_DEFAULT	Kh«ng gian hµnh trang ®· ®Çy.
+MSG_MOVE_ITEM_FAIL_HINT_BAG	Kho¶ng trèng trong tói kh«ng ®ñ! 
+MSG_MOVE_ITEM_FAIL_HINT_REPO	Chç trèng r­¬ng chøa ®å kh«ng ®ñ.
+MSG_MOVE_ITEM_FAIL_HINT_EXT	Chç trèng r­¬ng më réng kh«ng ®ñ.
+MSG_MOVE_ITEM_FAIL_HINT_SUBBAG	Chç trèng hµnh trang bang héi kh«ng ®ñ.
+MSG_MOVE_ITEM_FAIL_HINT_TRADE	Kh«ng gian « giao dÞch kh«ng ®ñ.
+MSG_MOVE_ITEM_FAIL_REPO_LOCKED	R­¬ng chøa ®å ®ang bÞ khãa, kh«ng thÓ di chuyÓn.
+MSG_MOVE_ITEM_FAIL_TRADE_LOCKED	Giao dÞch ®· bÞ khãa, kh«ng thÓ di chuyÓn.
+G_NEWMERIDIAN_SYS_MAXLEVEL	Kinh M¹ch nµy ®· ®¹t cÊp tèi ®a
+
+MSG_SECURITY_LOCK_OPERATION_IS_LOCKED	Thao t¸c ®· bÞ khãa. Më khãa vµ tiÕn hµnh l¹i.
+MSG_SECURITY_LOCK_WRONG_PASSWORD	MËt khÈu kh«ng ®óng.
+G_STR_PET_NAME_DISPLAY_FORMAT	%s cña %s
+MSG_SECURITY_LOCK_UNLOCK_SUCCUESS	MËt khÈu më khãa thµnh c«ng
+MSG_SECURITY_LOCK_RESET_PASSWORD_SUCCESS	§æi mËt khÈu thµnh c«ng
+
+G_STR_SMELT_NOT_EQUIP	VÞ trÝ nµy chØ ®­îc bá vµo trang bÞ B¹ch Kim hoÆc trang bÞ Hoµng Kim
+G_STR_SMELT_NOT_STEEL	VÞ trÝ nµy chØ ®­îc bá vµo V¨n C­¬ng
+G_STR_SMELT_NOT_COAL	VÞ trÝ nµy chØ ®­îc bá HuyÒn Háa Than
+G_STR_CANNOT_STACK	VÞ trÝ nµy kh«ng ®­îc bá vËt phÈm xÕp chång
+G_STR_SMELT_HANDNOTNULL	Bá vËt phÈm trªn tay vµo hµnh trang råi tiÕp tôc thao t¸c
+
+G_STR_SMELTINFO_TYPE	<color=yellow> Loai trang bÞ cã thÓ dung luyÖn: %s\n<color>
+G_STR_SMELTINFO_ALREADYSMELT	<color=green> §· tõng dung luyÖn qua ch­a %s\n<color>
+G_STR_SMELTINFO_ISBIND	<color=green> sau khi thÝ luyÖn cã khãa vÜnh viÔn kh«ng: %s\n<color>
+G_STR_SMELTINFO_YES	Tu©n lÖnh!
+G_STR_SMELTINFO_NO	Kh«ng 
+G_STR_SMELTINFO_PINZHI	<color=Blue> PhÈm chÊt: cÊp %d \n<color>
+G_STR_SMELTINFO_EQUIP	<color=green> Sè l­îng V¨n C­¬ng ®· dung luyÖn: %d / %d\n CÊp ®é tèi ®a cã thÓ dung luyÖn V¨n C­¬ng %d\n<color>
+
+G_STR_SMELTINFO_EQUIP1	Vò KhÝ
+G_STR_SMELTINFO_EQUIP2	Y Phôc
+G_STR_SMELTINFO_EQUIP3	NhÉn,
+G_STR_SMELTINFO_EQUIP4	H¹ng Liªn
+G_STR_SMELTINFO_EQUIP5	Ngoa tö 
+G_STR_SMELTINFO_EQUIP6	Yªu §¸i
+G_STR_SMELTINFO_EQUIP7	§Ønh M¹o
+G_STR_SMELTINFO_EQUIP8	Hé UyÓn
+G_STR_SMELTINFO_EQUIP9	Ngäc béi
+G_STR_SMELTINFO_EQUIP10	Ngùa
+G_STR_SMELTINFO_EQUIP11	MÆt N¹
+G_STR_SMELTINFO_EQUIP12	Phi Phong
+G_STR_SMELTINFO_EQUIP13	Ên
+G_STR_SMELTINFO_EQUIP14	Trang søc
+
+MSG_AUTO_PATHFINDING_NOT_EXISTED	Khu vùc nµy kh«ng thÓ sö dông chøc n¨ng tù t×m ®­êng, ®¹i hiÖp cÇn tù m×nh ®i.
+
+G_STR_BIAOCHE_FAR_AWAY	§¹i hiÖp c¸ch tiªu xa xa qu¸!
+G_STR_COME_BACK_BIAOCHE	§¹i hiÖp ®· trë vÒ víi tiªu xa!
+
+G_STR_XING	%d sao %s
+G_STR_OF	%s cña %s
+G_STR_MANTLESYSTEM_BLESS_VALUE	<color=HBlue>§ét ph¸ ®iÓm chóc phóc %d/%d<color>
+G_STR_COLOR_XING	<color=Green>%d sao %s<color>\n
+G_STR_COLOR_EMPTY_XING	<color=Green>%d sao Lç kh¶m trèng<color>\n
+G_STR_XIANGQIANG_DEBUG_INFO	"Lç kh¶m Tinh ThÇn Th¹ch: %d---CÊp: %d---Kh¶m Tinh ThÇn Th¹ch P: %d"
+G_STR_SLOT_NUM_DEBUG_INFO	"Sè lç më trang bÞ: %d
+G_STR_WENGANG_NUM_DEBUG_INFO	<color=Violet>\nThö nghiÖm: Sè V¨n C­¬ng ®· dung luyÖn: %d / %d \nThö nghiÖm: CÊp V¨n C­¬ng dung luyÖn tèi ®a %d\n
+G_STR_WENGANG_HAVED_DEBUG_INFO	<color=Violet>Thö nghiÖm: ID V¨n C­¬ng ®· dung luyÖn: %d,%d,%d,%d,%d,%d\n
+G_STR_WENGANG_HAVED_SEED_DEBUG_INFO	<color=Violet>Thö nghiÖm: H¹t gièng V¨n C­¬ng ®· dung luyÖn %d: %d\n
+G_STR_STAR_LEVEL_1	<enter><color=Green>1 Sao <color=White><bclr=Blue>
+G_STR_STAR_LEVEL_10	<color=Green>10 Sao <color=White><bclr=Blue>
+
+G_STR_APPEARANCE_SHOPPINGCART_FULL	Giá cña ng­¬i ®· ®Çy, nhÊn vµo vËt phÈm trªn giá cã thÓ bá ra.
+
+G_STR_SERIES_STAMP_ITEM_ICON_FMT	\\spr\\item\\series_stamp\\series_stamp_%d.spr
+G_STR_SERIES_STAMP_REBUILD	[Trïng §óc]
+
+G_STR_COMPANION_SUIT_1	Bé BÝch HuyÕt %d mãn
+G_STR_COMPANION_SUIT_2	Bé Kim L©n %d mãn
+G_STR_COMPANION_SUIT_3	Bé §an T©m %d mãn
+G_STR_COMPANION_SUIT_ATTRIB	V©n Khëi Long T­¬ng: khi cÊp V©n Khëi Long T­¬ng cao h¬n cÊp ®èi ph­¬ng th× s¸t th­¬ng phãng ®¹i 10%
+
+G_STR_GREAT_ATTR_COLOR	<color=0xff8c27>
+G_STR_GREAT_ATTR_COLOR_DARK	<color=0xaa7f14>
+G_STR_MAGIC_ATTR_RANGE	<color=0xc0c0c0>[%d-%d]<color>
+MSG_MANTLE_IMPLICIT_EXPIREDTIME	<color=White>Kü n¨ng cã hiÖu qu¶ ®Õn: %.2d:%.2d %.2d-%.2d-%d<color>\n
+MSG_COMPANION_ENCHANTIN_EXPIREDTIME	<color=Fire>\n\nH¹n dïng kü n¨ng ®Õn: %.2d:%.2d %.2d-%.2d-%d<color>\n
+G_STR_JUEXUE_LEVEL	[%d sao]

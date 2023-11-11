@@ -26,6 +26,7 @@ function main(nItemIdx)
 			[9] = {1080, 1081}, -- ConLon
 			[10] = {1384, 1369}, -- Hoa Son
 			[11] = {1983, 1985}, -- Vu hon
+			[12] = {1896, 1911}, -- Tiªu Dao
 	};
 	
 	local tb_Desc = {};

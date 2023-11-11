@@ -47,7 +47,7 @@ end
 -- 生成目标物品信息
 function genDesItemsInfo( arynNecessaryItemIdx )
 	local aryDesItemInfo = {};
-	for i = 1, 5 do
+	for i = 1, 6 do
 		local arynMagLvl = { 0, 0, 0, 0, 0, 0 };
 		for j = 1, i do
 			arynMagLvl[j] = -1;

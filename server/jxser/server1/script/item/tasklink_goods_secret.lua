@@ -61,7 +61,7 @@ myMapID = SubWorldIdx2ID( SubWorld )
 			
 				myMapNum = myMapNum + 1
 				nt_setTask(1025,myMapNum)
-				Msg2Player("B¹n nhËn ®­îc mét tÊm"..myMapName.."§Şa §å chİ! HiÖn t¹i b¹n cã tæng céng"..myMapNum.." tÊm.");
+				Msg2Player("B¹n nhËn ®­îc mét tÊm"..myMapName.."§Şa §å chİ! HiÖn t¹i b¹n cã tæng céng "..myMapNum.." tÊm.");
 				
 				return 0
 				
@@ -72,13 +72,13 @@ myMapID = SubWorldIdx2ID( SubWorld )
 		-- ¸øÍæ¼ÒÔö¼ÓÒ»¸öÉ½ºÓÉçğ¢Í¼²ĞÆ¬
 		nWorldMaps = nWorldMaps + 1
 		nt_setTask(1027,nWorldMaps)
-		Msg2Player("B¹n nhËn ®­îc mét m¶nh b¶n ®å S¬n Hµ X· T¾c! HiÖn t¹i b¹n cã tæng céngt"..nWorldMaps.." m¶nh b¶n ®å S¬n Hµ X· T¾c.");
+		Msg2Player("B¹n nhËn ®­îc mét m¶nh b¶n ®å S¬n Hµ X· T¾c! HiÖn t¹i b¹n cã tæng céng "..nWorldMaps.." m¶nh b¶n ®å S¬n Hµ X· T¾c.");
 		
 	else
 		-- ¸øÍæ¼ÒÔö¼ÓÒ»¸öÉ½ºÓÉçğ¢Í¼²ĞÆ¬
 		nWorldMaps = nWorldMaps + 1
 		nt_setTask(1027,nWorldMaps)
-		Msg2Player("B¹n nhËn ®­îc mét m¶nh b¶n ®å S¬n Hµ X· T¾c! HiÖn t¹i b¹n cã tæng céngt"..nWorldMaps.." m¶nh b¶n ®å S¬n Hµ X· T¾c.");
+		Msg2Player("B¹n nhËn ®­îc mét m¶nh b¶n ®å S¬n Hµ X· T¾c! HiÖn t¹i b¹n cã tæng céng "..nWorldMaps.." m¶nh b¶n ®å S¬n Hµ X· T¾c.");
 	end
 
 

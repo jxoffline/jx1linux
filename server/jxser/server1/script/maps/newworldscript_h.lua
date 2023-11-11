@@ -199,6 +199,18 @@ function NewPractice_B(bIn)
 	end
 end
 
+local TONGCLAIMWAR = function (bIn)
+	if (bIn == 1) then
+		SetProtectTime(18*3)
+		AddSkillState(963,1, 0, 18*3)
+	end
+end
+
+local NOTONGCLAIMWAR = function (bIn)
+
+end
+
+
 -- 进入/离开可以修炼精力的地图
 --function JingliEntrance(bIn)
 --	DynamicExecute("\\script\\global\\jingli.lua", "WorldEntrance", PlayerIndex, bIn)
@@ -213,7 +225,7 @@ aryFuncStore["PUNISH_OFF"] = noPunish
 aryFuncStore["TISHENZHIREN"] = setTiShenZhiFu
 aryFuncStore["USETOWNP_OFF"] = forbidUseTownP
 aryFuncStore["FIGHTSTATE_OFF"] = setPeaceState
-
+aryFuncStore["FIGHTSTATE_ON"] = _ForceFightState
 aryFuncStore["SJFIGHTSTATE_OFF"] = sjFightState
 aryFuncStore["HEART_OFF"] = forbidHeart
 aryFuncStore["TONG_MAP"] = TongMap
@@ -223,4 +235,6 @@ aryFuncStore["PUNISH_PK10"] = PK10_InPrison
 aryFuncStore["NATIONALWAR"] = nationalwar_mapevent
 aryFuncStore["NEWPRACTICE_A"] = NewPractice_A
 aryFuncStore["NEWPRACTICE_B"] = NewPractice_B
+aryFuncStore["TONGCLAIMWAR"] = TONGCLAIMWAR
+aryFuncStore["NOTONGCLAIMWAR"] = NOTONGCLAIMWAR
 --aryFuncStore["JINGLI"] = JingliEntrance

@@ -213,7 +213,6 @@ end
 
 function TaskShedule()
 	TaskName("Vâ l©m liªn ®Êu")
-	--ÏÂ¸öÕû°ëÐ¡Ê±Æô¶¯
 	if (tonumber(date("%M")) >= 30) then
 		TaskTime(tonumber(date("%H"))+1, 0)
 	else
@@ -222,20 +221,19 @@ function TaskShedule()
 	TaskCountLimit(0);	--ÎÞÏÞÆô¶¯
 	TaskInterval(15);	--¼ä¸ô15·ÖÖÓ
 	
-	--ÐèÒª³õÊ¼»¯
 	for i = RLGLB_WLLS_PHASE, RLGLB_WLLS_SVRCOUNT+20 do
 		SetGblInt(i, 0)
 	end
 	
 	local n_phase, _, n_sid = wlls_calc_phase()
 	SetGblInt(RLGLB_WLLS_PHASE, n_phase)
-	wlls_set_mid(n_sid, 0)	--¸Õ¸ÕÆô¶¯Relay²»ÄÜ½øÈë±ÈÈü
-	OutputMsg("============ League Match Start: Phase="..n_phase.."  SeasonID="..n_sid.." ==============")
+	wlls_set_mid(n_sid, 0)	
+	OutputMsg("============ Vâ l©m liªn ®Êu : Phase="..n_phase.."  SeasonID="..n_sid.." ==============")
 end
 
 function TaskContent()
 	local n_phase, n_matchid, n_sid = wlls_calc_phase()
-	
+	OutputMsg("=======================================================")
 	OutputMsg("============ League Match: Phase="..n_phase.."  MatchID="..n_matchid.."  SeasonID="..n_sid.." =============")
 
 	local n_oldphase = GetGblInt(RLGLB_WLLS_PHASE)

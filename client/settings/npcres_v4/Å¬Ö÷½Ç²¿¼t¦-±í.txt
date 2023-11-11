@@ -1,6 +1,0 @@
-序号	部件组成	部件1	部件2	部件3	部件4
-0	头盔	Head	Hair		
-1	装备	Shoulder	Body	LeftHand	RightHead
-2	武器	LeftWeapon	RightWeapon		
-3	马	HorseFront	HorseMiddle	HorseBack	
-4	披风	Mantle

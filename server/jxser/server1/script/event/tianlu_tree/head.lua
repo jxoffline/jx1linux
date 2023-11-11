@@ -1,2 +1,0 @@
-
-TSK_DAYLY_PLANT_NUM = 4015  -- 每日种树数量

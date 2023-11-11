@@ -1,5 +1,0 @@
-function main()
-	strTalk = "Hπt May mæn bﬁ h≠, Æ∏ng ti’c thÀt!";
-	Msg2Player(strTalk);
-	Talk(1, "", strTalk);
-end

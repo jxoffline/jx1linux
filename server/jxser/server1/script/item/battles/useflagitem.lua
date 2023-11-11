@@ -1,1 +1,0 @@
-Include("\\script\\battles\\seizeflag\\useflagitem.lua")

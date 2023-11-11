@@ -1,1 +1,0 @@
-LVLUP150_MSG_UNLOCK = "§· më giíi h¹n kÜ n¨ng %s cÊp %s"

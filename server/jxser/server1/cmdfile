@@ -1,2 +1,0 @@
-handle SIG32 SIGPIPE nostop noprint
-r 6661

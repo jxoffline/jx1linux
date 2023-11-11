@@ -1,4 +1,0 @@
-LocalFileName	RemoteFileName
-\RelaySetting\syncfiles\settings\buysell.txt	\settings\buysell.txt
-\RelaySetting\syncfiles\settings\goods.txt	\settings\goods.txt
-\RelaySetting\syncfiles\settings\shop\\type.txt	\settings\shop\type.txt

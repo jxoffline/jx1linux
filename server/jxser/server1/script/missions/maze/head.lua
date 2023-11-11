@@ -1,3 +1,0 @@
-
-TASK_MAZEINVITATION = 2860	-- 迷宫剧情任务
-MAZE_PLAYERTMPCAMP 	= 1		-- 玩家临时阵营

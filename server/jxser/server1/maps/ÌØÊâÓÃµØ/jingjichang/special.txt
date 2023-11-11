@@ -1,5 +1,0 @@
-[MAIN]
-elementnum=1
-[0]
-elementtype=4000004
-position=1593.97,3223.22,0

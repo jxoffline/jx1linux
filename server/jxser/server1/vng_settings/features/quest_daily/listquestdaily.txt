@@ -1,0 +1,56 @@
+nQuestID	nMagicID	nPoint	szMapList	nNpcID	nRate	szDlg
+1			321	598	3	TiÖu diÖt 300 <color=yellow>S­¬ng §ao<color> ë  <color=yellow>Tr­êng b¹ch s¬n nam<color>
+2			322	595	3	TiÖu diÖt 300 <color=yellow>L¹c Quang<color> ë  <color=yellow>Tr­êng b¹ch s¬n b¾c<color>
+3			340	706	3	TiÖu diÖt 300 <color=yellow>M¹c TÆc<color> ë  <color=yellow>M¹c Cao QuËt<color>
+4			75	156	3	TiÖu diÖt 300 <color=yellow>¶nh C«n<color> ë  <color=yellow>Kháa Long §éng<color>
+5			336	708	3	TiÖu diÖt 300 <color=yellow>L·nh Th­¬ng<color> ë  <color=yellow>Phong L¨ng §é<color>
+6			124	14	3	TiÖu diÖt 300 <color=yellow>Voi Hoµng Hµ<color> ë  <color=yellow>C¸n Viªn §éng<color>
+7			93	146	3	TiÖu diÖt 300 <color=yellow>§o¹t MÖnh Liªm<color> ë  <color=yellow>Tiªn Cóc §éng<color>
+8			144	142	3	TiÖu diÖt 300 <color=yellow>§ao Kh¸ch<color> ë  <color=yellow>D­îc V­¬ng §éng TÇng 4<color>
+9			225	561	3	TiÖu diÖt 300 <color=yellow>L­u V©n<color> ë  <color=yellow>Sa M¹c 1<color>
+10			226	559	3	TiÖu diÖt 300 <color=yellow>L­u Phong<color> ë  <color=yellow>Sa M¹c 2<color>
+11			227	536	3	TiÖu diÖt 300 <color=yellow>TËt Vò<color> ë  <color=yellow>Sa M¹c 3<color>
+12			181	166	3	TiÖu diÖt 300 <color=yellow>S¬n TÆc<color> ë  <color=yellow>L­ëng Thñy §éng<color>
+13			320	593	3	TiÖu diÖt 300 <color=yellow>TuyÕt ¶nh<color> ë  <color=yellow>Ch©n Nói Tr­êng b¹ch<color>
+14			319	589	2	TiÖu diÖt 300 <color=yellow>Ng©n Nha<color> ë  <color=yellow>L©m Du Quan<color>
+15			202	149	2	TiÖu diÖt 300 <color=yellow>Tr­êng Th­¬ng<color> ë  <color=yellow>Phï Dung §éng<color>
+16			198	149	2	TiÖu diÖt 300 <color=yellow>Tr­êng Th­¬ng<color> ë  <color=yellow>Thanh Khª §éng<color>
+17			201	169	2	TiÖu diÖt 300 <color=yellow>KÕ Chñy<color> ë  <color=yellow>B¨ng Hµ §éng<color>
+18			224	558	2	TiÖu diÖt 300 <color=yellow>Bä C¹p<color> ë  <color=yellow>Sa M¹c §Þa BiÓu<color>
+19	85	10			1.4	T×m <color=yellow>Trang bÞ t¨ng Sinh Lùc<color> lín h¬n <color=yellow>10<color> ®iÓm
+20	85	50			1.4	T×m <color=yellow>Trang bÞ t¨ng Sinh Lùc<color> lín h¬n <color=yellow>50<color> ®iÓm
+21	85	100			1.4	T×m <color=yellow>Trang bÞ t¨ng Sinh Lùc<color> lín h¬n <color=yellow>100<color> ®iÓm
+22	85	150			1.4	T×m <color=yellow>Trang bÞ t¨ng Sinh Lùc<color> lín h¬n <color=yellow>150<color> ®iÓm
+23	89	10			1.4	T×m <color=yellow>Trang bÞ t¨ng Néi Lùc<color> lín h¬n <color=yellow>10<color> ®iÓm
+24	89	50			1.4	T×m <color=yellow>Trang bÞ t¨ng Néi Lùc<color> lín h¬n <color=yellow>50<color> ®iÓm
+25	89	100			1.4	T×m <color=yellow>Trang bÞ t¨ng Néi Lùc<color> lín h¬n <color=yellow>100<color> ®iÓm
+26	89	150			1.4	T×m <color=yellow>Trang bÞ t¨ng Néi Lùc<color> lín h¬n <color=yellow>150<color> ®iÓm
+27	96	3			1.4	T×m <color=yellow>Trang bÞ Phôc håi ThÓ Lùc<color> lín h¬n <color=yellow>3<color> ®iÓm
+28	96	5			1.4	T×m <color=yellow>Trang bÞ Phôc håi ThÓ Lùc<color> lín h¬n <color=yellow>5<color> ®iÓm
+29	98	5			1.4	T×m <color=yellow>Trang bÞ T¨ng Th©n Ph¸p<color> lín h¬n <color=yellow>5<color> ®iÓm
+30	98	10			1.4	T×m <color=yellow>Trang bÞ T¨ng Th©n Ph¸p<color> lín h¬n <color=yellow>10<color> ®iÓm
+31	98	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Th©n Ph¸p<color> lín h¬n <color=yellow>15<color> ®iÓm
+32	97	5			1.4	T×m <color=yellow>Trang bÞ T¨ng Søc M¹nh<color> lín h¬n <color=yellow>5<color> ®iÓm
+33	97	10			1.4	T×m <color=yellow>Trang bÞ T¨ng Søc M¹nh<color> lín h¬n <color=yellow>10<color> ®iÓm
+34	97	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Søc M¹nh<color> lín h¬n <color=yellow>15<color> ®iÓm
+35	99	5			1.4	T×m <color=yellow>Trang bÞ T¨ng Sinh khÝ<color> lín h¬n <color=yellow>5<color> ®iÓm
+36	99	10			1.4	T×m <color=yellow>Trang bÞ T¨ng Sinh khÝ<color> lín h¬n <color=yellow>10<color> ®iÓm
+37	99	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Sinh khÝ<color> lín h¬n <color=yellow>15<color> ®iÓm
+38	102	7			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng Háa<color> lín h¬n <color=yellow>7<color> ®iÓm
+39	102	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng Háa<color> lín h¬n <color=yellow>15<color> %
+40	103	7			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng L«i<color> lín h¬n <color=yellow>7<color> %
+41	103	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng L«i<color> lín h¬n <color=yellow>15<color> %
+42	105	7			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng B¨ng<color> lín h¬n <color=yellow>7<color> %
+43	105	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng B¨ng<color> lín h¬n <color=yellow>15<color> %
+44	101	7			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng §éc<color> lín h¬n <color=yellow>7<color> %
+45	101	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Kh¸ng §éc<color> lín h¬n <color=yellow>15<color> %
+46	104	7			1.4	T×m <color=yellow>Trang bÞ T¨ng Phßng Thñ VËt Lý<color> lín h¬n <color=yellow>7<color> %
+47	104	15			1.4	T×m <color=yellow>Trang bÞ T¨ng Phßng Thñ VËt Lý<color> lín h¬n <color=yellow>15<color> %
+48	113	10			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Phôc Håi<color> lín h¬n <color=yellow>10<color> %
+49	113	20			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Phôc Håi<color> lín h¬n <color=yellow>20<color> %
+50	108	10			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Tróng §éc<color> lín h¬n <color=yellow>10<color> %
+51	108	20			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Tróng §éc<color> lín h¬n <color=yellow>20<color> %
+52	110	10			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Cho¸ng<color> lín h¬n <color=yellow>10<color> %
+53	110	20			1	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Cho¸ng<color> lín h¬n <color=yellow>20<color> %
+54	106	10			1.4	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Lµm ChËm<color> lín h¬n <color=yellow>10<color> %
+55	106	20			1	T×m <color=yellow>Trang BÞ Gi¶m Thêi Gian Lµm ChËm<color> lín h¬n <color=yellow>20<color> %

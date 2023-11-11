@@ -1,0 +1,20 @@
+RoundStartMsg	开始第%d轮的答题
+RoundTimeOut	本轮结束
+CountDownMsg	还有%d秒 就到下一轮，请注意准备
+ActNotInDate	活动还没开始。
+NAME	名字
+UseTime	总使用时间
+LimitMsg	真可惜，你还没满足参加这轮。
+AlreadyAnswer	本轮已经回答过了。
+Question	请问 %s 的结果是多少呢?
+InputAnswer	输入答案
+AnswerTooLate	回答得太晚了。
+Congratulate	恭喜答对了。使用时间%d秒
+WrongAnswer	你输入的答案不正确。
+ForbitWord	你输入的是非法字符。
+NpcName	神算子
+LevelLimit	等级不足%d，不能参加
+InputAnswerTitle	输入答案
+LastRoundEnd	今天的活动到此结束。
+RankTitle	排名如下：
+NoRank	本轮没有排名

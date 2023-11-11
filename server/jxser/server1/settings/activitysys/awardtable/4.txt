@@ -1,0 +1,6 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+4	§¹i B¹ch C©u hoµn	"return {szName=\"´ó°×¾ÔÍè\",tbProp={6,1,130,1,0,0},}"	5	100	24	
+4	Liªn Th¸i Tiªn Th¶o Lé	"return {szName=\"ÅîÀ³ÏÉ²İÂ¶\",tbProp={6,1,1401,1,0,0},}"	1	100	25	
+4	Hép §ång hµnh MËt tŞch (Kü n¨ng kh¸ng tİnh) 	"return {szName=\"Í¬°é¼¼ÄÜÊé´óÀñ°ü£¨¿¹ĞÔ¼¼ÄÜ£©\",tbProp={6,1,963,1,0,0},}"	1	100	26	
+4	Tiªn Th¶o Bao	"return {szName=\"±±¾©ÑÅµäÏÉ²İ°ü\",tbProp={6,1,1684,1,0,0},}"	2	100	27	
+4	TÈy Tñy Kinh	"return {szName=\"Ï´Ëè¾­\",tbProp={6,1,22,1,0,0},}"	1	100	28	

@@ -1,0 +1,21 @@
+Name	NpcIndex	Five	Rate	NumMin	NumMax
+Lo¹i h×nh NPC	npcIndex	Ngò Hµnh	Tû lÖ xuÊt hiÖn	TrŞ nhá nhÊt	TrŞ lín nhÊt
+§o¹t B¶o TÆc	1100	n	94000	4	12
+Tr­¬ng T«ng Chİnh	511	4	1000	1	1
+DiÖu Nh­ 	513	2	1000	1	1
+LiÔu Thanh Thanh	523	1	1000	1	1
+§¹o Thanh Ch©n Nh©n	562	4	200	1	1
+Gia LuËt TŞ Ly	563	3	200	1	1
+§oan Méc DuÖ 	565	3	200	1	1
+Chung Linh Tó 	567	2	200	1	1
+Hµ Linh Phiªu	568	2	200	1	1
+M¹nh Th­¬ng L­¬ng	583	3	200	1	1
+Lam Y Y	582	1	200	1	1
+V­¬ng T¸ 	739	0	200	1	1
+HuyÒn Gi¸c §¹i S­ 	740	0	200	1	1
+§­êng BÊt NhiÔm	741	1	200	1	1
+B¹ch Doanh Doanh	742	1	200	1	1
+Thanh HiÓu S­ Th¸i 	743	2	200	1	1
+Yªn HiÓu Tr¸i	744	2	200	1	1
+Hµ Nh©n Ng· 	745	3	200	1	1
+TuyÒn C¬ Tö 	747	4	200	1	1

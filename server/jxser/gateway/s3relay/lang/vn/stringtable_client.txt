@@ -1,0 +1,521 @@
+key	value
+G_CONFIRM_WORD	X¸c nhËn
+G_STR_YES	Muèn
+G_STR_CANCEL	Hñy bá 
+G_NO_WORD	V« hÖ 
+G_ACCEPT_WORD	§ång ý 
+G_REFUSE_WORD	Cù tuyÖt 
+G_LOOKOVER_WORD	Tra xem
+G_IGNORE_WORD	Xem nhÑ 
+G_GOTO_WORD	§Þnh vÞ 
+G_DONT_GO	Kh«ng ®i
+
+G_MSG_EXCHANGE_FAIL	§­êng ®i phÝa tr­íc kh«ng ®­îc th«ng, hay lµ lÇn sau trë l¹i vËy
+
+G_BLACKLIST_UNITNAME	Sæ ®en
+G_GSCHANGEDNOTIFY_0	Xin ®iÒn nhËp tªn cña ®èi ph­¬ng
+G_GSCHANGEDNOTIFY_1	%s bÞ ghi vµo Sæ ®en. 
+G_GSCHANGEDNOTIFY_2	Xin thø lçi! TÇn sè vÉn ch­a më réng, ch­a thÓ chuyÓn tin tøc! 
+G_GSCHANGEDNOTIFY_3	%s hiÖn kh«ng cã trªn m¹ng, lÇn sau lªn m¹ng anh Êy (/ c« Êy ) míi nhËn ®­îc tin tøc B¹n võa ph¸t ra.
+G_GSCHANGEDNOTIFY_4	 Xin th«ng c¶m, %s kh«ng ë trong VLTK, tin tøc kh«ng thÓ chuyÓn ®Õn!
+G_GSCHANGEDNOTIFY_5	ChuyÓn ph¸t vµo %d th¸ng %d ngµy %d:%02d:
+G_GSCHANGEDNOTIFY_6	TÇn sè GM, xin ®iÒn nhËp néi dung tin tøc \" [gm]\"
+
+G_SHORTCUTKEY_0	Hñy bá tin tøc chuyÓn ph¸t lóc offline.
+G_SHORTCUTKEY_1	ThiÕt ®Þnh chuyÓn tin tøc ngo¹i tuyÕn cho %s!
+G_SHORTCUTKEY_2	ThiÕt ®Þnh chuyÓn tin tøc cho %s! \n ®iÒn nhËp /OfflineTrans cã thÓ hñy bá thiÕt ®Þnh.
+G_SHORTCUTKEY_3	Trß ch¬i  d¹ng 2D. Xin khëi ®éng l¹i trß ch¬i!
+G_SHORTCUTKEY_4	Trß ch¬i  d¹ng 2D. Xin khëi ®éng l¹i trß ch¬i!
+G_SHORTCUTKEY_5	Trß ch¬i thay ®æi thµnh vËn hµnh tßan mµn h×nh, lÇn khëi ®éng sau sÏ cã hiÖu lùc. 
+G_SHORTCUTKEY_6	Trß ch¬i thay ®æi thµnh vËn hµnh trong cöa sæ, lÇn khëi ®éng sau sÏ cã hiÖu lùc. 
+
+G_CHATPHRASE_0	Ng­êi nµy ®· rêi m¹ng, kh«ng thÓ chuyÓn ph¸t
+G_CHATPHRASE_1	Trong lóc luyÖn c«ng, xin ®õng lµm phiÒn
+G_CHATPHRASE_2	T«i ®i ¨n c¬m råi, l¸t n÷a sÏ liªn hÖ nhÐ 
+G_CHATPHRASE_3	T«i cã chuyÖn ph¶i rêi m¹ng mét l¸t, l¸t n÷a h·y t×m t«i nhÐ 
+
+G_UiChatPhrase_0	Xin ®õng sö dông nh÷ng lêi lÏ kh«ng thÝch hîp! 
+G_UiChatPhrase_1	HÖ thèng tù ®éng håi phôc. 
+G_UiChatPhrase_2	Hñy bá tù ®éng håi phôc. 
+G_UiChatPhrase_3	Kinh nghiÖm %I64d/%I64d
+G_UiChatPhrase_4	LuyÖn c«ng
+G_UiChatPhrase_5	ChiÕn ®Êu
+G_UiChatPhrase_6	§å s¸t 
+
+G_DEFAULT_FORMAT_STRING	XXXXXXXX v¹n XXXX l­îng 
+
+G_UiChatCentre_0	nhãm míi lËp
+G_UiChatCentre_1	nhãm trïng tªn
+G_UiChatCentre_2	L­îc bá nhãm
+G_UiChatCentre_3	Göi tin tøc 
+G_UiChatCentre_4	Xo¸ bá 
+G_UiChatCentre_5	ChuyÓn nhãm kh¸c
+G_UiChatCentre_6	Kh¸c
+G_UiChatCentre_7	§iÒn nhËp tªn cña nhãm míi
+G_UiChatCentre_8	§iÒn nhËp tªn cña nhãm míi
+
+G_UIGAME_1	B¹n h÷u
+G_UIGAME_2	Giao dÞch
+G_UIGAME_3	nhËp ®éi 
+G_UIGAME_4	Tæ ®éi
+G_UIGAME_5	Theo sau
+G_UIGAME_6	Tin tøc 
+G_UIGAME_7	Bang héi
+G_UIGAME_8	Cõu s¸t
+G_UIGAME_9	®­a tiÒn
+G_UIGAME_10	Tªn truy nhËp
+G_UIGAME_11	Rêi khái ®éi ngò 
+G_UIGAME_12	Trôc xuÊt khái tæ ®éi
+G_UIGAME_13	Täa ®é
+G_UIGAME_14	Xin phÐp nhËp bang
+G_UIGAME_15	§Èy rêi m¹ng
+G_ITEM_GOLDCOIN	XXXXXX v¹n XXXX
+G_ITEM_ENERGY	X,XXX,XXX,XXX
+G_TIME_0	nöa ®ªm
+G_TIME_1	gµ g¸y
+G_TIME_2	trêi s¸ng
+G_TIME_3	mÆt trêi mäc
+G_TIME_4	giê ¨n
+G_TIME_5	nghØ ng¬i
+G_TIME_6	trong ngµy 
+G_TIME_7	n¾ng
+G_TIME_8	m¸t dÞu
+G_TIME_9	mÆt trêi lÆn
+G_TIME_10	hoµng h«n
+G_TIME_11	nh©n ®Þnh
+G_TIME_12	Tý 
+G_TIME_13	Söu
+G_TIME_14	DÇn
+G_TIME_15	M·o
+G_TIME_16	Th×n 
+G_TIME_17	Tþ 
+G_TIME_18	Ngä 
+G_TIME_19	Mïi
+G_TIME_20	Th©n 
+G_TIME_21	DËu
+G_TIME_22	TuÊt 
+G_TIME_23	Hîi
+
+G_NUMBER_1	NhÊt
+G_NUMBER_2	NhÞ 
+G_NUMBER_3	Tam
+G_NUMBER_4	Tø
+
+G_PLAYERBAR_0	%s:%s:%s
+G_PLAYERBAR_1	%d-%d-%d:%02d
+G_PLAYERBAR_2	Xin b¹n ®õng sö dông nh÷ng lêi lÏ kh«ng phï hîp trong tin tøc
+
+G_PLAYERBAR_3	Tin tøc ®­îc göi ®i sau %d gi©y.
+G_PLAYERBAR_4	Thiªn Lý TruyÒn ¢m  kh«ng thÓ sö dông liªn tôc, xin B¹n ph¶i vËn khÝ tr­íc. 
+G_PLAYERBAR_5	Göi tin tøc cho GM, xin gi÷ thêi gian gi·n c¸ch nhÊt ®Þnh. 
+G_PLAYERBAR_6	Tin tøc göi ®i thÊt b¹i. 
+G_PLAYERBAR_7	§¼ng cÊp cña B¹n kh«ng ®ñ %d...cÊp, kh«ng thÓ sö dông  Thiªn Lý TruyÒn ¢m  chuyÓn ph¸t tin tøc. 
+G_PLAYERBAR_8	Ng©n l­îng cña B¹n kh«ng ®ñ %d...l­îng, kh«ng thÓ sö dông  Thiªn Lý TruyÒn ¢m  chuyÓn ph¸t tin tøc. 
+G_PLAYERBAR_9	Néi lùc cña B¹n kh«ng ®ñ %d...§iÓm, kh«ng thÓ sö dông  Thiªn Lý TruyÒn ¢m  chuyÓn ph¸t tin tøc. 
+G_PLAYERBAR_10	B¹n sö dông  Thiªn Lý TruyÒn ¢m, tiªu hao ng©n l­îng %d l­îng. 
+G_PLAYERBAR_11	B¹n sö dông  Thiªn Lý TruyÒn ¢m, tiªu hao néi lùc %d ®iÓm. 
+G_PLAYERBAR_12	Trïng sinh: %d
+G_PLAYERBAR_13	Ch­a trïng sinh lÇn nµo
+
+G_CONNECTINFO_0	Tªn nh©n vËt:%s
+G_CONNECTINFO_1	Trong khi ®ang sö dông account nµy, xin ®iÒn nhËp mËt m· cÊp hai
+
+
+G_FRIEND_UNITNAME	B¹n h÷u
+G_BROTHER_UNITNAME	Th©n nh©n 
+G_ENEMY_UNITNAME	Cõu nh©n 
+G_MATE_UNITNAME	Phèi ngÉu 
+G_DEFAULT_GROUPNAME	 
+
+G_DiceWeaveBingo_0	 Hª! Hª! vÞ kh¸ch quan nµy cã cÇn ph¶i l­u tr÷ l¹i kh«ng? §©y qu¶ lµ mét gia tµi lín
+G_DiceWeaveBingo_1	Kh«ng tiÒn th× kh«ng thÓ vµo ®©y
+G_DiceWeaveBingo_2	Oa!, vÞ kh¸ch quan nµy, B¹n cã thÓ vµo ®ã 
+G_DiceWeaveBingo_3	Hª! Hª!, thËt tiÕc, kh¸ch quan bÞ thua råi! 
+G_DiceWeaveBingo_4	B¹n th¾ng ®­îc mét sè tiÒn
+G_DiceWeaveBingo_5	B¹n th¾ng ®­îc mét Ýt tiÒn
+G_DiceWeaveBingo_6	B¹n tróng ®­îc mét phÇn th­ëng tÝch lòy lín! 
+G_DiceWeaveBingo_7	vÞ kh¸ch quan nµy, cã muèn trë l¹i lÇn n÷a kh«ng? 
+
+G_EquipRepairAlert_0	H×nh d¸ng %s cña B¹n l©p tøc sÏ bÞ xÊu ®i. 
+G_EquipRepairAlert_1	B¹n c¶m thÊy......cña B¹n %s cã mét sè vÕt nøt. 
+
+G_UiGetString_0	Sè ký tù ®iÒn nhËp qu¸ Ýt! 
+G_UiGetString_1	Sè ký tù ®iÒn nhËp qu¸ Ýt! 
+G_UiGetString_2	Sè ký tù ®iÒn nhËp v­ît qu¸ ®é dµi cho phÐp! 
+
+G_ACTIVE_TIME_FORMAT	%d giê 
+G_KillerAllTask_0	thua
+G_KillerAllTask_1	%d v¹n 
+G_KillerAllTask_2	%04d l­îng 
+G_KillerAllTask_3	 l­îng
+G_KillerAllTask_5	%d l­îng 
+G_KillerAllTask_6	Xin lçi! B¹n ch­a cã ®ñ hiÖn kim, lËp mét b¶ng nhiÖm vô truy n· ph¶i cÇn rÊt nhiÒu tiÒn
+G_KillerAllTask_7	!! 
+G_KillerAllTask_8	¤! BiÕt råi mµ.....
+
+G_MSGCENTREPAD_0	HÖ thèng
+G_MSGCENTREPAD_1	Më ra 
+G_MSGCENTREPAD_2	§ãng
+
+G_UiMsgSel_0	KÕt thóc ®èi tho¹i
+G_UiMsgSel_1	 [--V¨n b¶n gèc hoÆc xö lý sai V¨n b¶n gèc! --]
+G_UiMsgSel_2	ViÖt Tö nãi víi B¹n:
+
+G_MSG_RECONNECTING	HÖ thèng ®ang kÕt nèi l¹i lÇn thø <color=red>%d<color>. \n%s...
+G_MSG_WAIT_TO_RECONNECT	TiÕn hµnh kÕt nèi l¹i trong %d gi©y. (lÇn thø <color=red>%d<color>) .
+G_MSG_WAIT_NEXT_GROUP_RECONNECT	TiÕn hµnh kÕt nèi l¹i trong %d gi©y.
+
+
+G_RECONNECT_QUIT_BTN_LABEL	Tho¸t
+
+G_RECONNECT_START_AT_ONCE	KÕt nèi l¹i
+
+G_RECONNETMSG_0	KÕt nèi thÊt b¹i
+G_RECONNETMSG_1	§ang kiÓm tra Tµi kho¶n vµ MËt khÈu 
+G_RECONNETMSG_2	§ang nhËn danh s¸ch nh©n vËt
+G_RECONNETMSG_3	§ang phôc vô trß ch¬i
+G_RECONNETMSG_4	§ang ®¨ng nhËp vµo trß ch¬i
+G_RECONNETMSG_5	§iÓm Card kh«ng ®ñ, xin nhËp tiÕp råi h·y tiÕp tôc ch¬i
+
+G_LIMITTIMEMSG_IDINFO_0	Tµi kho¶n cña b¹n t¹m thêi kh«ng n»m trong ph¹m vi khèng chÕ 5 giê ch¬i. Nh­ng nÕu kh«ng nhËp vµo th«ng tin chøng minh th­ th× sÏ ngÉu nhiªn bÞ khèng chÕ 5 giê ch¬i, h·y lËp tøc ®¨ng ký th«ng tin chÝnh x¸c trªn trang chñ.
+G_LIMITTIMEMSG_IDINFO_1	Tµi kho¶n cña b¹n bÞ kiÓm so¸t 5 giê ch¬i.
+G_LIMITTIMEMSG_IDINFO_2	Tµi kho¶n cña b¹n kh«ng bÞ kiÓm so¸t 5 giê ch¬i, do ®· nhËp vµo th«ng tin chøng minh th­.
+G_LIMITTIMEMSG_IDINFO_3	Tµi kho¶n cña b¹n bÞ khèng chÕ 5 giê ch¬i. L­u ý s¾p xÕp thêi gian häc tËp hîp lý. §· nhËp vµo th«ng tin chøng minh th­.	
+
+G_LIMITTIMEMSG_ONLINE_TIME	Thêi gian trªn m¹ng: %d giê %d phót, Thêi gian rêi m¹ng: %d giê %d phót.
+G_LIMITTIMEMSG_ONLINE_S1	Thêi gian kháe m¹nh.
+G_LIMITTIMEMSG_ONLINE_S1_I	B¹n cã thÓ vui vÎ tham gia vµo trß ch¬i.
+G_LIMITTIMEMSG_ONLINE_S2	Thêi gian mÖt mái.
+G_LIMITTIMEMSG_ONLINE_S2_I	PhÇn th­ëng trong trß ch¬i sÏ gi¶m cßn 50%, ®Ó b¶o ®¶m søc kháe, b¹n h·y mau chãng nghØ ng¬i, luyÖn tËp th©n thÓ, s¾p xÕp thêi gian häc tËp hîp lý.
+G_LIMITTIMEMSG_ONLINE_S3	Thêi gian kh«ng lµnh m¹nh.
+G_LIMITTIMEMSG_ONLINE_S3_I	§Ó b¶o ®¶m søc kháe, h·y mau chãng nghØ ng¬i, nÕu tiÕp tôc ch¬i th× nh÷ng lîi Ých trong trß ch¬i sÏ gi¶m cßn 0, cho ®Õn khi b¹n rêi m¹ng ®­îc 5 giê míi cã thÓ trë l¹i trang th¸i b×nh th­êng.
+
+G_REFUSELOGINROLEMSG_0	Tµi kho¶n nµy cã %d nh©n vËt ®· sö dông phÇn mÒm hack nªn bÞ khãa
+G_REFUSELOGINROLEMSG_1	%s: C¶nh b¸o %d lÇn, nh©n vËt bi khãa %d giê 
+G_REFUSELOGINROLEMSG_2	%s: nh©n vËt bÞ khãa vÜnh viÔn
+
+G_C_S_GOLD	Kim
+G_C_S_WOOD	Méc
+G_C_S_WATER	Thñy 
+G_C_S_FIRE	Háa
+G_C_S_EARTH	Thæ 
+
+G_SEX_MALE	Nam
+G_SEX_FEMALE	N÷ 
+
+G_STALL_0	Tin cña b¹n cã chøa nh÷ng v¨n tù kh«ng thÝch hîp, xin thay ®æi! 
+
+G_MSG_RENASCENCE	B¹n ®· bÞ träng th­¬ng! 
+G_MSG_BACK_TO_TOWN	VÒ thµnh d­ìng søc 
+
+G_SysMsgCentre_0	%s mêi b¹n gia nhËp nhãm cña hä 
+G_SysMsgCentre_1	%s xin phÐp gia nhËp nhãm cña B¹n 
+G_SysMsgCentre_2	%s hy väng cïng víi b¹n trë thµnh h¶o h÷u 
+G_SysMsgCentre_3	%s hy väng cïng víi b¹n giao dÞch 
+G_SysMsgCentre_4	%s hy väng xin phÐp gia nhËp bang héi cña b¹n 
+G_SysMsgCentre_5	%s ®¹i diÖn bang héi xin phÐp gia nhËp liªn minh cña b¹n 
+G_SysMsgCentre_5_IB	%s ®¹i diÖn bang héi xin phÐp gia nhËp liªn minh cña b¹n (c¶ 2 bang sÏ bÞ khÊu trõ 500 v¹n ng©n quü bang)
+G_SysMsgCentre_6	Xem nhÑ 
+G_SysmsgCentre_7	Th«ng b¸o míi nhÊt vÒ viÖc ®iÒu chØnh trß ch¬i
+
+G_TONG_0	Tr­ëng L·o
+G_TONG_1	§éi tr­ëng
+G_TONG_2	§Ö tö 
+G_TONG_3	Xin lùa chän chøc vÞ 
+G_TONG_4	Xin lùa chän chøc vÞ râ rµng
+G_TONG_5	VÞ trÝ nµy ®· cã ng­êi råi
+
+G_TONG_6	B¹n thËt sù muèn rêi khái bang héi? B¹n cÇn ph¶i bá ra %d l­îng ®Ó tr¶ gi¸. 
+G_TONG_7	B¹n thËt sù muèn gi¶i t¸n liªn minh? 
+G_TONG_8	B¹n thËt sù muèn lo¹i bá bang héi nµy ­? 
+G_TONG_9	Bang héi cña B¹n thËt sù muèn rêi khái liªn minh? 
+G_TONG_10	Bang chñ 
+G_TONG_11	Xin ®iÒn nhËp tªn cña liªn minh 
+G_TONG_12	Tªn mµ c¸c h¹ võa ®iÒn vµo h×nh nh­ ch­a ®­îc tháa ®¸ng 
+G_TONG_13	Minh chñ %s  
+G_TONG_14	%s thµnh viªn
+G_TONG_15	  kh«ng khuyÕt 
+G_TONG_16	 Nam 
+G_TONG_17	 N÷ 
+G_TONG_18	ChØ ph¸t cho nh÷ng thuéc h¹ cßn trªn m¹ng
+G_TONG_19	Tr­ëng l·o:%d ng­êi nhãm tr­ëng:%d ng­êi bang chóng:%d ng­êi tæng ng¹ch kim ng¹ch ®· ph¸t%d l­îng 
+G_TONG_20	(Ng©n quü bang kh«ng ®ñ)
+G_TONG_21	Ph¸t cho thuéc h¹ cña ta
+
+G_NAME_NOT_CORRECT	Tªn kh«ng hîp ph¸p
+
+G_TREMBLEITEM_0	Xin ®Æt lªn Ýt nhÊt 1 viªn B¶o Th¹ch
+G_TREMBLEITEM_1	Xin ®Æt lªn vËt phÈm muèn kh¶m B¶o Th¹ch. 
+G_TREMBLEITEM_2	Ngò Hµnh B¶o th¹ch chØ cã thÓ ®Æt mét miÕng
+
+G_STR_WAIT_TRADING	Chê ®îi
+G_STR_OTHER_OK	§èi ph­¬ng ®· ®Æt m· khãa
+G_STR_OTHER_NOT_OK	Chê ®èi ph­¬ng ®Æt m· khãa 
+G_STR_OPP_DROP_ITEM	§èi ph­¬ng míi ®Æt lªn mét vËt phÈm.
+G_STR_OPP_PICK_ITEM	§èi ph­¬ng lÊy ®i mét vËt phÈm. 
+G_STR_OPP_EXCHANGE_ITEM	§èi ph­¬ng ®æi mét mãn vËt phÈm.
+G_STR_OPP_CHANGE_MONEY	§èi ph­¬ng ®æi sè l­îng tiÒn, hiÖn giê lµ %s.
+G_STR_OPP_LOCK	§èi ph­¬ng ®Æt m· khãa giao dÞch. 
+
+G_UI_PASSWORD_NOT_MATCH	MËt m· ®iÒn nhËp kh«ng phï hîp
+G_UI_BOX_WITHOUT	B¹n vÉn ch­a më chøc n¨ng b¶o hé vµ më réng r­¬ng. Xin h·y ®Õn huyÖn Ba L¨ng gÆp ThÈm Cöu (188, 198) mua chøc n¨ng nµy.
+G_UI_BOX_WITHOUT_IB	R­¬ng më réng vµ chøc n¨ng b¶o vÖ mËt m· ch­a ®­îc kÝch ho¹t, h·y ®Õn Kú Tr©n C¸c mua <®å phæ më réng r­¬ng> ®Ó më chøc n¨ng nµy!
+G_UI_PASSWORD_NO_ZERO	MËt m· kh«ng thÓ lµ sè 0 hoÆc ®Ó trèng. 
+G_UI_CLEAR_PASSWORD	B¹n x¸c ®Þnh muèn xãa mËt m·? Sau khi xãa mËt m·, chøc n¨ng b¶o vÖ mËt m· sÏ mÊt hiÖu lùc.
+G_UI_NO_ZERO_HEAD	Sè ®Çu cña mËt m· kh«ng thÓ lµ sè 0. 
+G_UI_PWD_LEN_OVERFLOW	MËt m· cña B¹n ®· ®ñ ®é dµi.
+
+G_UI_KILLER_NO_TASK	Tr­íc m¾t ch­a cã nhiÖm vô truy n·, cã thÓ l·nh nhËn! 
+G_UI_KILLER_NO_CANCEL	Xin h·y tu©n thñ ®¹o ®øc chøc vÞ cña mét s¸t thñ. 
+
+G_UI_BILL_STRING_TELECOM	Thu phÝ ®iÖn tÝn
+G_STR_CONFIRMCHASING	B¹n x¸c ®Þnh muèn kh¶m ­? 
+G_STR_CANCEL	Hñy bá 
+
+G_STR_ITEM_RCLICK_BUY_MSG	Ên gi÷ phÝm Shift ®ång thêi nhÊp chuét ph¶i vµo vËt, lËp tøc mua ®­îc vËt phÈm
+G_STR_ITEM_RCLICK_SELL_MSG	Ên gi÷ phÝm Shift ®ång thêi nhÊp chuét ph¶i vµo vËt, lËp tøc b¸n ®­îc vËt phÈm
+
+G_STR_CHENGDU	Thµnh §«
+G_STR_FENGXIANG	Ph­îng T­êng
+G_STR_DALI	§¹i Lý
+G_STR_BIANJING	BiÖn Kinh
+G_STR_YANGZHOU	D­¬ng Ch©u
+G_STR_LINAN	L©m An
+G_STR_XIANGYANG	T­¬ng D­¬ng
+
+G_STR_NEXT_CHALLENGER	Bang héi c«ng thµnh tuÇn sau
+G_STR_MAYOR	Th¸i Thó 
+G_STR_CITY_OWNER	Bang héi chiÕm lÜnh
+G_STR_TAX	ThuÕ suÊt
+G_STR_PRICE_PARAM	ChØ sè vËt gi¸ 
+
+G_STR_CANCEL_PASSWORD	Xãa cµi ®Æt mËt m· 
+G_STR_INPUT_OLDPASS	nhËp mËt m· cò ®Ó xãa chøc n¨ng cµi ®Æt mËt m· 
+
+G_STR_WAITING_OFFLINE_RETURN	 Server ®ang thùc hiÖn kÕt nèi 'ñy th¸c', vui lßng ®îi gi©y l¸t...
+G_STR_ON_FIGHT_STATE	B¹n hiÖn ®ang ë tr¹ng th¸i chiÕn ®Êu, kh«ng thÓ thiÕt ®Þnh tr¹ng th¸i 'ñy th¸c' ®­îc. Vui lßng chuyÓn sang tr¹ng th¸i phi chiÕn ®Êu!
+G_STR_NOT_CORRECT_MAP	B¹n kh«ng thÓ sö dông chøc n¨ng 'ñy th¸c' ë khu vùc nµy. H·y ®Õn  7 thµnh thÞ, 8 t©n thñ th«n vµ c¸c khu vùc cña thËp ®¹i m«n ph¸i) .
+G_STR_NO_TIME_LEFT	Thêi gian 'ñy th¸c' cña b¹n cßn l¹i lµ: 0. Xin vui lßng sö dông c¸c vËt phÈm chøc n¨ng ®Ó tiÕp tôc sö dông!
+G_STR_SUCESS	B¾t ®Çu vµo tr¹ng th¸i 'ñy th¸c'. Thêi gian 'ñy th¸c' cßn l¹i lµ: %d phót.
+G_STR_REQUEST_TIMEOUT	Thêi gian 'ñy th¸c' ®· hÕt, vui lßng ®¨ng nhËp l¹i vµo trß ch¬i!
+
+G_STR_SJ_KILLER	Tèng Kim Phong V©n
+G_STR_GTE_FLAG	§Ö nhÊt ®o¹t cê Tèng Kim
+G_STR_RESCUE	Ng­êi gi¶i cøu
+
+G_STR_PLAYERS	10 ng­êi ®Çu
+G_STR_ZHI	 
+G_STR_PERSONAL_REPORT	Thµnh tÝch c¸ nh©n
+G_STR_CACULATE_COUNT	Sè l­îng
+G_STR_GRADE	TÝch lòy
+G_STR_APPRAIZE	§¸nh gi¸ 
+G_STR_CURRENT_GRADE	§iÓm tÝch lòy:
+G_STR_CURRENT_DEATH	Tö vong:
+G_STR_OPERATE_REMIND	 (Ên phÝm ~ ®Ó bËt/t¾t) 
+G_STR_MAX_SERIAL_KILL	Liªn tr¶m:
+G_STR_MINUTE	%s cßn %d phót|
+G_STR_BATTLE_LEVEL	§¼ng cÊp: %s
+G_STR_BATTLE_PRIMARY	S¬ cÊp
+G_STR_BATTLE_INTERMEDIATE	Trung cÊp
+G_STR_BATTLE_ADVANCED	Cao cÊp
+G_STR_SONG	Tèng
+G_STR_JIN	Kim
+G_STR_REN	 ng­êi
+
+G_STR_KILL_ENEMY_NPC	NPC:
+G_STR_KILL_ENEMY_NUM	Ng­êi ch¬i:
+G_STR_SERIES_KILL	Liªn tr¶m hiÖn t¹i
+G_STR_WIN_1VS1	ChiÕn th¾ng ®¬n ®Êu 
+G_STR_GET_JEWELLERY	B¸u vËt:
+G_STR_GET_FLAG	§o¹t cê 
+
+G_STR_BATTLEWAR_START	Tin tøc quy t¾c chi tiÕt xin hái Qu©n Nhu quan hËu doanh
+G_STR_COUNT_DOWN	%d thêi gian: %d
+
+G_STR_INPUT_POSITION	Xin nhËp täa ®é môc tiªu
+
+G_STR_BATTLE_LIST	XÕp h¹ng Tèng Kim
+G_STR_WORLD_LIST	XÕp h¹ng ThÕ giíi
+
+G_STR_RECORDER	B¾t ®Çu ghi (CTRL+R) 
+G_STR_PAUSE_REC	T¹m ngõng (CTRL+P) 
+G_STR_SAVE_REC	L­u (CTRL+S) 
+G_STR_PAUSE_OR_START	T¹m ng­ng hoÆc l­u l¹i (CTRL+P/CTRL+S) 
+
+G_STR_COMPOUND_CRYOLITE	LuyÖn HuyÒn tinh kho¸ng th¹ch
+G_STR_UPDATE_CRYOLITE	Th¨ng cÊp HuyÒn tinh kho¸ng th¹ch
+G_STR_UPDATE_PROPMINE	Th¨ng cÊp kho¸ng th¹ch thuéc tÝnh
+G_STR_CONFIRM_COMPOUND	B¹n x¸c ®Þnh muèn dïng nh÷ng trang søc nµy luyÖn HuyÒn tinh kho¸ng th¹ch chø?
+G_STR_CONFIRM_UPDATE_CRYOLITE	B¹n x¸c ®Þnh muèn th¨ng cÊp HuyÒn tinh kho¸ng th¹ch nµy chø?
+G_STR_CONFIRM_UPDATE_PROPMINE	B¹n x¸c ®Þnh muèn th¨ng cÊp kho¸ng th¹ch thuéc tÝnh nµy chø?
+G_STR_CONFIRM_DISTILL	B¹n x¸c ®Þnh muèn dïng nh÷ng kho¸ng th¹ch vµ trang bÞ nµy ®Ó ®æi kho¸ng th¹ch thuéc tÝnh chø?
+G_STR_CONFIRM_FORGE	B¹n x¸c ®Þnh muèn dïng nh÷ng trang bÞ vµ kho¸ng th¹ch nµy t¹o Trang bÞ HuyÒn Tinh chø?
+G_STR_CONFIRM_ENCHASE	B¹n muèn dïng kho¸ng th¹ch nµy kh¶m n¹m Trang bÞ HuyÒn Tinh?
+G_STR_CONFIRM_ATLAS	B¹n muèn dïng ®å phæ Hoµng Kim, s¸ch kü n¨ng vµ kho¸ng th¹ch hîp thµnh trang bÞ Hoµng Kim?
+G_STR_RESOURCE_NOT_ENOUGHT	VËt liÖu cña b¹n ch­a ®ñ
+G_STR_PARTNER_DELETE	B¹n ®· xãa bá §ång hµnh nµy
+G_STR_PARTNER_SKILL_DELETE	B¹n ®· xã bá kü n¨ng nµy
+
+G_STR_CONSUME	Cã thÓ chän nguyªn liÖu
+G_STR_CRYOLITE	HuyÒn tinh
+G_STR_ATLAS	§å phæ 
+G_STR_MATERIAL	VËt liÖu
+G_STR_PROPMINE	Kho¸ng th¹ch 
+G_STR_RING	NhÉn
+G_STR_NECKLACE	D©y chuyÒn/hé th©n phï 
+G_STR_PENDANT	Ngäc béi/h­¬ng nang
+G_STR_EQUIP	Trang bÞ mµu xanh
+G_STR_ORGMINE	Nguyªn kho¸ng
+G_STR_NO_JEWERY_EQUIP	Trang bÞ  Xanh tr¾ng
+G_STR_PURPLE_EQUIP	Trang bÞ HuyÒn Tinh
+
+G_STATE_TEXT_ON_GOING	§ang tiÕn hµnh
+G_STATE_TEXT_FINISHED	§· hoµn thµnh
+
+G_STR_JXONLINE_ALREADY_RUNNING	Game ®ang ch¹y tr×nh tù tù ®éng cËp nhËt! Xin h·y tho¸t ra!
+G_STR_JXREPLAY_FILE	Ghi h×nh ¶nh!
+G_STR_SPEEDUP	Nhanh
+G_STR_SLOWDONW	ChËm
+G_STR_SAVE_SCREENFILE	§· l­u file t¹i
+G_STR_SAVE_REPFILE	File ¶nh ®· ®­îc l­u t¹i 
+G_STR_REC_START	HiÖn ®ang quay phim 
+G_STR_REC_PAUSE	T¹m dõng ghi h×nh 
+G_STR_MULT_CROSS	x
+G_STR_MSG_VOERFLOW	Tin tøc b¹n göi ®i qu¸ dµi, cã thÓ kh«ng göi ®­îc!
+
+G_STR_DELETE_PARTNER	B¹n ®· xãa bá §ång hµnh nµy
+
+G_STR_HEALTH_WARNING	Thêi gian online tÝch lòy: %d giê %d phót, thêi gian nghØ ng¬i tÝch lòy: %d giê %d phót
+G_STR_HEALTH_WARNING_V	B¹n ®· Online %d h %d phót
+G_STR_HEALTH_WARNING1	Thêi gian tÝch lòy trªn m¹ng ®· ®ñ %d giê.
+G_STR_TIRED_WARNING1	B¹n ®· ch¬i qu¸ thêi gian quy ®Þnh, ®iÓm kinh nghiÖm hiÖn b¹n nhËn ®­îc chØ = 50% so víi b×nh th­êng.
+G_STR_TIRED_WARNING2	Xin h·y t¹m nghØ, lµm vµi ®éng t¸c thÓ dôc.
+G_STR_TIRED_WARNING3	§Ó b¶o ®¶m søc kháe, h·y mau chãng nghØ ng¬i, s¾p xÕp thêi gian häc tËp hîp lý.
+G_STR_DANGER_WARNING1	B¹n ®· ch¬i qu¸ thêi gian quy ®Þnh, xin h·y t¹m nghØ!
+G_STR_DANGER_WARNING2	NÕu kh«ng nghØ ng¬i sÏ cã h¹i cho søc kháe! §iÓm kinh nghiÖm b¹n thu ®­îc lµ 0!
+
+K_SERVER_NAME_PRIFIX	Vâ L©m TruyÒn Kú 
+K_UIGAME_0	 Tªn truy nhËp ( kh«ng cã kho¶ng c¸ch ) 
+K_SHOT_FOLDER	\\JxOnlinePhoto\\
+K_CHANNEL_TEAM	§éi ngò 
+K_CHANNEL_NEARBY	Phô cËn
+
+K_SYSTEM_MSG_SENDER_NAME	C«ng bè 
+K_INPUT_CURSOR	|
+
+INTERNET_FILE_PATH	http://jx.kingsoft.com/yxqd/JXAnnounce.ini
+INTERNET_INIFILE_SECTION	×îÐÂ¹«¸æÄÚÈÝ
+
+U_ERR_CODE_0	Cßn ch­a biÕt bÞ sai ( bÞ sai sè:%d) 
+U_GAME_LOGO	Vo Lam Truyen Ky 
+
+U_MSG_RECENT_UPDATE_NOTIFY	Th«ng b¸o míi nhÊt vÒ viÖc ®iÒu chØnh trß ch¬i
+
+G_STR_SUCCESS	Thµnh c«ng
+G_STR_FAILURE	ThÊt b¹i
+G_STR_CREATE_CHATROOM	 [%s] T¹o phßng míi %s!
+G_STR_ENTERN_CHATROOM	%s §¨ng nhËp phßng t¸n gÉu [%s]!
+G_STR_LEAVE_CHATROOM	%s Tho¸t khái phßng t¸n gÉu [%s]!
+G_STR_PREVENT_CHATROOM	%s [%s] bÞ ®uæi khái phßng t¸n gÉu, kh«ng thÓ sö dông tÇn sè nµy!
+G_STR_UNPREVENT_CHATROOM	%s [%s] ®· ®­îc xãa tªn khái Sæ ®en, cã thÓ t¸n gÉu!
+G_STR_KICKOUT_CHATROOM	%s bÞ ®uæi khái phßng t¸n gÉu [%s]
+G_STR_BE_CLOSE_CHATROOM	 [%s] sau %d phót n÷a sÏ ®ãng, b¹n cã thÓ ®Õn T¹p hãa mua thªm vËt phÈm gióp t¨ng thêi gian t¸n gÉu!
+
+G_STR_DIALOG_PREFIX	%s nãi víi %s
+G_STR_SPEAK_TO_SELF	%s Tù nãi:
+G_STR_INPUT_CHATROOM_NAME	Xin nhËp tµi kho¶n
+G_STR_INPUT_CHATROOM_PWD	Xin nhËp mËt m·
+G_STR_CURRENT_CHATROOM	Phßng hiÖn t¹i:
+G_STR_PWD_CHANGED	Thay ®æi mËt m· thµnh c«ng [%s]!
+G_ACTIVE_TIME_FORMAT_HOUR	%d giê
+G_ACTIVE_TIME_FORMAT_MIN	%d phót
+
+G_STR_CHATROOM_ACHIVE_LIMITATION	Sè phßng t¸n gÉu cña m¸y chñ nµy ®· ®ñ, kh«ng thÓ t¹o thªm!
+G_STR_ROOMNAME_CONFLICT	Tªn nµy ®· tån t¹i!
+G_STR_ROOMNAME_OVERFLOW	Tªn qu¸ dµi!
+G_STR_ROOMNAME_NOT_ELIGIBLE	Tªn kh«ng hîp lÖ!
+G_STR_ALREADY_IN_SOMEROOM	B¹n kh«ng thÓ cïng lóc sö dông 2 phßng t¸n gÉu!
+G_STR_IN_BLACKLIST	B¹n ®· bÞ liÖt vµo Sæ ®en, kh«ng thÓ ®¨ng nhËp vµo phßng t¸n gÉu!
+G_STR_CHATROOM_FULL	Nh©n sè ®· ®ñ, b¹n kh«ng thÓ ®¨ng nhËp!
+G_STR_WRONG_PASSWORD	MËt m· kh«ng ®óng!
+G_STR_BLACKLIST_FULL	Sæ ®en ®· ®Çy, kh«ng thÓ thªm n÷a!
+G_STR_PULL_ADMIN	Kh«ng thÓ ®­a tªn ng­êi qu¶n lý vµo Sæ ®en!
+G_STR_NOT_IN_CHATROOM	Ng­êi nµy kh«ng cã trong phßng t¸n gÉu!
+G_STR_CHATROOM_TIME_FULL	Thêi gian dµnh cho phßng t¸n gÉu ®· ®ñ h¹n, kh«ng thÓ t¨ng thªm!
+G_STR_ADDTIME_SUCCESS	T¨ng giê thµnh c«ng [%s]!
+G_STR_ADDTIME_RESULT	 [%s] kÐo dµi thêi gian ®Õn %s
+G_STR_CHATROOM_TIME_OVER	Thêi gian ®· ®Õn [%s]!
+G_STR_YOU	B¹n 
+G_STR_PLEASE_EXIT_CHATROOM	Xin tho¸t khái phßng t¸n gÉu kh¸c!
+G_STR_ITEM_LOCK_CANNOT_OPERATE	Trang bÞ ®· bÞ khãa m· r­¬ng, kh«ng thÓ thao t¸c!
+G_STR_FIGHTSTATE_CANNOT_OPERATE	B¹n ®ang ë tr¹ng th¸i chiÕn ®Êu, kh«ng thÓ thao t¸c!
+G_STR_ITEM_BIND_INFO_H	Tªn trang bÞ \t\t\t\t thêi gian chê më khãa b¶o hiÓm
+G_STR_ITEM_BIND_INFO	<color=green>%s<color>\t\t\t\t<color=yellow>%d<color> giê
+G_STR_UNBIND_ITEM_TIP_Q	B¹n ®ang cã <color=red>%d<color> trang bÞ cÇn ®­îc më khãa b¶o hiÓm, cã muèn xem kh«ng (sau nµy cã thÓ nhÊn phÝm <color=white>F11<color> ®Ó xem)?
+G_STR_UNBIND_TIP1	V©ng, ta muèn kiÓm tra xem
+G_STR_UNBIND_TIP2	Kh«ng cÇn thiÕt, ta ®· biÕt råi.
+G_STR_CHATROOM_MENU_SAY_TO	§èi tho¹i
+G_STR_CHATROOM_MENU_SEND_MSG	Göi tin tøc 
+G_STR_CHATROOM_MENU_FRIEND	Thªm B¹n h÷u
+G_STR_CHATROOM_MENU_KICK	Xo¸ bá 
+G_STR_CHATROOM_MENU_KICK_TO	Sæ ®en
+
+G_STR_WAN	 v¹n
+G_STR_YI	 tr¨m triÖu
+G_STR_TONG_DATE_DESC	Bang héi lËp ®­îc <color=gold>%u<color> tuÇn vµ <color=white>%u<color> ngµy\n
+G_STR_WEEKGOAL_LEVEL	§é khã môc tiªu tuÇn: <color=green>%d <color>cÊp\n\n
+G_STR_TONG_WEEKLY_AIM	Bang héi cÇn hoµn thµnh ®iÓm cèng hiÕn: %u\tBang héi ®· hoµn thµnh ®iÓm cèng hiÕn: %u
+G_STR_PERSONAL_WEEKLY_AIM	C¸ nh©n cÇn hoµn thµnh ®iÓm cèng hiÕn: %u\tC¸ nh©n ®· hoµn thµnh ®iÓm cèng hiÕn: %u
+G_STR_UNFINISHED	Ch­a hoµn thµnh
+G_STR_FINISHED	§· hoµn thµnh
+G_STR_PROCESS_STATUS	Sè ngµy cßn l¹i: %d\tBang héi: <%s> C¸ nh©n: <%s>
+G_STR_TONG_PRIZE	PhÇn th­ëng bang héi: %d v¹n ng©n s¸ch chiÕn bÞ\t PhÇn th­ëng c¸ nh©n: %d ®iÓm cèng hiÕn %d v¹n kinh nghiÖm\n\n
+G_STR_TONG_PRIZE_IB	PhÇn th­ëng bang héi: %d Boss triÖu ho¸n phï\tPhÇn th­ëng c¸ nh©n: %d v¹n kinh nghiÖm\n\n
+
+G_STR_NAME	Danh hiÖu
+G_STR_TITLE	danh hiÖu
+G_STR_CURRENT_LEVEL	§¼ng cÊp hiÖn t¹i
+G_STR_CURRENT_OFFER	§iÓm cèng hiÕn hiÖn t¹i
+G_STR_JION_TIME	Thêi gian nhËp bang
+
+G_STR_TONG_MASTER	Bang chñ 
+G_STR_TONG_DIRECTOR	Tr­ëng L·o
+G_STR_TONG_MANAGER	§éi tr­ëng
+G_STR_TONG_MEMBER	§Ö tö 
+G_STR_TONG_RETIRE	Èn sü
+
+G_STR_UNION_MASTER	 Minh Chñ 
+G_STR_UNION_MEMBER	Liªn minh bang héi
+
+G_STR_STORE_PERSONAL_OFFER	§iÓm cèng hiÕn muèn göi vµo
+G_STR_STORE_MONEY	Ng©n l­îng muèn göi
+G_STR_BUILD_FUND_TITLE	Ng©n l­îng muèn göi(®¬n vÞ: v¹n)
+G_STR_INPUT_TONG_MONEY	Ng©n l­îng muèn chuyÓn hãa(®¬n vÞ: v¹n)
+G_STR_TRANSFORM_BUILD_FUND	Ng©n l­îng chuyÓn hãa (®¬n vÞ: v¹n)
+G_STR_DISPENSE_POINT	Ph¸t cho: %s
+
+G_STR_APPLY_JION_LEAGUE	Xin gia nhËp liªn minh
+
+G_STR_LEVEL	cÊp
+
+G_STRING_MONEY_C	 l­îng
+G_STRING_FUYUAN_C	Phóc Duyªn
+G_STRING_COIN_C	TiÒn ®ång
+G_STRING_SCORE_C	TÝch lòy
+G_STRING_GOLDCOIN_C	TiÒn vµng
+G_STRING_HONOUR_C	®iÓm vinh dù
+G_STRING_GOLDCOIN_SCORE_C	TÝch lòy th­¬ng héi
+G_STRING_CONTRIBUTION_C	 ®iÓm cèng hiÕn
+G_STRING_BUILDFUND_C	§é kiÕn thiÕt bang héi
+
+G_VICEROY_FENGXIANG	[Th¸i Thó ]
+G_VICEROY_CHENGDU	[Th¸i Thó ]
+G_VICEROY_DALI	[Th¸i Thó ]
+G_VICEROY_BIANJING	[Th¸i Thó ]
+G_VICEROY_XIANGYANG	[Th¸i Thó ]
+G_VICEROY_YANGZHOU	[Th¸i Thó ]
+G_VICEROY_LINAN	[Th¸i Thó ]
+
+G_STR_NW_MINISTER	Thõa T­íng
+G_STR_NW_MARSHAL	Nguyªn So¸i
+G_STR_NW_PIONEER	Tiªn Phong

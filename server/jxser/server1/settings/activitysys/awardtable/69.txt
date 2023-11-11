@@ -1,0 +1,22 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News	
+69	Tö M·ng LÖnh	{tbProp={6,1,2350,1,0,0},}	1	0.002	613	16		
+69	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	0.005	614	16		
+69	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	0.02	615	16		
+69	V©n Léc LÖnh	{tbProp={6,1,2353,1,0,0},}	1	1	616	16		
+69	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},nExpiredTime=43200,}	6	10	617	16		
+69	Håi thµnh phï (Lín)	{tbProp={6,1,1083,1,0,0},}	1	2	618	16		
+69	M¶nh Bæ Thiªn Th¹ch (trung)	{tbProp={6,1,1309,1,0,0},}	1	2	619	16		
+69	MÆt n¹ Nguyªn so¸i	{tbProp={0,11,447,1,0,0},}	1	5	620	16		
+69	Thiªn niªn thÊt tinh th¶o	{tbProp={6,1,1675,1,0,0},nExpiredTime=43200,}	1	1	621	16		
+69	ThÊt tinh th¶o	{tbProp={6,1,1673,1,0,0},nExpiredTime=43200,}	1	1	620	16		
+69	V¹n Niªn Ngò Th¸i Hoa	{tbProp={6,1,2265,1,0,0},nExpiredTime=43200,}	1	0.5	621	16		
+69	B¸ch niªn thÊt tinh th¶o	{tbProp={6,1,1674,1,0,0},nExpiredTime=43200,}	1	2	620	16		
+69	Thiªn Long LÖnh	{tbProp={6,1,2256,1,0,0},}	1	10	621	16		
+69	Thiªn Tinh B¹ch C©u Hoµn	{tbProp={6,1,2183,1,0,0},}	1	5	620	16		
+69	Qu¶ Huy Hoµng (cao) 	{tbProp={6,1,906,1,0,0},nExpiredTime=10080,}	1	10	621	16		
+69	CÈm nang thay ®æi trêi ®Êt	{tbProp={6,1,1781,1,0,0}, tbParam = {60},}	1	10	620	16		
+69	B¸ch Niªn Tr©n Lé	{tbProp={6,1,2266,1,0,0},nExpiredTime=10080,}	1	10	621	16		
+69	V¹n Niªn Tr©n Lé	{tbProp={6,1,2268,1,0,0},nExpiredTime=10080,}	1	5	620	16		
+69	Thiªn Niªn Tr©n Lé	{tbProp={6,1,2267,1,0,0},nExpiredTime=10080,}	1	5	621	16		
+69	Qu¶ Hoµng Kim	{tbProp={6,1,907,1,0,0},nExpiredTime=10080,}	1	5	620	16		
+69	Tiªn Th¶o Lé (§Æc biÖt)	{tbProp={6,1,1181,1,0,0},}	1	15.473	621	16		

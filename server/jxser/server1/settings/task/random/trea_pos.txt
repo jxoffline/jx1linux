@@ -1,0 +1,172 @@
+MapName	MapID	WorldX	WorldY	MapX	MapY	Text	Pic
+Tªn khu vùc	ID khu vùc	Trôc täa ®é lín X	Trôc täa ®é lín Y	Trôc täa ®é nhá X	Trôc täa ®é nhá Y	ThuyÕt minh	§­êng dÉn file
+Giang T©n Th«n	20	3734	6288	466	393	khe suèi tr­íc Phï Dung ®éng Giang T©n th«n	spr\treasure\show_001.spr
+Giang T©n Th«n	20	3453	5940	431	369	D­íi c©y §µo phÝa T©y Giang T©n th«n	spr\treasure\show_002.spr
+Giang T©n Th«n	20	3837	6131	479	383	D­íi t¶ng ®¸ phÝa §«ngGiang T©n th«n	spr\treasure\show_003.spr
+Giang T©n Th«n	20	3559	6445	444	402	ë gi÷a cÇu gç phÝa Nam Giang T©n th«n	spr\treasure\show_004.spr
+Nam Nh¹c trÊn	54	1466	3099	183	193	gi÷a mé bia trong gß ®Êt hoang 	spr\treasure\show_005.spr
+Nam Nh¹c trÊn	54	1706	3057	213	191	T¶ng ®¸ lín phÝa B¾c Nam Nh¹c trÊn	spr\treasure\show_006.spr
+Nam Nh¹c trÊn	54	1624	3041	203	190	D­íi gèc c©y Phong tr­íc ThiÒn ViÖn	spr\treasure\show_007.spr
+Nam Nh¹c trÊn	54	1525	3061	190	191	D­íi gèc c©y Phong ®Çu tiªn Cöa T©y	spr\treasure\show_008.spr
+Nam Nh¹c trÊn	54	1452	3013	181	188	D­íi gèc c©y l¸ ®á c¹nh ®×nh ph¸i t©y	spr\treasure\show_009.spr
+Ba L¨ng huyÖn	53	1806	3148	225	196	BÕn tµu h­íng §«ng	spr\treasure\show_010.spr
+Ba L¨ng huyÖn	53	1568	3212	196	200	D­íi gèc c©y Phong trong s©n Du Cöu Ch©u	spr\treasure\show_011.spr
+Ba L¨ng huyÖn	53	1608	3196	201	199	Cöa vµo Ba L¨ng huyÖn	spr\treasure\show_012.spr
+Ba L¨ng huyÖn	53	1471	3370	183	210	C©y cÇu nhá thø 3 phÝa Nam	spr\treasure\show_013.spr
+Ba L¨ng huyÖn	53	1793	3385	224	211	c¹nh lèi vµo Vò L¨ng ®éng	spr\treasure\show_014.spr
+Long TuyÒn th«n	174	1783	3045	222	190	Bªn hå nhá h­íng B¾c	spr\treasure\show_015.spr
+Long TuyÒn th«n	174	1667	3146	208	196	Bªn nÊm må h­íng B¾c	spr\treasure\show_016.spr
+Long TuyÒn th«n	174	1480	3071	185	191	Tr­íc Thanh Khª ®éng	spr\treasure\show_017.spr
+Long TuyÒn th«n	174	1638	3509	204	219	Gi÷a hai t¶ng ®¸ lín h­íng Nam	spr\treasure\show_018.spr
+Long TuyÒn th«n	174	1609	3306	201	206	Bªn c¸i ®Çm nhá phÝa tr­íc	spr\treasure\show_019.spr
+Long TuyÒn th«n	174	1600	3054	200	190	Gi÷a hai t¶ng ®¸ lín phÝa T©y	spr\treasure\show_020.spr
+Th¹ch Cæ trÊn	153	1455	2901	181	181	Tßa th¸p phÝa T©y	spr\treasure\show_021.spr
+Th¹ch Cæ trÊn	153	1708	2964	213	185	Bªn ®Çm hoa sen phÝa B¾c	spr\treasure\show_022.spr
+Th¹ch Cæ trÊn	153	1756	3175	219	198	D­íi t­êng ®¸ phÝa §«ng	spr\treasure\show_023.spr
+Th¹ch Cæ trÊn	153	1751	3528	218	220	Bªn Khe suèi phÝa Nam	spr\treasure\show_024.spr
+Th¹ch Cæ trÊn	153	1411	3323	175	207	Bê hå phÝa T©y	spr\treasure\show_025.spr
+Th¹ch Cæ trÊn	153	1441	3044	180	190	Tr­íc V« Danh ®éng phÝa T©y	spr\treasure\show_026.spr
+§¹o H­¬ng th«n	101	1659	2852	207	178	Bªn ®Çm nhá phÝa B¾c	spr\treasure\show_027.spr
+§¹o H­¬ng th«n	101	1454	2971	181	185	Trªn cÇu nhá phÝa B¾c	spr\treasure\show_028.spr
+§¹o H­¬ng th«n	101	1495	3171	186	198	Trªn Tµn Th¸p phÝa T©y	spr\treasure\show_029.spr
+§¹o H­¬ng th«n	101	1818	3140	227	196	D­íi Thanh Th¹ch ë cöa phÝa §«ng	spr\treasure\show_030.spr
+§¹o H­¬ng th«n	101	1666	2966	208	185	GÇn Vâ S­ h­íng B¾c	spr\treasure\show_031.spr
+VÜnh L¹c trÊn	99	1739	3569	217	223	Gi÷a rõng th¸p phÝa §«ng	spr\treasure\show_032.spr
+VÜnh L¹c trÊn	99	1449	3461	181	216	t¶ng ®¸ ph¸i nam	spr\treasure\show_033.spr
+VÜnh L¹c trÊn	99	1477	3351	184	209	Tr­íc B¨ng Hµ ®éng phÝa Nam	spr\treasure\show_034.spr
+VÜnh L¹c trÊn	99	1506	3052	188	190	Tr­íc Tµn Th¸p h­íng B¾c	spr\treasure\show_035.spr
+VÜnh L¹c trÊn	99	1809	3453	226	215	Gi÷a Lo¹n Th¹ch C­¬ng h­íng §«ng	spr\treasure\show_036.spr
+Chu Tiªn trÊn	100	1811	2999	226	187	Hå hoa sen h­íng B¾c	spr\treasure\show_037.spr
+Chu Tiªn trÊn	100	1895	3322	236	207	D­íi Tµn th¸p h­íng §«ng	spr\treasure\show_038.spr
+Chu Tiªn trÊn	100	1851	3356	231	209	Phi Thiªn ®éng h­íng §«ng	spr\treasure\show_039.spr
+Chu Tiªn trÊn	100	1558	3244	194	202	D­íi b¶ng hiÖu tr­íc Chu Tiªn trÊn	spr\treasure\show_040.spr
+Chu Tiªn trÊn	100	1352	3247	169	202	Bªn §Çm nhá h­íng T©y	spr\treasure\show_041.spr
+Chu Tiªn trÊn	100	1474	3124	184	195	§o¹n cuèi khe suèi nhá h­íng T©y	spr\treasure\show_042.spr
+Chu Tiªn trÊn	100	1658	3036	207	189	Bªn hå hoa sen	spr\treasure\show_043.spr
+Chu Tiªn trÊn	100	1722	2886	215	180	Tr­íc MiÕu cò h­íng B¾c	spr\treasure\show_044.spr
+Chu Tiªn trÊn	100	1787	2931	223	183	Trªn ®×nh bªn hå hoa sen h­íng B¾c	spr\treasure\show_045.spr
+Hoa S¬n	2	2456	3797	307	237	Tr­íc hå n­íc ®ôc 	spr\treasure\show_046.spr
+Hoa S¬n ph¸i	333	1227	3252	153	203	Gi÷a hå hoa sen	spr\treasure\show_047.spr
+Hoa S¬n ph¸i	333	1287	2850	160	178	Tr­íc ®Ønh Ngäc N÷ 	spr\treasure\show_048.spr
+Hoa S¬n ph¸i	333	1261	2974	157	185	Tr­íc ®Ønh Liªn Hoa	spr\treasure\show_049.spr
+Hoa S¬n ph¸i	333	1444	3282	180	205	Tr­íc ®Ønh L¹c Nh¹n	spr\treasure\show_050.spr
+Hoa S¬n ph¸i	333	1577	3177	197	198	Tr­íc ®Ønh TriÒu D­¬ng	spr\treasure\show_051.spr
+KiÕm C¸c Trung Nguyªn	43	1705	3194	213	199	gÇn cöa Thiªn T©m ®éng	spr\treasure\show_052.spr
+KiÕm C¸c Trung Nguyªn	43	1693	3224	211	201	gÇn cöa Thiªn T©m ®éng	spr\treasure\show_053.spr
+KiÕm C¸c Trung Nguyªn	43	1670	2722	208	170	gÇn cöa Táa V©n ®éng	spr\treasure\show_054.spr
+KiÕm C¸c Trung Nguyªn	43	1681	2754	210	172	gÇn cöa Táa V©n ®éng	spr\treasure\show_055.spr
+KiÕm C¸c Trung Nguyªn	43	1670	2724	208	169	gÇn cöa Táa V©n ®éng	spr\treasure\show_056.spr
+Thanh Thµnh S¬n	21	2864	3622	358	226	GÇn n¬i ng¾m tr¨ng h­íng B¾c	spr\treasure\show_057.spr
+Thanh Thµnh S¬n	21	2884	3651	360	228	GÇn n¬i ng¾m tr¨ng h­íng B¾c	spr\treasure\show_058.spr
+Thanh Thµnh S¬n	21	2881	3687	359	230	GÇn n¬i ng¾m tr¨ng h­íng B¾c	spr\treasure\show_059.spr
+§iÓm Th­¬ng s¬n	167	1356	2520	169	157	GÇn dèc gÇn nhÊt cña §iÓm Th­¬ng ®éng	spr\treasure\show_060.spr
+§iÓm Th­¬ng s¬n	167	1373	2504	171	156	GÇn dèc gÇn nhÊt cña §iÓm Th­¬ng ®éng	spr\treasure\show_061.spr
+§iÓm Th­¬ng s¬n	167	1392	2531	174	158	GÇn dèc gÇn nhÊt cña §iÓm Th­¬ng ®éng	spr\treasure\show_062.spr
+Phôc Ng­u s¬n 	90	1677	3444	209	215	D­íi TiÓu Thach Th¸p thø hai	spr\treasure\show_063.spr
+Phôc Ng­u s¬n 	90	1667	3437	208	214	D­íi TiÓu Thach Th¸p thø hai	spr\treasure\show_064.spr
+Phôc Ng­u s¬n 	90	1667	3457	208	216	D­íi TiÓu Thach Th¸p thø hai	spr\treasure\show_065.spr
+Thôc C­¬ng s¬n	92	1683	3132	210	195	D­íi t¶ng ®¸ lín thø 1	spr\treasure\show_066.spr
+Thôc C­¬ng s¬n	92	1676	3129	209	195	D­íi t¶ng ®¸ lín thø 1	spr\treasure\show_067.spr
+Thôc C­¬ng s¬n	92	1691	3137	211	196	D­íi t¶ng ®¸ lín thø 1	spr\treasure\show_068.spr
+Nh¹n §·ng s¬n	195	1564	3220	196	201	Cöa vµo Nh¹n §·ng S¬n phÝa T©y 	spr\treasure\show_069.spr
+Nh¹n §·ng s¬n	195	1564	3205	195	200	Cöa vµo Nh¹n §·ng S¬n phÝa T©y 	spr\treasure\show_070.spr
+Vò Di s¬n	193	960	2696	120	168	C©y cÇu phÝa T©y Nam Vò Di S¬n	spr\treasure\show_071.spr
+Vò Di s¬n	193	969	2709	121	169	C©y cÇu phÝa T©y Nam Vò Di S¬n	spr\treasure\show_072.spr
+Vò Di s¬n	193	963	2641	120	165	Cã thÓ th­ëng l·m c¶nh ®Ñp ë ®×nh phÝa T©y Nam Vò Di S¬n.	spr\treasure\show_073.spr
+Vò Di s¬n	193	949	2650	118	165	Bªn hå Hµ Hoa d­íi ®×nh phÝa T©y Nam Vò Di S¬n	spr\treasure\show_074.spr
+Vò Di s¬n	193	925	2647	115	165	Bªn hå Hµ Hoa d­íi ®×nh phÝa T©y Nam Vò Di S¬n	spr\treasure\show_075.spr
+Vò Di s¬n	193	898	2644	112	165	GÇn miÕu phÝa Nam Vò Di S¬n	spr\treasure\show_076.spr
+Vò Di s¬n	193	881	2648	109	164	GÇn miÕu phÝa Nam Vò Di S¬n	spr\treasure\show_077.spr
+M¹c Cao QuËt	340	1228	2704	153	169	H­íng t©y b¾c M¹c Cao QuËt, tõ ®©y cã thÓ nh×n thÊy mét dßng suèi NguyÖt Nha tó lÖ.	spr\treasure\show_078.spr
+M¹c Cao QuËt	340	1224	2721	153	170	H­íng t©y b¾c M¹c Cao QuËt, tõ ®©y cã thÓ nh×n thÊy mét dßng suèi NguyÖt Nha tó lÖ.	spr\treasure\show_079.spr
+M¹c Cao QuËt	340	1922	2726	240	170	H­íng ®«ng b¾c M¹c Cao QuËt, ë ®©y cã thÓ ng¾m c¶nh sa m¹c hïng vÜ	spr\treasure\show_080.spr
+M¹c Cao QuËt	340	1936	2758	242	172	H­íng ®«ng b¾c M¹c Cao QuËt, ë ®©y cã thÓ ng¾m c¶nh sa m¹c hïng vÜ	spr\treasure\show_081.spr
+Miªu LÜnh	74	1590	3193	198	199	Miªu LÜnh - mét c¶nh t­êng ®¸ hoang tµn, cã 5 viªn ®¸ lín bao bäc.	spr\treasure\show_082.spr
+Miªu LÜnh	74	1609	3197	201	199	Miªu LÜnh - mét c¶nh t­êng ®¸ hoang tµn, cã 5 viªn ®¸ lín bao bäc.	spr\treasure\show_083.spr
+TÇn L¨ng	7	2401	2631	300	164	T­îng ®¸ tr­íc lèi vµo TÇn L¨ng	spr\treasure\show_084.spr
+TÇn L¨ng	7	2417	2645	302	165	T­îng ®¸ tr­íc lèi vµo TÇn L¨ng	spr\treasure\show_085.spr
+Vò L¨ng s¬n	70	1805	3132	225	195	PhÝa §«ng Vò L¨ng S¬n	spr\treasure\show_086.spr
+Vò L¨ng s¬n	70	1813	3136	226	196	PhÝa §«ng Vò L¨ng S¬n	spr\treasure\show_087.spr
+Hoa s¬n  	2	2594	3525	324	220	D­íi gèc ®µo trªn ®Ønh Hoa S¬n  	spr\treasure\show_088.spr
+Hoa s¬n  	2	2606	3495	325	218	D­íi gèc ®µo trªn ®Ønh Hoa S¬n  	spr\treasure\show_089.spr
+Hoa s¬n  	2	2623	3498	327	218	D­íi gèc ®µo trªn ®Ønh Hoa S¬n  	spr\treasure\show_090.spr
+Hoa s¬n  	2	2619	3515	327	219	D­íi gèc ®µo trªn ®Ønh Hoa S¬n  	spr\treasure\show_091.spr
+La Tiªu s¬n	179	1668	2766	208	172	MiÕu vµ giÕng trªn La Tiªu s¬n	spr\treasure\show_092.spr
+La Tiªu s¬n	179	1675	2766	209	172	MiÕu vµ giÕng trªn La Tiªu s¬n	spr\treasure\show_093.spr
+Thôc C­¬ng s¬n	92	1972	2503	246	156	2 t¶ng ®¸ to gãc cuèi cïng phÝa b¾c Thôc C­¬ng S¬n 	spr\treasure\show_094.spr
+Thôc C­¬ng s¬n	92	2006	2561	250	160	PhÝa B¾c Thôc C­¬ng S¬n, bªn c¹nh cã khèi ®¸ cùc lín.	spr\treasure\show_095.spr
+KiÕm C¸c T©y B¾c	3	1028	3984	128	249	c¸c t¶ng ®¸ to xung quanh KiÕm C¸c T©y B¾c	spr\treasure\show_096.spr
+KiÕm C¸c T©y B¾c	3	1019	3962	127	247	c¸c t¶ng ®¸ to xung quanh KiÕm C¸c T©y B¾c	spr\treasure\show_097.spr
+KiÕm C¸c T©y B¾c	3	1025	3953	128	247	c¸c t¶ng ®¸ to xung quanh KiÕm C¸c T©y B¾c	spr\treasure\show_098.spr
+Thanh Loa ®¶o	68	1459	3023	182	188	Bªn hå phÝa T©y Thanh Loa §¶o 	spr\treasure\show_099.spr
+Thanh Loa ®¶o	68	1489	3032	186	189	D­íi th¸p ®¸ phÝa T©y Thanh Loa §¶o 	spr\treasure\show_100.spr
+Thanh Loa ®¶o	68	1651	2981	206	186	Bªn hå phÝa §«ng Thanh Loa §¶o 	spr\treasure\show_101.spr
+Thanh Loa ®¶o	68	1651	3009	206	188	Bªn hå phÝa §«ng Thanh Loa §¶o 	spr\treasure\show_102.spr
+Thanh Loa ®¶o	68	1636	3202	204	200	Bªn bê ®¸ phÝa Nam Thanh Loa §¶o	spr\treasure\show_103.spr
+Thanh Loa ®¶o	68	1621	3262	202	203	BÕn tµu phÝa Nam Thanh Loa §¶o	spr\treasure\show_104.spr
+Thanh Loa ®¶o	68	1488	3175	186	198	Bªn hå phÝa T©y Thanh Loa §¶o 	spr\treasure\show_105.spr
+Thanh Loa ®¶o	68	1523	3067	190	191	D­íi ng«i th¸p cò ë phÝa T©y Thanh Loa §¶o	spr\treasure\show_106.spr
+ThiÕu L©m La H¸n TrËn 	114	1494	3307	186	206	§ång nh©n thø nhÊt cöa vµo 108 La H¸n TrËn	spr\treasure\show_107.spr
+ThiÕu L©m La H¸n TrËn 	114	1535	3322	191	207	§ång nh©n thø hai cöa vµo 108 La H¸n TrËn	spr\treasure\show_108.spr
+Tróc T¬ ®éng tÇng 2	27	1530	3196	191	199	D­íi t­îng ®¸ cöa vµo tÇng 2 Tróc T¬ ®éng	spr\treasure\show_109.spr
+Tróc T¬ ®éng tÇng 2	27	1603	3212	200	200	tr­íc lèi vµo tÇng 3 Tróc T¬ ®éng	spr\treasure\show_110.spr
+Hoa S¬n	2	2334	3435	291	214	D­íi gèc ®µo trªn Hoa S¬n TuyÖt §Ønh	spr\treasure\show_111.spr
+Hoa S¬n	2	2383	3440	297	214	Mét ao nhá trªn Hoa S¬n TuyÖt §Ønh	spr\treasure\show_112.spr
+Hoa S¬n	2	2433	3479	304	217	Mét mâm ®¸ nhá trªn Hoa S¬n	spr\treasure\show_113.spr
+Hoa S¬n	2	2446	3579	305	223	Mét gèc c©y trªn nói Hoa S¬n	spr\treasure\show_114.spr
+Hoa S¬n	2	2510	3722	313	232	Mét c©y kh« n»m ë gi÷a nói Hoa S¬n	spr\treasure\show_115.spr
+Hoa S¬n	2	2396	3726	299	232	Mét c©y kh« vµ mâm ®¸ n»m ë gi÷a nói Hoa S¬n	spr\treasure\show_116.spr
+Hoa S¬n	2	2397	3850	299	240	Mét khèi ®¸ lín trªn nói Hoa S¬n	spr\treasure\show_117.spr
+Hoa S¬n	2	2444	3855	305	240	Mét bôi rËm trªn nói Hoa S¬n	spr\treasure\show_118.spr
+Nh¹n §·ng s¬n	195	1566	3212	195	200	Mét khèi ®¸ lín gÇn lèi ra T©y S¬n Th«n trªn Nh¹n §·ng S¬n	spr\treasure\show_119.spr
+Nh¹n §·ng s¬n	195	1564	3074	195	192	Mét c©y kh« gÇn cöa Long Cung §éng trªn Nh¹n §·ng S¬n	spr\treasure\show_120.spr
+Nh¹n §·ng s¬n	195	1576	3165	197	197	Mét bøc t­êng ®¸ trªn Nh¹n §·ng S¬n	spr\treasure\show_121.spr
+Nh¹n §·ng s¬n	195	1088	3249	136	203	Mét v¸ch ®¸ gÇn L­ìng Thñy §éng trªn Nh¹n §·ng S¬n	spr\treasure\show_122.spr
+Nh¹n §·ng s¬n	195	1076	3058	134	191	Mét c©y kh« gÇn cöa D­¬ng Gi¸c §éng trªn Nh¹n §·ng S¬n	spr\treasure\show_123.spr
+Nh¹n §·ng s¬n	195	987	2911	123	181	Mét c©y kh« n»m ë gi÷a nói Nh¹n §·ng S¬n	spr\treasure\show_124.spr
+Nh¹n §·ng s¬n	195	819	2734	102	170	Cuèi ®­êng phÝa T©y trªn Nh¹n §·ng S¬n	spr\treasure\show_125.spr
+Nh¹n §·ng s¬n	195	921	2860	115	178	Tr­íc S¬n ®éng bÞ bá hoang trªn Nh¹n §·ng S¬n	spr\treasure\show_126.spr
+Nh¹n §·ng s¬n	195	901	3133	112	195	Mét v¸ch ®¸ gi÷a nói Nh¹n §·ng S¬n	spr\treasure\show_127.spr
+Nh¹n §·ng s¬n	195	698	2868	87	179	C¹nh cöa vµo Long TuyÒn Th«n trªn Nh¹n §·ng S¬n	spr\treasure\show_128.spr
+L­ìng Thñy §éng	181	1685	3075	210	192	D­íi mét thïng gç trong L­ìng Thñy §éng	spr\treasure\show_129.spr
+L­ìng Thñy §éng	181	1594	3013	199	188	Cuèi mét ®¹o lé trong L­ìng Thñy §éng	spr\treasure\show_130.spr
+L­ìng Thñy §éng	181	1459	3080	181	192	Lèi vµo Vò Di S¬n c¹nh L­ìng Thñy §éng	spr\treasure\show_131.spr
+L­ìng Thñy §éng	181	1491	2955	186	184	Cuèi mét ®¹o lé phÝa T©y cña L­ìng Thñy §éng	spr\treasure\show_132.spr
+L­ìng Thñy §éng	181	1468	3048	183	190	D­íi mét thïng gç trong phÝa T©y cña L­ìng Thñy §éng	spr\treasure\show_133.spr
+Vò L¨ng s¬n	70	1567	3173	195	198	Cöa vµo Vâ Di S¬n tõ Ba L¨ng HuyÖn	spr\treasure\show_134.spr
+Vò L¨ng s¬n	70	1535	3086	191	192	C¹nh gèc c©y tr­íc cña B¹ch Thñy §éng trªn Vò Di S¬n	spr\treasure\show_135.spr
+Vò L¨ng s¬n	70	1770	3152	221	197	Méc gãc quÑo trªn ®¹o lé phÝa nam Vò L¨ng S¬n	spr\treasure\show_136.spr
+Vò L¨ng s¬n	70	1728	3099	216	193	Méc gãc quÑo trªn ®¹o lé phÝa nam Vò L¨ng S¬n	spr\treasure\show_137.spr
+Vò L¨ng s¬n	70	1864	3001	233	187	Méc c©y ®¹i thô phÝa ®«ng Vò L¨ng S¬n	spr\treasure\show_138.spr
+Vò L¨ng s¬n	70	1946	2932	243	183	Tr­íc mª cung B¹ch Thñy §éng trªn Vò L¨ng S¬n	spr\treasure\show_139.spr
+Vò L¨ng s¬n	70	1760	2870	220	179	C¹nh bôi cá tr­íc §¹i Tï §éng trªn Vò L¨ng S¬n	spr\treasure\show_140.spr
+Vò L¨ng s¬n	70	1643	2819	205	176	Mét ngâ quÑo tr­íc §¹i Tï §éng trªn Vò L¨ng S¬n	spr\treasure\show_141.spr
+Vò L¨ng s¬n	70	1272	2777	159	173	C¹nh mét bôi tre tr­íc mª cung Phôc L­u §éng trªn Vò L¨ng S¬n	spr\treasure\show_142.spr
+L©m Du Quan	319	1909	3530	238	220	Trong mét ®èng g¹ch vôn t¹i L©m Du Quan	spr\treasure\show_143.spr
+L©m Du Quan	319	1956	3686	244	230	C¹nh mét khèi ®a ë L©m Du Quan	spr\treasure\show_144.spr
+L©m Du Quan	319	2019	3765	252	235	D­íi s¬n nhai ë phÝa ®«ng L©m Du Quan	spr\treasure\show_145.spr
+L©m Du Quan	319	2022	3672	252	229	D­íi mét bôi c©y kh« t¹i L©m Du Quan	spr\treasure\show_146.spr
+L©m Du Quan	319	1944	3363	242	210	C¹nh mét khèi ®a ë L©m Du Quan	spr\treasure\show_147.spr
+L©m Du Quan	319	1687	3331	210	208	C¹nh mét ®èng g¹ch vôn ë L©m Du Quan	spr\treasure\show_148.spr
+L©m Du Quan	319	1625	3428	203	214	C¹nh bøc t­êng thµnh ë L©m Du Quan	spr\treasure\show_149.spr
+L©m Du Quan	319	1891	3769	236	235	Bê s«ng ë L©m Du Quan	spr\treasure\show_150.spr
+Ch©n nói Tr­êng B¹ch	320	1205	2978	150	186	PhÝa hå t©y t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_151.spr
+Ch©n nói Tr­êng B¹ch	320	1234	2854	154	178	PhÝa hå t©y t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_152.spr
+Ch©n nói Tr­êng B¹ch	320	1261	2945	157	184	PhÝa hå t©y t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_153.spr
+Ch©n nói Tr­êng B¹ch	320	1525	3087	190	192	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_154.spr
+Ch©n nói Tr­êng B¹ch	320	1549	2937	193	183	D­íi mét gèc c©y ®Çy tuyÕt t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_155.spr
+Ch©n nói Tr­êng B¹ch	320	1367	2554	170	159	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_156.spr
+Ch©n nói Tr­êng B¹ch	320	1158	2585	144	161	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_157.spr
+Ch©n nói Tr­êng B¹ch	320	1220	2246	152	140	D­íi mét gèc c©y ®Çy tuyÕt t¹i Tr­êng B¹ch S¬n C­íc	spr\treasure\show_158.spr
+Tr­êng B¹ch s¬n B¾c	322	1792	3233	224	202	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_159.spr
+Tr­êng B¹ch s¬n B¾c	322	1890	3281	236	205	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_160.spr
+Tr­êng B¹ch s¬n B¾c	322	1854	3546	231	221	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_161.spr
+Tr­êng B¹ch s¬n B¾c	322	1783	3522	222	220	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_162.spr
+Tr­êng B¹ch s¬n B¾c	322	1737	3545	217	221	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_163.spr
+Tr­êng B¹ch s¬n B¾c	322	1699	3555	212	222	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_164.spr
+Tr­êng B¹ch s¬n B¾c	322	1678	3571	209	223	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_165.spr
+Tr­êng B¹ch s¬n B¾c	322	1660	3799	207	237	D­íi mét khèi ®¸ t¹i Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_166.spr
+Tr­êng B¹ch s¬n B¾c	322	1896	3950	237	246	D­íi mét gèc c©y ®Çy tuyÕt t¹i Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_167.spr
+Tr­êng B¹ch s¬n B¾c	322	2053	3883	256	242	D­íi gèc c©y ®Çy tuyÕt c¹nh t­êng ®¸ ë Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_168.spr
+Tr­êng B¹ch s¬n B¾c	322	1794	3724	224	232	D­íi mét t¶ng ®¸ lín t¹i Tr­êng B¹ch S¬n B¾c Léc	spr\treasure\show_169.spr
+Tr­êng B¹ch s¬n B¾c	322	1740	3716	217	232	C¹nh hå n­íc t¹i Tr­êng B¹ch S¬n B¸ch Léc	spr\treasure\show_170.spr

@@ -1,0 +1,10 @@
+COMPOUND_TYPE	COMPOUND_SCRIPT	REMARK
+0	\script\item\compound\xuanjing_compound.lua	
+1	\script\item\compound\ore_upgrade.lua	
+2	\script\item\compound\ore_upgrade.lua	
+3	\script\item\compound\magic_distill.lua	
+4	\script\item\compound\equip_compound.lua	
+5	\script\item\compound\equip_enchase.lua	
+6	\script\item\compound\atlas.lua	
+7	\script\item\compound\fantasygold_upgrade.lua
+8	\script\item\compound\fantasygoldessence_upgrade.lua

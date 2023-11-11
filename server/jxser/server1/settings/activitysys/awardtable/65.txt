@@ -1,0 +1,6 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+65	kinh nghi÷m 	"return {nExp=1, pFun = function() TaskManager:AddTask(10, 2, 3);  end}"	3000000	24	580	15	
+65	kinh nghi÷m 	"return {nExp=1, pFun = function() TaskManager:AddTask(10, 2, 4);  end}"	4000000	67	581	15	
+65	kinh nghi÷m 	"return {nExp=1, pFun = function() TaskManager:AddTask(10, 2, 6);  end}"	6000000	5	582	15	
+65	kinh nghi÷m 	"return {nExp=1, pFun = function() TaskManager:AddTask(10, 2, 8);  end}"	8000000	3	583	15	
+65	kinh nghi÷m 	"return {nExp=1, pFun = function() TaskManager:AddTask(10, 2, 20); end}"	20000000	1	584	15	

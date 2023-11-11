@@ -1,0 +1,51 @@
+×´Ì¬	ÎÄ¼şÃû	ÀàĞÍ	²¥·Å·½Ê½	Ö÷½ÇÉíºó¿ªÊ¼Ö¡	Ö÷½ÇÉíºó½áÊøÖ¡	¶¯»­×ÜÖ¡Êı	¶¯»­×Ü·½ÏòÊı	¶¯»­Ö¡¼ä¸ô	
+Tr¹ng th¸i 1	Special	Head	Loop			8	1	1	Cho¸ng
+Tr¹ng th¸i 2	Special	Foot	Loop			8	1	1	Tróng ®éc
+Tr¹ng th¸i 3	Special	Body	Loop	0	29	8	1	1	®ãng b¨ng 
+Tr¹ng th¸i 4	Special	Body	Loop	10	20	8	1	1	®èt 
+Tr¹ng th¸i 5	Special	Body				8	1	1	hçn lo¹n
+Tr¹ng th¸i 6	\spr\skill\Îå¶¾½Ì\wdu_06_V« H×nh §éc.spr	Foot	Loop	0	0	30	1	1	ÎŞĞÎ¹Æ
+Tr¹ng th¸i 7	\spr\skill\Îå¶¾½Ì\wdu_07_§éc thuÉn.spr	Body	Loop	5	15	20	1	1	¶¾¶Ü
+Tr¹ng th¸i 8	\spr\skill\Îå¶¾½Ì\wdu_08_B¨ng Lam HuyÒn Tinh.spr	Head	Loop	0	0	30	1	1	±ùÀ¶Ğş¾§
+Tr¹ng th¸i 9	\spr\skill\Îå¶¾½Ì\wdu_09_L«i ®éng Cöu Thiªn .spr	Head	Loop	0	0	30	1	1	À×¶¯¾ÅÌì
+Tr¹ng th¸i 10	\spr\skill\Îå¶¾½Ì\wdu_10_Xİch DiÖm Thùc Thiªn.spr	Head	Loop	0	0	30	1	1	³àÑæÊ´Ìì
+Tr¹ng th¸i 11	\spr\skill\Îå¶¾½Ì\wdu_11_V¹n §éc Thùc T©m.spr	Head	Loop	0	0	30	1	1	Íò¹ÆÊ´ĞÄ
+Tr¹ng th¸i 12	\spr\skill\Îå¶¾½Ì\wdu_12_Di Hoa TiÕp Ngäc.spr	Head	Loop	0	0	20	1	1	ÒÆ»¨½ÓÓñ
+Tr¹ng th¸i 13	\spr\skill\À¥ÂØ\kl_06_´óÀËÊ´¿Õ.spr	Body	Loop	5	15	20	1	2	§¹i L·ng Thùc Kh«ng
+Tr¹ng th¸i 14	\spr\skill\À¥ÂØ\kl_07_DÉn L«i §én §Şa.spr	Body	Loop	7	22	30	1	2	ÒıÀ×¶İµØ
+Tr¹ng th¸i 15	\spr\skill\À¥ÂØ\kl_08_LiÖt Háa Hång TrÇn.spr	Body	Loop	7	22	30	1	2	ÁÒ»ğºì³¾
+Tr¹ng th¸i 16	\spr\skill\À¥ÂØ\kl_09_Méc Ch©u Binh Gi¶i.spr	Body	Loop	40	40	40	1	2	Ä¾Öé±ø½â
+Tr¹ng th¸i 17	\spr\skill\À¥ÂØ\kl_10_Ho¹t BÊt L­u Thñ .spr	Body	Loop	4	12	15	1	2	»¬²»ÁôÊÖ
+Tr¹ng th¸i 18	\spr\skill\Îäµ±\wd_08_Nh©n KiÕm Hîp NhÊt  .spr	Body	Loop	7	22	30	1	1	ÈË½£ºÏÒ»
+Tr¹ng th¸i 19	\spr\skill\Îäµ±\wd_06_Täa Väng V« Ng· .spr	Head	Loop	0	0	36	1	1	×øÍüÎŞÎÒ
+Tr¹ng th¸i 20	\spr\skill\Îäµ±\wd_07_ThÊt Tinh TrËn.spr	Foot	Loop	0	0	30	1	1	ÆßĞÇÕó
+Tr¹ng th¸i 21	\spr\skill\ÌìÈÌ\mag_tr_06_Háa ThuÉn.spr	Body	Loop	4	12	15	1	1	»ğ¶Ü
+Tr¹ng th¸i 22	\spr\skill\ÌìÈÌ\mag_tr_07_Th©u Thiªn Ho¸n NhËt.spr	Head	Loop	0	0	15	1	1	ÍµÌì»»ÈÕ
+Tr¹ng th¸i 23	\spr\skill\ÌìÈÌ\mag_tr_08_HÊp Tinh §¹i Ph¸p.spr	Head	Loop	0	0	15	1	1	ÎüĞÇ´ó·¨
+Tr¹ng th¸i 24	\spr\skill\ÌìÈÌ\mag_tr_09_T¸ Lùc §¶ Lùc.spr	Head	Loop	0	0	15	1	1	½èÁ¦´òÁ¦
+Tr¹ng th¸i 25	\spr\skill\ÌìÈÌ\mag_tr_10_Thùc Cèt HuyÕt NhÉn .spr	Head	Loop	0	0	15	1	1	Ê´¹ÇÑªØğ
+Tr¹ng th¸i 26	\spr\skill\ÌìÈÌ\mag_tr_11_¶o ¶nh Phi Hå .spr	Head	Loop	0	0	15	1	1	»ÃÓ°·Éºü
+Tr¹ng th¸i 27	\spr\skill\ÌìÈÌ\mag_tr_12_·ÉºèÎŞ¼£.spr	Head	Loop	0	0	15	1	1	Phi Hång V« Tİch
+Tr¹ng th¸i 28	\spr\skill\ÌìÈÌ\mag_tr_13_LŞch Ma §o¹t Hån.spr	Head	Loop	0	0	15	1	1	À÷Ä§¶á»ê
+Tr¹ng th¸i 29	\spr\skill\ÌìÈÌ\mag_tr_14_Ngò hµnh trËn.spr	Foot	Loop	0	0	15	1	1	ÎåĞĞÕó
+Tr¹ng th¸i 30	\spr\skill\ÌìÈÌ\mag_tr_15_Thiªn Ma Gi¶i ThÓ .spr	Head	Loop	0	0	15	1	1	ÌìÄ§½âÌå
+Tr¹ng th¸i 31	\spr\skill\´äÑÌ\mag_cy_06_TuyÕt ThuÉn.spr	Body	Loop	4	12	16	1	2	Ñ©¶Ü
+Tr¹ng th¸i 32	\spr\skill\´äÑÌ\mag_cy_07_B¨ng ThuÉn.spr	Body	Loop	4	12	16	1	2	±ù¶Ü
+Tr¹ng th¸i 33	\spr\skill\´äÑÌ\mag_cy_09_TuyÕt ¶nh.spr	Body	Loop	16	16	16	1	2	Ñ©Ó°
+Tr¹ng th¸i 34	\spr\skill\´äÑÌ\mag_cy_12_NhiÕp T©m ThuËt.spr	Head	Loop	0	0	18	1	4	ÉãĞÄÊõ
+Tr¹ng th¸i 35	\spr\skill\ÌÆÃÅ\tm_01_T¨ng ®éc.spr	Head	Loop	0	0	30	1	1	¶¾¸½¼Ó
+Tr¹ng th¸i 36	\spr\skill\ÌÆÃÅ\tm_02_T¨ng b¨ng.spr	Head	Loop	0	0	30	1	1	±ù¸½¼Ó
+Tr¹ng th¸i 37	\spr\skill\¶ëáÒ\mag_em_06_Thu Phong DiÖp.spr	Foot	Loop	0	0	16	1	1	Çï·çÒ¶
+Tr¹ng th¸i 38	\spr\skill\¶ëáÒ\mag_em_07_Tóy Tiªn Väng NguyÖt.spr	Foot	Loop	0	0	16	1	1	×íÏÉÍûÔÂ
+Tr¹ng th¸i 39	\spr\skill\¶ëáÒ\mag_em_08_L­u Thñy .spr	Foot	Loop	0	0	16	1	1	Á÷Ë®
+Tr¹ng th¸i 40	\spr\skill\¶ëáÒ\mag_em_09_Méng §iÖp .spr	Foot	Loop	0	0	16	1	1	ÃÎµû
+Tr¹ng th¸i 41	\spr\skill\¶ëáÒ\mag_em_10_PhËt T©m Tõ H÷u.spr	Foot	Loop	0	0	15	1	1	·ğĞÄ´ÈÓÓ
+Tr¹ng th¸i 42	\spr\skill\¶ëáÒ\mag_em_11_Phong Vò Phiªu H­¬ng.spr	Head	Loop	0	0	4	1	1	·çÓêÆ®Ïã
+Tr¹ng th¸i 43	\spr\skill\Ø¤°ï\mag_gb_11_Tóy §iÖp Cuång Vò .spr	Body	Loop	4	12	16	1	1	×íµû¿ñÎè
+Tr¹ng th¸i 44	\spr\skill\Ø¤°ï\mag_gb_12_§¶ CÈu bæng.spr	Foot	Loop	0	0	8	1	1	´ò¹·Õó
+Tr¹ng th¸i 45	\spr\skill\ÉÙÁÖ\sl_07_La H¸n TrËn.spr	Foot	Loop	0	0	10	1	1	ÂŞººÕó
+Tr¹ng th¸i 46	\spr\skill\ÌìÍõ\tw_01_Háa Nh·n Kim T×nh.spr	Head	Loop	0	0	10	1	2	»ğÑÛ½ğ¾¦
+Tr¹ng th¸i 47	\spr\skill\ÌìÍõ\tw_02_Thiªn V­¬ng ChiÕn ı .spr	Body	Loop	20	20	20	1	2	ÌìÍõÕ½Òâ
+Tr¹ng th¸i 48	\spr\skill\ÌìÍõ\tw_03_Triªm Y ThËp B¸t §iÖt.spr	Body	Loop	20	15	20	1	2	Õ´ÒÂÊ®°Ëµø
+Tr¹ng th¸i 49	\spr\skill\ÌìÍõ\tw_04_Kim Chung Tr¸o.spr	Body	Loop	5	15	20	1	1	½ğÖÓÕÖ
+Tr¹ng th¸i 50	\spr\skill\²¹³ä\mag_spe_Ñ£ÔÎ.spr	Head	Loop	0	0	10	1	1	HiÖu qu¶ cho¸ng

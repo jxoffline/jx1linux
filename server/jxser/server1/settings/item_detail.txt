@@ -1,0 +1,215 @@
+ITEM_TYPE	GENRE	DETAIL	PARTICULAR	NAME
+Chñng lo¹i vËt phÈm	Lo¹i lín	Ph©n lo¹i	Lo¹i nhá 	Tªn
+PK	1	5	0	Tr­êng MÖnh hoµn
+PK	1	5	0	Gia Bµo hoµn
+PK	1	5	0	§¹i Lùc hoµn
+PK	1	5	0	Cao ThiÓm hoµn
+PK	1	5	0	Cao Trung hoµn
+PK	1	6	0	Phi Tèc hoµn
+PK	1	6	0	B¨ng Phßng hoµn
+PK	1	6	0	L«i Phßng hoµn
+PK	1	6	0	Háa Phßng hoµn
+PK	1	6	0	§éc Phßng hoµn
+PK	6	0	1	Tr­êng MÖnh hoµn
+PK	6	0	2	Gia Bµo hoµn
+PK	6	0	3	§¹i Lùc hoµn
+PK	6	0	4	Cao ThiÓm hoµn
+PK	6	0	5	Cao Trung hoµn
+PK	6	0	6	Phi Tèc hoµn
+PK	6	0	7	B¨ng Phßng hoµn
+PK	6	0	8	L«i Phßng hoµn
+PK	6	0	9	Háa Phßng hoµn
+PK	6	0	10	§éc Phßng hoµn
+PK	6	0	60	B¸nh ch­ng H¹t dÎ 
+PK	6	0	61	B¸nh ch­ng ThÞt heo
+PK	6	0	62	B¸nh ch­ng ThÞt bß 
+PK	6	1	63	B¸nh ch­ng ThËp cÈm
+PK	6	1	73	B¸ch Qu¶ Lé 
+PK	6	1	115	Yªn Hång ®an
+PK	6	1	116	X¸ Lam ®an
+PK	6	1	117	Néi Phæ hoµn
+PK	6	1	118	Néi §éc hoµn
+PK	6	1	119	Néi B¨ng hoµn
+PK	6	1	120	Néi Háa hoµn
+PK	6	1	121	Néi L«i hoµn
+PK	6	1	218	C«ng Tèc hoµn
+PK	6	1	219	Bµo Tèc hoµn
+PK	6	1	220	Phæ Phßng hoµn
+PK	6	1	221	§éc Phßng hoµn
+PK	6	1	222	B¨ng Phßng hoµn
+PK	6	1	223	Háa Phßng hoµn
+PK	6	1	224	L«i Phßng hoµn
+PK	6	1	225	Gi¶m Th­¬ng hoµn
+PK	6	1	226	Gi¶m H«n hoµn
+PK	6	1	227	Gi¶m §éc hoµn
+PK	6	1	228	Gi¶m B¨ng hoµn
+PK	6	1	229	Phæ C«ng hoµn
+PK	6	1	230	§éc C«ng hoµn
+PK	6	1	231	B¨ng C«ng hoµn
+PK	6	1	232	Háa C«ng hoµn
+PK	6	1	233	L«i C«ng hoµn
+PK	6	1	234	Tr­êng MÖnh hoµn
+PK	6	1	235	Tr­êng Néi hoµn
+PK	6	1	885	TÝn Sø Méc yªu bµi
+PK	6	1	886	TÝn Sø §ång yªu bµi
+PK	6	1	887	TÝn Sø Ng©n yªu bµi
+PK	6	1	888	TÝn Sø Kim yªu bµi
+PK	6	1	889	Ngù Tø TÝn Sø yªu bµi
+PK	6	1	1024	B¸nh tÐt nh©n ®Ëu
+PK	6	1	1106	V« Song S¸t TrËn
+PK	6	1	1110	S©m töu
+
+PKEX	6	1	2837	Hoµn Hån §¬n
+PKEX	6	1	2831	Tiªu Diªu T¸n
+PKEX	6	1	2830	Hoµn Hån §¬n LÔ Bao
+				
+LEAGUE	6	1	2952	KÝch C«ng Trî Lùc Hoµn
+LEAGUE	6	1	2953	¢m D­¬ng Ho¹t HuyÕt §¬n
+
+CITYWAR	6	1	29	Hçn Th¹ch LiÖt 
+CITYWAR	6	1	30	NghiÖt Long Xung Xa
+CITYWAR	6	1	31	V©n Kú Binh phï 
+CITYWAR	6	1	32	Ngoan Cæ Binh phï 
+
+SONGJIN	6	1	156	ChiÕn cæ 
+SONGJIN	6	1	157	LÖnh bµi
+SONGJIN	6	1	160	Kim Chi ChiÕn Hån 
+SONGJIN	6	1	161	Méc Chi ChiÕn Hån 
+SONGJIN	6	1	162	Thñy Chi ChiÕn Hån 
+SONGJIN	6	1	163	Háa Chi ChiÕn Hån 
+SONGJIN	6	1	164	Thæ Chi ChiÕn Hån 
+SONGJIN	6	1	165	Kim Chi Hé gi¸p  
+SONGJIN	6	1	166	Méc Chi Hé gi¸p  
+SONGJIN	6	1	167	Thñy Chi Hé gi¸p  
+SONGJIN	6	1	168	Háa Chi Hé gi¸p  
+SONGJIN	6	1	169	Thæ Chi Hé gi¸p  
+SONGJIN	6	1	170	Kim Chi Lîi NhËn
+SONGJIN	6	1	171	Méc Chi Lîi NhËn
+SONGJIN	6	1	172	Thñy Chi Lîi NhËn
+SONGJIN	6	1	173	Háa Chi Lîi NhËn
+SONGJIN	6	1	174	Thæ Chi Lîi NhËn
+SONGJIN	6	1	175	Hµnh qu©n ®¬n 
+SONGJIN	6	1	176	TiÓu hoµn ®¬n 
+SONGJIN	6	1	177	Ngò Hoa Lé 
+SONGJIN	6	1	178	Tèng Kim Ngo¹i Phæ hoµn
+SONGJIN	6	1	179	Tèng Kim Ngo¹i §éc hoµn
+SONGJIN	6	1	180	Tèng Kim Ngo¹i B¨ng hoµn
+SONGJIN	6	1	181	Tèng Kim Néi Phæ hoµn
+SONGJIN	6	1	182	Tèng Kim Néi §éc hoµn
+SONGJIN	6	1	183	Tèng Kim Néi B¨ng hoµn
+SONGJIN	6	1	184	Tèng Kim Néi Háa hoµn
+SONGJIN	6	1	185	Tèng Kim Néi L«i hoµn
+SONGJIN	6	1	186	Tèng Kim Tr­êng MÖnh hoµn
+SONGJIN	6	1	187	Tèng Kim Gia Bµo hoµn
+SONGJIN	6	1	188	Tèng Kim Cao ThiÓm hoµn
+SONGJIN	6	1	189	Tèng Kim Cao Trung hoµn
+SONGJIN	6	1	190	Tèng Kim Phi Tèc hoµn
+SONGJIN	6	1	191	Tèng Kim Phæ Phßng hoµn
+SONGJIN	6	1	192	Tèng Kim B¨ng Phßng hoµn
+SONGJIN	6	1	193	Chuyªn dïng cho Tèng Kim L«i phßng hoµn
+SONGJIN	6	1	194	Chuyªn dïng cho Tèng Kim Háa phßng hoµn
+SONGJIN	6	1	195	Chuyªn dïng cho Tèng Kim §éc phßng hoµn
+SONGJIN	6	1	207	TËt phong ngoa 
+SONGJIN	6	1	208	Tam Thanh Chi KhÝ 
+SONGJIN	6	1	209	B¹ch C©u Hé uyÓn
+SONGJIN	6	1	210	HËu NghÖ Chi Nh·n 
+SONGJIN	6	1	211	ThÇn bÝ vËt phÈm 
+SONGJIN	6	1	214	Kh¸ng §¬n Chi Gi¸c 
+SONGJIN	6	1	215	Cµn Kh«n T¹o Hãa §an (®¹i) 
+SONGJIN	6	1	216	Cµn Kh«n T¹o Hãa §an (trung) 
+SONGJIN	6	1	217	Cµn Kh«n T¹o Hãa §an (tiÓu) 
+SONGJIN	6	1	393	Xuyªn T©m LÖnh
+SONGJIN	6	1	394	§éc ThÝch lÖnh
+SONGJIN	6	1	395	Hµn B¨ng lÖnh
+SONGJIN	6	1	396	§Þa Háa lÖnh
+SONGJIN	6	1	397	L«i KÝch lÖnh
+
+SONGJIN_SP	6	1	158	Binh SÜ hiÖu phï 
+SONGJIN_SP	6	1	212	Bå c©u 
+SONGJIN_SP	6	1	159	Cê hiÖu 
+SONGJIN_SP	6	1	1957	Hµnh Qu©n §¬n ®Æc biÖt
+
+TRANSFER	5	0	0	Håi Thµnh Phï
+TRANSFER	6	1	438	Thæ ®Þa phï (sö dông v« h¹n) 
+TRANSFER	6	1	155	Tèng Kim Chiªu th­ 
+TRANSFER	6	1	1073	Håi bang chiªu th­
+TRANSFER	6	1	1082	Håi thµnh phï (nhá) 
+TRANSFER	6	1	1083	Håi thµnh phï (lín) 
+TRANSFER	6	1	2595	TruyÒn Tèng Phï Thiªn Tr× MËt C¶nh tÇng 4
+TRANSFER	6	1	1266	ThÇn Hµnh Phï
+
+MATE	6	1	18	T©m T©m T­¬ng ¸nh phï 
+MATE	6	1	439	T©m T©m T­¬ng ¸nh Phï (sö dông v« h¹n) 
+
+SPECIAL	6	1	402	ThÇn bÝ §¹i Hång Bao
+SPECIAL	6	1	830	NguyÖt Quang b¶o
+SPECIAL	6	1	831	Vâ L©m ®¹i hång bao
+SPECIAL	6	1	902	R­¬ng cò 
+SPECIAL	6	1	910	Bao D­îc hoµn 
+SPECIAL	6	1	19	C¸t t­êng hång bao
+SPECIAL	6	1	69	Hoµng Kim B¶o H¹p
+SPECIAL	6	1	1021	Bang Héi thÇn mËt hång bao
+SPECIAL	6	1	1074	Hép lÔ vËt Hång bao thÇn bÝ
+
+CHRISTMAS	6	1	978	Gia Tèc hoµn
+CHRISTMAS	6	1	979	B¨ng S­¬ng HiÖu gi¸c 
+CHRISTMAS	6	1	980	B¹o L«i HiÖu gi¸c
+CHRISTMAS	6	1	981	HuyÔn Hu©n H·m TÜnh
+CHRISTMAS	6	1	982	HuyÒn Thiªn H·m TÜnh
+CHRISTMAS	6	1	983	S­¬ng Gi¸ng H·m TÜnh
+CHRISTMAS	6	1	984	B¨ng Phong H·m TÜnh
+CHRISTMAS	6	1	985	Cµn Kh«n Na Di phï 
+CHRISTMAS	6	1	986	Di H×nh Ho¸n ¶nh phï 
+CHRISTMAS	6	1	987	§én §Þa phï 
+CHRISTMAS	6	1	988	Kinh nghiÖm phï (cao cÊp) 
+CHRISTMAS	6	1	989	Kinh nghiÖm phï 
+CHRISTMAS	6	1	990	L«i Tèc hoµn
+CHRISTMAS	6	1	991	Thiªn L«i Ngäc
+CHRISTMAS	6	1	992	HuyÒn B¨ng Ngäc
+CHRISTMAS	6	1	993	L«i ThÇn Ngäc
+CHRISTMAS	6	1	994	Hµn Phong Ngäc
+CHRISTMAS	6	1	1009	Ma Tóy HiÖu gi¸c
+CHRISTMAS	6	1	1010	CÊp §«ng HiÖu gi¸c
+
+CALLNPC	6	1	1005	H¹t May m¾n 
+CALLNPC	6	1	1006	H¹t Hoa Hång  
+CALLNPC	6	1	1007	H¹t Thñy Tinh
+CALLNPC	6	1	1008	H¹t Hoµng Kim
+CALLNPC	6	1	1022	Boss TriÖu Ho¸n Phï 
+CALLNPC	6	1	1081	LÖnh bµi chiªu ho¸n
+CALLNPC	6	1	1085	Méc nh©n
+CALLNPC	6	1	1107	Hoµng Kim LÖnh
+CALLNPC	6	1	400	S¸t thñ gi¶n
+CALLNPC	6	1	1337	N÷ Nhi Hång
+
+SPRING	6	1	1035	B¹o L«i Cæ 
+SPRING	6	1	1036	B¨ng S­¬ng Cæ 
+SPRING	6	1	1037	§Þa Ph¸ch Cæ 
+SPRING	6	1	1038	Hçn ThuÇn Cæ 
+SPRING	6	1	1039	Kim ThiÒn Cæ 
+SPRING	6	1	1040	L«i ThÇn Cæ 
+SPRING	6	1	1041	L«i Tèc Cæ 
+SPRING	6	1	1042	Ma Tú Cæ 
+SPRING	6	1	1043	Mª HoÆc Cæ 
+SPRING	6	1	1044	Thiªn L«i Cæ 
+SPRING	6	1	1045	HuyÒn B¨ng Cæ 
+SPRING	6	1	1046	Ph¸o
+SPRING	6	1	1047	Ph¸o Trung Thiªn
+SPRING	6	1	1048	chuét
+SPRING	6	1	1050	LÔ vËt ®Ó l¹i
+
+DUANWUJIE	6	1	1086	B¶o r­¬ng
+YAOXIANG	6	1	1781	CÈm nang thay ®æi trêi ®Êt
+YAOXIANG	6	1	2527	Håi thiªn t¸i t¹o lÔ bao
+YAOXIANG	6	1	1956	<<Î´·­Òë>>
+YAOXIANG	6	1	2387	Tru­êng HiÖu Ngäc Lé Hoµn ( tiÓu )
+YAOXIANG	6	1	2388	Tru­êng HiÖu Ngäc Lé Hoµn ( trung )
+YAOXIANG	6	1	2389	Tru­êng HiÖu Ngäc Lé Hoµn ( ®¹i )
+YAOXIANG	6	1	2564	Ngò Hoa Ngäc Lé cÈm nang
+YAOXIANG	6	1	1333	CÈm Nang Ngò Hoa Ngäc Lé ®Æc biÖt
+YAOXIANG	6	1	1379	CÈm nang cöu chuyÓn hoµn hån ®an ®Æc hiÖu
+YAOXIANG	6	1	1391	Tôc C©n TiÕp M¹ch T¸n CÈm Nang
+
+EXPBONUS	6	1	71	Tiªn Th¶o Lé 
+EXPBONUS	6	1	126	B¸nh Trung thu
+EXPBONUS	6	1	1181	Tiªn Th¶o Lé ®Æc biÖt

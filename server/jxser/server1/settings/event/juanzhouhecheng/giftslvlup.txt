@@ -1,0 +1,12 @@
+mID	Level	Worth	P1	P2	P3	P4	Cryptic
+1	1	10000	4	508	1	1	<color=red>1<color>
+2	1	50000	4	509	1	1	<color=red>5<color>
+3	2	100000	4	510	1	1	<color=red>10<color>
+4	3	200000	4	511	1	1	<color=red>20<color>
+5	4	500000	4	512	1	1	<color=red>50<color>
+6	5	800000	4	513	1	1	<color=red>80<color>
+7	6	1000000	4	514	1	1	<color=red>100<color>
+8	7	2000000	4	515	1	1	<color=red>200<color>
+9	8	5000000	4	516	1	1	<color=red>500<color>
+10	9	8000000	4	517	1	1	<color=red>800<color>
+11	10	10000000	4	518	1	1	<color=red>1000<color>

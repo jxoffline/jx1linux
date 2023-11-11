@@ -1,0 +1,21 @@
+TextID	When	Where	Who	Why1	Why2	What
+8001	mÊy ngµy tr­íc	n	tªn gäi M· Viªn ngo¹i	n	n	n
+8002	h«m qua	n	tªn gäi Tõ Chuyªn Viªn	n	n	n
+8003	h«m kia	n	tªn gäi Lý §¹i Chñy	n	n	n
+8004	vµi ngµy tr­íc	n	tªn gäi Chu §øc Phóc	n	n	n
+8005	1 kho¶ng thêi gian tr­íc	n	tù x­ng lµ Lôc Tó Tµi	n	n	n
+8006	n	n	tù x­ng lµ Liªu T­íng Qu©n	n	n	n
+8007	n	n	x­ng lµ Vâ L©m TruyÒn Nh©n	n	n	n
+8008	n	n	tù x­ng lµ §Ö tö Thiªn V­¬ng 	n	n	n
+8009	n	n	x­ng lµ ®Ö tö Vâ §ang 	n	n	n
+8010	n	n	x­ng lµ §éc C« §ao	n	n	n
+8011	n	n	x­ng lµ Ch­ëng M«n §­êng M«n	n	n	n
+8012	n	n	X­ng lµ Ch­ëng m«n Vâ §ang	n	n	n
+8013	n	n	Tù x­ng lµ §¹i §Ö Tö C«n L«n Ph¸i	n	n	n
+8014	n	n	Tù x­ng lµ Thiªn C¬ To¸n	n	n	n
+8015	n	n	Tù x­ng lµ Hoµn Nhan BÊt LiÖt	n	n	n
+8016	n	n	Tù x­ng lµ T©y Ph­¬ng CÇu B¹i	n	n	n
+8017	n	n	Tù x­ng lµ Nam Cung Phi Tiªn	n	n	n
+8018	n	n	tù x­ng lµ Phã Ch­ëng M«n D­êng M«n	n	n	n
+8019	n	n	tù x­ng lµ gi¸o ®Çu Thiªn NhÉn Gi¸o	n	n	n
+8020	n	n	tù x­ng lµ C« §éc Tr­êng Th­¬ng	n	n	n

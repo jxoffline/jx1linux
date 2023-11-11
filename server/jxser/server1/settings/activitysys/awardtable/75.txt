@@ -1,0 +1,13 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+75	Thanh C©u LÖnh	{tbProp={6,1,2369,1,0,0},}	1	3	684	17	
+75	Tö M·ng LÖnh	{tbProp={6,1,2350,1,0,0},}	1	0.1	685	17	
+75	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	0.5	686	17	
+75	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	0.4	687	17	
+75	V©n Léc LÖnh	{tbProp={6,1,2353,1,0,0},}	1	1	688	17	
+75	M¶nh Bæ Thiªn Th¹ch (tiÓu)	{tbProp={6,1,1308,1,0,0},}	1	5	689	17	
+75	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},nExpiredTime=43200,}	3	20	690	17	
+75	HuyÒn tinh kho¸ng th¹ch cÊp 7	{tbProp={6,1,147,7,0,0},}	1	10	691	17	
+75	HuyÒn tinh kho¸ng th¹ch cÊp 8	{tbProp={6,1,147,8,0,0},}	1	10	692	17	
+75	kinh nghiÖm 	"return {nExp=1}"	18000000	15	693	17	
+75	kinh nghiÖm 	"return {nExp=1}"	12000000	15	694	17	
+75	Qu¶ Huy Hoµng (cao) 	{tbProp={6,1,906,1,0,0},nExpiredTime=43200,}	1	20	695	17	

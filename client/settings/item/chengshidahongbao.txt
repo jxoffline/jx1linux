@@ -1,0 +1,67 @@
+Name	Type	Genre	Detail	Particular	Serise	Level	Param1	Param2	Param3	Param4	Param5	Param6	Proba	Costly	Msg	Log
+Lam Thñy Tinh	1	4	238	1	0	1	0						50000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tö Thñy Tinh	1	4	239	1	0	1	0						50000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Lôc Thñy Tinh	1	4	240	1	0	1	0						50000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tinh Hång B¶o Th¹ch	1	4	353	49	0	1	0						50000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+TÈy Tñy Kinh	1	6	1	22	0	1	0						10000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Vâ L©m MËt TÞch	1	6	1	26	0	1	0						10000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tiªn Th¶o Lé 	1	6	1	71	0	1	0						150000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Phóc Duyªn Lé (§¹i) 	1	6	1	124	0	1	0						207050	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HuyÒn Tinh cÊp 4	1	6	1	147	0	4	0						160000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HuyÒn Tinh cÊp 5	1	6	1	147	0	5	0						40000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HuyÒn Tinh cÊp 6	1	6	1	147	0	6	0						15000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tiªn Th¶o Lé ®Æc biÖt (8 giê)	1	6	1	1181	0	1	0						50000	0	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Méng Long Kim Ti ChÝnh Hång Cµ Sa	2	2	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Phôc Ma Tö Kim C«n	2	6	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tø Kh«ng Gi¸ng Ma Giíi ®ao	2	11	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	2	16	0	0	0	1	0						6	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+H¸m Thiªn Thõa Long ChiÕn Ngoa	2	20	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+KÕ NghiÖp B«n L«i Toµn Long th­¬ng	2	21	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ngù Long L­îng Ng©n B¶o ®ao	2	26	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ngù Long Thiªn M«n Thóc Yªu hoµn	2	28	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+V« Gian û Thiªn KiÕm	2	31	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+V« Ma TÈy T­îng Ngäc KhÊu 	2	39	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+V« Ma Hång Truy NhuyÔn Th¸p hµi	2	40	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+V« TrÇn Thanh T©m H­íng ThiÖn Ch©u	2	42	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tª Hoµng Phông Nghi ®ao	2	46	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Tª Hoµng B¨ng Tung CÈm uyÓn	2	49	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+BÝch H¶i Uyªn ¦¬ng Liªn Hoµn ®ao	2	51	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+U Lung Kim Xµ Ph¸t ®¸i	2	56	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+U Lung MÆc Thï NhuyÔn Lý 	2	60	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Minh ¶o Tµ S¸t §éc NhËn	2	61	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Chó Ph­îc DiÖt L«i C¶nh Phï 	2	67	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+B¨ng Hµn §¬n ChØ Phi §ao	2	71	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Thiªn Quang Hoa Vò M¹n Thiªn	2	76	0	0	0	1	0						6	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	2	77	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+S©m Hoang Phi Tinh §o¹t Hån	2	81	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þa Ph¸ch H¾c DiÖm Xung Thiªn Liªn	2	87	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§ång Cõu Gi¸ng Long C¸i Y	2	92	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§ång Cõu Kh¸ng Long Hé UyÓn	2	94	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þch Kh¸i Lôc Ngäc Tr­îng	2	96	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ma S¸t Quû Cèc U Minh Th­¬ng	2	101	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ma Hoµng Kim Gi¸p Kh«i	2	106	0	0	0	1	0						6	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ma Hoµng ¸n XuÊt Hæ H¹ng Khuyªn	2	107	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Ma ThÞ s¬n  H¶i Phi Hång Lý 	2	115	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	2	119	0	0	0	1	0						6	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+CËp Phong Ch©n Vò KiÕm	2	121	0	0	0	1	0						6	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+CËp Phong Tam Thanh Phï 	2	122	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	2	126	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+L«i Khung Thiªn §Þa Hé phï 	2	132	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Vô ¶o B¾c Minh §¹o qu¸n	2	136	0	0	0	1	0						60	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þnh Quèc Thanh Sa Tr­êng Sam	2	159	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þnh Quèc ¤ Sa Ph¸t Qu¸n	2	160	0	0	0	1	0						5000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	2	161	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þnh Quèc Tö §»ng Hé uyÓn	2	162	0	0	0	1	0						20000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+§Þnh Quèc Ng©n Tµm Yªu ®¸i	2	163	0	0	0	1	0						20000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+An Bang B¨ng Tinh Th¹ch H¹ng Liªn	2	164	0	0	0	1	0						1000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+An Bang Cóc Hoa Th¹ch ChØ hoµn	2	165	0	0	0	1	0						5000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+An Bang §iÒn Hoµng Th¹ch Ngäc Béi	2	166	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	2	167	0	0	0	1	0						5000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HiÖp Cèt ThiÕt HuyÕt Sam	2	186	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HiÖp Cèt §a T×nh Hoµn	2	187	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HiÖp Cèt §an T©m Giíi	2	188	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+HiÖp Cèt T×nh ý KÕt	2	189	0	0	0	1	0						5000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Nhu T×nh C©n Quèc Nghª Th­êng	2	190	0	0	0	1	0						5000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Nhu T×nh Thôc N÷ H¹ng Liªn	2	191	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Nhu T×nh  Phông Nghi Giíi ChØ 	2	192	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1
+Nhu T×nh  TuÖ T©m Ngäc Béi	2	193	0	0	0	1	0						10000	1	<player>Më thµnh thÞ ®¹i hång bao, nhËn ®­îc 1 <name>	1

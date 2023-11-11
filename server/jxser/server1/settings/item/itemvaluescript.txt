@@ -1,0 +1,62 @@
+ITEM_NAME	ITEM_QUALITY	ITEM_GENRE	ITEM_DETAILTYPE	ITEM_PARTICULAR	ITEM_LEVEL	ITEM_SERIES	ITEMVALUE	ITEMVALUE_SCRIPT	REMARK
+ThÇn bÝ kho¸ng th¹ch		6	1	398			100000000		
+Lam Thñy Tinh		4	238	1			50000000		
+Tö Thñy Tinh		4	239	1			50000000		
+Lôc Thñy Tinh		4	240	1			50000000		
+Phóc Duyªn Lé (TiÓu) 		6	1	122			600000		
+Phóc Duyªn Lé (Trung) 		6	1	123			1200000		
+Phóc Duyªn Lé (§¹i) 		6	1	124			3000000		
+Vâ L©m MËt TÞch		6	1	26			350000000		
+Tô TiÔn thuËt. B¹o Vò Lª Hoa		6	1	27			50000000		
+H·m TÜnh thuËt.Lo¹n Hoµn KÝch		6	1	28			10000000		
+Th¸i Cùc QuyÒn Phæ. QuyÓn 3		6	1	33			35000000		
+Th¸i Cùc KiÕm Phæ. QuyÓn 2		6	1	34			45000000		
+V©n Long KÝch. M©u ph¸p		6	1	35			40000000		
+L­u Tinh. §ao ph¸p		6	1	36			45000000		
+Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1		6	1	37			35000000		
+Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2		6	1	38			15000000		
+Thiªn V­¬ng §ao ph¸p.QuyÓn 3		6	1	39			15000000		
+Thóy Yªn §ao ph¸p		6	1	40			10000000		
+Thóy Yªn Song ®ao		6	1	41			10000000		
+DiÖt KiÕm MËt TÞch		6	1	42			15000000		
+Nga Mi  PhËt Quang Ch­ëng MËt TÞch		6	1	43			35000000		
+Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh		6	1	45			25000000		
+Phi Tiªu thuËt. Cöu Cung Phi Tinh		6	1	46			10000000		
+Ngò §éc Ch­ëng Ph¸p. QuyÓn 1		6	1	47			20000000		
+Ngò §éc §ao ph¸p. QuyÓn 2		6	1	48			10000000		
+Ngò §éc NhiÕp T©m thuËt. QuyÓn 3		6	1	49			10000000		
+Ngù Phong thuËt		6	1	50			15000000		
+Ngù L«i thuËt		6	1	51			10000000		
+Ngù T©m thuËt		6	1	52			20000000		
+NhiÕp Hån. Chó thuËt		6	1	53			10000000		
+C¸i Bang Ch­ëng Ph¸p		6	1	54			40000000		
+C¸i Bang C«n ph¸p		6	1	55			20000000		
+ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1		6	1	56			20000000		
+ThiÕu L©m C«n ph¸p. QuyÓn 2		6	1	57			20000000		
+ThiÕu L©m §ao ph¸p. QuyÓn 3		6	1	58			30000000		
+Phæ §é MËt TÞch		6	1	59			10000000		
+TÈy Tñy Kinh		6	1	22			50000000	
+Kim Tª		4	979	1			20000000	
+HuyÒn Tinh Kho¸ng Th¹ch 		6	1	147				\script\item\itemvalue\ore.lua	
+HuyÒn ThiÕt kho¸ng		6	1	200				\script\item\itemvalue\ore.lua	
+MËt Ng©n kho¸ng		6	1	201				\script\item\itemvalue\ore.lua	
+Chu Sa kho¸ng		6	1	202				\script\item\itemvalue\ore.lua	
+Khæng T­íc Th¹ch		6	1	203				\script\item\itemvalue\ore.lua	
+Phï Dung Th¹ch		6	1	204				\script\item\itemvalue\ore.lua	
+Chung Nhò th¹ch		6	1	205				\script\item\itemvalue\ore.lua	
+Trang bÞ th«ng th­êng	0	0						\script\item\itemvalue\equip_normal.lua	
+Trang bÞ Hoµng Kim	1	0						\script\item\itemvalue\equip_gold.lua	
+Trang bÞ cã thÓ kh¶m n¹m	2	0						\script\item\itemvalue\equip_enchasable.lua	
+TrÊn bang chi th¹ch cÊp 1		6	1	1019	1		1000000		
+TrÊn bang chi th¹ch cÊp 2		6	1	1019	2		2000000		
+TrÊn bang chi th¹ch cÊp 3		6	1	1019	3		5000000		
+TrÊn bang chi th¹ch cÊp 4		6	1	1019	4		10000000		
+TrÊn bang chi th¹ch cÊp 5		6	1	1019	5		20000000		
+TrÊn bang chi th¹ch cÊp 6		6	1	1019	6		50000000		
+TrÊn bang chi th¹ch cÊp 7		6	1	1019	7		100000000		
+TrÊn bang chi th¹ch cÊp 8		6	1	1019	8		200000000		
+TrÊn bang chi th¹ch cÊp 9		6	1	1019	9		400000000		
+TrÊn bang chi th¹ch cÊp 10		6	1	1019	10		700000000		
+Phông Hoµng Ên		6	1	1105	1		3000000		
+HuyÒn Kim		6	1	3151				\script\item\itemvalue\fantasygold.lua
+HuyÒn Kim Chi Tinh		6	1	3152				\script\item\itemvalue\fantasygoldessence.lua

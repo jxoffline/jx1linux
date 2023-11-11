@@ -1,0 +1,5 @@
+TaskId	TaskName	MapName	NpcName	NpcGender
+1		ChiÕn tr­êng ®¹i chiÕn Tèng Kim	TiÓu Kú Nhi	1
+2		Trong b¶n ®å v­ît ¶i	Phông Phông	1
+3		ThuyÒn Phong L¨ng §é	TiÓu Chiªu	1
+4		Thiªn B¶o Khè	Tiªu TrÊn	0

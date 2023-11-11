@@ -1,0 +1,22 @@
+Id	Name	StartDate	EndDate	Description	TaskGroup	TaskVersion	TaskIdSet
+1	Ho¹t ®éng ®Ó test	0	0				
+2	ÖĞÇï»î¶¯(¹ıÆÚ)	200909250000	200911100000	<dec><npc>Mïa hÌ nµo nhiÖt ®Õn råi, triÒu ®×nh ®ang chuÈn bŞ kh«ng İt ho¹t ®éng lµm ®¹i hiÖp kh«ng vui vÎ kh«ng ngu«i, vŞ ®¹i hiÖp nµy cã muèn tham gia thö xem kh«ng?			
+3	Íò±¦Ïä£¨³¤ÆÚ£©	0	0	V¹n B¶o R­¬ng			
+4	2009½ÌÊ¦½Ú£¨¹ıÆÚ£©	200911160000	201002020000	Ho¹t ®éng ngµy nhµ gi¸o ViÖt Nam			
+5	Kim bµi ®æi trang bŞ hoµng kim			Kim bµi ®æi trang bŞ hoµng kim			
+6	·é»ğËÎ½ğ³¤ÆÚ¿ª·Å			Tèng Kim rùc löa			
+7	ÕªÒ¶×Ó½»°ï¹±Ï×(¹ıÆÚ)	200912110000	201001180000				
+8	PhÇn th­ëng sau khi chuyÓn sinh ®¹t ®Õn cÊp 160 lµ phiªn vò	0	0				
+9	Ê¥µ®½Ú»î¶¯(¹ıÆÚ)	200912110000	201001180000				
+10	ÔÚÏßÁì½±£¨¹ıÆÚ£©	200912110000	201001250000	Online nhËn th­ëng			
+11	´º½ÚÖ÷Ìâ»î¶¯(¹ıÆÚ)	201002040000	201003290000	´º½ÚÖ÷Ìâ»î¶¯			
+12	ĞÂÄêá¦Æì£¨¹ıÆÚ£©	201002040000	201003290000	C©y nªu ®Çu n¨m			
+13	B¶n ®å míi						
+14	BigBoss			BigBoss			
+15	Ho¹t ®éng worldcup	201006100000	201006280000		10	1	
+16	ÊÔÁ¶ÌÃÏä×Ó	0	0				
+17	ÏµÍ³½±Àøµ÷ÕûÏä×Ó	0	0				
+18	×ÊÁÏÆ¬Ö÷Ìâ»î¶¯	201007090000	201008230000		3	2	
+19	×ÊÁÏÆ¬¸»¹ó½õºĞ»î¶¯	201007090000	211008230000		1	2	
+20	Ho¹t ®éng chóc phóc	201008160000	201008310000		10	2	
+21	Ho¹t ®éng trung thu 2010	201009200000	201010180000		11	1	

@@ -1,0 +1,19 @@
+Name	Feature	Price
+Sa Di Giíi C« 	0	0
+Phï Dung M·o	1	0
+Tú L« m·o	2	0
+Tróc L¹p	6	0
+Nh©n B× DiÖn Tr¸o	7	0
+Tu La Ph¸t kÕt	8	0
+Phi YÕn Qu¸n	9	0
+Anh L¹c Qu¸n	10	0
+Th«ng Thiªn Ph¸t Qu¸n	11	0
+ThiÕt Kh«i	12	0
+Ng©n Kh«i	13	0
+YÓm NhËt kh«i	14	0
+Ph¸ Bè C©n	15	0
+Song TÇng L­u Ly Hoµn	16	0
+TrÝch Tinh hoµn	17	0
+Bè C©n	18	0
+Chu Khëi Qu¸n	19	0
+¤ Tµm M·o	20	0

@@ -1,0 +1,141 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	JumpFly	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+ÂíÆ¥1																																																																											
+ÂíÆ¥2																																																																											
+ÂíÆ¥3																																																																											
+ÂíÆ¥4																																																																											
+ÂíÆ¥5																																																																											
+ÂíÆ¥6																																																																											
+ÂíÆ¥7																																																																											
+ÂíÆ¥8																																																																											
+ÂíÆ¥9																																																																											
+ÂíÆ¥10																																																																											
+ÂíÆ¥11																																																																											
+ÂíÆ¥12																																																																											
+ÂíÆ¥13																																																																											
+ÂíÆ¥14																																																																											
+ÂíÆ¥15																																																																											
+ÂíÆ¥16																																																																											
+ÂíÆ¥17																																																																											
+ÂíÆ¥18																																																																											
+ÂíÆ¥19																																																																											
+ÂíÆ¥20																																																																											
+ÂíÆ¥21																																																																											
+ÂíÆ¥22																																																																											
+ÂíÆ¥23																																																																		..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr	..\man\horse_effect_a.spr
+ÂíÆ¥24																																																																											
+ÂíÆ¥25																																																																											
+ÂíÆ¥26																																																																											
+ÂíÆ¥27																																																																											
+ÂíÆ¥28																																																																											
+ÂíÆ¥29																																																																											
+ÂíÆ¥30																																																																											
+ÂíÆ¥31																																																																											
+ÂíÆ¥32																																																																											
+ÂíÆ¥33																																																																											
+ÂíÆ¥34																																																																											
+ÂíÆ¥35																																																																											
+ÂíÆ¥36																																																																											
+ÂíÆ¥37																																																																											
+ÂíÆ¥38																																																																											
+ÂíÆ¥39																																																																											
+ÂíÆ¥40																																																																											
+ÂíÆ¥41																																																																											
+ÂíÆ¥42																																																																											
+ÂíÆ¥43																																																																											
+ÂíÆ¥44																																																																											
+ÂíÆ¥45																																																																											
+ÂíÆ¥46																																																																											
+ÂíÆ¥47																																																																											
+ÂíÆ¥48																																																																											
+ÂíÆ¥49																																																																		..\man\MA_HTF_091_RD01.spr	..\man\MA_HTF_091_HW01.spr	..\man\MA_HTF_091_HR01.spr	..\man\MA_HTF_091_HA01.spr	..\man\MA_HTF_091_HA02.spr	..\man\MA_HTF_091_HM01.spr	..\man\MA_HTF_091_HI01.spr	..\man\MA_HTF_091_HD01.spr	..\man\MA_HTF_091_RD01.spr	..\man\MA_HTF_091_RD01.spr
+ÂíÆ¥50																																																																		..\man\MA_HTF_064_RD01.spr	..\man\MA_HTF_064_HW01.spr	..\man\MA_HTF_064_HR01.spr	..\man\MA_HTF_064_HA01.spr	..\man\MA_HTF_064_HA02.spr	..\man\MA_HTF_064_HM01.spr	..\man\MA_HTF_064_HI01.spr	..\man\MA_HTF_064_HD01.spr	..\man\MA_HTF_064_RD01.spr	..\man\MA_HTF_064_RD01.spr
+ÂíÆ¥51																																																																											
+ÂíÆ¥52																																																																											
+ÂíÆ¥53																																																																		..\man\MA_HTF_114_RD01.spr	..\man\MA_HTF_114_HW01.spr	..\man\MA_HTF_114_HR01.spr	..\man\MA_HTF_114_HA01.spr	..\man\MA_HTF_114_HA02.spr	..\man\MA_HTF_114_HM01.spr	..\man\MA_HTF_114_HI01.spr	..\man\MA_HTF_114_HD01.spr	..\man\MA_HTF_114_RD01.spr	..\man\MA_HTF_114_RD01.spr
+T¸o Hång																																																																		..\male\hoof\118_rs01.spr	..\male\hoof\118_rw.spr	..\male\hoof\118_rr.spr	..\male\hoof\118_ra01.spr	..\male\hoof\118_ra02.spr	..\male\hoof\118_rm.spr	..\male\hoof\118_rb.spr	..\male\hoof\118_rd.spr	..\male\hoof\118_rs01.spr	..\male\hoof\118_rs01.spr
+Thanh M·																																																																		..\male\hoof\119_rs01.spr	..\male\hoof\119_rw.spr	..\male\hoof\119_rr.spr	..\male\hoof\119_ra01.spr	..\male\hoof\119_ra02.spr	..\male\hoof\119_rm.spr	..\male\hoof\119_rb.spr	..\male\hoof\119_rd.spr	..\male\hoof\119_rs01.spr	..\male\hoof\119_rs01.spr
+§¹i UyÓn																																																																											
+¤ Truy																																																																											
+¤ V©n §¹p TuyÕt																																																																											
+§Ých L«																																																																											
+TuyÖt ¶nh																																																																											
+ChiÕu D¹ Ngäc S­ Tö																																																																											
+H·n HuyÕt B¶o M·																																																																											
+XÝch Thè																																																																											
+B«n Tiªu																																																																											
+Phiªn Vò																																																																											
+Hû Hû 																																																																											
+Hoan Hoan																																																																											
+L¨ng Thiªn																																																																											
+Trôc NhËt																																																																											
+Hæ C¸t T­êng																																																																											
+øc V©n																																																																											
+TuyÕt Hån																																																																											
+Sø gi¶ Truy Phong																																																																											
+Háa Kú L©n																																																																											
+L©n Quang																																																																											
+L¹c ®µ (Tr¾ng)																																																																											
+L¹c ®µ (§en)																																																																											
+Kh«ng cã res luotuohuang																																																																											
+L¹c §µ Kh«ng B­íu																																																																											
+L¹c §µ Kh«ng B­íu (§á)																																																																											
+L¹c §µ Kh«ng B­íu (Lôc)																																																																											
+B«n L«i																																																																											
+Hång Long XÝch DiÖm																																																																											
+TuyÖt ThÕ TuyÕt Vò																																																																											
+Tóy NguyÖt-V« Tµ																																																																											
+Tóy NguyÖt-Trôc Qu©n																																																																											
+Thùc NhËt Cuång S­																																																																											
+MËt Thµnh ThiÕt Kþ																																																																											
+Ngäc Tiªu Dao																																																																											
+M¹ch Th­îng Phi S­¬ng																																																																											
+TuyÕt Vò Thiªn H­¬ng																																																																											
+MÞ Vò Thiªn H­¬ng																																																																											
+DuDu Vui VÎ																																																																											
+¤ng Thá																																																																											
+Kim T­îng Th¸i §¹t																																																																											
+Kinh HuyÒn SÊm																																																																											
+§éc Vò Thiªn H¹																																																																											
+Ng¹o Ng« Hiªn Viªn																																																																											
+Nô H«n H¾c ¸m																																																																											
+Ngän Löa ¸nh S¸ng																																																																											
+Viªm D­¬ng Long Tö																																																																											
+L¹c Th¸i Li VÉn																																																																											
+T¸i Th¸i TuÕ																																																																											
+Ngùa 105																																																																		..\male\hoof\2014_vip_003_rs01.spr	..\male\hoof\2014_vip_003_rw.spr	..\male\hoof\2014_vip_003_rr.spr	..\male\hoof\2014_vip_003_ra01.spr	..\male\hoof\2014_vip_003_ra02.spr	..\male\hoof\2014_vip_003_rm.spr	..\male\hoof\2014_vip_003_rb.spr	..\male\hoof\2014_vip_003_rd.spr	..\male\hoof\2014_vip_003_rs01.spr	..\male\hoof\2014_vip_003_rs01.spr
+Ngùa 106																																																																											
+Ngùa 107																																																																											
+Ngùa 108																																																																											
+Ngùa 109																																																																											
+Ngùa 110																																																																											
+Ngùa 111																																																																											
+Ngùa 112																																																																		..\male\hoof\vip_yaohu_002_rs01.spr	..\male\hoof\vip_yaohu_002_rw.spr	..\male\hoof\vip_yaohu_002_rr.spr	..\male\hoof\vip_yaohu_002_ra01.spr	..\male\hoof\vip_yaohu_002_ra02.spr	..\male\hoof\vip_yaohu_002_rm.spr	..\male\hoof\vip_yaohu_002_rb.spr	..\male\hoof\vip_yaohu_002_rd.spr	..\male\hoof\vip_yaohu_002_rs01.spr	..\male\hoof\vip_yaohu_002_rs01.spr
+Ngùa 113																																																																											
+Ngùa 114																																																																											
+Ngùa 115																																																																											
+Ngùa 116																																																																											
+Ngùa 117																																																																											
+Ngùa 118																																																																											
+Ngùa 119																																																																		..\male\hoof\2018_vip_rs01.spr	..\male\hoof\2018_vip_rw.spr	..\male\hoof\2018_vip_rr.spr	..\male\hoof\2018_vip_ra01.spr	..\male\hoof\2018_vip_ra02.spr	..\male\hoof\2018_vip_rm.spr	..\male\hoof\2018_vip_rb.spr	..\male\hoof\2018_vip_rd.spr	..\male\hoof\2018_vip_rs01.spr	..\male\hoof\2018_vip_rs01.spr
+Ngùa 120																																																																											
+Ngùa 121																																																																											
+Ngùa 122																																																																											
+Ngùa 123																																																																											
+Ngùa 124																																																																											
+Ngùa 125																																																																											
+Ngùa 126																																																																											
+Ngùa 127																																																																											
+Ngùa 128																																																																											
+Ngùa 129																																																																											
+Ngùa 130																																																																											
+Ngùa 131																																																																											
+Ngùa 132																																																																											
+Ngùa 133																																																																											
+Ngùa 134																																																																		..\male\hoof\115_rs01.spr	..\male\hoof\115_rw.spr	..\male\hoof\115_rr.spr	..\male\hoof\115_ra01.spr	..\male\hoof\115_ra02.spr	..\male\hoof\115_rm.spr	..\male\hoof\115_rb.spr	..\male\hoof\115_rd.spr	..\male\hoof\115_rs01.spr	..\male\hoof\115_rs01.spr
+Ngùa 135																																																																		..\male\hoof\117_rs01.spr	..\male\hoof\117_rw.spr	..\male\hoof\117_rr.spr	..\male\hoof\117_ra01.spr	..\male\hoof\117_ra02.spr	..\male\hoof\117_rm.spr	..\male\hoof\117_rb.spr	..\male\hoof\117_rd.spr	..\male\hoof\117_rs01.spr	..\male\hoof\114_rs01.spr
+Ngùa 136																																																																		..\male\hoof\116_rs01.spr	..\male\hoof\116_rw.spr	..\male\hoof\116_rr.spr	..\male\hoof\116_ra01.spr	..\male\hoof\116_ra02.spr	..\male\hoof\116_rm.spr	..\male\hoof\116_rb.spr	..\male\hoof\116_rd.spr	..\male\hoof\116_rs01.spr	..\male\hoof\114_rs01.spr
+Ngùa 137																																																																		..\male\hoof\114_rs01.spr	..\male\hoof\114_rw.spr	..\male\hoof\114_rr.spr	..\male\hoof\114_ra01.spr	..\male\hoof\114_ra02.spr	..\male\hoof\114_rm.spr	..\male\hoof\114_rb.spr	..\male\hoof\114_rd.spr	..\male\hoof\114_rs01.spr	..\male\hoof\114_rs01.spr
+Ngùa 138																																																																		..\male\hoof\115_rs01.spr	..\male\hoof\115_rw.spr	..\male\hoof\115_rr.spr	..\male\hoof\115_ra01.spr	..\male\hoof\115_ra02.spr	..\male\hoof\115_rm.spr	..\male\hoof\115_rb.spr	..\male\hoof\115_rd.spr	..\male\hoof\115_rs01.spr	..\male\hoof\115_rs01.spr
+Thá Vµng																																																																		..\male\hoof\2022vip_horse_133_rs01.spr	..\male\hoof\2022vip_horse_133_rw.spr	..\male\hoof\2022vip_horse_133_rr.spr	..\male\hoof\2022vip_horse_133_ra01.spr	..\male\hoof\2022vip_horse_133_ra02.spr	..\male\hoof\2022vip_horse_133_rm.spr	..\male\hoof\2022vip_horse_133_rb.spr	..\male\hoof\2022vip_horse_133_rd.spr	..\male\hoof\2022vip_horse_133_rs01.spr	..\male\hoof\2022vip_horse_133_rs01.spr
+Thá Hång																																																																		..\male\hoof\2022vip_horse_134_rs01.spr	..\male\hoof\2022vip_horse_134_rw.spr	..\male\hoof\2022vip_horse_134_rr.spr	..\male\hoof\2022vip_horse_134_ra01.spr	..\male\hoof\2022vip_horse_134_ra02.spr	..\male\hoof\2022vip_horse_134_rm.spr	..\male\hoof\2022vip_horse_134_rb.spr	..\male\hoof\2022vip_horse_134_rd.spr	..\male\hoof\2022vip_horse_134_rs01.spr	..\male\hoof\2022vip_horse_134_rs01.spr
+Kú L©n																																																																											

@@ -1,0 +1,1101 @@
+key	value
+G_THIEFSKILL_0	%s 从你身上偷到%d两银子捐给前线!
+G_THIEFSKILL_1	你成功的从%s 那里偷到%d两银子捐给前线!
+G_THIEFSKILL_2	被偷成功 
+G_THIEFSKILL_3	偷窃成功 
+G_THIEFSKILL_4	%s 试图偷你的钱,但未成功!
+G_THIEFSKILL_5	你偷%s 失败!
+G_THIEFSKILL_6	被偷未遂
+G_THIEFSKILL_7	偷窃未遂
+G_THIEFSKILL_8	%s 当前生命值情况: %d / %d 
+G_THIEFSKILL_9	对方情报
+G_THIEFSKILL_10	%s 当前内力值情况: %d / %d 
+G_THIEFSKILL_11	%s 当前现金情况: %d 两 
+
+G_FACTION_0	少林派
+
+G_S_GOLD	金系
+G_S_WOOD	木系
+G_S_WATER	水系
+G_S_FIRE	火系
+G_S_EARTH	土系
+G_S_NONE	无系
+
+G_LUCKSTAR	AddGlobalNews([[恭喜！恭喜！玩家:%s 成为本日的幸运之星!]]);
+
+G_FACTION_NEW	初入江湖
+G_FACTION_OLD	江湖游侠
+
+G_PLAYERTONG_0	擂台赛期间帮会踢人操作被锁定！
+G_PLAYERTONG_1	攻城战期间帮会踢人操作被锁定！
+G_PLAYERTONG_2	帮会传位操作被锁定！
+G_PLAYERTONG_3	您被踢出帮会！
+G_PLAYERTONG_4	您在帮会中的职位发生了变化！
+G_PLAYERTONG_5	帮会联盟中，不能修改阵营！
+G_PLAYERTONG_6	每次最多只能存 %d 万两！
+G_PLAYERTONG_7	每次最多只能取 %d 万两！
+G_PLAYERTONG_8	取太多钱了，放不下！
+G_PLAYERTONG_9	帮会操作被锁定，不能创建联盟！
+G_PLAYERTONG_10	盟主
+G_PLAYERTONG_11	帮主才能申请加入帮会联盟！
+G_PLAYERTONG_12	帮会联盟成员不能加入别的帮会联盟！
+G_PLAYERTONG_13	您向 %s 申请加入帮会联盟！
+G_PLAYERTONG_14	帮会发钱数量错误！
+G_PLAYERTONG_15	每人每次最多只能发 1 亿！
+G_PLAYERTONG_16	帮主才能发钱！
+G_PLAYERTONG_17	只能给在线的帮众发钱！
+
+G_NPC_0	男主角
+G_NPC_1	女主角
+G_NPC_2	冰
+G_NPC_3	毒
+G_NPC_4	乱
+G_NPC_5	晕
+
+G_PLAYER_0	WriteLog([[PlayerIndex Error:%s:%s]])
+G_PLAYER_1	您的%s技能无法使用技能点升级。
+G_PLAYER_2	技能升级消息
+G_PLAYER_3	您的%s技能等级已经达到极限，不能再升级了。
+G_PLAYER_4	您的战斗技能必须达到%d级才能升级%s技能。
+G_PLAYER_5	金元宝转为点数成功!
+G_PLAYER_6	金元宝将在下次停机维护时转为点数!
+G_PLAYER_7	金元宝转为25天成功!
+G_PLAYER_8	金元宝将在下次停机维护时转为25天!
+G_PLAYER_9	元宝转为20小时点数成功!
+G_PLAYER_10	元宝将在下次停机维护时转为20小时点数
+G_PLAYER_11	元宝转为10天成功!
+G_PLAYER_12	元宝将在下次停机维护时转为10天!
+G_PLAYER_13	系统消息
+G_PLAYER_14	继续
+G_PLAYER_15	完成
+G_PLAYER_16	恭喜您！得了%d子对，赢得奖励%d两！
+G_PLAYER_17	恭喜您！得了%d子刻，恭喜你，赢得大奖，并获得部分积累彩金，共计%d两！
+G_PLAYER_18	恭喜您！得了%d %d %d 的顺子，赢得奖励%d两!
+G_PLAYER_19	恭喜你，你获得了奖励!
+G_PLAYER_20	银票转为点数成功!
+G_PLAYER_21	银票将在下次停机维护时转为点数!
+G_PLAYER_22	银票转为天数成功!
+G_PLAYER_23	银票将在下次停机维护时转为天数!
+
+G_PLAYER_24	交易取消，请检查背包金钱与交易获取的金钱总和是否超过上限!
+G_PLAYER_25	交易取消，对方未符合交易条件!
+G_PLAYER_26	你身受重伤，并自动重生!
+G_PLAYER_27	您目前的摆摊许可时间为0，无法摆摊。
+G_PLAYER_28	你耳边传来一个细若蚊蝇的声音：你积恶深重，官府已重金通缉你，如今四下都是要拿你归案的领赏钱的人，你可要小心别挂了。
+G_PLAYER_29	您背包中的替身符帮助你抵御了一次致命伤害!
+G_PLAYER_30	玩家[%s]，在[%s]的坐标[%d，%d]处，拾到了'%s'
+G_PLAYERSET_0	我<color=green>%s<color=restore>来也，你等快来朝拜。
+G_PLAYERSET_1	<color=green>%s<color=restore>脚踏凌波微步，飘然而至。
+G_PLAYERSET_2	一道闪光，<color=green>%s<color=restore>从天而降。
+G_PLAYERSET_3	吴府管家
+
+G_PlayerStall_0	买东西
+G_PlayerStall_2 	以后再来
+
+G_PARTNER_0	你所取的名字不合法！
+
+G_ITEM_0	<color=White>临时物品：
+G_ITEM_1	等级:%d\n
+G_ITEM_2	价格：%d %s
+G_ITEM_3	<color=White>五行属性：<color=Metal>金
+G_ITEM_4	<color=White>五行属性：<color=Wood>木
+G_ITEM_5	<color=White>五行属性：<color=Water>水
+G_ITEM_6	<color=White>五行属性：<color=Fire>火
+G_ITEM_7	<color=White>五行属性：<color=Earth>土
+G_ITEM_8	<color=Yellow>永不磨损<color>
+G_ITEM_9_1	耐久度 %3d / %3d
+G_ITEM_9_2	<color=red>耐久度 %3d / %3d<color>
+G_ITEM_10	帽子
+G_ITEM_11	衣服
+G_ITEM_12	腰带
+G_ITEM_13	武器
+G_ITEM_14	鞋子
+G_ITEM_15	护腕
+G_ITEM_16	项链
+G_ITEM_17	右手戒指（上）
+G_ITEM_18	左手戒指（下）
+G_ITEM_19	腰坠
+G_ITEM_20	坐骑
+G_ITEM_21	需%s的%s和%s激活暗属性
+G_ITEM_22	 [%d级]
+G_ITEM_23	<color=Yellow>剩余使用次数： 无限次数<color>
+G_ITEM_24	<color=Yellow>剩余使用次数： %d / %d<color>
+G_ITEM_25	<color=Yellow>每次使用完从装备栏取下后，剩余使用次数减1<color>
+G_ITEM_26	<color=Red>该装备只能使用最后一次了，使用完从装备栏取下后即会自动消失<color>
+G_ITEM_27	未镶嵌
+G_ITEM_28	<损坏的装备>
+G_ITEM_29	<color=Fire>剩余使用时间： %02d小时%02d分钟<color>
+G_ITEM_30	\n<color=Fire>使用期限至：%.2d:%.2d %.2d-%.2d-%d<color>\n
+G_ITEM_31	价格：%d 铜钱
+G_ITEM_32	价格：%d 商会积分
+G_ITEM_33	道具拾取
+G_ITEM_BIND_STATE	<color=Green>该物品已被绑定<color>\n
+G_ITEM_BIND_STATE2	<color=Green>该物品已被永久绑定<color>\n
+G_ITEM_UNBIND_STATE	<color=Green>解除绑定等待期：%d小时<color>\n
+
+G_ItemList_0	无法在这里使用土地符！
+G_ItemList_1	储物箱处于锁定状态，不能取钱！
+G_ItemList_2	储物箱锁定中，不能调整装备！
+G_ItemList_3	储物箱锁定中！
+G_ItemList_4	密码设定成功！
+G_ItemList_5	密码设定失败：密码已设定！
+G_ItemList_6	密码取消成功！
+G_ItemList_7	密码取消失败：未曾设定密码！
+G_ItemList_8	密码取消失败：密码验证失败！
+G_ItemList_9	密码修改成功！
+G_ItemList_10	密码修改失败：未曾设定密码，无法修改！
+G_ItemList_11	密码修改失败：密码验证失败！
+G_ItemList_12	锁定成功！
+G_ItemList_13	锁定失败：您的扩展储物箱和密码保护功能尚未开启,请到巴陵县沈九(188,198)处购买以开启此功能！
+G_ItemList_14	解锁成功！
+G_ItemList_15	解锁失败：您的扩展储物箱和密码保护功能尚未开启,请到巴陵县沈九(188,198)处购买以开启此功能！
+G_ItemList_16	解锁失败：密码验证失败！
+G_ItemList_17	PK值大于或等于5的玩家使用土地符无效！
+G_ItemList_18	PK值大于或等于9的玩家使用药品无效！
+
+G_SkillList_0	您的%s技能熟练级别提升了！
+G_SkillList_1	您当前装备的武器不适合您想使用的武功！
+G_SkillList_2	您使用这项武功时不能骑马！
+G_SkillList_3	您使用这项武功时必须骑马！
+G_SkillList_4	佣兵数量已达到上限，不能再雇佣了！
+G_SkillList_5	您的同伴的%s技能熟练级别提升了！
+G_SkillList_6	施放需求等级：%d
+
+G_Skills_0	子弹技\n
+G_Skills_1	墙形 数量%d\n
+G_Skills_2	线形 数量%d\n
+G_Skills_3	散形 数量%d\n
+G_Skills_4	圆形发散 数量%d\n
+G_Skills_5	圆形区域 数量%d\n
+G_Skills_6	方形区域 数量%d\n
+G_Skills_7	定点圆形区域 数量%d\n
+G_Skills_8	定点方形区域 数量%d\n
+G_Skills_11	格斗技\n
+G_Skills_12	主动辅助武功\n
+G_Skills_13	状态持续时间:%d\n
+G_Skills_14	被动辅助武功\n
+G_Skills_15	区域伤害 
+G_Skills_16	原地 
+G_Skills_17	直线飞行 
+G_Skills_18	环形飞行 
+G_Skills_20	抛物飞行 
+G_Skills_21	穿透 
+G_Skills_22	伤害范围:%d 
+G_Skills_23	震退距离:%d 
+G_Skills_24	消亡自爆 
+G_Skills_25	光环 
+G_Skills_26	物理 
+G_Skills_27	近身 
+G_Skills_28	必中 
+G_Skills_29	对友 
+G_Skills_30	对敌 
+G_Skills_31	对物 
+G_Skills_32	对已 
+G_Skills_33	考虑命中率 
+G_Skills_34	技能属性：
+G_Skills_35	(近身攻击)\n
+G_Skills_36	(远程攻击)\n
+G_Skills_37	当前等级：%d
+G_Skills_38	当前等级：%d (%d+%d)
+G_Skills_39	受技能加成：%d%%\n
+G_Skills_40	修炼度：%d%%\n
+G_Skills_41	武器限制：
+G_Skills_42	骑马中不能施展\n
+G_Skills_43	必须骑马施展\n
+G_Skills_44	\n<color=Red>下一级\n
+G_Skills_45	内力消耗：%d\n
+G_Skills_46	体力消耗：%d\n
+G_Skills_47	生命消耗：%d\n
+G_Skills_48	有效距离：%d\n
+G_Skills_49	对「%s」技能加成 %d%%\n
+G_Skills_50	<color=Blue>第一式:<color>
+G_Skills_51	<color=Blue>第二式:<color>
+G_Skills_52	<color=Blue>第三式:<color>
+G_Skills_53	<color=Blue>第四式:<color>
+G_Skills_54	<color=Blue>第五式:<color>
+G_Skills_55	<color=Blue>第六式:<color>
+G_Skills_56	<color=Blue>第七式:<color>
+G_Skills_57	<color=Blue>第八式:<color>
+G_Skills_58	<color=Blue>第九式:<color>
+G_Skills_59	<color=Blue>第十式:<color>
+G_Skills_60	<color=Blue>第十一式:<color>
+G_Skills_61	<color=Blue>第十二式:<color>
+G_Skills_62	<color=Blue>第十三式:<color>
+G_Skills_63	<color=Blue>第十四式:<color>
+G_Skills_64	<color=Blue>第十五式:<color>
+G_Skills_65	<color=Blue>第十六式:<color>
+G_Skills_66	<color=Blue>第十七式:<color>
+G_Skills_67	<color=Blue>第十八式:<color>
+G_Skills_68	<color=Blue>第十九式:<color>
+G_Skills_69	<color=Blue>第二十式:<color>
+G_Skills_70	属性：金系 %d\n
+G_Skills_71	属性：木系 %d\n
+G_Skills_72	属性：水系 %d\n
+G_Skills_73	属性：火系 %d\n
+G_Skills_74	属性：土系 %d\n
+G_Skills_75	五行相克：%d%%\n
+G_Skills_76	受装备加成：
+
+G_PlayerPK_0	您的负经验太多，只允许练功模式！
+G_PlayerPK_1	您的负经验太多，不允许仇杀！
+
+G_STR_GOOD_EXPIREDTIME	\n<color=Fire>商品的保质期：%d天%02d小时%02d分钟<color>\n
+
+G_ProtocolProcess_0	某人
+G_ProtocolProcess_1	两
+G_ProtocolProcess_2	银两
+G_ProtocolProcess_3	有人
+G_ProtocolProcess_4	您的帮主给您发钱了：%d！
+G_ProtocolProcess_5	未启动离线时转发消息！
+G_ProtocolProcess_6	离线时消息转发目标是%s！
+G_ProtocolProcess_7	设置了消息转发目标为%s。
+G_ProtocolProcess_8	你现在不能接受私聊消息！\n输入 /OfflineTrans 可以取消设置。
+G_ProtocolProcess_9	帮会创建失败！
+G_ProtocolProcess_10	%s申请加入帮会！
+G_ProtocolProcess_11	帮会操作被锁定，不能任命！
+G_ProtocolProcess_12	传位失败，对方不在线！
+G_ProtocolProcess_13	传位失败，对方能力不够！
+G_ProtocolProcess_14	传位失败，本帮中无此人！
+G_ProtocolProcess_15	帮会操作被锁定！
+G_ProtocolProcess_16	%s申请加入联盟！
+G_ProtocolProcess_17	%s 拒绝接受本帮加入联盟！
+G_ProtocolProcess_18	帮会钱不够！
+G_ProtocolProcess_19	因为您现在的PK值>＝3,PK前请先解除装备栏的锁定状态。
+G_ProtocolProcess_20	你当前状态禁止移动或者交易物品！
+G_ProtocolProcess_21	你的同伴仍在昏迷中，%d 秒后才能被重新召唤！
+G_ProtocolProcess_22	两次召唤同伴的间隔太短了，请稍后再尝试！
+G_ProtocolProcess_23	这里不允许召唤同伴！
+G_ProtocolProcess_24	你的装备栏处于锁定状态，不能解散同伴！
+G_ProtocolProcess_25	不允许解散最后一个同伴！
+G_ProtocolProcess_26	该物品在此地无法发挥功效！
+G_ProtocolProcess_27	由于你连续输入错误密码，系统中止继续验证，剩余时间：%d小时
+G_ProtocolProcess_28	你连续输入错误密码已达%d次，连续输入错误10次系统将中止验证一段时间
+G_ProtocolProcess_29	你当前状态禁止交易物品！
+
+G_ScriptFuns_0	无
+G_ScriptFuns_1	<非辖区>
+G_ScriptFuns_2	本城现在擂台赛没有进行。
+G_ScriptFuns_3	本城区最近无擂台战事。
+G_ScriptFuns_4	组队消息
+G_ScriptFuns_5	[Script]使用AddItem参数数量不符!
+G_ScriptFuns_6	[Script]使用AddGoldItem参数数量不符!
+G_ScriptFuns_7	[Script]GoldItem-目前只支持黄金装备!
+G_ScriptFuns_8	GetItem ParameterNotEnough!
+G_ScriptFuns_9	HaveItem ParameterNotEnough!
+G_ScriptFuns_10	DelCommonItem ParameterNotEnough!
+G_ScriptFuns_11	ExistCommonItem ParameterNotEnough!
+G_ScriptFuns_12	GetItemLife ParameterNotEnough!
+G_ScriptFuns_13	无名城
+G_ScriptFuns_14	未记录
+G_ScriptFuns_15	未知码头
+G_ScriptFuns_16	您的声望减少了%d点!
+G_ScriptFuns_17	您的声望增加了%d点!
+
+G_MagicDesc_0	内力
+G_MagicDesc_1	生命
+G_MagicDesc_2	体力
+G_MagicDesc_3	金钱
+G_MagicDesc_4	增加
+G_MagicDesc_5	减少
+G_MagicDesc_6	女性
+G_MagicDesc_7	男性
+G_MagicDesc_8	剑
+G_MagicDesc_9	单刀
+G_MagicDesc_10	棍棒
+G_MagicDesc_11	枪
+G_MagicDesc_12	锤
+G_MagicDesc_13	双刀
+G_MagicDesc_14	所有
+G_MagicDesc_15	暗器
+G_MagicDesc_16	近身
+G_MagicDesc_17	空手
+G_MagicDesc_18	未知
+
+G_KDiceGame_0	你没有足够银两继续游戏了！
+G_KDiceGame_1	游戏
+G_KDiceGame_2	AddGlobalNews([[热烈庆贺！%s 中了大奖，得到积累彩金，共计%d两！]])
+G_KDiceGame_3	%d:%d 游乐机:%s 摸到 %d|%d|%d ,赌注: %d 奖金:%d 彩金:%d\n
+
+G_STRING_AUTOHANGMSG_1	你的功力太低，无法吸收腊八粥的神奇功效。等%d级之后再来试试吧。
+G_STRING_AUTOHANGMSG_2	你必须拥有矿镐才能挖矿，请找 桃花隐士 购买吧。
+G_STRING_AUTOHANGMSG_3	你的矿镐已经完全损坏，你必须到 桃花隐士 那里购买新的矿镐才能继续挖矿。
+G_STRING_AUTOHANGMSG_4	你的经验增加了%d点。
+G_STRING_AUTOHANGMSG_5	你的矿镐已经完全损坏，你必须到 桃花隐士 那里购买新的矿镐才能继续挖矿。
+
+G_TONG_FIGURE_CALL_MASTER	帮主
+G_TONG_FIGURE_CALL_DIRECTOR	长老
+G_TONG_FIGURE_CALL_MANAGER	队长
+G_TONG_FIGURE_CALL_MEMBER	帮众
+G_TONG_FIGURE_CALL_RETIRE	隐士
+
+G_CORESHELL_0	\n<color=White>标价：<color=Yellow>
+G_CORESHELL_1	骑马时无法打坐！
+
+G_CORESHELL_STALL_0	\n<color=White>标价(收入)：<color=Green>
+G_CORESHELL_STALL_1	\n<color=White>卖价(含税)：<color=Yellow>
+G_CORESHELL_STALL_2	\n<color=White>卖价：<color=Yellow>
+G_CORESHELL_STALL_3	\n<color=DBlue>本地税率：%d%%\n
+
+G_STRING_ALLSKILLS	所有武功
+G_STRING_BRACKET_BEGIN	「
+G_STRING_BRACKET_END	」
+
+G_CITYWAR_WARNING_SETTAXTIME	当前不允许设置税率。每天可设置税率时段为：%d点 ~ %d点
+G_CITYWAR_WARNING_TAXALREADYSET1 	你已经设置过今天的税率了！！
+G_CITYWAR_WARNING_TAXALREADYSET	你已经设置过本周的税率了！！
+G_CITYWAR_WARNING_NOTTONGLEADER	你不是帮会帮主！！
+
+G_STRING_DISABLED_CHAT	你目前所在地可能属于特殊区域，不能使用此聊天频道
+G_STRING_ENTER_CHANNEL	系统公告：你加入了%s频道
+G_STRING_LEAVE_CHANNEL	系统公告：你离开了频道
+
+G_STRING_ANTIBOT_AFTERMSG	你受外挂的影响并未消除，在一定时间内，系统将不确保你获得的数据是正确的。
+G_STRING_ANTIBOT_CLEARMSG	受外挂的影响已消除，你现在获得的数据是正确的。
+G_STRING_ANTIBOT_STARTMSG	你正在使用外挂，系统将不确保你获得的数据是正确的。
+
+G_STRING_SONG	宋
+G_STRING_JIN	金
+
+G_STRING_MONEY	两
+G_STRING_FUYUAN	福缘
+G_STRING_COIN	铜钱
+G_STRING_SCORE	积分
+G_STRING_GOLDCOIN	铜钱
+G_STRING_HONOUR	荣誉点
+G_STRING_GOLDCOIN_SCORE	商会积分
+G_STRING_RESPECT	威望
+G_STRING_ENERGY	精炼石
+G_STRING_CONTRIBUTION	贡献度
+G_STRING_BUILDFUND	帮会建设度
+G_STRING_REFINING	精炼石
+G_STRING_ARENA_CREDITS	竞技场勋章
+
+G_STR_MOUSE_MAGIC_ITEM	你未使用白驹丸，所以无法使用自动打怪模式!
+G_STR_ONLY_JEWELRY	此物品框只能放入未绑定的首饰(项链,戒指,香囊,腰坠,玉佩)!
+G_STR_ONLY_CRYOLITE	此物品框只能放入没有叠加的玄晶矿石.
+G_STR_ONLY_PROPMINE	此物品框只能放入属性矿石(玄铁矿,秘银矿,朱砂矿,孔雀石,芙蓉石,钟乳石).
+G_STR_ONLY_EQUIP	此物品框只能放入未绑定的蓝/白色装备.
+G_STR_ONLY_MINE	此物品框只能放入没有叠加的玄晶矿石或属性矿石.
+G_STR_ONLY_BW_EQUIP	此物品框只能放入非首饰，未绑定的蓝/白色装备.
+G_STR_ONLY_PURPLE_EQUIP	此物品框只能放入未绑定的紫色装备.
+G_STR_ONLY_CONSUME	此物品框只能放入水晶,福缘露或神秘矿石.
+G_STR_ONLY_ORGMINE	此物品框只能放入没有叠加的玄晶矿石或原始属性矿石(玄铁原矿,秘银原矿,朱砂原矿,孔雀原石,芙蓉原石,钟乳原石).
+G_STR_ONLY_ATLAS	此物品框只能放黄金图谱或没有叠加的玄晶矿石.
+G_STR_ONLY_BOOK	此物品框只能放属性矿石或技能书.
+G_STR_NO_BINDITEM	绑定物品不能放入！
+
+G_STR_FORBIT_THROWITEM	保护你的游戏财富，某些贵重物品不可丢到地上
+
+G_STR_DUPEDITEM_MARK	你的 %s 为非法复制物品，已被作标记！
+G_STR_DUPEDITEM_DELETE	你的 %s 为非法复制物品，已被删除！
+
+G_STR_ITEM_ABRADETOZERO	你的 %s 已损坏，不能再使用，现在背包里。请到临安<神秘商人>处使用铜钱复原！
+G_STR_COPY_ITEM_WARNING	！！此物品为复制品，将会被系统没收！！\n防止受骗，请勿交易\n\n
+
+G_TIPS_PLAYEREVENT_KILLNPC	杀死 %s 的进度%d/%d
+
+G_STR_ORIGINAL_PRICE	物品原价：
+G_STR_ABATE_PRICE	物品促销价：
+G_STR_ABATE_BEGIN_DATE	打折日期从：
+G_STR_TO	至：
+G_STR_SELL_BEGIN_DATE	销售日期从：
+G_STR_ABATE_END	打折日期至：
+G_STR_SELL_END	销售日期至：
+G_STR_TEAMSHAREITEM_MODEPUNISH1	您的队友 %s 拾到了物品 %s
+G_STR_TEAMSHAREITEM_MODEPUNISH2	您在队伍中分享到物品 %s
+
+K_S_GOLD	金
+K_S_WOOD	木
+K_S_WATER	水
+K_S_FIRE	火
+K_S_EARTH	土
+
+K_C_BEGIN	新手
+K_C_JUSTICE	正派
+K_C_EVIL	邪派
+K_C_BALANCE	中立
+K_C_FREE	杀手
+K_C_ANIMAL	野兽
+K_C_EVENT	路人
+
+K_NPCRESNODE_0	头顶
+K_NPCRESNODE_1	脚底
+K_NPCRESNODE_2	循环
+K_NPCRESNODE_3	小地图
+
+K_NPC_0	人物名称
+
+K_REPAIRSCRIPT_FUNC_PRICE	get_repair_price
+K_REPAIRSCRIPT_FUNC_REPAIR	repair_equip
+K_CHAT_TEAM_DEFAULT_NAME	我的好友
+K_MATE_UNITNAME	配偶\n
+K_BROTHER_UNITNAME	亲人\n
+K_ENEMY_UNITNAME	仇人\n
+
+K_PLAYERCHAT_0	%04d.%02d.%02d
+K_PLAYERCHAT_1	%02d:%02d:%02d
+
+K_SCRIPTFUNC_GetAutoExpValue	AEXP_GetHangExpValue
+K_SCRIPTFUNC_AddAutoExp	AEXP_AddHangExp
+
+K_WEAPON_DETAILTYPE	具体类别
+
+K_KIND_FILE_SECT1	部件说明文件名
+K_KIND_FILE_SECT2	武器行为关联表1
+K_KIND_FILE_SECT3	武器行为关联表2
+K_KIND_FILE_SECT4	动作贴图顺序表
+K_KIND_FILE_SECT5	资源文件路经
+
+K_WEAPON_PARTICULARTYPE	详细类别
+K_WEAPON_SKILLID	对应物理技能编号
+
+K_MESSAGE_SYSTEM_ANNOUCE_HEAD	公告
+K_MESSAGE_ITEM_EXPIREDITEM1	您的道具[%s]将在%d小时%d分后到保质期，到时系统将自动删除该道具。
+K_MESSAGE_ITEM_EXPIREDITEM2	您的道具[%s]已过了保质期，系统自动将其删除！
+
+K_KIND_NAME_SECT	人物类型
+K_KIND_NAME_SPECIAL	特殊npc
+K_KIND_NAME_NORMAL	普通npc
+
+L_CANT_OPEN	无法打开%s
+L_TONG_TAX	<%s>城区税收金额: %u\r\n
+
+L_SHAREDATABASE_0	产生了一个宝物 %d, %d,%d\n
+L_SHAREDATABASE_1	产生了一个幸运之星 %s  %d, %d,%d\n
+L_SHAREDATABASE_2	产生了一个黄金怪物 %s  index = %d Sid=%d  %d, %d,%d\n
+
+L_EXCEPT_EXCUTE_RS	Exception Have Caught When Execute Relay Script !!!!!
+
+L_NPC_0	[数值]%s受到%d点原始毒伤害
+L_NPC_1	[数值]%s受到%d点原始魔法伤害
+L_NPC_2	[数值]%s实际伤害：%d
+L_NPC_3	[数值]%s返回伤害%d
+L_NPC_4	[数值]%s魔法盾吸收比例：%d
+L_NPC_5	[数值]%s闪过攻击
+L_NPC_6	[zroc]Npc(%d)ServerMove RegionIdx = %d
+L_NPC_7	Packing sync data ok...\n
+L_NPC_8	Packing sync data failed...\n
+L_NPC_9	[Sync]%d:%s<%d> request to %d. size:%d
+L_NPC_10	Packing player sync data ok...\n
+L_NPC_11	Packing player sync data failed...\n
+L_NPC_12	NpcID:%d  Life:%d\nRegionIndex:%d Pos:%d,%d\nPlayerNumber:%d\n
+L_NPC_13	NpcNumber:\n%02d,%02d,%02d\n%02d,%02d,%02d\n%02d,%02d,%02d
+L_NPC_14	[数值]AttackRating %d : Defense %d: RandomPercent (%d, %d)
+L_NPC_15	[error]致命错误,无法正确读取%s
+L_NPC_16	载入Npc%d模板请求非法！
+L_NPC_17	[Script]SetPos error:SubWorld:%d, Pos(%d, %d)
+L_NPC_18	[Map]World%d haven't been loaded!
+L_NPC_19	[Map]Change Pos(%d,%d) Invalid!
+L_NPC_20	[DEATH]SetMode:%d
+L_NPC_21	[DEATH] m_ProcessState: %d
+L_NPC_22	[DEATH] m_bExchangeServer: %d
+L_NPC_23	[DEATH] m_Doing: %d
+L_NPC_24	[DEATH] WaitForFrame TRUE
+L_NPC_25	[DEATH] WaitForFrame FALSE
+L_NPC_26	[error]%s Region Index < 0 when hurt
+L_NPC_27	[DEATH]On Hurt Finished
+L_NPC_28	[error]%s Region Index < 0 when dorevive
+
+L_NPC_29	被怪打死损失经验 %d\r\n
+L_NPC_30	被怪打死损失金钱 %d\r\n
+L_NPC_31	被玩家[%s]打死损失经验 %d\r\n
+L_NPC_32	被玩家[%s]打死损失金钱 %d\r\n
+
+
+L_NPCATTRIBM_0	[数值]%s冰伤害增加(%d)
+L_NPCATTRIBM_1	[数值]%s火伤害增加(%d)
+L_NPCATTRIBM_2	[数值]%s电伤害增加(%d)
+L_NPCATTRIBM_3	[数值]%s所有物理攻击力增加百分之%d
+L_NPCATTRIBM_4	[数值]%s远程物理攻击力增加百分之%d
+L_NPCATTRIBM_5	[数值]%s空手物理攻击力增加百分之%d
+L_NPCATTRIBM_6	[数值]%s近程物理攻击力增加百分之%d
+L_NPCATTRIBM_7	[数值]%s近程武器%d物理攻击力增加百分之%d
+L_NPCATTRIBM_8	[数值]%s毒状态变为：间隔%d帧发作一次%d伤害，共持续%d帧
+L_NPCATTRIBM_9	[数值]%s物理伤害力增加(%d)
+L_NPCATTRIBM_10	[数值]%s五防抗性增加%d
+L_NPCATTRIBM_11	[数值]%s所有技能加%d级，未完成
+L_NPCATTRIBM_12	[数值]%s命中率增加百分之%d(%d点)
+L_NPCATTRIBM_13	[数值]%s攻击速度增加%d
+L_NPCATTRIBM_14	[数值]%s施法速度增加%d
+L_NPCATTRIBM_15	[数值]%s当前阵营变为%d
+L_NPCATTRIBM_16	[数值]%s冰抗性增加了%d点
+L_NPCATTRIBM_17	[数值]%s致命一击百分比增加%d
+L_NPCATTRIBM_18	[数值]%s当前敏捷增加了%d点
+L_NPCATTRIBM_19	[数值]%s土系技能加%d级
+L_NPCATTRIBM_20	[数值]%s当前精力增加了%d点
+L_NPCATTRIBM_21	[数值]%s快速命中回复增加%d
+L_NPCATTRIBM_22	[数值]%s移动速度增加%d
+L_NPCATTRIBM_23	[数值]%s火系技能加%d级
+L_NPCATTRIBM_24	[数值]%s冰冻时间减少百分之%d
+L_NPCATTRIBM_25	[数值]%s震退百分比增加%d
+L_NPCATTRIBM_26	[数值]%s生命上限增加了百分之%d(%d点)
+L_NPCATTRIBM_27	[数值]%s生命上限增加了%d点
+L_NPCATTRIBM_28	[数值]%s生命回复速度增加了%d点
+L_NPCATTRIBM_29	[数值]%s生命增加了%d点
+L_NPCATTRIBM_30	[数值]%s电抗性增加了%d点
+L_NPCATTRIBM_31	[数值]%sMF值增加了%d,未完成
+L_NPCATTRIBM_32	[数值]%s内力上限增加了百分之%d(%d点)
+L_NPCATTRIBM_33	[数值]%s内力上限增加了%d点
+L_NPCATTRIBM_34	[数值]%s内力回复速度增加了%d点
+L_NPCATTRIBM_35	[数值]%s内力增加了%d点
+L_NPCATTRIBM_36	[数值]%s吸收伤害百分比为%d，持续%d帧
+L_NPCATTRIBM_37	[数值]%s近程物理伤害反弹百分比增加%d
+L_NPCATTRIBM_38	[数值]%s近程物理伤害反弹增加%d
+L_NPCATTRIBM_39	[数值]%s金系技能加%d级, 未完成
+L_NPCATTRIBM_40	[数值]%s物理抗性增加了%d点
+L_NPCATTRIBM_41	[数值]%s伤害转内力百分比增加了%d
+L_NPCATTRIBM_42	[数值]%s中毒伤害减少%d
+L_NPCATTRIBM_43	[数值]%s毒抗性增加了%d点
+L_NPCATTRIBM_44	[数值]%s中毒时间减少百分之%d
+L_NPCATTRIBM_45	[数值]%s远程伤害反弹增加%d
+L_NPCATTRIBM_46	[数值]%s远程伤害反弹百分比增加%d
+L_NPCATTRIBM_47	[数值]%s子弹减速状态变为%d
+L_NPCATTRIBM_48	[数值]%s体力上限增加了百分之%d(%d点)
+L_NPCATTRIBM_49	[数值]%s体力上限增加了%d点
+L_NPCATTRIBM_50	[数值]%s体力回复速度增加了%d点
+L_NPCATTRIBM_51	[数值]%s体力增加了%d点
+L_NPCATTRIBM_52	[数值]%s偷生命百分比为%d(比原本上升了%d点)
+L_NPCATTRIBM_53	[数值]%s偷内力百分比为%d(比原本上升了%d点)
+L_NPCATTRIBM_54	[数值]%s偷体力百分比为%d(比原本上升了%d点)
+L_NPCATTRIBM_55	[数值]%s当前力量增加了%d点
+L_NPCATTRIBM_56	[数值]%s眩晕时间减少%d
+L_NPCATTRIBM_57	[数值]%s视野范围增加%d
+L_NPCATTRIBM_58	[数值]%s当前活力增加了%d点
+L_NPCATTRIBM_59	[数值]%s水系技能加%d级，未完成
+L_NPCATTRIBM_60	[数值]%s木系技能加%d级，未完成
+L_NPCATTRIBM_61	[数值]%s火抗性增加了%d点
+L_NPCATTRIBM_62	[数值]%s防御增加了%d点
+L_NPCATTRIBM_63	[数值]%s冰增强增加了%d点
+L_NPCATTRIBM_64	[数值]%s火增强增加了%d点
+L_NPCATTRIBM_65	[数值]%s电增强增加了%d点
+L_NPCATTRIBM_66	[数值]%s毒增强增加了%d点
+L_NPCATTRIBM_67	[数值]%s喝了补血药，获得%d帧内每10帧回复%d点生命的效果
+L_NPCATTRIBM_68	[数值]%s喝了补内力药，获得%d帧内每10帧回复%d点内力的效果
+L_NPCATTRIBM_69	[数值]%s物理抗性上限增加了%d点
+L_NPCATTRIBM_70	[数值]%s冰抗性上限增加了%d点
+L_NPCATTRIBM_71	[数值]%s火抗性上限增加了%d点
+L_NPCATTRIBM_72	[数值]%s电抗性上限增加了%d点
+L_NPCATTRIBM_73	[数值]%s毒抗性上限增加了%d点
+L_NPCATTRIBM_74	[数值]%s五防抗性上限增加%d
+L_NPCATTRIBM_75	[数值]%s眩晕百分比增加%d
+L_NPCATTRIBM_76	[数值]%s致命一击抗性增加%d
+L_NPCATTRIBM_77	[数值]%s物理伤害增加(%d)
+L_NPCATTRIBM_78	[数值]%s状态免疫状态变为%d
+
+L_NPCSET_0	文件载入失败：%s，请通知研发人员进行处理！
+L_NPCSET_1	文件载入失败：%s
+L_NPCSET_3	[Script]Npc %s,%d
+L_NPCSET_4	[Request]Remove %d from %d on %d timeout
+L_NPCSET_5	[Request]Insert %d at %d on %d
+L_NPCSET_6	[Request]Remove %d from %d on %d
+L_NPCSET_7	                 %d:AddNpc:%d\n
+L_NPCSET_8	                 %d:RemoveNpc:%d %s\n
+L_NPCSET_9	Error!!!NpcCount is Full!!Can Not Add Any More!\n
+
+
+L_NPCTEMPLATE_0	无法找到%s\n
+L_NPCTEMPLATE_1	[%s]调用GetNpcLevelData函数的 传入参数[%s]有误，请检查\n
+L_NPCTEMPLATE_2	调用GetNpcLevelData函数的 传入参数[%s]有误，请检查\n
+L_NPCTEMPLATE_3	无找到该[%s]魔法的Id,请检查！
+
+L_PLAYER_1	[skill]right
+L_PLAYER_2	[skill]left
+L_PLAYER_3	[skill]return
+L_PLAYER_4	SubWorld Fail.\n
+L_PLAYER_5	NPC Fail.\n
+L_PLAYER_6	player Packing sync data failed...\n
+L_PLAYER_7	Load PlayerInfo Step %d Failed...\n
+L_PLAYER_8	player Packing skill sync data failed...\n
+L_PLAYER_9	[数值]%s实际增加经验%d点
+L_PLAYER_10	%s(%s)在%d循环捡了%d两银子\n
+L_PLAYER_11	%s\nSubWorld:%d\nReviveID:%d\nMpsX:%d\nMpsY:%d\n
+L_PLAYER_12	[%s][%s] sell %s(%s)(count:%d) to [%s][%s], GenTime:%u\r\n
+L_PLAYER_13	TradeTime: %d-%d %d:%d:%d\r\n\r\n
+L_PLAYER_14	%d/%d/%d %d:%d:%d
+L_PLAYER_15	%s\t%s\t%d\t%s\t%d\t%d\r\n
+L_PLAYER_16	Account %s, Player %s UseSilver Type = %d, UseType = %d, Count = %d\n
+L_PLAYER_17	Exception Have Caught When Execute Script[%d]!!!!!
+L_PLAYER_18	[trade]trade 与%s交易开始！
+L_PLAYER_19	[trade]trade 得到交易对方钱信息：%d
+L_PLAYER_20	[trade]trade 交易完成！
+L_PLAYER_21	[trade]trade 交易取消！
+
+L_PLAYER_22	捡取物品\r\n
+L_PLAYER_23	捡取金钱 %d\r\n
+L_PLAYER_24	丢弃物品\r\n
+L_PLAYER_25	玩家相互交易卖出物品给 [%s]\r\n
+L_PLAYER_26	玩家相互交易对方账号[%s]角色名[%s] 收入：%d 支出：%d\r\n
+L_PLAYER_27	玩家相互交易从[%s][%s]买入物品\r\n
+
+L_PLAYERCHAT_0	[chat]聊天数据包错误！
+L_PLAYERCHAT_1	player Packing friend sync data failed...\n
+L_PLAYERCHAT_2	player Packing friend 2 sync data failed...\n
+
+L_PLAYERSET_0	SERVER:Player[%s] has been removed!
+L_PLAYERSET_2	[error]Attach to a connected player named %s
+L_PLAYERSET_3	[error]Find Guid to a disconnect player
+L_PLAYERSET_4	%s 脚本无法加载，可能文件不存在或语法错误
+L_PlayerSet_AutohangItem	%s 获得了 %s\n
+L_PLAYER_TIRE_MSG1	您已经进入疲劳游戏时间，您的收益将降为正常值的50％，请您尽快下线休息，做适当身体活动。
+L_PLAYER_TIRE_MSG2	您已进入不健康游戏时间，请您立即下线休息。如不下线，您的身体健康将受到损害，您的收益已降为零。
+L_PLAYER_TIRE_MSG3	您累计在线时间已达到4小时50分，您将在10分钟后自动下线，请您提前做好准备，尽快下线。
+L_PLAYER_TIRE_MSG4	您累计在线时间已达到4小时59分，您将在1分钟后自动下线，请您提前做好准备，尽快下线。
+L_PLAYER_TIRE_MSG5	系统踢玩家掉线，要等明天才能登陆，重新计算当天在线时间。
+L_PLAYER_TIRE_MSG6	您目前正处于不健康游戏时间，你不可加潜点
+L_PLAYER_TIRE_MSG7	您目前正处于不健康游戏时间，你不可加技能点
+L_PLAYER_TIRE_MSG8	您目前正处于不健康游戏时间，此时不可加入/离开帮会
+L_PLAYER_TIRE_MSG9	您目前正处于不健康游戏时间
+L_PLAYER_TIRE_MSG10	您目前正处于不健康游戏时间，无法与本人物进行对话。
+L_PLAYER_TIRE_MSG11	您目前正处于不健康游戏时间，无法与任何人进行交易
+L_PLAYER_TIRE_MSG12	您目前正处于不健康游戏时间，无法购买任何商品
+L_PLAYER_TIRE_MSG13	摆摊的卖家目前正处于不健康时间，您无法购买他的商品
+
+
+
+L_PLAYERSTALL_0	Recv  c2s_stallmarkprice request
+L_PLAYERSTALL_1	Recv  c2s_stallmakeadv request
+L_PLAYERSTALL_2	Recv  c2s_stallstallbuyitem request
+L_PLAYERSTALL_3	Recv  c2s_stallexit request
+L_PLAYERSTALL_4	Recv  c2s_stallrequestadv request
+L_PLAYERSTALL_5	Recv  c2s_stallrequestiteminfo request
+L_PLAYERSTALL_6	In KPlayerStall::ProcessStallProtocol recv unknown protocol
+L_PLAYERSTALL_7	In KPlayerStall construcotr
+L_PLAYERSTALL_8	KPlayerStall::CheckItemPriceRange : some item price is not correctly\n
+L_PLAYERSTALL_9	KPlayerStall::GetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_10	KPlayerStall::SetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_11	KPlayerStall::CheckMakeStallCondition : you are in fight area\n
+L_PLAYERSTALL_12	KPlayerStall::CheckMakeStallCondition : No item in equitment room\n
+L_PLAYERSTALL_13	KPlayerStall::CheckMakeStallCondition : Player is on horse\n
+L_PLAYERSTALL_14	KPlayerStall::HasEnoughSpace : no enough space for Width = %d , Height = %d \n
+L_PLAYERSTALL_15	KPlayerStall::HasEnoughMoney : no enough Money  %d  \n
+L_PLAYERSTALL_16	KPlayerStall::HasThisItem : item haven't  existed , Itemidx = %d, nX = %d , nY = %d ,Price = %d  nIdx = %d\n
+L_PLAYERSTALL_17	KPlayerStall::HasThisItem : item couldn't be sell\n
+L_PLAYERSTALL_18	KPlayerStall::HasThisItem : price rise,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_19	KPlayerStall::HasThisItem : price down,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_20	KPlayerStall::c2sstallmarkprice : the item be priced number is error	
+L_PLAYERSTALL_21	Recv markprice item list:	
+L_PLAYERSTALL_22	Recv markprice protocol, but cann't fit the condition	
+L_PLAYERSTALL_23	Recv markprice protocol, but some item has a error price	
+L_PLAYERSTALL_24	KPlayerStall::c2sstallmarkprice : SellerID is 	
+L_PLAYERSTALL_25	KPlayerStall::c2sstallmarkprice : SellerID is error	
+L_PLAYERSTALL_26	Some marked item don't exist, something wrong??	
+L_PLAYERSTALL_27	Set seller %d to Stall_Sell_State\n,	m_nPlayerIndex);
+L_PLAYERSTALL_28	Recv  buy item info:	
+L_PLAYERSTALL_29	SellID = %d, ItemID= %d \n	
+L_PLAYERSTALL_30	[%02d:%02d:%02d]: %s<%s> 从 %s<%s> 处以 %d 的价格买走了 [%s]\r\n	
+L_PLAYERSTALL_31	[Unknown Time]: %s<%s> 从 %s<%s> 处以 %d 的价格买走了 [%s]\r\n	
+L_PLAYERSTALL_32	[%s]的生成时间是(%u)\r\n\r\n	
+L_PLAYERSTALL_33	从[Account:%s][Name:%s]的摆摊买入物品 支出：%d [%s]收入：%d 税金：%d\r\n	
+
+L_PlayerTrade_0	[trade]trade 得到交易状态信息：己方锁定 %d ，对方锁定 %d，己方确定 %d，对方确定 %d	
+L_BuySell_0	BuySell: %s buy idx error!
+L_BuySell_1	%s(%s)在%d循环卖了%s得到%d两银子\n
+L_BuySell_2	从npc买入物品 支出金钱：%d\r\n
+L_BuySell_3	从npc卖出物品 收入金钱：%d\r\n
+
+L_ITEM_0	%s (%s) 的装备被非正常清除\n
+
+L_ItemList_0	%s (%s) 获取%s (%s) 的装备%d\n
+L_ItemList_1	[ITEM] ItemListIdx:%d, Item:%d, ItemId:%d
+L_ItemList_2	%s (%s) 的装备%d清除时已经是%d所属的装备\n
+L_ItemList_3	[trade]trade 对方减少物品 id:%d  PosX:%d  PosY:%d  Width:%d  Height:%d
+L_ItemList_4	[trade]trade 此物品属性1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ItemList_5	[trade]trade 此物品属性2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_ItemList_6	[trade]trade 此物品属性3 MagicLevel: %d %d %d %d %d %d
+L_ItemList_7	[%s]设定储物箱密码！
+L_ItemList_8	GM设定[%s]的储物箱密码！
+L_ItemList_9	[%s]取消储物箱密码！
+L_ItemList_10	GM取消[%s]的储物箱密码！
+L_ItemList_11	[%s]修改储物箱密码！
+L_ItemList_12	GM锁定[%s]的储物箱！
+L_ItemList_13	GM解锁[%s]的储物箱！
+
+L_ItemList_14	死亡掉落物品\r\n
+L_ItemList_15	死亡掉落身上装备\r\n
+L_ItemList_16	丢弃所有药品\r\n
+L_ItemList_17	丢弃所有红药\r\n
+L_ItemList_18	丢弃所有蓝药\r\n
+L_ItemList_19	丢弃所有红蓝药\r\n
+L_ItemList_20	丢弃所有白药\r\n
+L_ItemList_21	丢弃所有绿药\r\n
+L_ItemList_22	%s(%s)的快捷栏物品 %s(%d,%d,%d,%d,%d) 载入错误，被清除\r\n
+
+L_ItemSet_0	%s 载入失败，请检查设定文件并通知研发人员！
+
+L_KLibOfBPT_0	[魔法属性]%s五防抗性上限增加%d
+L_KLibOfBPT_1	[魔法属性]m_CMAIT[前缀后缀][类型][五行][级别]\n
+L_KLibOfBPT_2	[魔法属性]m_CMAIT[%d][%d][%d][%d]: Count = %3d, %s  \n
+
+L_Core_0	无法打开\\settings\\gamesetting.ini文件 ，请检查!!\n
+L_Core_1	[Math]初始化数学函数失败!
+L_Core_2	[Script]脚本占空间为%d
+L_Core_3	无法打开%s文件!!!\n
+L_Core_4	人物模板数量%d
+L_Core_7	%sNpc等级设定脚本无法加载，可能文件不存在或语法错误
+
+L_ProtocolProcess_0	[trade]trade 对方增加物品客户端添加失败!!!
+L_ProtocolProcess_1	[trade]trade 对方增加物品 id:%d  PosX:%d  PosY:%d
+L_ProtocolProcess_2	[trade]trade 此物品属性1 Genre:%d  quality:%d Detail:%d  Particur:%d  Series:%d
+L_ProtocolProcess_3	[trade]trade 此物品属性2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+
+L_PLAYERDBFUN_0	[Error!]AddNpc Error DBFuns.cpp
+L_PLAYERDBFUN_1	ItemSet:%d, Load item failed!\n
+L_PLAYERDBFUN_2	[%s]\nPlayerName:(%s:%s)\tNpcName:(%s)\nMoney:(%d:%d)\nPos:(%d,%d,%d)\n
+L_PLAYERDBFUN_3	ItemName:%s, Ver:%d, Rand:%d, ID:%d, Param:(%d,%d,%d), GenTime:%d, Lvl:%d, Series:%d, Local(%d:%d:%d), Magic(%d,%d,%d,%d,%d,%d), Luck:%d, Dur:%d, MaxDur:%d\n
+L_PLAYERDBFUN_4	----\n%s\nItemList Index:%d\nItem Index:%d\nItem ID:%d\nItem Place:%d
+L_PLAYERDBFUN_5	----\n MenuState: %d TradeState: %d
+
+L_MissleSet_0	MissleSet Have Full!!!, It Maybe A Error!
+L_MissleSet_1	[Missle]Missle%dAdd
+L_MissleSet_2	[Missle]Missle%dRemove
+L_MissleSet_3	[Missle]Count%d
+
+L_SkillList_0	Npc的技能数量超过了限制50！！！，请检查!!!
+L_SkillList_1	Param2PCoordinate函数获得参数违法！nParam1 ,nParam2 [%d,%d], nPX,nPY
+L_SkillList_2	Skill::Cast(), nLauncher < 0 , Return False;
+L_SkillList_3	Call Skill::Cast(), nWaitTime < 0 
+L_SkillList_4	创建子弹贴图失败！！！%s
+
+L_Skills_0	无法读取技能设定脚本文件%s，请确认是否文件存在或脚本语法有误！
+L_Skills_1	致命错误！无法获得技能[%s]的设定脚本，请检查是否存在或语法有误！\n
+L_Skills_2	当获得该技能等级为%d（%s,%s）时，出错，请检查脚本!,
+
+L_ScriptFuns_0	Error!Say脚本对话过长，请更正。%s
+
+L_LuaFuns_0	无法找到指定的脚本对象
+
+L_SortScript_0	[脚本]加载脚本%s，出错，该脚本无法加载！！请检查！！
+L_SortScript_1	[脚本]严重错误!脚本数量超限制%d！请立即解决！！
+L_SortScript_2	[Script]脚本总容量超过%d,严重错误请检查!
+L_SortScript_3	加载%s文件出错
+
+L_CoreServerShell_0	[error]网络接收协议大小不匹配
+L_CoreServerShell_1	[error]网络接收协议大小不匹配<%d>, should %d, but %d\n
+
+L_GMCOMMAND_0	执行GM指令,发生异常!\n
+
+MSG_GET_EXP	您获得%I64d点经验值。
+MSG_DEC_EXP	您损失了%I64d点经验值。
+MSG_LEVEL_UP	您的等级提升至%d。
+MSG_LEADER_LEVEL_UP	您的统率等级提升至%d！
+MSG_GET_ATTRIBUTE_POINT	您获得%d点潜能！
+MSG_GET_SKILL_POINT	您获得%d个技能点！
+MSG_GET_ATTRIBUTE_SKILL_POINT	您获得%d点潜能和%d个技能点！
+MSG_SKILL_BEYOND_ATTACKRADIUS	您离目标点太远，当前使用武功的有效距离不够。
+MSG_GET_HALF_EXP	您正处于疲劳状态，只得到一半的经验值%d点。
+
+MSG_TEAM_AUTO_REFUSE_INVITE	自动拒绝他人对您的组队邀请。
+MSG_TEAM_NOT_AUTO_REFUSE_INVITE	显示他人对您的组队邀请。
+MSG_TEAM_SEND_INVITE	您向%s发出组队邀请！
+MSG_TEAM_CANT_INVITE	新手不能邀请其它阵营的人组队。
+MSG_TEAM_GET_INVITE	%s邀请您组队！
+MSG_TEAM_REFUSE_INVITE	%s拒绝了您的组队邀请！
+MSG_TEAM_CREATE	您创建了一支队伍。
+MSG_TEAM_CREATE_FAIL	队伍创建失败。
+MSG_TEAM_CANNOT_CREATE	您现在不能组队！
+MSG_TEAM_TARGET_CANNOT_ADD_TEAM	对方现在不能组队！
+MSG_TEAM_OPEN	您的队伍现在允许接收新队员。
+MSG_TEAM_CLOSE	您的队伍现在不允许接收新队员。
+MSG_TEAM_ADD_MEMBER	%s成为您的队友了。
+MSG_TEAM_SELF_ADD	您加入%s的队伍。
+MSG_TEAM_DISMISS_CAPTAIN	您解散了自己的队伍！
+MSG_TEAM_DISMISS_MEMBER	%s解散了队伍！
+MSG_TEAM_KICK_ONE	%s被开除出队伍！
+MSG_TEAM_BE_KICKEN	您被开除出队伍！
+MSG_TEAM_APPLY_ADD	%s申请加入队伍！
+MSG_TEAM_APPLY_ADD_SELF_MSG	您申请加入%s的队伍！
+MSG_TEAM_LEAVE	%s离开队伍。
+MSG_TEAM_LEAVE_SELF_MSG	您离开%s的队伍。
+MSG_TEAM_CHANGE_CAPTAIN_FAIL1	队长任命失败！
+MSG_TEAM_CHANGE_CAPTAIN_FAIL2	%s统帅力不够！
+MSG_TEAM_CHANGE_CAPTAIN_FAIL3	您的队伍不能移交给新手！
+MSG_TEAM_CHANGE_CAPTAIN	%s被任命为队长！
+MSG_TEAM_CHANGE_CAPTAIN_SELF	您被%s任命为队长！
+MSG_TEAM_AUTO_CAPTAIN_SELF	您被系统指定为队长！
+MSG_TEAM_AUTO_CAPTAIN	%s被系统指定为队长！
+MSG_TEAM_ERROR01	系统指定的队长，不能增加队伍成员！
+MSG_TEAM_ERROR02	系统指定的队长，不能踢人出队伍！
+MSG_TEAM_ERROR03	系统指定的队长，不能任命新队长！
+MSG_TEAM_ERROR04	系统指定的队长，不能邀请他人加入队伍！
+MSG_TEAM_ERROR05	系统指定的队长，不能开放队伍！
+
+MSG_CHAT_APPLY_ADD_FRIEND	您向%s申请好友。
+MSG_CHAT_FRIEND_HAD_IN	%s已被加为好友。
+MSG_CHAT_GET_FRIEND_APPLY	%s申请加为好友！
+MSG_CHAT_REFUSE_FRIEND	%s拒绝好友申请！
+MSG_CHAT_ADD_FRIEND_FAIL	添加%s为好友失败！
+MSG_CHAT_ADD_FRIEND_SUCCESS	您与%s成为好友！
+MSG_CHAT_CREATE_TEAM_FAIL1	好友分组创建失败！
+MSG_CHAT_CREATE_TEAM_FAIL2	已存在同名组！
+MSG_CHAT_CREATE_TEAM_FAIL3	已达最大分组数！
+MSG_CHAT_RENAME_TEAM_FAIL	组名修改失败！
+MSG_CHAT_DELETE_TEAM_FAIL1	组删除失败！
+MSG_CHAT_DELETE_TEAM_FAIL2	这个组不允许删除！
+MSG_CHAT_FRIEND_ONLINE	%s上线了！
+MSG_CHAT_FRIEND_OFFLINE	%s下线了！
+MSG_CHAT_FRIEND_DELETE	%s被删除了！
+MSG_CHAT_DELETE_FRIEND	您与%s解除了好友关系！
+MSG_CHAT_DISMISS_FRIEND	%s与您解除了好友关系！
+MSG_CHAT_DISMISS_BROTHER	%s与您解除了亲人关系！
+MSG_CHAT_DISMISS_MATE	%s与您解除了夫妻关系！
+MSG_CHAT_DISMISS_RELATION	%s与您解除了关系！
+MSG_CHAT_MSG_FROM_FRIEND	%s发来消息！
+MSG_CHAT_FRIEND_NOT_NEAR	%s不在附近！
+MSG_CHAT_FRIEND_NOT_ONLINE	%s不在线！
+MSG_CHAT_TAR_REFUSE_SINGLE_TALK	%s没有订阅私聊频道！
+
+MSG_SHOP_NO_ROOM	背包空间不足！
+MSG_SHOP_NO_MONEY	金钱不足！
+MSG_SHOP_NO_FUYUAN	福缘不足！
+MSG_SHOP_NO_COIN	铜钱不足！
+MSG_SHOP_NO_SCORE	积分不足！
+MSG_SHOP_NO_CONTRIBUTION	贡献度不足！
+MSG_SHOP_NO_RESPECT	威望不足！
+MSG_SHOP_NO_ENERGY	精炼石不足！
+MSG_SHOP_NO_REFINING	精炼石不足！
+MSG_SHOP_NO_GOLDCOIN_NEW	铜钱不足！
+MSG_SHOP_NO_ARENA_CREDITS	竞技场荣誉勋章不足！
+
+MSG_NPC_NO_MANA	内力不足！
+MSG_NPC_NO_STAMINA	体力不足！
+MSG_NPC_NO_LIFE	生命不足！
+MSG_NPC_DEATH	%s气绝身亡！！
+
+MSG_OBJ_CANNOT_PICKUP	您不能拾取别人的物品！
+MSG_MONEY_CANNOT_PICKUP	您不能拾取别人的钱！
+MSG_OBJ_TOO_FAR	物品太远，无法拾取！
+MSG_DEC_MONEY	您损失了%d两银子！
+MSG_EARN_MONEY	您获得了%d两银子！
+MSG_DEATH_LOSE_ITEM	您丢失了物品%s！
+MSG_ADD_ITEM	您获得了%d个%s！
+MSG_ITEM_SAME_DETAIL_IN_IMMEDIATE	快捷栏已经有同类型的物品了！
+MSG_CAN_NOT_VIEW_ITEM	现在不能察看他人装备！
+MSG_ITEM_DAMAGED	您装备的%s长期磨损，已经彻底损坏！
+MSG_ITEM_NEARLY_DAMAGED	您装备的%s已经接近损坏，请及时修理！
+MSG_ITEM_USINGTIMES_END	您的%s已经达到使用次数限制彻底损坏了！
+MSG_ITEM_UNFIT_SIZE_IMMEDIATE	快捷栏只能放置1×1大小的物品！
+MSG_ITEM_LEFTUSAGETIME_FADE	您的<color=yellow>%s<color>接近损坏，剩<color=yellow>%d<color>分钟使用时间！
+MSG_ITEM_LEFTUSAGETIME_TIMEOUT	您的 %s 已经彻底损坏！
+
+MSG_TRADE_STATE_OPEN	您现在可以交易。
+MSG_TRADE_STATE_CLOSE	您现在不能交易。
+MSG_TRADE_SELF_LOCK	您交易物品已经锁定。
+MSG_TRADE_SELF_UNLOCK	您交易物品解除锁定。
+MSG_TRADE_DEST_LOCK	%s交易物品已经锁定。
+MSG_TRADE_DEST_UNLOCK	%s交易物品解除锁定。
+MSG_TRADE_SUCCESS	您与%s交易成功。
+MSG_TRADE_FAIL	您与%s交易失败。
+MSG_TRADE_SELF_ROOM_FULL	您的背包空间不足！
+MSG_TRADE_DEST_ROOM_FULL	%s的背包空间不足！
+MSG_TRADE_SEND_APPLY	您向%s申请交易！
+MSG_TRADE_GET_APPLY	%s申请与您交易！
+MSG_TRADE_REFUSE_APPLY	%s拒绝与您交易！
+MSG_TRADE_TASK_ITEM	该物品不能交易！
+
+MSG_PK_NORMAL_FLAG_0	PK状态变为练功模式！
+MSG_PK_NORMAL_FLAG_1	PK状态变为战斗模式！
+MSG_PK_NORMAL_FLAG_2	PK状态变为屠杀模式！
+MSG_PK_FIGHT_FLAG	PK开关战斗模式打开
+MSG_PK_KILL_ALL_FLAG	PK开关屠杀模式打开
+MSG_PK_VALUE	您目前的PK值是%d！
+MSG_PK_ERROR_1	您现在处于非战斗状态！
+MSG_PK_ERROR_2	新手不能仇杀！
+MSG_PK_ERROR_3	您正与他人切磋！
+MSG_PK_ERROR_4	您正与他人仇杀！
+MSG_PK_ERROR_5	您不能仇杀新手！
+MSG_PK_ERROR_6	对方正处于非战斗状态！
+MSG_PK_ERROR_7	对方正与他人切磋！
+MSG_PK_ENMITY_SUCCESS_1	%s与您建立仇杀关系！
+MSG_PK_ENMITY_SUCCESS_2	10秒钟后仇杀开始执行！
+MSG_PK_ENMITY_CLOSE	您的仇杀关系结束！
+MSG_PK_ENMITY_OPEN	仇杀现在开始执行！
+MSG_PK_ERROR_8	PK非练功模式转换为练功模式需经过三分钟！
+MSG_PK_YUXI_1	您杀死了玉玺的拥有着，将受到2倍PK惩罚！
+MSG_PK_YUXI_2	您拥有玉玺，将不受PK惩罚！
+
+
+MSG_TONG_CREATE_ERROR01	帮会名过长！
+MSG_TONG_CREATE_ERROR02	帮会阵营错误！
+MSG_TONG_CREATE_ERROR03	帮会成员不能另外建立帮会！
+MSG_TONG_CREATE_ERROR04	杀手才能建立帮会！
+MSG_TONG_CREATE_ERROR05	建立帮会的等级不够！
+MSG_TONG_CREATE_ERROR06	建立帮会的统帅等级不够！
+MSG_TONG_CREATE_ERROR07	建立帮会需要 %d 金钱！
+MSG_TONG_CREATE_ERROR08	组队中，不能建立帮会！
+MSG_TONG_CREATE_ERROR09	帮会名错误！
+MSG_TONG_CREATE_ERROR10	建立帮会需要的金钱不够！
+MSG_TONG_CREATE_ERROR11	帮会名不合法或与别的帮会重名！
+MSG_TONG_APPLY_CREATE	您申请创建帮会！
+MSG_TONG_CREATE_SUCCESS1	帮会创建成功！
+MSG_TONG_CREATE_SUCCESS2	%s进入考验期！
+MSG_TONG_CREATE_SUCCESS3	请尽快扩大规模！
+MSG_TONG_INSTATE_FAIL_ID2	%s不在线，无法任命！
+MSG_TONG_INSTATE_FAIL_ID3	%s能力不够，无法担当新职位！
+MSG_TONG_CHANGE_JOB_CALL_ERROR1	称呼名过长！
+MSG_TONG_CHANGE_JOB_CALL_ERROR2	帮主才能修改称呼！
+MSG_TONG_CHANGE_JOB_CALL_ERROR3	帮主才能修改阵营！
+MSG_TONG_APPLY_ADD	您申请加入帮会！
+MSG_TONG_APPLY_ADD_ERROR1	帮会成员不能另外加入帮会！
+MSG_TONG_APPLY_ADD_ERROR2	杀手才能加入帮会！
+MSG_TONG_APPLY_ADD_ERROR3	组队中，不能加入帮会！
+MSG_TONG_REFUSE_ADD	%s拒绝您加入帮会！
+MSG_TONG_ADD_SUCCESS	您加入帮会！
+MSG_TONG_CANNOT_LEAVE1	帮主不能离开帮会！
+MSG_TONG_CANNOT_LEAVE2	长老不能离开帮会！
+MSG_TONG_BE_KICKED	您被踢出帮会！
+MSG_TONG_LEAVE_SUCCESS	您主动离开帮会成功！
+MSG_TONG_LEAVE_FAIL	您主动离开帮会失败！
+MSG_TONG_CHANGE_AS_MASTER	您被任命为帮主！
+MSG_TONG_CHANGE_AS_MEMBER	您现在成为普通帮众！
+MSG_TONG_DISMISS	您的帮会未通过考验期，被解散！
+MSG_TONG_CHANGE_CAMP_NO_MONEY	更改帮会阵营需交纳%d万手续费！
+MSG_TONG_CREATE_UNION_ERROR2	已处在联盟中，不能再建立联盟！
+MSG_TONG_CREATE_UNION_ERROR4	指定帮会不存在！
+MSG_TONG_CREATE_UNION_ERROR5	存在同名帮会或帮会联盟！
+MSG_TONG_CREATE_UNION_SUCCESS	您创建了一个空的帮会联盟！
+MSG_TONG_JOIN_UNION_ERROR1	您申请加入的联盟不存在或已被解散！
+MSG_TONG_NO_OPRIGHT	你没有此操作权限！
+MSG_ADD_CONTRIBUTION	你获得了%d点贡献度
+MSG_RIGHT_ASSIGN_NEED_DIRECTOR	对方不是长老，不能授权！
+MSG_TONG_TARGET_NOTMEMBER	对方不是本帮会成员！
+MSG_TONG_RIGHT_ASSIGN_SUCCESS	你已经成功给玩家：%s 授予了权限！
+MSG_TONG_SELF_RIGHT_ASSIGN		你的帮会操作权限已被帮主重新授予！
+MSG_TONG_NORIGHT_MEMBER_ONLINE	对方有相应权限的帮主或长老均不在线！
+
+MSG_TONG_ADD_UNIONMEMBER_ERROR1	联盟失败！盟主帮会的帮会基金不足！
+MSG_TONG_ADD_UNIONMEMBER_ERROR2	联盟失败！申请联盟帮会的帮会基金不足！
+
+MSG_CANT_SWITCH_HORSE	您太累了，还不能再次上下马。
+MSG_CANT_SWITCH_HORSE_WHEN_SIT	您坐下了，不能够上马。
+MSG_SOMEONE_GIVE_YOU_MONEY	%s给了你一些钱。
+MSG_YOU_GIVE_SOMEONE_MONEY	你给了%s一些钱。
+
+MSG_ENCHASER_SUCCESS	宝石镶嵌操作成功！
+MSG_ENCHASER_MAGICATTRIBISFULL	宝石镶嵌操作失败！
+MSG_ENCHASER_SERIESISSAME	宝石镶嵌操作失败！
+MSG_ENCHASER_LEVELISFULL	宝石镶嵌操作失败！
+MSG_ENCHASER_ITEMISINVALID	宝石镶嵌操作失败！
+MSG_ENCHASER_CONDITIONISVALID	宝石镶嵌操作失败！
+MSG_ENCHASER_UNCONDITION	宝石镶嵌操作失败！
+MSG_CANT_STALL_NO_MARK_PRICE	您还没有对任何物品进行标价！
+MSG_CANT_STALL_NO_ADV	请设置广告,长度为1-%d字符
+
+MSG_CANT_STALL_DISABLED	不允许摆摊！
+MSG_CANT_STALL_OUT_TOWN	您只能在城镇里进行摆摊！
+MSG_CANT_STALL_TRADE_OR_HORSE	骑马、组队或者交易时不能摆摊！
+MSG_STALL_OPENED	你开始摆摊了。
+MSG_STALL_CLOSED	你决定不再摆摊了。
+MSG_STALL_SELLER_CLOSE	摊主已经收摊了。
+MSG_STALL_ITEM_SELLED	该物品已经卖出。
+MSG_STALL_ITEM_PRICEUP	摊主已经提高了该物品的标价。
+MSG_STALL_SELLER_DONOTSELL	摊主已经不卖该物品了。
+MSG_STALL_ITEM_PRICEDOWN	摊主降低了该物品的标价。
+MSG_STALL_NOMONEY	您没有足够的钱。
+MSG_STALL_NOSPACE	您的物品栏没有空间了.
+MSG_STALL_ALL_SOLD_OUT	你的东西卖完了，可以收摊咯!
+MSG_STALL_TAX_RATE1	本地区的税率为 %d%%
+MSG_STALL_TAX_RATE2	官府会在您的每一笔成功交易里自动抽税。
+MSG_STALL_TAX_RATE3	您是统治者帮会成员，在城区内交易免税。
+MSG_STALL_LEVEL_NOT_ALLOW1	官告：为整洁市容和避免商业欺诈行为
+MSG_STALL_LEVEL_NOT_ALLOW2	官告：%d 级以下民众一律禁止摆摊！！
+MSG_STALL_TRADE_SUCCESS	<%s>买走了您摊位上的<%s>。
+MSG_STALL_CANNOT_STALL	摆摊失败，请检查：是否对[不可摆摊的物品]作了标价？
+
+MSG_BUYSELL_CANNOT_SELL	从npc卖出物品失败：此物品不可卖
+
+MSG_BOX_MUST_UNLOCK	此物品栏已锁定，请先解锁。
+MSG_PASSWORD_NULL	密码不能为空！
+
+MSG_BOX_JEWELRY_ONLY	此物品栏只能放入首饰。
+MSG_PRODUCE_NEW_FLAG	有一面新的旗帜产生了
+
+MSG_PARTNER_LEVEL_UP	%s等级提升至%d级了。
+MSG_PARTNER_GET_EXP	%s获得了%d点经验值。
+MSG_PARTNER_DEC_EXP	%s损失了%d点经验值。
+
+MSG_TONG_RIGHT_CLAIMWAR_ERROR	只有帮会帮主才能对外宣战，您没有权限对外宣战！
+MSG_TONG_UNION_CHANGE_FAIL_MSG	退出联盟后3天才能加入新的联盟,还需等待%d秒
+
+MSG_NW_KICKOUT_NOPERMISSION	您的职位不够权限将对方踢下线
+MSG_NW_KICKOUT_SUCCESS	您将%s踢下了线。
+MSG_NW_KICKOUT_NOTIFY	您被天子[%s]踢下了线。
+MSG_NW_INSTATE_NOTKING	只有国王才可以执行此项操作。
+MSG_NW_LEVYNOTIFY	天子向你征收了%d两银子。
+MSG_NW_LEVYAMOUNT	你向当前在线玩家征收到了%d两银子。
+MSG_NW_FORBIDCHAT	你已经被天子禁言，%d分钟后自动解除。
+MSG_NW_SEALOWNEDBYEMPEROR	江湖传言，玉玺现在由当今天子<color=red>%s<color>掌管。
+MSG_NW_SEALOWNEDBYOTHER	江湖传言，玉玺曾在<color=red>%s<color>手中出现过。
+MSG_NW_SEALISGONE	江湖传言，玉玺已经失踪了。
+
+G_CITYWARDATA_0	<最新一轮擂台对阵>\n
+G_CITYWARDATA_1	 决赛双方: 
+G_CITYWARDATA_2	 半决赛对阵: 
+G_CITYWARDATA_3	 第 %u 轮对阵: 
+G_CITYWARDATA_4	%s 对 %s
+G_CITYWARDATA_5	%s 胜 %s
+G_CITYWARDATA_6	<< %s 城区 >>\n
+G_CITYWARDATA_7	、
+G_CITYWARDATA_8	比赛尚未进行...
+G_CITYWARDATA_9	<挑战 %s 城区 - 擂台大战>\n  
+G_CITYWARDATA_10	  目前是和平时期\n
+G_CITYWARDATA_11	  城区擂台赛正在报名\n
+G_CITYWARDATA_12	  城区擂台赛程已公布\n
+G_CITYWARDATA_13	  城区擂台赛正在进行\n
+G_CITYWARDATA_14	  已经决出挑战者帮会 %s, 城市攻防战一触即发\n
+G_CITYWARDATA_15	  攻城战已经开始\n
+G_CITYWARDATA_16	  混沌时期\n
+G_CITYWARDATA_17	  本城区太守为 %s, 统领帮会 %s\n
+G_CITYWARDATA_18	  交易税率设定为 %u, 物价指数为 %u\n
+G_CITYWARDATA_19	  新税率尚未发布\n
+G_CITYWARDATA_20	  占领时间: %ld 天\n
+G_CITYWARDATA_21	  占领时间: ？\n
+G_CITYWARDATA_22	  本城仍没有太守\n
+
+MSG_IB_BUYITEM_GOLDCOIN_NOTENOUGH	你的铜钱不足，不能购买此物品。请到官网购买铜钱。
+MSG_IB_BUYITEM_GOLDCOIN_GAINRETSCORE	<color=yellow>你购买了<color=green>[%s]<color>，获得%d点商会积分<color>
+MSG_IB_BUYITEM_GOLDCOIN_TIMEOUT	你在<color=green>%d年%d月<color>的[%d]商会积分已过期，将被清空
+
+G_STR_SELL_RETSCORE	返还商会积分
+
+MSG_WORLDCHAT_NEEDMONEY	只有充值玩家才允许公聊
+
+G_EMPEROR_SONG	皇帝
+G_EMPEROR_JIN	可汗
+G_NWTITLE_ROYAL	御封
+G_NWTITLE_KING	国主
+G_NWTITLE_MINISTER	大丞相
+G_NWTITLE_MARSHAL	兵马大元帅
+G_NWTITLE_PIONEER	先锋官
+G_NWTITLE_SONG	宋·
+G_NWTITLE_JIN	金·
+
+G_FUNCTION_FOBIDDEN	对不起，此功能暂时关闭，开放时间敬请关注官方公告。
+
+G_UNKNOWNITEM_NAME	不明物品
+G_UNKNOWNITEM_SPR	\\spr\\item\\unknownitem.spr
+G_UNKNOWNITEM_INFO	您有新资源没有更新，物品不能正常显示！请及时进行自动更新！
+
+G_ITEM_EXCHANGE_VALUE	可以兑换装有<color=green>%d<color>个精炼石的精炼宝箱
+G_ITEM_FORTUNE_VALUE	兵甲财富值:<color=green>%d<color>
+MSG_SKILL_IS_NOT_IMMEDIA	该技能不是快捷技能，不能放到快捷栏上
+MSG_SKILL_EXISTS_IN_IMMEDIA	快捷栏上已经有该技能了
+MSG_ITEM_CANNOT_IN_IMMEDIATE	该类物品不能放到快捷栏上
+
+MSG_SKILL_CANNOT_PICKUP	不能拾取该技能
+
+G_TRIP_FORCERETURN	你被强制返回原服。
+G_TRIP_FORBID_EXCHANGE	申请跨区服期间禁止跨服。
+G_TRIP_RESULT_FAIL	跨区服失败，请稍后尝试
+G_TRIP_RESULT_SUCCESS	跨区服成功
+G_TRIP_RESULT_SERVERLOST	跨区服失败：目标区服未连接
+G_TRIP_RESULT_ALREADYAPPLY	正在申请跨区服，请耐心等待
+G_TRIP_RESULT_DENY	跨区服失败：目标区服拒绝
+G_TRIP_RESULT_ERROR	跨区服失败：系统错误
+G_TRIP_RESULT_INVALID	您目前不能申请跨区服
+G_TRIP_RESULT_LESSOFFLINETIME	跨区服失败：离线托管时间不足。
+G_TRIP_FINISH	结束跨区服状态。
+G_TRIP_RETURNFAIL	返回原区服失败，请稍后再尝试。
+G_TRIP_FIXERROR	跨服状态错误，正尝试修正，请稍后重新申请跨服。
+
+
+MSG_TONG_AUTO_REFUSE_LEVEL	你的等级太低，该帮会拒绝了你的申请！	

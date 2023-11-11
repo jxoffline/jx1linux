@@ -1,0 +1,8 @@
+Name	Type	Genre	Detail	Particular	Serise	Level	Param1	Param2	Param3	Param4	Param5	Param6	Proba	Costly	Msg	Log
+Phóc Duyªn Lé (§¹i) 	1	6	1	124	0	1	0						160000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phóc Duyªn Lé (Trung) 	1	6	1	123	0	1	0						200000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phóc Duyªn Lé (TiÓu) 	1	6	1	122	0	1	0						100000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn s¬n  B¶o Lé 	1	6	1	72	0	1	0						121400	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+B¸ch Qu¶ Lé 	1	6	1	73	0	1	0						100000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+ThiÕt La H¸n	1	6	1	23	0	1	0						10000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phi Phong	1	6	1	15	0	1	0						3000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1

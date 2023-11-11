@@ -1,0 +1,27 @@
+echo "[Gateway]" > servercfg.ini
+echo "Ip=$*" >> servercfg.ini
+echo "Port=5632" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[Database]" >> servercfg.ini
+echo "Ip=$*" >> servercfg.ini
+echo "Port=5001" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[Transfer]" >> servercfg.ini
+echo "Ip=$*" >> servercfg.ini
+echo "Port=5003" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[Chat]" >> servercfg.ini
+echo "Ip=$*" >> servercfg.ini
+echo "Port=5004" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[Tong]" >> servercfg.ini
+echo "Ip=$*" >> servercfg.ini
+echo "Port=5005" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[GameServer]" >> servercfg.ini
+echo "Port=6666" >> servercfg.ini
+echo "" >>servercfg.ini
+echo "[Overload]" >> servercfg.ini
+echo "MaxPlayer=900" >> servercfg.ini
+echo "Precision=100" >> servercfg.ini
+

@@ -1,0 +1,6 @@
+IS_HAVE_PET = "C¸c h¹ vÉn ch­a së h÷u B¹n §ång Hµnh nµo."
+GET_TAME_POINT_MSG = "NhËn ®­îc 1 ®iÓm tu luyÖn B¹n §ång Hµnh, sè ®iÓm hiÖn t¹i: "
+NEED_ITEM = "CÇn cã vËt phÈm Tu LuyÖn §¬n ®Ó ®æi Nh©n Sinh ThÇn Hoµn, c¸c h¹ cã thÓ t×m mua vËt phÈm nµy trªn Kú Tr©n C¸c."
+USE_ITEM_MAX_PER_DAY = "Mçi ngµy chØ cã thÓ sö dông vËt phÈm %s %d lÇn. Mai råi h·y tiÕp tôc."
+TRANSEXP_NOT_ENOUGH_EXP = "ChØ cã kinh nghiÖm lín h¬n %d míi cã thÓ ®æi vËt phÈm Nh©n Sinh ThÇn Hoµn, mçi lÇn ®æi sÏ tiªu tèn %d kinh nghiÖm.."
+NEED_FREE_BAG = "Yªu cÇu cã 2 « trèng trong hµnh trang ®Ó thùc hiÖn thao t¸c nµy"

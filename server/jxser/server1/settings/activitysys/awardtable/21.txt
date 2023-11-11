@@ -1,0 +1,4 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+21	QuyÓn tËp	"return {tbProp={6,1,2173,1,0,0},}"	3	100	137	4
+21	C©y bót	"return {tbProp={6,1,2174,1,0,0},}"	3	100	138	4
+21	Lä mùc xanh	"return {tbProp={6,1,2176,1,0,0},}"	1	100	139	4

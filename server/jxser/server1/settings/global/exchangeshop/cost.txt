@@ -1,0 +1,20 @@
+CostId	ParamKey	ParamDetail	Param1	Param2	Param3	Param4	Param5	Param6	Comment
+1	CURRENCY	1	1000						 l­îng
+2	CURRENCY	2	1000						Phóc Duyªn
+3	CURRENCY	3	1000						TiÒn ®ång
+4	CURRENCY	4	1000						TÝch lòy
+5	CURRENCY	10	1000						§é cèng hiÕn bang héi
+6	CURRENCY	11	1000						§iÓm vinh dù Liªn §Êu
+7	CURRENCY	12	1000						TÝch Lòy Xu
+8	CURRENCY	13	1000						Uy danh
+9	CURRENCY	14	10						Tinh LuyÖn Th¹ch
+10	CURRENCY	16	1000						Hu©n Ch­¬ng Vinh Dù C¶nh Kü Tr­êng
+11	CURRENCYITEM	17	10						Long LÖnh Kú
+12	CURRENCYITEM	18	10						L©n LÖnh Kú
+13	CURRENCYITEM	19	10						Quy LÖnh Kú
+14	CURRENCYITEM	20	10						Phông LÖnh Kú
+15	CURRENCYTASKVALUE	26	1000						§iÓm QuyÓn
+16	ITEM		6	1	4546	1	10		§¹o cô Tinh Ngäc
+17	CUSTOM	1	20						§é cèng hiÕn n¨ng ®éng c¸ nh©n
+18	CUSTOM	1	50						§é cèng hiÕn n¨ng ®éng c¸ nh©n
+19	CUSTOM	1	25000						§é cèng hiÕn n¨ng ®éng c¸ nh©n

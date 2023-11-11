@@ -1,0 +1,167 @@
+ActionName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	JumpFly	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+Th©n Th” 01																																																																											
+Th©n Th” 02																																																																											
+Th©n Th” 03																																																																											
+Th©n Th” 04																																																																											
+Th©n Th” 05																																																																											
+Th©n Th” 06																																																																											
+Th©n Th” 07																																																																											
+Th©n Th” 08																																																																											
+Th©n Th” 09																																																																											
+Th©n Th” 10																																																																											
+Th©n Th” 11																																																																											
+Th©n Th” 12																																																																											
+Th©n Th” 13																																																																											
+Th©n Th” 14																																																																											
+Th©n Th” 15																																																																											
+Th©n Th” 16																																																																											
+Th©n Th” 17																																																																											
+Th©n Th” 18																																																																											
+Th©n Th” 19																																																																											
+Th©n Th” 20																																																																											
+Th©n Th” 21																																																																											
+Th©n Th” 22																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 23																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 24																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 25																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 26																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 27																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 28																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 29																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 30																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 31																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 32																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 33																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 34																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 35																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 36																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 37																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 38																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 39																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 40																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 41																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 42																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Th©n Th” 43																																																																											
+Th©n Th” 44																																																																											
+Th©n Th” 45																																																																											
+Th©n Th” 46																																																																											
+Th©n Th” 47																																																																											
+Th©n Th” 48 thi’u l©m																																																																											
+Th©n Th” 49 thi™n v≠¨ng																																																																											
+Th©n Th” 50 thÛy y™n																																																																											
+Th©n Th” 51 Æ≠Íng m´n																																																																											
+Th©n Th” 52 c∏I bang																																																																											
+Th©n Th” 53 thi™n nh©n																																																																											
+Th©n Th” 54 c´n l´n																																																																											
+Th©n Th” 55																																																																											
+Th©n Th” 56																																																																											
+Th©n Th” 57																																																																											
+Th©n Th” 58																																																																											
+Th©n Th” 59																																																																											
+Th©n Th” 60																																																																											
+Th©n Th” 61																																																																											
+Th©n Th” 62																																																																											
+Th©n Th” 63																																																																											
+Th©n Th” 64																																																																											
+Th©n Th” 65																																																																											
+Th©n Th” 66																																																																											
+Th©n Th” 67																																																																											
+Th©n Th” 68																																																																											
+Th©n Th” 69																																																																											
+Th©n Th” 70																																																																											
+Th©n Th” 71																																																																											
+Th©n Th” 72																																																																											
+Th©n Th” 73																																																																											
+Th©n Th” 74																																																																											
+Th©n Th” 75																																																																											
+Th©n Th” 76																																																																											
+Th©n Th” 77																																																																											
+Th©n Th” 78																																																																											
+Th©n Th” 79																																																																											
+Th©n Th” 80																																																																											
+Th©n Th” 81																																																																											
+Nguy÷t Khuy’t Tr‰ng Ki’p Cµ Sa																																																																											
+Nguy÷t Khuy’t S∏t Ki’p Cµ Sa																																																																											
+Nguy÷t Khuy’t Ph∏ Ki’p Cµ Sa																																																																											
+Nguy÷t Khuy’t Ph n VÚ Kh∂i																																																																											
+Nguy÷t Khuy’t Phong Y™n  Kh∂i																																																																											
+Nguy÷t Khuy’t Tr≠Íng Kh´ng Kh∂i																																																																											
+Nguy÷t Khuy’t Kinh HÂng Ngh™ Th≠Íng VÚ Y																																																																											
+Nguy÷t Khuy’t Hi”u Nguy÷t Tuy’t Ti™u Y																																																																											
+Nguy÷t Khuy’t T≠¨ng T≠ ˚ La Sam																																																																											
+Nguy÷t Khuy’t Phong Nguy÷t Th∏i ßi÷p Y																																																																											
+Nguy÷t Khuy’t B∏ch ßÈc CÊ Y																																																																											
+Nguy÷t Khuy’t U Minh HÈ Gi∏p																																																																											
+Nguy÷t Khuy’t Th´i M÷nh Gi∏p																																																																											
+Nguy÷t Khuy’t B› ßÈc Gi∏p Y																																																																											
+Nguy÷t Khuy’t Mπn ßÂ Gi∏p Y																																																																											
+Nguy÷t Khuy’t X›ch Long C∏i Y																																																																											
+Nguy÷t Khuy’t Hµo Ki÷t C∏i Y																																																																											
+Nguy÷t Khuy’t Tham Lang Gi∏p																																																																											
+Nguy÷t Khuy’t Li÷t D≠¨ng Gi∏p Y																																																																											
+Nguy÷t Khuy’t Linh ßÈng ßπo Bµo																																																																											
+Nguy÷t Khuy’t ∂o ∂nh ßπo Bµo																																																																											
+Nguy÷t Khuy’t L®ng Phong ßπo Bµo																																																																											
+Nguy÷t Khuy’t MÈc VÚ ßπo Bµo																																																																											
+Nguy÷t Khuy’t DÀt ∂nh Y																																																																											
+Nguy÷t Khuy’t Thanh Phong Y																																																																											
+Di÷u D≠¨ng MÈng Long Cµ Sa																																																																											
+Di÷u D≠¨ng PhÙc Ma Cµ Sa																																																																											
+Di÷u D≠¨ng T≠ Kh´ng Cµ Sa																																																																											
+Di÷u D≠¨ng H∏m Thi™n Kh∂i																																																																											
+Di÷u D≠¨ng K’ Nghi÷p Kh∂i																																																																											
+Di÷u D≠¨ng Ng˘ Long Kh∂i																																																																											
+Di÷u D≠¨ng V´ Gian Ngh™ Th≠Íng VÚ Y																																																																											
+Di÷u D≠¨ng V´ Ma Tuy’t Ti™u Y																																																																											
+Di÷u D≠¨ng T™ Hoµng KhÎi La Sam																																																																											
+Di÷u D≠¨ng B›ch H∂i Th∏i ßi÷p Y																																																																											
+Di÷u D≠¨ng U Lung CÊ Y																																																																											
+Di÷u D≠¨ng Minh ∂o HÈ Gi∏p																																																																											
+Di÷u D≠¨ng B®ng Hµn Gi∏p																																																																											
+Di÷u D≠¨ng Thi™n Quang Gi∏p Y																																																																											
+Di÷u D≠¨ng S©m Hoang Gi∏p Y																																																																											
+Di÷u D≠¨ng ßÂng Cıu C∏i Y																																																																											
+Di÷u D≠¨ng ßﬁch Kh∏i C∏i Y																																																																											
+Di÷u D≠¨ng Ma S∏t Gi∏p																																																																											
+Di÷u D≠¨ng Ma Hoµng Gi∏p Y																																																																											
+Di÷u D≠¨ng L®ng Nhπc ßπo Bµo																																																																											
+Di÷u D≠¨ng CÀp Phong ßπo Bµo																																																																											
+Di÷u D≠¨ng S≠¨ng Tinh ßπo Bµo																																																																											
+Di÷u D≠¨ng L´i Khung ßπo Bµo																																																																											
+Di÷u D≠¨ng PhÔ V©n Y																																																																											
+Di÷u D≠¨ng Xung V©n Y																																																																											
+Anh Hµo La H∏n Cµ Sa																																																																											
+Anh Hµo PhÀt ßµ Cµ Sa																																																																											
+Anh Hµo Kim Cang Cµ Sa																																																																											
+Anh Hµo Tˆ Kim Kh∂i																																																																											
+Anh Hµo HÊ ß«u Kh∂i																																																																											
+Anh Hµo ßπi L˘c Kh∂i																																																																											
+Anh Hµo V´ Sæc Sa Y																																																																											
+Anh Hµo Tuy’t Sæc Tr≠Íng Sam																																																																											
+Anh Hµo TË La Sam																																																																											
+Anh Hµo B›ch La Sam																																																																											
+Anh Hµo Ban Lan MÀt Trang																																																																											
+Anh Hµo LÙc Quang MÀt Trang																																																																											
+Anh Hµo B› Linh Gi∏p																																																																											
+Anh Hµo Tµn V©n Gi∏p																																																																											
+Anh Hµo Phi Tinh Gi∏p Y																																																																											
+Anh Hµo Tr≠Íng Phong C∏i Y																																																																											
+Anh Hµo Li™n Hoa C∏i Y																																																																											
+Anh Hµo L÷ ¢m Gi∏p Y																																																																											
+Anh Hµo Nghi÷p H·a Gi∏p Y																																																																											
+Anh Hµo Th∏i C˘c ßπo Bµo																																																																											
+Anh Hµo Linh Ch©n ßπo Bµo																																																																											
+Anh Hµo Bπch HÂng ßπo Bµo																																																																											
+Anh Hµo Tˆ ßi÷n ßπo Bµo																																																																											
+Anh Hµo Th≠¨ng Lan Y																																																																											
+Anh Hµo B›ch Hoa Y																																																																											
+Œ‰ªÍ◊Û ÷1																																																																											
+Œ‰ªÍ◊Û ÷2																																																																											
+Œ‰ªÍ◊Û ÷3																																																																											
+Œ‰ªÍ◊Û ÷4																																																																											
+”¢∫¿÷ÆŒ‰ªÍ∂‹∑®																																																																											
+”¢∫¿÷ÆŒ‰ªÍµ∂∑®																																																																											
+Â–“£Ã◊◊∞1																																																																											
+Â–“£Ã◊◊∞2																																																																											
+Â–“£Ã◊◊∞3																																																																											
+Â–“£Ã◊◊∞4																																																																											

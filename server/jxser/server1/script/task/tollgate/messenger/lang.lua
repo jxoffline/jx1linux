@@ -1,0 +1,1 @@
+MSG_CONSUME_ITEM2813_FAIL = "Thiªn B¶o Khè LÖnh cña ng­¬i ®©u sao ta kh«ng thÊy?"

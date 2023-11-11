@@ -1,0 +1,161 @@
+Id	BossName	BossInfo
+1	Tr¸c L·nh CÇm	trong Phôc L­u ®éng (193,184) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+2	Tiªu Thiªn Ng¹o	trong Phôc L­u ®éng (177,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+3	Môc Minh KiÖt	trong Phôc L­u ®éng (205,193) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+4	TÊt V­u Phãng	trong Phôc L­u ®éng (217,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+5	Lôc Cöu U	trong KiÕm C¸c Trung Nguyªn (200,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+6	Bé Hiªu TrÇn	trong KiÕm C¸c Trung Nguyªn (214,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+7	Cèc KiÕm Thu	trong KiÕm C¸c Trung Nguyªn (225,191) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+8	ThiÖu Hoa Dung	trong KiÕm C¸c Trung Nguyªn (223,171) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+9	Quan Tö M¹c	Trong B¹ch Thñy ®éng (210,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+10	Bµnh ThÝch H¶i	trong B¹ch Thñy ®éng (200,192) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+11	BÝch Phï B×nh	trong B¹ch Thñy ®éng (197,199) .. Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+12	Tr­îng L·nh s¬n 	trong B¹ch Thñy ®éng ( (199,205) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+13	Tiªu KiÕm TuyÕt	trong Háa Lang ®éng (189,192) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+14	Kha ThiÕu Gia	trong Háa Lang ®éng (195,180) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+15	Ch­ëng B¸t Ph­¬ng	trong Háa Lang ®éng (215,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+16	Méng Êt  Phi	trong Háa Lang ®éng (212,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+17	T­ §å TuyÖt Chñy	trong M·nh Hæ ®éng (224,220) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+18	Th­îng Quan L·ng	trong M·nh Hæ ®éng (214,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+19	D­¬ng Thanh Èn	trong M·nh Hæ ®éng (203,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+20	Ngôy Chiªm Th©n	trong M·nh Hæ ®éng (213,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+21	§µo §o¹t Thu	trong Kim Quang ®éng (197,187) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+22	Xµ B¸ §«ng 	trong Kim Quang ®éng (219,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+23	L­¬ng T­ Nam 	trong Kim Quang ®éng (218,185) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+24	Tr¸c ThÊt Lang	trong Kim Quang ®éng (192,180) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+25	KiÒu §Ønh Thiªn	trong B¹ch V©n ®éng (215,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+26	Träng V« CÊp 	trong B¹ch V©n ®éng (223,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+27	KhÝ CÇm SÜ 	trong B¹ch V©n ®éng (236,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+28	§inh V¨n Dôc	trong B¹ch V©n ®éng (215,209) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+29	Phong Ngò Ên	trong YÕn Tö ®éng (171,219) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+30	Khang  BÊt Hèi	trong YÕn Tö ®éng (180,209) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+31	Ph­¬ng Dùc Viªm	trong YÕn Tö ®éng (206,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+32	Ninh T©m Cuång	trong YÕn Tö ®éng (202,220) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+33	H×nh Phô Sinh	trong tÇng 1 D­îc V­¬ng ®éng (196,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+34	Ho¾c TrÊn Phi	trong tÇng 1 D­îc V­¬ng ®éng (194,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+35	Qu¶n V« YÕm	trong tÇng 1 D­îc V­¬ng ®éng (207,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+36	DiÖp VÜnh ¢n	trong tÇng 1 D­îc V­¬ng ®éng (204,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+37	¢u chÝ Phong	trong Vò Di s¬n (156,185) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+38	§éc C« HiÖp 	trong Vò Di s¬n (114,166) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+39	H¹ng Phï Nhai	trong Vò Di s¬n (120,169) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+40	Nghª §¹i Chu	trong Vò Di s¬n (180,198) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+41	Du Th¸n Giang 	trong Kinh Hoµng ®éng (202,217) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+42	H¹ Hïng Phi	trong Kinh Hoµng ®éng (180,211) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+43	Tèng Vò Phong	trong Kinh Hoµng ®éng (200,205) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+44	Lé Th­îng Nh©n	trong Kinh Hoµng ®éng (219,226) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+45	NhËm T«ng Hoµnh	trong Phông Nh·n ®éng (220,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+46	Hµn Khanh Long	trong Phông Nh·n ®éng (220,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+47	Tr× PhÈm Ch©n	trong Phông Nh·n ®éng (205,182) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+48	Chung ThiÕt Thèi	trong Phông Nh·n ®éng (190,183) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+49	§iªu DÞch §ao	trong ThÇn Tiªn ®éng (212,198) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+50	§å Tµn Sinh	trong ThÇn Tiªn ®éng (221,192) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+51	Bµng V« TÜnh	trong ThÇn Tiªn ®éng (233,198) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+52	Lý Hoa §é	trong ThÇn Tiªn ®éng (221,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+53	ThÝch ¶nh Sa	trong Kª Qu¸n ®éng (192,188) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+54	Nguy Nh©n Tö 	trong Kª Qu¸n ®éng (191,174) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+55	Cè ViÔn Khª 	trong Kª Qu¸n ®éng (211,185) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+56	Tang Ninh Cèc	trong Kª Qu¸n ®éng (207,193) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+57	Diªm Tù H÷u	trong KiÕn TÝnh Phong s¬n  ®éng (217,185) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+58	§µm Thiªn Béc	trong KiÕn TÝnh Phong s¬n  ®éng (226,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+59	Th¹ch Cè KiÒu	trong KiÕn TÝnh Phong s¬n  ®éng (201,193) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+60	øng Th¸i HiÖp	trong KiÕn TÝnh Phong s¬n  ®éng (192,181) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+61	M¹nh §¹p Hång	trong MËt ®¹o TÝn T­íng tù (224,198) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+62	¢n  Tøc HËn	trong MËt ®¹o TÝn T­íng tù (215,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+63	Ho¾c Thanh S­¬ng	trong MËt ®¹o TÝn T­íng tù (212,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+64	Miªn T­ §¹o	trong MËt ®¹o TÝn T­íng tù (222,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+65	TiÕu Väng Du	trong H­ëng Thñy ®éng (224,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+66	Cao N·i Kho¸t	trong H­ëng Thñy ®éng (237,205) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+67	M¹nh Tö  Vò 	trong H­ëng Thñy ®éng (244,211) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+68	§­êng NghÜa Chi	trong H­ëng Thñy ®éng (258,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+69	L©u Vi ThiÖn	trong Thiªn T©m ®éng (199,183) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+70	Lç Tranh Tranh	trong Thiªn T©m ®éng (190,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+71	Sö Tiªu s¬n 	trong Thiªn T©m ®éng (204,187) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+72	T©y M«n V« Giíi	trong Thiªn T©m ®éng (213,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+73	Giíi T×nh ChØ 	trong s¬n  ®éng d­íi ®¸y §éng §×nh Hå (215,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+74	L«i HuyÔn Kh¸ch	trong s¬n  ®éng d­íi ®¸y §éng §×nh Hå (212,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+75	DiÖp Ngò Long	trong s¬n  ®éng d­íi ®¸y §éng §×nh Hå (229,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+76	TiÕt TiÓu B¸ch	trong s¬n  ®éng d­íi ®¸y §éng §×nh Hå (207,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+77	MËu TuÊt Nhung	trong Ngäc Hoa ®éng (215,210) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+78	D­¬ng DiÔm Qu©n	trong Ngäc Hoa ®éng (221,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+79	Du Tiªu C­êng	trong Ngäc Hoa ®éng (192,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+80	C« Dù  TÈu	trong Ngäc Hoa ®éng (185,216) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+81	U«ng  ThÖ Thñy	trong tÇng 1 Thiªn TÇm th¸p (223,195) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+82	YÕn L­u  Sanh	trong tÇng 1 Thiªn TÇm th¸p (222,183) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+83	Tang Th­¬ng H¶i	trong tÇng 1 Thiªn TÇm th¸p (215,192) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+84	Bå ThËp Tam 	trong tÇng 1 Thiªn TÇm th¸p (196,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+85	HËu  KhÊt KiÕm	trong tÇng  2 T­êng V©n ®éng (208,188) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+86	HËu YÕn T©n	trong tÇng  2 T­êng V©n ®éng (191,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+87	ThiÖu ThÊt S¸t	trong tÇng  2 T­êng V©n ®éng (207,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+88	Du V¹n Lý 	trong tÇng  2 T­êng V©n ®éng (210,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+89	Cõu DuÉn Sam	ë Hoµnh s¬n  ph¸i (183,215) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+90	Th­îng Quan ChÊt	ë Hoµnh s¬n  ph¸i (192,211) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+91	T¸i ViÔn B¹c	ë Hoµnh s¬n  ph¸i (188,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+92	T­ëng HuyÒn ViÔn	ë Hoµnh s¬n  ph¸i (203,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+93	KhuÊt Léc Vinh	trong tÇng 4 TuyÕt B¸o ®éng (192,206) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+94	L« Qu¸n B¾c 	trong tÇng 4 TuyÕt B¸o ®éng (195,205) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+95	Gi¶i Qui Nam 	trong tÇng 4 TuyÕt B¸o ®éng (195,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+96	Tïng V« ¶nh	trong tÇng 4 TuyÕt B¸o ®éng (203,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+97	TiÔn Thª Thanh 	trong D­¬ng Gi¸c ®éng (191,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+98	B¹ch Th­¬ng Nham	trong D­¬ng Gi¸c ®éng (206,184) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+99	BiÖn L­u ThiÖn	 trong D­¬ng Gi¸c ®éng (221,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+100	Th¸i Tinh ThÇn	trong D­¬ng Gi¸c ®éng (207,209) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+101	H¹ng LÖnh Ti	trong L·o Hæ ®éng (200,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+102	Tµo Nh©n  Phñ 	trong L·o Hæ ®éng (213,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+103	Tr×nh Phóc Ba	trong L·o Hæ ®éng (197,210) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+104	§Æng An Khuª 	trong L·o Hæ ®éng (194,206) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+105	øng  Tiªu Phong	trong Linh Cèc ®éng (208,195) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+106	Th­¬ng TriÒu S­¬ng	trong Linh Cèc ®éng (219,198) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+107	Phïng Song Dùc	trong Linh Cèc ®éng (198,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+108	Phã Kh©u Tu	trong Linh Cèc ®éng (201,190) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+109	L¹c Long HiÒn	trªn L©m Du Quan (207,206) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+110	Cæ Thanh D­¬ng	trªn L©m Du Quan (232,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+111	Quan Thiªn VÊn	trªn L©m Du Quan (241,227) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+112	H¹ ThiÕu Hïng	trªn L©m Du Quan (226,213) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+113	T« Cæ Ng©m	trong §¹i Tï ®éng (203,195) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+114	Hå NhÊt Lang	trong §¹i Tï ®éng (225,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+115	Hoµng V¹n KiÕp	trong §¹i Tï ®éng (198,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+116	Giang TrÇm Nh¹n 	trong §¹i Tï ®éng (195,186) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+117	C¶nh Dung Phôc	Trong S¬n B¶o ®éng (206,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+118	Kh­¬ng Tù Dao	trong S¬n B¶o ®éng (198,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+119	Khæng Dong Nh©n	trong S¬n B¶o ®éng (229,191) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+120	L¨ng TËn Trung	trong S¬n B¶o ®éng (201,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+121	DiÖp øc Anh	trong B¨ng Hµ ®éng (221,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+122	L¹c NhÜ Kim	trong B¨ng Hµ ®éng (206,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+123	M¹c Nam Tróc	trong B¨ng Hµ ®éng (212,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+124	TÇn Tö Du	trong B¨ng Hµ ®éng (229,210) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+125	C« V« Th­êng	trong Nh¹n Th¹ch ®éng (218,187) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+126	LiÔu Tø Gia	trong Nh¹n Th¹ch ®éng (231,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+127	Thi §¹i ThiÕu	trong Nh¹n Th¹ch ®éng (219,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+128	T«n V¨n B­u 	trong Nh¹n Th¹ch ®éng (209,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+129	§ång BÊt Phôc	trong Phï Dung ®éng (193,177) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+130	§­êng B¸c V¨n	trong Phï Dung ®éng (214,182) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+131	§µo §¶o Chñ 	trong Phï Dung ®éng (201,196) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+132	§iÒn V« §¹o	trong Phï Dung ®éng (189,166) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+133	Viªn NiÖm TÞch	trong L­ìng Thñy ®éng (199,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+134	TrÞnh Tr¸c QuÇn	trong L­ìng Thñy ®éng (203,185) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+135	Ch­¬ng Nguyªn Sïng	trong L­ìng Thñy ®éng (212,189) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+136	T¹ Träng HËu	trong L­ìng Thñy ®éng (211,201) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+137	Vu Cöu  §å	trong tÇng 3 D­îc V­¬ng ®éng (192,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+138	Viªn Thiªn Thä 	trong tÇng 3 D­îc V­¬ng ®éng (191,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+139	Nh¹c Th­îng C«n	trong tÇng 3 D­îc V­¬ng ®éng (205,195) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+140	Chiªm Phóc V©n	trong tÇng 3 D­îc V­¬ng ®éng (204,203) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+141	Gi¶ Giíi Nh©n	trong TiÕn Cóc ®éng (205,204) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+142	TrÞnh Cöu NhËt	trong TiÕn Cóc ®éng (205,191) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+143	Chu Së B¸ 	trong TiÕn Cóc ®éng (217,200) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+144	Trang Minh Trung	trong TiÕn Cóc ®éng (201,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+145	Cam ChÝnh C« 	trong Sa M¹c s¬n  ®éng (198,207) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+146	Vò NhÊt ThÕ 	trong Sa M¹c s¬n  ®éng (157,202) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+147	D­¬ng Phong  DËt	trong Sa M¹c s¬n  ®éng (181,211) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+148	Hµ Sinh Vong	trong Sa M¹c s¬n  ®éng (178,194) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+149	T¨ng ChØ ãan	trong Kho¶ Lang ®éng (213,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+150	VÖ Biªn Thµnh	trong Kho¶ Lang ®éng (219,195) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+151	Cè Thñ §»ng	trong Kho¶ Lang ®éng (228,199) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+152	Gia C¸t Kinh Hång	trong Kho¶ Lang ®éng (204,197) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+153	Phan Ng¹t Nh¹n	ë Tr­êng B¹ch nam (156,187) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+154	Liªn H×nh Th¸i	ë Tr­êng B¹ch nam (185,171) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+155	Bµo TriÖt s¬n 	ë Tr­êng B¹ch nam (161,163) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+156	V¹n Hå Tinh	ë Tr­êng B¹ch nam (139,160) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+157	Trö Thiªn MÉn	ë M¹c Cao QuËt (152,171) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+158	§o¹n L¨ng NguyÖt	ë M¹c Cao QuËt (215,172) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+159	T¶  DËt Minh	ë M¹c Cao QuËt (159,171) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!
+160	NhËm Th­¬ng Khung	ë M¹c Cao QuËt (241,172) . Ta kh«ng tin ng­¬i th¾ng ®­îc h¾n!

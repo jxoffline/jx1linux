@@ -1,0 +1,21 @@
+Ãû³Æ	ItemGenre	DetailType	ParticularType	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+§ång H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck01.spr	36	2	1	D©y chuyÒn b»ng §ång, ®å vËt g¹t trÎ con		150	1	0																						36	1	38	1								
+Ng©n H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck02.spr	36	2	1	D©y chuyÒn B¹c, ®èi víi ng­êi nghÌo còng lµ thø quı gi¸ 		600	2	0																						36	7	38	1								
+Kim H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck03.spr	36	2	1	D©y chuyÒn Vµng, phó gia quı tö th­êng hay mang		1350	3	0																						36	14	38	1								
+B¹ch Kim H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck04.spr	36	2	1	B¹ch kim chÕ t¸c, trªn phè hiÕm mµ thÊy ®­îc		2400	4	0																						36	20	38	1								
+Ngäc Ch©u H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck05.spr	36	2	1	Do ngäc th¹ch mµi chÕ mµ thµnh, gi¸ trŞ cùc quı. 		3750	5	0																						36	27	38	1								
+Lôc Tïng Th¹ch H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj_neck06.spr	36	2	1	Do Lôc Tïng Thµnh x©u l¹i mµ thµnh, tŞnh t©m ®Şnh thÇn		5400	6	0																						36	34	38	1								
+Thñy Tinh H¹ng Liªn 	0	4	0	\spr\item\equip\nick\obj-neck07.spr	36	2	1	VËt quı v« cïng, ngh×n vµng khã mua 		7350	7	0																						36	40	38	1								
+Khæng T­íc Th¹ch H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj-neck08.spr	36	2	1	§æng t­íc th¹ch xuyªn thµnh, ¸nh s¸ng lÊp l¸nh, M­êi phÇn quı gi¸. 		9600	8	0																						36	47	38	1								
+Tr©n Ch©u H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj-neck09.spr	36	2	1	Do nhiÒu viªn tr©n ch©u kÕt l¹i thµnh, gi¸ trŞ khái ph¶i nãi		12150	9	0																						36	54	38	1								
+Toµn Th¹ch H¹ng Liªn	0	4	0	\spr\item\equip\nick\obj-neck10.spr	36	2	1	D©y chuyÒn kho¸ng th¹ch, tõ n­íc ngoµi mang vÒ 		15000	10	0																						36	60	38	1								
+Lôc Tïng Th¹ch Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck11.spr	36	2	1	ChØ lµ nh÷ng viªn Lôc Tïng th¹ch x©u thµnh hé th©n phï, gi¸ trŞ kh«ng ®¸ng nãi. 		150	1	0																						36	1	38	0								
+San H« Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck12.spr	36	2	1	Lo¹i San h«còng dÔ t×m, chÕ thµnh hé th©n phï còng tÇm th­êng th«i. 		600	2	0																						36	7	38	0								
+Miªu Nh·n Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck13.spr	36	2	1	Hæ Tinh Méc, Cã mét chót gi¸ trŞ 		1350	3	0																						36	14	38	0								
+Hæ T×nh Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck14.spr	36	2	1	Nh¹n Tinh Méc khã mµ t×m thÊy. 		2400	4	0																						36	20	38	0								
+Thñy Tinh Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck15.spr	36	2	1	Thñy Tinh chÊt ®Şa, gi¸ trŞ cùc cao. 		3750	5	0																						36	27	38	0								
+Hæ Ph¸ch Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck16.spr	36	2	1	Hæ Ph¸ch chÕ thµnh, Cã gi¸ trŞ cùc cao. 		5400	6	0																						36	34	38	0								
+B¹ch PhØ Thóy Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck17.spr	36	2	1	ChÕ t¸c tõ B¹ch PhØ Thóy quı hiÕm. 		7350	7	0																						36	40	38	0								
+Hång PhØ Thóy Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck18.spr	36	2	1	ChÕ t¸c tõ Hång PhØ Thóy quı hiÕm		9600	8	0																						36	47	38	0								
+Tö PhØ Thóy Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck19.spr	36	2	1	ChÕ t¸c tõ Tö PhØ Thóy quı hiÕm		12150	9	0																						36	54	38	0								
+Lôc PhØ Thóy Hé Th©n phï 	0	4	1	\spr\item\equip\nick\obj-neck20.spr	36	2	1	ChÕ t¸c tõ Lôc PhØ Thóy quı hiÕm, chØ PhËt quèc Quèc s­ míi cã nã 		15000	10	0																						36	60	38	0								

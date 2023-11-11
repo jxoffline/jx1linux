@@ -1,0 +1,11 @@
+Index	TaskId	Comment
+1	3111	Ghi chÐp sè ng©n l­îng ®Õn server liªn kÕt
+2	3112	Ghi chÐp trÞ sè c«ng tr¹ng Tèng Kim liªn server
+3	4001	§èc m¹ch
+4	4002	NhiÖm m¹ch
+5	4003	Xung m¹ch
+6	4004	§íi m¹ch
+7	4005	¢m duy m¹ch
+8	4006	D­¬ng duy m¹ch
+9	4007	¢m khiªu m¹ch
+10	4008	D­¬ng khiªu m¹ch

@@ -1,0 +1,384 @@
+key	value
+K_WORLD	ThÕ giíi
+K_CITY	Thµnh thÞ 
+K_TEAM	§éi ngò 
+K_NEARBY	Phô cËn
+
+K_FN_SHAOLIN	ThiÕu L©m ph¸i
+K_FN_TIANWANG	Thiªn V­¬ng Bang
+K_FN_TANGMEN	§­êng M«n
+K_FN_WUDU	Ngò §éc Gi¸o
+K_FN_EMEI	Nga My ph¸i
+K_FN_CUIYAN	Thóy Yªn m«n
+K_FN_GAIBANG	C¸i Bang
+K_FN_TIANREN	Thiªn NhÉn Gi¸o
+K_FN_WUDAN	Vâ §ang ph¸i
+K_FN_KUNLUN	C«n L«n ph¸i
+
+K_INFO_BULLETIN	C«ng bè 
+K_INFO_SYSTEM	HÖ thèng
+
+K_PR_FRIEND	
+K_PR_BROTHER	Th©n nh©n\n
+K_PR_MATE	Phèi ngÉu\n
+K_PR_ENEMY	Cõu nh©n\n
+
+U_RELAY	Relay
+U_ERROR_ON_SHUTDOWN	Relay¹Ø±ÕÊ±³ö´í¡£ Relay luc dong lai bi sai.
+U_LOAD_AUCTION_FILE_FAIL	¶ÁÈ¡ÅÄÂôÄ£¿éÅäÖÃÎÄ¼þÊ§°Ü£¡ Doc cac file ve nhung Mo-dun phat mai that bai! 
+U_INIT_AUCTION_DATA_FAIL	³õÊ¼»¯×·É±Êý¾ÝÊ§°Ü Du lieu truy sat that bai 
+U_FAIL_TO_OPEN_AUCTION_DB	´ò¿ªÅÄÂôÊý¾Ý¿âÊ§°Ü Mo du lieu phat mai that bai
+U_FAIL_TO_OPEN_KILLER_DB	´ò¿ª×·É±ÈÎÎñÊý¾Ý¿âÊ§°Ü Mo du lieu nhiem vu truy sat that bai
+U_ERR_IN_KILLDATA_FORMATTODATA	³ÌÐò´æÔÚÒþ»¼,±¨¸æ³ÌÐòÔ±, in KKillerData::FormatToData Trinh tu dang co hiem hoa, bao cao trinh tu vien
+U_RELAY_ALREADY_RUN	ÒÑÓÐS3RelayÉÐÔÚÔËÐÐÖÐ¡£ S3Relay van chua van hanh. 
+U_RELAYGUARD_ALREADY_RUN	¼ì²âµ½ÓÐRelayGuardÕýÔÚÔËÐÐ£¬Í¬Ê±Æô¶¯RelayÊÇÎ£ÏÕµÄ£¡\nËùÒÔÅ¼²»ÏëÈÃRelayÏÖÔÚ¾ÍÔËÐÐ£¡ Hien RelayGuard dang chay, khoi dong dong thoi Relay la rat nguy hiem! \n cho nen khong nen van hanh Relay bay gio! 
+
+G_AUCTIONSUCCESS	%s lÊy %d mua ®­îc vËt phÈm gi¸ cao nhÊt, ph¸t m·i kÕt thóc
+G_AUCTIONSUCCESSTOWINNER	Chóc mõng thµnh c«ng mua hÕt vËt phÈm nµy 
+G_AUCTIONSUCCESSTOOWNER	%s lÊy %d mua ®­îc vËt phÈm gi¸ cao nhÊt, xin h·y chØ ®Þnh thêi gian nhËn tiÒn
+G_AUCTIONSUCCESSTAKEMOENYFAIL	B¹n kh«ng kÞp thêi nhËn tiÒn, hÖ thèng hñy bá 
+G_AUCTIONSUCCESSTAKEITEMFAIL	B¹n kh«ng kÞp thêi l·nh nhËn vËt phÈm, hÖ thèng hñy bá 
+G_AUCTIONCHEATER	%s trong qu¸ tr×nh ph¸t m·i cÇn ph¶i chuyÓn dêi vËt phÈm, ®· bÞ lõa råi
+G_AUCTIONFAILCONTINUE	VËt phÈm cña B¹n lÇn nµy ph¸t m·i thÊt b¹i, ®· chuyÓn sang lÇn ph¸t m·i sau, %d giê  %d phót %d gi©y b¾t ®Çu 
+G_AUCTIONFAIL	VËt phÈm cña B¹n ph¸t m·i thÊt b¹i, xin nhËn l¹i vËt phÈm 
+G_AUCTIONJOINFAIL	VËt phÈm nµy ®· cã ng­êi mua gi¸ cao nhÊt. B¹n gia nhËp thÊt b¹i 
+G_AUCTIONJOINFAILNOMONEY	VËt phÈm tr­íc m¾t gi¸ cao nhÊt lµ  %d, B¹n mang theo kh«ng ®ñ, kh«ng thÓ gia nhËp tranh mua 
+G_AUCTIONJOINSUCCESS	B¹n gia nhËp tranh mua
+G_AUCTIONJOINSUCCESSTOALL	%s gia nhËp tranh mua vËt phÈm nµy 
+
+G_AUCTIONBIDDERHIGHEST	Tr­íc m¾t gi¸ ®­a ra cao nhÊt lµ  %s, gi¸ ®­a ra %d l­îng b¹c 
+G_AUCATIONQUITFAIL	B¹n ®­a ra gi¸ qu¸ cao, kh«ng thÓ thóc tiÕn ph¸t m·i 
+G_AUCATIONQUITSUCCESS	%s tho¸t khái ph¸t m·i 
+G_AUCTIONSUCESSGETMONEY	B¹n l·nh nhËn tiÒn ph¸t m·i vËt phÈm, thuÕ lµ  %d l­îng b¹c 
+G_AUCTIONFAILGETITEM	B¹n nhËn l¹i vËt phÈm ph¸t m·i thÊt b¹i 
+
+G_AUCTIONSUBMITSUCCESS	B¹n chuyÓn giao thµnh c«ng mét kiÖn vËt phÈm ph¸t m·i, gi¸ thÊp nhÊt lµ  %d, gi¸ t¨ng thªm lµ  %d
+
+G_TASKCOUNTLIMIT	HÖ thèng nhiÖm vô ®· ®Çy, s¸ng t¹o nhiÖm vô truy s¸t %s thÊt b¹i
+G_CREATETASKCOUNTLIMIT	Sè l­îng nhiÖm vô s¸ng lËp ®· ®ñ, s¸ng lËp nhiÖm vô  %s truy s¸t thÊt b¹i 
+G_TAKETASKLINIT	Mçi ng­êi l·nh nhËn nhiÒu nhÊt lµ  %d nhiÖm vô, B¹n ®· nhËn ®­îc ®ñ sè råi
+G_TASKFAILURE	NhiÖm vô  %s truy s¸t ®· kÕt thóc, kh«ng cã ai hoµn thµnh
+G_TASKSUCCESS	NhiÖm vô  %s truy s¸t ®· ®­îc %s hoµn thµnh 
+G_TAKEREWARD	Xin néi trong %d giê  %d phót %d gi©y l·nh nhËn tiÒn th­ëng nhiÖm vô  %s truy n·, sè l­îng %d
+G_TAKEBACKREWARD	Xin néi trong %d giê  %d phót %d gi©y l·nh nhËn tiÒn th­ëng ch­a hoµn thµnh nhiÖm vô  %s truy n·, sè l­îng %d
+G_TAKETASKSUCCESS	B¹n l·nh nhËn thµnh c«ng nhiÖm vô  %s truy s¸t 
+G_TAKERLIMIT	Sè ng­êi ®Õn l·nh nhËn nhiÖm vô ®· ®¹t ®Õn sè lín nhÊt lµ  %d ng­êi, l·nh nhËn thÊt b¹i 
+G_TASKNOTEXIST	NhiÖm vô ®· kh«ng tån t¹i
+G_TAKEMONEY	B¹n l·nh nhËn tiÒn th­ëng %s s¸t tö  %d
+G_TAKEBACKMONEY	B¹n nhËn ®­îc tiÒn thï lao %s s¸t tö  %d
+G_TAKETASKDUP	B¹n ®· l·nh nhËn nhiÖm vô nµy, kh«ng thÓ l·nh nhËn thªm 
+G_CREATETASKSUCCESS	B¹n s¸ng lËp nhiÖm vô truy s¸t %s thµnh c«ng, thï lao lµ  %d l­îng b¹c 
+G_TASKCANCEL	NhiÖm vô  %s s¸t tö bÞ hñy bá 
+G_TASKCANNTCANCEL	NhiÖm vô  %s truy s¸t ®· hñy bá thêi gian 
+G_TASKCANCELGETMONEY	NhiÖm vô  %s s¸t tö ®· bÞ hñy, tr¶ l¹i %d l­îng b¹c 
+G_TAKEOWNTASK	Kh«ng thÓ tiÕp nhËn nhiÖm vô cña m×nh s¸ng lËp 
+G_TAKEKILLSELF	Kh«ng thÓ tiÕp nhËn nhiÖm vô truy s¸t chÝnh m×nh 
+G_TASKNOTACTIVE	NhiÖm vô ®· kh«ng trong tr¹ng th¸i kÝch thÝch, xin kÝch ho¹t nhiÖm vô 
+G_TASKBEDELETED	Ch­a ë trong thêi gian quy ®Þnh cho NPC ®èi tho¹i, nhiÖm vô  %s truy s¸t ®· bÞ hÖ thèng thanh trõ 
+G_CREATETASKFAIL	S¸ng lËp nhiÖm vô thÊt b¹i, tr¶ l¹i thï lao vµ tiÒn huª hång cho B¹n %d l­îng 
+G_TASKBETAKED	%s®· l·nh nhËn nhiÖm vô truy s¸t do B¹n %s s¸ng lËp 
+
+G_TONG_PASS_TEST	Chóc mõng %s ®· th«ng qua thêi gian kh¶o nghiÖm! 
+G_TONG_INFO_TO_PASS_TEST	%s b¾t ®Çu thêi gian kh¶o nghiÖm, xin h·y mau chãng triÓn khai quy m«! 
+G_TONG_NOT_PASS_TEST	%s ch­a th«ng qua thêi kú kh¸o nghiÖm, bÞ gi¶i t¸n! 
+G_TONG_MASTER	Bang chñ 
+G_TONG_DIRECTOR	Tr­ëng L·o
+G_TONG_MANAGER	§éi tr­ëng
+G_TONG_CHANGE_CAMP	Bang chñ thay ®æi phe ph¸i cña bæn bang! 
+G_TONG_STORE_MONEY	%s Cèng hiÕn tiÒn cho ng©n quü cña bang héi %d! 
+G_TONG_GET_MONEY	%s lÊy ®i tiÒn trong ng©n quü cña bang héi %d! 
+G_TONG_UP_LEVEL	Bæn bang ®¼ng cÊp th¨ng ®Õn %d cÊp! 
+G_TONG_DOWN_LEVEL	Bæn bang ®¼ng cÊp gi¶m ®Õn %d cÊp! 
+G_TONG_CHANGE_LEVEL	Bæn bang ®¼ng cÊp trë thµnh %d cÊp! 
+G_TONG_CREATE_UNION	Bang chñ Bæn bang lËp nªn mét liªn minh bang héi %s! 
+G_TONG_DISPATCH_MONEY	Bang chñ ph¸t tiÒn cho tÊt c¶ bang chóng! 
+G_TONG_DISPATCH_MONEY_OL	Bang chñ ph¸t tiÒn cho c¸c bang chóng ®ang trªn m¹ng! 
+G_TONG_DISPATCH_MONEY_VALUE	 Tr­ëng l·o mçi ng­êi %d, nhãm tr­ëng mçi ng­êi %d, bang chóng mçi ng­êi %d! 
+G_TONG_AUTHORIZE_JOIN	%s phª chuÈn %s gia nhËp Bæn bang! 
+G_TONG_APPOINT	%s ®­îc nhËn chøc vÞ  %s! 
+G_TONG_APPOINT_MASTER	%s ®­îc nhËn chøc vÞ Bang chñ! 
+G_TONG_APPOINT_DIRECTOR	%s ®­îc nhËn chøc vÞ Tr­ëng l·o!
+G_TONG_APPOINT_MANAGER	%s ®­îc ®¶m nhËn lµ nhãm tr­ëng
+G_TONG_APPOINT_MEMBER	%s ®­îc nhËn nhiÖm vô bang chóng b×nh th­êng! 
+G_TONG_KICK_MEMBER	%s ®uæi %s khái bang héi! 
+G_TONG_LEAVE	%s ph¶n béi Bæn bang! 
+G_TONG_CHANGE_MASTER	%s nh­êng vÞ trÝ Bang chñ l¹i cho %s! 
+G_TONG_LEAVE_MSG	%s rêi khái Bæn bang, ®i biÖt tÝch! 
+G_TONG_JOIN_SELFUNION	Bang héi %s gia nhËp bæn bang cã liªn minh %s!
+G_TONG_JOIN_SELFUNION_MASTER	Bang héi %s gia nhËp bæn bang cã liªn minh %s, bæn bang bÞ khÊu trõ %d v¹n trong ng©n quü!
+G_TONG_JOIN_UNION	Bæn bang tiªu hao %d v¹n ng©n quü, gia nhËp liªn minh %s!
+G_TONG_JOIN_UNION_LOG	Bang héi %s gia nhËp liªn minh do bang %s thµnh lËp! Song ph­¬ng bÞ khÊu trõ %d v¹n trong ng©n quü.
+G_TONG_DISMISS_UNION	Minh chñ gi¶i t¸n liªn minh bang héi!
+G_TONG_KICK_UNION	 Minh Chñ°Ñ±¾°ïÌß³öÁªÃË£¡ 
+G_TONG_LEAVE_UNION	Bæn bang rêi khái bang héi liªn minh! 
+G_TONG_KICK_UNION_ELSE	Minh chñ ®uæi bang héi %s ra khái liªn minh!
+G_TONG_LEAVE_UNION_ELSE	Bang héi %s rêi khái liªn minh cña bæn bang!
+G_TONG_ACCEPTMASTER	Bang chñ bang %s: %s chuyÓn vÞ cho %s?\n
+G_TONG_MALE_TITLE_CHANGE	%s thay ®æi danh hiÖu thµnh viªn nam thµnh %s!
+G_TONG_FEMALE_TITLE_CHANGE	%s thay ®æi danh hiÖu thµnh viªn n÷ thµnh %s!
+G_TONG_MEMBER_TITLE_CHANGE	Danh hiÖu cña %s ®­îc ®æi thµnh %s!
+	
+G_RR_ROLE_DEL	Nh©n vËt %d bÞ l­îc bá. 
+
+G_CITYWAR_NOTIFY_SIGNUP	L«i ®µi trong thµnh %s ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp %d ®Õn b¸o danh thi ®Êu! 
+G_CITYWAR_NOTIFY_SIGNUP_OK	Bang héi cña B¹n ®· ®¨ng ký thµnh c«ng, xin ®îi L«i ®µi khai m¹c!! 
+G_CITYWAR_NOTIFY_SIGNUP_TOALL	%s bang héi ®· b¸o danh tham gia cuéc thi ®Êu L«i ®µi trong thµnh %s!! 
+G_CITYWAR_NOTIFY_SIGNUP_LOG	%s bang héi ®· b¸o danh tham gia cuéc thi ®Êu L«i ®µi trong thµnh  %s, tiÒn hoa hång lµ %u!! 
+G_CITYWAR_NOTIFY_NO_SIGNUP	%s cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+G_CITYWAR_NOTIFY_SINGLE_SIGNUP	%s cuéc thi ®Êu L«i ®µi trong thµnh chØ cã %s mét bang héi b¸o danh, xem nh­ ®· ®ñ t­ c¸ch khiªu chiÕn!! 
+G_CITYWAR_NOTIFY_SIGNUP_COMPLETE	%s L«i ®µi trong thµnh ®· chuÈn bÞ hoµn tÊt, tæng céng cã %d bang héi tham chiÕn, lÞch thi ®Êu ®· x¸c ®Þnh, lÇn nµy xin c¸c bang héi thi ®Êiu ®óng giê. 
+G_CITYWAR_NOTIFY_ARENA_START	%s L«i ®µi trong thµnh ®· b¾t ®Çu thi ®Êu, mêi nh÷ng ®éi ®¨ng ký ®Çu tiªn vµo thi ®Êu, kh«ng ®­îc chËm trÔ 
+G_CITYWAR_NOTIFY_ARENA_RESULT	Bang héi %s trong trËn nµy ®· ®¸nh b¹i bang héi %s, chuÈn bÞ cho trËn ®Êu míi!
+G_CITYWAR_NOTIFY_ARENA_RESULT2	Bang héi %s trong qu¸ tr×nh thi ®Êu ®· ®¸nh b¹i bang héi %s, ®­îc quyÒn c«ng thµnh %s!! 
+G_CITYWAR_NOTIFY_WAR_STARTED	§¹i chiÕn trong thµnh %s ®· chÝnh thøc b¾t ®Çu, bang héi %s vµ %s lËp tøc b¾t ®Çu chiÕn ®Êu kÞch liÖt!! 
+G_CITYWAR_NOTIFY_WAR_RESULT	§¹i chiÕn trong thµnh %s th¾ng b¹i ®· ph©n ®Þnh, bang héi %s trë thµnh chñ thµnh míi!! Th¸i Thó:%s
+G_CITYWAR_NOTIFY_WAR_RESULT2	§¹i chiÕn trong thµnh %s th¾ng b¹i ®· ph©n ®Þnh, bang héi %s thñ thµnh thµnh c«ng vµ duy tr× quyÒn thèng trÞ!! Th¸i Thó:%s
+G_CITYWAR_NOTIFY_WAR_RESULT3	Trong thµnh %s tr­íc m¾t ch­a cã Th¸i Thó, bang héi %s ®­îc c«ng nhËn trë thµnh ng­êi thèng trÞ ®Çu tiªn!! 
+G_CITYWAR_NOTIFY_TAX_SET	B¹n thiÕt ®Þnh thµnh c«ng %s thuÕ suÊt vµ vËt gi¸ tuÇn nµy trong thµnh. 
+G_CITYWAR_NOTIFY_SIGNUP_OUT	Sè tiÒn tÝch lòy ch­a ®ñ kh«ng ®ñ, bang héi cña B¹n b¸o danh %s thÊt b¹i!! 
+G_CITYWAR_NOTIFY_SIGNUP_OUT2	TiÒn tÝch lòy %d l­îng ®· tr¶ l¹i ng©n quü cña bang héi, xin ®Õn lÊy. 
+G_CITYWAR_NOTIFY_CHANGE_CITYMASTER	Bang chñ %s bang héi chuyÓn vÞ, %s trë thµnh t©n Th¸i Thó:%s
+
+G_CITYWAR_WARNING_ARENACANCELED	SÐt ®¸nh råi, cã m­a råi, thi ®Êu L«i ®µi hñy bá!! 
+G_CITYWAR_WARNING_WARRESET	TrËn thi ®Êu L«i ®µi míi trong thµnh %s b¾t ®Çu b¸o danh, cho nªn tÊt c¶ c¸c ho¹t ®éng t¹m thêi ®×nh chØ!! 
+G_CITYWAR_WARNING_SIGNUPTIMEOUT	Xin lçi! Giai ®o¹n b¸o danh ®· kÕt thóc. 
+G_CITYWAR_WARNING_ALREADYSIGNUP	Bang héi cña B¹n ®· b¸o danh råi! 
+G_CITYWAR_WARNING_SIGNUPFULL	Sè ng­êi b¸o danh thi ®Êu ®· ®ñ, mêi B¹n trë l¹i lÇn sau
+G_CITYWAR_WARNING_NOTENOUGHFEE	Xin lçi! Ng©n s¸ch bang ph¸i cña B¹n kh«ng ®ñ ®Ó nép phÝ b¸o danh %d l­îng. 
+G_CITYWAR_WARNING_LEVELLOW	Xin lçi! Bang héi cña B¹n ®¼ng cÊp kh«ng ®ñ %d cÊp. 
+G_CITYWAR_WARNING_NOTTONGLEADER	B¹n kh«ng ph¶i lµ Bang chñ cña bang héi! 
+G_CITYWAR_WARNING_TONGERROR	V« hiÖu bang héi!! 
+G_CITYWAR_WARNING_TAXALREADYSET	B¹n ®· thiÕt ®Þnh thuÕ suÊt cña tuÇn nµy råi! 
+G_CITYWAR_WARNING_BECHALLENGER	B¹n ®· cã ®­îc quyÒn khiªu chiÕn trong thµnh %s!! 
+G_CITYWAR_WARNING_BECITYOWNER	Bang héi cña B¹n ®· lµ ng­êi thèng trÞ trong thµnh  %s råi!! 
+G_CITYWAR_WARNING_TOOFEWCROWS	Xin lçi! Bang héi cña B¹n nh©n sè kh«ng ®ñ %d ng­êi, vÉn kh«ng ®ñ t­ c¸ch. 
+G_CITYWAR_WARNING_TESTINGPERIOD	Xin lçi! Bang héi cña B¹n ®ang trong thêi gian kh¶o nghiÖm, kh«ng cho phÐp thi ®Êu. 
+G_CITYWAR_WARNING_SAMECAMP	Bang héi cña B¹n vµ %s ng­êi thèng trÞ trong thµnh %s ®ång thuéc mét phe ph¸i!! 
+G_CITYWAR_WARNING_NOTUNIONLEADER	Bang héi cña B¹n vµ c¸c bang héi kh¸c kÕt thµnh liªn minh, nh­ng mµ chØ cã Minh chñ míi cã thÓ c«ng thµnh!! 
+G_CITYWAR_WARNING_PERIODNOTMATCH	Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ %d, th× l¹i lµ %d. 
+
+L_AUCTION_WINNNER_QUIT	³ÇÊÐID=²»ÖªµÀ ³ö¼Û×î¸ßÕßÍË³öÓÎÏ· ÅÄÂôID=%d  ÍË³öÕß=%s Thµnh thÞ ID=kh«ng biÕt lµ ng­êi ra gi¸ cao nhÊt ®· tho¸t khái trß ch¬i ph¸t m·i ID= [] ng­êi tr¶ l¹i = []
+L_ADD_AUCTION_ITEM	³ÇÊÐID=%d Ìá½»ÎïÆ· ÅÄÂôID=%d µ×¼Û=%d ÈëÔúµ¥Î»=%d Ìá½»ÈË=%s Thµnh thÞ ID= [] chuyÓn giao vËt phÈm ph¸t m·i ID= [] gi¸ thÊp = [] ®¬n vÞ thanh to¸n = [] ng­êi giao= []
+L_ADD_AUCTION_ITEM_SUCC	³ÇÊÐID=%d ÅÄÂô³É¹¦ ÅÄÂôID=%d ³É½»¼Û¸ñ=%d Thµnh thÞ ID= [] ph¸t m·i thµnh c«ng ph¸t m·i ID= [] thµnh gi¸ = []
+L_ADD_AUCTION_ITEM_FAIL	³ÇÊÐID=%d ÅÄÂôÊ§°Ü ÅÄÂôID=%d Thµnh thÞ ID= [] ph¸t m·i thÊt b¹i ph¸t m·i ID= []
+L_ADD_AUCTION_ITEM_ING	³ÇÊÐID=%d ¿ªÊ¼ÅÄÂô ÅÄÂôID=%d Thµnh thÞ ID= [] b¾t ®Çu ph¸t m·i ph¸t m·i ID= []
+L_ADD_TO_AUCTION	³ÇÊÐID=%d ¼ÓÈëÅÄÂô ÅÄÂôID=%d ¾ºÂòÕß=%s Thµnh thÞ ID= [] gia nhËp ph¸t m·i ph¸t m·i ID= [] ng­êi tranh mua = []
+L_AUCTION_ADD_PRICE	³ÇÊÐID=%d ³ö¼Û ÅÄÂôID=%d ¾ºÂòÕß=%s ÉÏÒ»´Î¼Û¸ñ=%d ¼Ó¼Û±¶Êý=%d Thµnh thÞ ID= [] ra gi¸ ph¸t m·i ID= [] v ng­êi tranh mua = [] gi¸ lÇn tr­íc= [] béi sè t¨ng gi¸ = []
+
+L_CW_SIGNUP	²ÎÓë¾º±ê°ï»á:  Tham gia cïng víi bang héi:
+L_CW_KICKOUT_TONG	±»ÌÔÌ­¾º±ê°ï»á:  BÞ ®µo th¶i ra khái bang héi:
+L_START_ARENA_ERROR	ÀÞÌ¨ÈüÇ°ÌáÌõ¼þ (Ä¿±ê³ÇÊÐÈü³Ì£¯ÉÏÒ»³¡ÀÞÌ¨Èü½áÊø) ´íÎó... §iÒu kiÖn ®Ò ra tr­íc khi thi ®Êu (môc tiªu Thµnh thÞ / trËn thi ®Êu ®Çu tiªn ®· kÕt thóc ) bÞ sai...
+L_ARENA_RESULT_RECORD_ERROR	Arena result record error...
+L_ARENA_END	°ï»áÀÞÌ¨Èü½áÊøÁË¡£  L«i ®µi thi ®Êu bang héi ®· kÕt thóc.
+L_START_CITY_WAR_ERROR	StartCityWar error....
+L_END_CITY_WAR_ERROR	End City War error....
+L_ILLEGAL_TAX_RATE	illegal tax rates....\n
+L_SET_TAX_NOT_PERMITTED	set tax not permitted !!!
+
+L_KILLER_CREATE_TASK	´´½¨ÈÎÎñ ÈÎÎñID=%d ´´½¨Õß=%s  ±»×·É±ÈË=%s ÏµÍ³×â½ð=%d ×ÜÊ±¼ä=%d ÉÍ½ð=%d Sang lap nhiem vu nhiem vu ID= [] nguoi sang lap= [] nguoi bi truy sat = [] tien thue he thong = [] tong thoi gian = [] tien thuong = []
+L_KILLER_ACTIVE_FAILURE	×´Ì¬×ª»» ÈÎÎñID=%d   ×ÜÊ±¼ä=%d Ê£ÓàÊ±¼ä=%d ACTIVE-> FAILURE Chuyen doi trang thai nhiem vu ID= [] tong thoi gian = [] thoi gian con du = []
+L_KILLER_ACTIVE_CLOSE	×´Ì¬×ª»»  ÈÎÎñID=%d ×ÜÊ±¼ä=%d Ê£ÓàÊ±¼ä=%d ACTIVE-> CLOSE Chuyen doi trang thai nhiem vu ID= [] tong thoi gian = [] thoi gian con du = []
+L_KILLER_CLOSE_FAILURE	×´Ì¬×ª»» ÈÎÎñID=%d ×ÜÊ±¼ä=%d Ê£ÓàÊ±¼ä=%d CLOSE-> FAILURE Chuyen doi trang thai nhiem vu ID= [] tong thoi gian = [] thoi gian con du = []
+L_KILLER_SUCCESS_DELETESIGN	×´Ì¬×ª»» SUCCESS/FAILURE-> DELETESIGN ÈÎÎñID=%d ×ÜÊ±¼ä=%d Ê£ÓàÊ±¼ä=%d ChuyÓn ®æi tr¹ng th¸i SUCCESS/FAILURE-> DELETESIGN nhiem vu ID= [] tong thoi gian = [] thoi gian con du = []
+L_KILLER_CANCEL_TASK	È¡ÏûÈÎÎñ ÈÎÎñID=%d ´´½¨Õß=%s ±»É±Õß=%s ×ÜÊ±¼ä=%d Ê£ÓàÊ±¼ä=%d ÉÍ½ð=%d È¡ÏûÕß=%s ÈÎÎñ×´Ì¬ = %d Huy bo nhiem vu nhiem vu ID= [] nguoi sang lap= [] nguoi bi truy sat= [] tong thoi gian = [] thoi gian con du = [] tien thuong = [] nguoi huy bo = [] trang thai nhiem vu = []
+L_KILLER_GET_TASK	ÁìÈ¡ÈÎÎñ ÈÎÎñID=%d, ÁìÈ¡ÈË= %s,  Lanh nhan nhiem vu nhiem vu ID= [], nguoi lanh nhan = [], 
+L_KILLER_GET_MONEY	ÁìÈ¡Ç® ÈÎÎñID=%d ÁìÇ®ÀàÐÍ=%d  ÁìÇ®½ð¶î (Ë°Ç°) =%d Nhan lanh tien nhiem vu ID= [] loai hinh lanh tien = [] kim ngach lanh tien ( thue suat ) = []
+
+L_TONG_MSG	°ï»á [%s]:%s Bang héi []: []
+L_TONG_DISPATCH_MONEY	°ï»á [%s]¸øËùÓÐÈË·¢Ç®£º³¤ÀÏ%d¸ö£»¶Ó³¤%d¸ö£»°ïÖÚ%d¸ö£»·Ö±ð·¢Ç®£º%d %d %d £¬×Ü¹² %d Bang hoi []phat tien cho moi nguoi:truong lao [] nguoi;  nhom truong [] nguoi;  bang chung [] nguoi ; lan luot phat tien: [] [] [], tong cong []
+L_TONG_DISPATCH_MONEY_OL	°ï»á [%s]¸øÔÚÏßµÄ·¢Ç®£º³¤ÀÏ%d¸ö£»¶Ó³¤%d¸ö£»°ïÖÚ%d¸ö£»·Ö±ð·¢Ç®£º%d %d %d £¬×Ü¹² %d Bang hoi [] phat tien cho nguoi tren mang:truong lao [] nguoi ;  nhom truong [] nguoi ;  bang chung [] nguoi; lan luot phat tien: [] [] [], tong cong []
+
+L_TONG_CREATE_FAIL_NAME_1	°ï»á´´½¨Ê§°Ü£º°ï»áÃûÎÊÌâ1 Sang lap bang hoi that bai:ten bang hoi van de 1
+L_TONG_CREATE_FAIL_NAME_2	°ï»á´´½¨Ê§°Ü£º°ï»áÃû %s ÎÊÌâ2£º¹ý³¤ %s Sang lap bang hoi that bai:ten bang hoi [] van de 2:qua dai []
+L_TONG_CREATE_FAIL_NAME_3	°ï»á´´½¨Ê§°Ü£º°ï»áÃûÎÊÌâ3£º°ï»áÍ¬Ãû»ò°ïÖ÷Í¬Ãû»òÕßÍ¬ÃûµÄ°ï»áÁªÃË %s %s Sang lap bang hoi that bai:ten bang hoi van de 3:trung ten bang hoi hoac trung tenBang chu hoac trung ten lien minh bang hoi [] []
+L_TONG_CREATE_FAIL_MEM	°ï»á´´½¨Ê§°Ü£ºÄÚ´æÎÊÌâ %s %s Sang lap bang hoi that bai ;van de ton tai [] []
+L_TONG_KICK_MEMBER	°ï»áÌßÈË£º%sÌß%s£¡ Bang hoi duoi nguoi: [] duoi []!
+L_TONG_KICK_MEMBER_CWS	°ï»áÌßÈË£º¹¥³ÇÕ½×´Ì¬£º%d Bang hoi duoi nguoi:trang thai cong thanh chien: []
+L_TONG_KICK_NOT_ALLOW_IN_CW	°ï»áÌßÈË£ºÀÞÌ¨ÈüÆÚ¼ä»ò¹¥³ÇÕ½ÆÚ¼ä²»ÄÜÌßÈË£¡ Bang hoi duoi nguoi:dang trong thoi gian thi dau Loi dai hoac dang trong thoi gian cong thanh chien, khong the duoi nguoi!
+L_TONG_TOLOAD_TONG_COUNT	ÒªÔØÈëµÄ°ï»áÊýÁ¿£º%d So luong bang hoi muon Dowload: []
+L_TONG_UNFOUND_UNION_HEADER	ÁªÃË³ÉÔ±Àë¿ª³ö´í£ºÕÒ²»µ½ÃËÖ÷£¡£¡£¡ Thanh vien lien minh roi khoi, sai lam:khong tim thay Minh chu!!! 
+L_TONG_LONG_0	°ï»áÕ½µ¼ÖÂ°ï»á¾­Ñé±ä»¯£»Ê¤Àû°ï»á£º%s £¬Ê§°Ü°ï»á£º%s £¡ Kinh nghiem chien dau cua cac bang hoi thay doi ;  bang hoi thang loi: [], bang hoi that bai: []!
+L_TONG_LONG_1	Ê¤Àû°ï»áÔ­µÈ¼¶ %d £¬Ê¤Àû°ï»áÔ­¾­Ñé %d£» Dang cap cua bang hoi thang loi [], kinh nghiem cua bang hoi thang loi []; 
+L_TONG_LONG_2	Ê§°Ü°ï»áÔ­µÈ¼¶ %d £¬Ê§°Ü°ï»áÔ­¾­Ñé %d£» Dang cap cua bang hoi that bai [], kinh nghiem cua bang hoi that bai []; 
+L_TONG_LONG_3	Ê¤Àû°ï»áÏÖµÈ¼¶ %d £¬Ê¤Àû°ï»áÏÖ¾­Ñé %d£» Dang cap hien thoi cua bang hoi thang loi [], kinh nghiem hien thoi cua bang hoi thang loi []; 
+L_TONG_LONG_4	Ê§°Ü°ï»áÏÖµÈ¼¶ %d £¬Ê§°Ü°ï»áÏÖ¾­Ñé %d£» Dang cap hien thoi cua bang hoi that bai [], kinh nghiem hien thoi cua bang hoi that bai []; 
+L_TONG_LONG_5	 [GM²Ù×÷]ÈÎÃü [%s]Îª°ï»á [%s]°ïÖ÷£¡ [GM thao tac ] dam nhiem [] laBang chu [] bang hoi! 
+L_TONG_LONG_6	 [GM²Ù×÷]ÈÎÃü [%s]Îª°ï»á [%s]°ïÖ÷³É¹¦£¡ [GM thao tac ] dam nhiem [] la Bang chu [] bang hoi thanh cong! 
+L_TONG_LONG_7	 [GM²Ù×÷]Éè¶¨°ï»áµÈ¼¶Îª %s £¡ [GM thao tac ] Thiet dinh dang cap bang hoi la []! 
+L_TONG_LONG_8	 [GM²Ù×÷]Éè¶¨°ï»á¾­ÑéÎª %s £¡ [GM thao tac ] Thiet dinh kinh nghiem bang hoi la []! 
+L_TONG_LONG_9	 [GM²Ù×÷]Éè¶¨°ï»áµÈ¼¶Îª %s £¡²Ù×÷³É¹¦ [GM thao tac ] Thiet dinh dang cap bang hoi la []! thao tac thanh cong
+L_TONG_LONG_10	 [GM²Ù×÷]Éè¶¨°ï»á¾­ÑéÎª %s £¡²Ù×÷³É¹¦ [GM thao tac ] Thiet dinh kinh nghiem bang hoi la []! thao tac thanh cong
+L_TONG_LONG_11	 [GM²Ù×÷]Éè¶¨°ï»á [%s]ÖÐ³ÉÔ± [%s]Èë°ïÊ±¼äÎª£º%dÄê%dÔÂ%dÈÕ£¡ [GM thao tac ] Thiet dinh thoi gian nhap bang [] cua thanh vien [] trong bang hoi la: [] nam [] thang [] ngay! 
+L_TONG_LONG_12	 [GM²Ù×÷]Éè¶¨°ï»á [%s]ÖÐ³ÉÔ± [%s]Èë°ïÊ±¼äÎª£º%dÄê%dÔÂ%dÈÕ£¡²Ù×÷³É¹¦ [GM thao tac ] Thiet dinh thoi gian nhap bang [] cua thanh vien [] trong bang hoi la: [] nam [] thang [] ngay! thao tac thanh cong
+L_TONG_LONG_13	 [GM²Ù×÷]Ç¿ÖÆ½âÉ¢°ï»á [%s]£¡ [GM thao tac ] cuong che giai tan bang hoi []! 
+L_TONG_LONG_14	 [GM²Ù×÷]Ç¿ÖÆ½âÉ¢°ï»á [%s]£¡²Ù×÷³É¹¦ [GM thao tac ] cuong che giai tan bang hoi []! thao tac thanh cong
+
+L_RR_SAVE_FAIL	±£´æÍæ¼ÒºÃÓÑÐÅÏ¢³ö´í£¡ Giu gin su than thiet cua nguoi choi. Tin tuc bi sai! 
+L_RR_SAVE_FAIL_2	±£´æÍæ¼ÒºÃÓÑÐÅÏ¢³ö´í£º%s Giu gin su than thiet cua nguoi choi. Tin tuc bi sai! 
+
+L_SCRIPT_0	°üº¬ (Include) µÄ½Å±¾ÎÄ¼þ%sÊ±³ö´í¡£  Van ban goc (Include) [] bi sai. 
+L_SCRIPT_1	½Å±¾Ö¸ÁîTaskSetMode´«ÈëµÄ²ÎÊýÊýÁ¿²»¶Ô£¡ Van ban goc chi dinh TaskSetMode so luong tham so chuyen nhap khong dung! 
+L_SCRIPT_2	½Å±¾Ö¸ÁîTaskSetStartDay´«ÈëµÄ²ÎÊýÊýÁ¿²»¶Ô£¡ Van ban goc chi dinh TaskSetStartDay so luong tham so chuyen nhap khong dung! 
+
+L_TASKCENTRE_0	ÏÂ´ÎÔËÐÐÊ±¼ä£º%d! Thoi gian van hanh lan sau:! 
+L_TASKCENTRE_1	ÏÂ´ÎÔËÐÐÊ±¼ä£º%dÔÂ%dÈÕ! Thoi gian van hanh lan sau:  thang   ngay! 
+L_TASKCENTRE_2	ÔØÈë¶¨Ê±ÈÎÎñÉè¶¨ÎÄ¼þÊ§°Ü£º%s!!!! Dowload thoi han nhiem vu. Thiet dinh file that bai:!!!!
+L_TASKCENTRE_3	ÔØÈë¶¨Ê±ÈÎÎñÉè¶¨ÎÄ¼þÊ§°Ü£¬ÑÏÖØÎÊÌâ!!!! Dowload dinh gio, nhiem vu. Thiet dinh file that bai, van de nghiem trong!!!!
+L_TASKCENTRE_4	ÔØÈë¶¨Ê±ÈÎÎñÉè¶¨ÎÄ¼þ£º%s Dowload dinh gio, nhiem vu. Thiet dinh file: 
+L_TASKCENTRE_5	¶¨Ê±ÈÎÎñÊýÁ¿£º%d  thoi han nhiem vu, so luong: 
+L_TASKCENTRE_6	¶¨Ê±ÈÎÎñ%d£º%s £¬´ÎÊý£º%d  Huy bo dinh gio, nhiem vu:, nhiem vu, so lan thiet dinh:  so lan da chap hanh: 
+L_TASKCENTRE_7	Çå³ý¶¨Ê±ÈÎÎñ£º%s£¬ÈÎÎñÉè¶¨´ÎÊý£º%d  ÒÑÖ´ÐÐ´ÎÊý£º%d
+L_TASKCENTRE_8	Í¨¹ý½Å±¾Ö¸ÁîÖ±½ÓÌí¼Ó¶¨Ê±ÈÎÎñ£º%s
+L_TASKCENTRE_9	¶¨Ê±ÈÎÎñ³õÊ¼»¯²ÎÊýÉè¶¨³É¹¦£º%s Thiet dinh thanh cong thoi han nhiem vu: 
+L_TASKCENTRE_10	¼ÓÔØ½Å±¾ÎÄ¼þ%sÊ±³ö´í£¬Çë¼ì²éÓï·¨. Gia tai file Van ban goc [] gio bi sai, xin kiem tra ngu phap. 
+L_TASKCENTRE_11	¶¨Ê±ÈÎÎñ½Å±¾ÎÄ¼þ¼ÓÔØÊ§°Ü£º%s£¬ÑÏÖØÎÊÌâ£¡£¡£¡  thoi han nhiem vu gia tai that bai: [], van de nghiem trong!!! 
+L_TASKCENTRE_12	Ð¶ÔØËùÓÐÈÎÎñ£¡ Tu choi nhiem vu dang mang! 
+L_TASKCENTRE_13	µÃµ½½Å±¾Ö¸Áî·¢À´µÄÏûÏ¢£¬Ð¶ÔØÒ»¸öÈÎÎñ£º%s Nhan duoc Van ban goc tin tuc ra lenh, tu choi mot nhiem vu: []
+L_TASKCENTRE_14	Éè¶¨¶¨Ê±ÈÎÎñÃû³Æ£º%s ThiÕt lËp thêi h¹n cho nhiÖm vô: []
+L_TASKCENTRE_15	Éè¶¨¶¨Ê±ÈÎÎñÔËÐÐÊ±¼ä£º%dÊ±%d·Ö! Thiet lap thoi han cho nhiem vu thoi gian van hanh: [] gio [] phut! 
+L_TASKCENTRE_16	Ä¿Ç°Ê±¼äÊÇ£º%dÊ±%d·Ö! Thoi gian truoc mat la: [] gio [] phut! 
+L_TASKCENTRE_17	½ñÌì²»»áÔËÐÐ£ºÊ±¼ä¹ýÁË£¡  Hom nay khong the van hanh:thoi gian qua roi
+L_TASKCENTRE_18	ÏÂ´ÎÔËÐÐÊ±¼ä£º%d:%d! %d  Thoi gian van hanh lan sau: []: []! []
+L_TASKCENTRE_19	ÏÂ´ÎÔËÐÐÊ±¼ä£º%dÔÂ%dÈÕ! Thoi gian van hanh lan sau:  thang   ngay! 
+L_TASKCENTRE_19_1	Thêi gian sö dông lÇn sau lµ: n¨m %d th¸ng %d ngµy %d!
+L_TASKCENTRE_20	Éè¶¨¶¨Ê±ÈÎÎñÔËÐÐÊ±¼ä´íÎó£º%dÊ±%d·Ö%dÃë!!! Thiet lap thoi han cho nhiem vu, thoi gian van hanh bi sai: [] gio [] phut [] giay!!!
+L_TASKCENTRE_21	Éè¶¨¶¨Ê±ÈÎÎñÆÕÍ¨Ä£Ê½¶à´ÎÔËÐÐ¼äµÄ¼ä¸ôÊ±¼ä£º%dÃëÒ»´Î! Thiet lap thoi han cho nhiem vu, dang thuc thong thuong, thoi gian gian cach trong qua trinh van hanh lien tuc: [] giay thu nhat! 
+L_TASKCENTRE_22	Éè¶¨¶¨Ê±ÈÎÎñ ÈÕ Ä£Ê½¶à´ÎÔËÐÐ¼äµÄ¼ä¸ôÊ±¼ä£º%dÌìÒ»´Î! Thiet lap thoi han cho nhiem vu, dang thuc ngay, thoi gian gian cach trong qua trinh van hanh lien tuc: [] ngay thu nhat! 
+L_TASKCENTRE_23	Éè¶¨¶¨Ê±ÈÎÎñ ÔÂ Ä£Ê½¶à´ÎÔËÐÐ¼äµÄ¼ä¸ôÊ±¼ä£º%dÔÂÒ»´Î! Thiet lap thoi han cho nhiem vu, dang thuc thang, thoi gian gian cach trong qua trinh van hanh lien tuc: [] thang thu nhat! 
+L_TASKCENTRE_24	Éè¶¨¶¨Ê±ÈÎÎñÖ´ÐÐ´ÎÊý£º%d! Thiet lap thoi han cho nhiem vu, so lan chap hanh.....: []! 
+L_TASKCENTRE_25	Éè¶¨¶¨Ê±ÈÎÎñÄ£Ê½£º%d £¬Ä£Ê½0£ºÆÕÍ¨Ä£Ê½£¬Ã¿Ìì¼¸´Î£»Ä£Ê½1£ºÃ¿¼¸ÌìÒ»´Î£»Ä£Ê½2£ºÃ¿¼¸ÔÂÒ»´Î£» Thiet lap thoi han cho nhiem vu, dang thuc: [], dang thuc 0:dang thuc thong thuong, moi ngay may lan;  dang thuc 1:
+L_TASKCENTRE_26	Éè¶¨¶¨Ê±ÈÎÎñ¿ªÊ¼ÈÕÆÚ´íÎó£ºÔÂ·Ý²ÎÊý´íÎó %d ÔÂ Thiet lap thoi han cho nhiem vu, thoi gian bat dau bi sai:tham so phan thang bi sai [] thang
+L_TASKCENTRE_27	Éè¶¨¶¨Ê±ÈÎÎñ¿ªÊ¼ÈÕÆÚ´íÎó£ºÈÕÆÚ²ÎÊý´íÎó %d ÈÕ Thiet lap thoi han cho nhiem vu, thoi gian bat dau bi sai:tham so thoi gian bi sai [] ngay 
+L_TASKCENTRE_28	Éè¶¨¶¨Ê±ÈÎÎñ¿ªÊ¼ÈÕÆÚ£º%d ÔÂ %d ÈÕ Thiet lap thoi han cho nhiem vu, thoi gian bat dau: [] thang [] ngay 
+L_TASKCENTRE_29	Ö´ÐÐ¶¨Ê±ÈÎÎñ£º%s Chap hanh thoi han nhiem vu: []
+L_TASKCENTRE_30	Ö´ÐÐÈÎÎñ½Å±¾³ö´í!%s Chap hanh nhiem vu Van ban goc bi sai! []
+L_TASKCENTRE_31	Ö´ÐÐ¶¨Ê±ÈÎÎñ½Å±¾³ö´í£º%s£¡£¡£¡ Chap hanh thoi han nhiem vu Van ban goc bi sai: []!!!
+
+L_TONGCONNECT_0	°ïÖ÷´«Î»£º´«¸ø%s£¬¹¥³ÇÕ½×´Ì¬£º%d£¡ Bang chu chuyen vi:chuyen cho, trang thai cong thanh chien:! 
+L_TONGCONNECT_1	°ïÖ÷´«Î»£º¹¥³ÇÕ½´«Î»²Ù×÷Ëø¶¨£¡ Bang chu chuyen vi:cong thanh chien chuyen vi thao tac lap ma khoa! 
+L_TONGCONNECT_2	°ïÖ÷´«Î»£º%s½ÓÊÜ´«Î»£¡¹¥³ÇÕ½×´Ì¬£º%d£¡ Bang chu chuyen vi:  tiep thu chuyen vi! trang thai cong thanh chien:! 
+L_TONGCONNECT_4	%s Hñy bá mèi quan hÖ b»ng h÷u víi B¹n. 
+L_TONGCONNECT_5	%s Hñy bá quan hÖ phu thª víi B¹n. 
+L_TONGCONNECT_6	%s Hñy bá quan hÖ th©n nh©n víi B¹n. 
+L_TONGCONNECT_7	Bang chñ truyÒn vÞ thÊt b¹i: ng©n quü bang héi (%s) kh«ng ®ñ %d v¹n
+L_TONGCONNECT_8	Bang chñ truyÒn vÞ thµnh c«ng: Chøc vÞ bang chñ bang (%s) do (%s) truyÒn l¹i cho (%s), ng©n quü bang bÞ khÊu trõ %d v¹n.
+
+L_RELAY_LOG_START	\r\n*\r\n***** S3Relay Start (@ %04d/%02d/%02d %02d:%02d:%02d.%03d) >>>>>\r\n*\r\n\r\n
+L_RELAY_LOG_END	\r\n*\r\n***** S3Relay Stop (@ %04d/%02d/%02d %02d:%02d:%02d.%03d) <<<<<\r\n*\r\n\r\n
+
+L_S3RELAY_INIT_ALREADY	¾¯¸æ: S3RelayÒÑ¾­Æô¶¯£¡ Canh bao:S3Relay da Khoi dong! 
+L_S3RELAY_INIT_START	S3Relay-¿ªÊ¼Æô¶¯£¡ S3Relay- Bat dau Khoi dong! 
+L_S3RELAY_INIT_FINISHED	S3Relay-Æô¶¯Íê±Ï£¡ S3Relay- Khoi dong hoan tat! 
+L_S3RELAY_INIT_FAIL	FAIL: S3RelayÆô¶¯Ê§°Ü£¡ S3Relay Khoi dong that bai! 
+L_S3RELAY_LOGIN_FAIL	FAIL: ***ÕÊºÅÃÜÂë´íÎó!*** *** mat ma Account bi sai! ***
+L_S3RELAY_UNINIT_START	S3Relay-¿ªÊ¼¹Ø±Õ£¡ S3Relay- bat dau dong lai! 
+L_S3RELAY_UNINIT_FINISHED	S3Relay-¹Ø±ÕÍê³É£¡ S3Relay- dong lai hoan thanh! 
+L_S3RELAY_UNINIT_RUNTIMER_FAIL	FAIL: ¼ÇÂ¼ÔËÐÐÊ±¼äÊ§°Ü£¡ thoi gian van hanh ky luc that bai! 
+L_S3RELAY_UNINIT_SHAREDB_FAIL	FAIL: ¹²ÏíÊý¾Ý¿â¹Ø±Õ³ö´í£¡ cong huong, kho du lieu dong lai bi sai! 
+L_S3RELAY_UNINIT_OFFLINEMSGDB_FAIL	FAIL: ¹Ø±ÕÀëÏßÁôÑÔÊý¾Ý¿â³ö´í£¡ loi nhac khi thoat khoi mang kho du lieu bi sai! 
+
+L_S3RELAY_DISCONN_RELAY_ROOT	S3Relay: ÓëRelayRootµÄÁ´½Ó¶Ï¿ªÁË -  cung voi RelayRoot lien tiep bi ngat quang - 
+L_S3RELAY_TO_RECONNECT_RELAYROOT	S3Relay: ÕýÔÚÖØÁ¬RelayRoot dang tro lai RelayRoot
+L_S3RELAY_DISCONN_GS_CHAT	S3Relay: ÓëGameSvrµÄÁÄÌìÁ¬½Ó¶Ï¿ªÁË -  cung voi GameSvr tan gau bi lien tuc gian doan - 
+L_S3RELAY_NOTIFY_TO_STOP	RelayµÄ·þÎñ½«±»Í£Ö¹£¡\nÇëÈ·ÈÏÍø¹ØÓëRelayRoot¶¼ÒÑ¿ªÆô£¬\n²¢¼ì²éµÇÂ½Ê±µÄÃÜÂëÕÊºÅÊÇ·ñÕýÈ·¡£\ntrang thai phuc vu bi dinh chi! \n xin xac nhap ma dong cung voi RelayRoot deu da khoi dong, \n xin kiem tra lai so Account va mat ma da chinh xac chua.
+
+L_S3RELAY_INIT_SCRIPT_FIAIL	FAIL: Æô¶¯½Å±¾Ä£¿é³ö´í£¡ Khoi dong Van ban goc Mo-dun bi sai! 
+L_S3RELAY_INIT_NC_CHECK_FAIL	FAIL: Î´ÄÜÍ¨¹ýÍø¿¨¼ì²é£¡ chua the thong qua he thong kiem tra Account! 
+L_S3RELAY_INIT_HEAVEN_FAIL	FAIL: Æô¶¯HeavenÄ£¿é³ö´í£¡ Khoi dong Heaven Mo-dun bi sai! 
+L_S3RELAY_INIT_RAINBOW_FAIL	FAIL: Æô¶¯RainbowÄ£¿é³ö´í£¡ Khoi dong Rainbow Mo-dun bi sai! 
+L_S3RELAY_INIT_CHNLMGR_FAIL	FAIL: Æô¶¯ÁÄÌìÆµµÀÄ£¿é³ö´í£¡ Khoi dong tan so tan gau, Mo-dun bi sai! 
+L_S3RELAY_INIT_FRIENDMGR_FAIL	FAIL: Æô¶¯ºÃÓÑÄ£¿é³ö´í£¡ Khoi dong hao huu, Mo-dun bi sai! 
+L_S3RELAY_INIT_RELAYCENTRE_FAIL	FAIL: Æô¶¯RelayCentre³ö´í£¡ Khoi dong RelayCentre bi sai! 
+L_S3RELAY_INIT_ROOTCENTRE_FAIL	FAIL: Æô¶¯RootCentre³ö´í£¡ Khoi dong RootCentre bi sai! 
+L_S3RELAY_INIT_ROOTCLIENT_FAIL	FAIL: ÓëRootRelay½¨Á¢Á¬½Ó³ö´í -  cung voi RootRelay lap lien tiep bi sai bi sai - 
+L_S3RELAY_INIT_GATEWAYCENTRE_FAIL	FAIL: Æô¶¯Íø¹ØÁ¬½Ó¹ÜÀíÄ£¿é³ö´í£¡ Khëi ®éng qu¶n lý c¸c tÇn sè trªn m¹ng, M«-®un bÞ sai! 
+L_S3RELAY_INIT_GATEWAY_FAIL	FAIL: ÓëÍø¹Ø½¨Á¢Á¬½Ó³ö´í -  lËp tÇn sè qu¶n lý trªn m¹ng bÞ sai - 
+L_S3RELAY_INIT_HOSTCENTRE_FAIL	FAIL: Æô¶¯ÓÎÏ·ÊÀ½ç·þÎñÆ÷Á¬½Ó¹ÜÀíÄ£¿é³ö´í£¡ Khoi dong the gioi tro choi, may phuc vu co su co, Mo-dun bi sai! 
+L_S3RELAY_INIT_SHAREDB_FAIL	FAIL: ´ò¿ª¹²ÏíÊý¾Ý¿â³ö´í£¡ mo cong huong kho du lieu bi sai! 
+L_S3RELAY_INIT_OFFLINEMSGDB_FAIL	FAIL: ´ò¿ªÀëÏßÁôÑÔÊý¾Ý¿â³ö´í£¡ mo loi nhac khi roi mang kho du lieu bi sai! 
+
+L_RELAYSRV_START_FAIL	FAIL: relay·þÎñ-Æô¶¯Ê§°Ü£¡ relay phuc vu - Khoi dong that bai! 
+L_HOSTSRV_START_FAIL	FAIL: ÓÎÏ··þÎñÆ÷Á¬½Ó·þÎñ-Æô¶¯Ê§°Ü£¡ May phuc vu lien tiep phuc vu tro choi - Khoi dong that bai! 
+L_CHATSRV_START_FAIL	FAIL: ÁÄÌì·þÎñ-Æô¶¯Ê§°Ü£¡ phuc vu tan gau - Khoi dong that bai! 
+L_TONGSRV_START_FAIL	FAIL: °ïÅÉ·þÎñ-Æô¶¯Ê§°Ü£¡ phôc vô bang ph¸i - Khëi ®éng thÊt b¹i! 
+
+L_TONGSET_INIT_OK	°ïÅÉÄ£¿é-³õÊ¼»¯³É¹¦ bang phai Mo-dun -so khoi thanh cong 
+L_TONGSET_INIT_FAILED	FAIL: °ïÅÉÄ£¿é-³õÊ¼»¯Ê§°Ü£¡ bang phai Mo-dun - so khoi that bai! 
+
+L_DUNGEONMAP_INIT_OK	Reset map phã b¶n thµnh c«ng
+L_DUNGEONMAP_INIT_FAILED	Reset map phã b¶n thÊt b¹i!
+
+L_TONGSVR_NEW_CONNECT	°ïÅÉ·þÎñ-Óëip:%s½¨Á¢Á¬½Ó¡£  Phuc vu bang phai - cung voi ip:  lap lien tiep. 
+L_TONGSVR_CLOSE_CONNECT	°ïÅÉ·þÎñ-¹Ø±ÕÓëip:%sµÄÁ¬½Ó¡£ Phuc vu bang phai - dong lai cung voi ip:  lien tiep. 
+
+L_TONG_CREATE_ONE	°ïÅÉ- [%s]´´½¨ [%s]³É¹¦¡£ bang phai - [ ] sang lap [ ]thanh cong. 
+L_TONG_CREATE_ONE_FAIL	FAIL: °ïÅÉ- [%s]´´½¨ [%s]Ê§°Ü¡£ bang phai - [ ] sang lap [ ]that bai. 
+
+L_TONGDB_STORE_BRIEF_BEGIN	°ïÅÉÊý¾Ý¿â-±£´æ°ïÅÉÐÅÏ¢¿ªÊ¼ Kho du lieu bang phai-bao ton tin tuc bang phai bat dau 
+L_TONGDB_STORE_BRIEF_SUCCESS	°ïÅÉÊý¾Ý¿â-±£´æ°ïÅÉÐÅÏ¢³É¹¦ Kho du lieu bang phai -bao ton tin tuc bang phai thanh cong 
+L_TONGDB_STORE_BRIEF_FAILED	°ïÅÉÊý¾Ý¿â-±£´æ°ïÅÉ [%s]ÐÅÏ¢Ê§°Ü£¡ Kho du lieu bang phai -bao ton tin tuc [ ] bang phai that bai! 
+L_TONGDB_STORE_MEMBER_BEGIN	°ïÅÉÊý¾Ý¿â-±£´æ³ÉÔ±ÐÅÏ¢¿ªÊ¼ Kho du lieu bang phai -bao ton tin tuc thanh vien bat dau 
+L_TONGDB_STORE_MEMBER_SUCCESS	°ïÅÉÊý¾Ý¿â-±£´æ³ÉÔ±ÐÅÏ¢³É¹¦ Kho du lieu bang phai -bao ton tin tuc thanh vien thanh cong 
+L_TONGDB_STORE_MEMBER_FAILED	°ïÅÉÊý¾Ý¿â-±£´æ³ÉÔ± [%s]ÐÅÏ¢Ê§°Ü£¡ Kho du lieu bang phai -bao ton tin tuc [ ] thanh vien that bai! 
+L_TONGDB_OPEN_FAILED	FAIL: °ïÅÉÊý¾Ý¿â´ò¿ªÊ§°Ü£¡ FAIL:Kho du lieu bang phai mo ra that bai! 
+
+L_TONGDB_FLUSH_SUCCESS	°ïÅÉÊý¾Ý¿â-Ë¢ÐÂ³É¹¦¡£ Kho du lieu bang phai-cap nhat thanh cong. 
+L_TONGDB_FLUSH_FAILED	°ïÅÉÊý¾Ý¿â-Ë¢ÐÂÊ§°Ü£¡ Kho du lieu bang phai-cap nhat that bai! 
+L_TONGDB_BACKUP_BEING	°ïÅÉÊý¾Ý¿â-¿ªÊ¼±¸·Ý¹ý³Ì... Kho du lieu bang phai- bat dau qua trinh du bi...
+L_TONGDB_BACKUP_FAILED	°ïÅÉÊý¾Ý¿â-±¸·Ý-³ö´í£¡ Kho du lieu bang phai- du bi- bi sai! 
+L_TONGDB_BACKUP_SUCCESS	°ïÅÉÊý¾Ý¿â-±¸·Ý-³É¹¦¡£ Kho du lieu bang phai-du bi-thanh cong. 
+L_TONGDB_BACKUP_OPEN_ORIG_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-´ò¿ªÔ­ÓÐ¿âÊ§°Ü£¡ Kho du lieu bang phai-du bi-mo kho du lieu hien huu that bai! 
+L_TONGDB_BACKUP_OPEN_BK_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-´´½¨±¸·Ý¿âÊ§°Ü£¡ Kho du lieu bang phai-du bi- sang lap kho du lieu du bi that bai! 
+L_TONGDB_BACKUP_ACCE_TONG_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-ÒâÍ¼·ÃÎÊÔ­°ï»áÐÅÏ¢Ê§°Ü£¡ Kho du lieu bang phai-du bi- y do phong van tin tuc bang hoi that bai! 
+L_TONGDB_BACKUP_COPY_TONG_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-¸´ÖÆ°ï»á [%s]Êý¾Ý³ö´í£¡ Kho du lieu bang phai-du bi- phuc che du lieu bang hoi [ ] bi sai! 
+L_TONGDB_BACKUP_ERR_TONG	°ïÅÉÊý¾Ý¿â-±¸·Ý-Óö¼û´íÎó°ï»á [%s]£¡ Kho du lieu bang phai- du bi-chuyen nhapbang hoi bi sai [ ]! 
+L_TONGDB_BACKUP_ACCE_MEMB_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-ÒâÍ¼·ÃÎÊÔ­³ÉÔ±¿âÊ§°Ü£¡ Kho du lieu bang phai-du bi-y do phong van du lieu thanh vien that bai! 
+L_TONGDB_BACKUP_COPY_MEMB_FAIL	°ïÅÉÊý¾Ý¿â-±¸·Ý-¸´ÖÆ°ï»á³ÉÔ± [%s]³ö´í£¡ Kho du lieu bang phai- du bi-phuc che thanh vien bang hoi [ ] bi sai! 
+L_TONGDB_BACKUP_ERR_MEMB	°ïÅÉÊý¾Ý¿â-±¸·Ý-Óö¼û´íÎó°ï»á³ÉÔ± [%s]£¡ Kho du lieu bang phai- du bi- chuyen nhap bi sai thanh vien bang hoi [ ]! 
+
+L_PR_ERROR_RELATION_RECORD	Íæ¼Ò¹ØÏµ- [%s]¼ÍÂ¼¼ÓÔØÊ±·¢ÏÖ´íÎóµÄÊý¾Ý¡£ Quan he nguoi choi - [ ] trong thoi gian gia tai phat hien du lieuco sai sot. 
+L_PR_NOT_ON_LINE_WHEN_ADD_RELA	Íæ¼Ò¹ØÏµ- [%s]Óë [%s]½¨Á¢ [%s]¹ØÏµÊ±Ç°Õß²»ÔÚÏß¡£ Quan he nguoi choi - [ ] cung voi [ ] lap [ ] nhung nguoi quan he truoc day khong co tren mang. 
+L_PR_MATE_NOT_MATCH	Íæ¼Ò¹ØÏµ- [%s]Óë [%s]µÄÅäÅ¼¹ØÏµ²»Æ¥Åä¡£ Quan he nguoi choi - [ ] cung voi [ ] quan he phoi ngau khong phu hop. 
+
+L_HOSTCONNECT_RECV_UNKNOW_PKG	¾¯¸æ:hostÁ¬½ÓÊÕµ½²»Ã÷µÄÊý¾Ý°ü (%d) ¡£ Canh cao:host lien tiep nhan duoc nhung du lieu khong ro rang. 
+L_BACKUP_FINISHED	±¸·ÝÈ«²¿³É¹¦Ö´ÐÐÍê±Ï¡£ Du bi toan bo thanh cong, chap hanh hoan tat. 
+L_BACKUP_FINISHED_FAILED	±¸·ÝÈ«²¿Ö´ÐÐÍê±Ï£¬ÆÚ¼äÓÐ´íÎó·¢Éú£¡ Du bi toan bo chap hanh hoan tat, thoi gian co chut sai lech! 
+L_BACKUP_DOING	§ang xö lý file dô tr÷, xin ®îi gi©y l¸t….
+
+L_NOTENOUGHSPACE_INFO	Kho¶ng trèng trong æ ®Üa kh«ng ®ñ %d G,  kh«ng thÓ l­u file!, xin xãa bít file ®Ó cã kho¶ng trèng!
+L_RELATION_RENAME	%s%s cña b¹n ®· ®æi tªn lµ %s, xin ®¨ng nhËp l¹i vµ thay ®æi danh s¸ch h¶o h÷u
+L_TONGMEMBER_RENAME	Thµnh viªn bang héi %s ®· ®æi tªn lµ %s
+L_RELATION_FRIEND	B¹n h÷u
+L_RELATION_ENEMY	Cõu nh©n 
+L_RELATION_RELATIVE	Th©n nh©n 
+L_RELATION_MATE	Phèi ngÉu 
+
+G_CITYWARDATA_0	< Vßng §¶ L«i §µi míi nhÊt >\n
+G_CITYWARDATA_1	Hai bªn quyÕt ®Êu: 
+G_CITYWARDATA_2	TrËn thi ®Êu b¸n kÕt: 
+G_CITYWARDATA_3	L­ît thi ®Êu thø %u: 
+G_CITYWARDATA_4	%s ®Êu víi %s
+G_CITYWARDATA_5	%s th¾ng %s
+G_CITYWARDATA_6	<< Khu vùc thµnh %s >>\n
+G_CITYWARDATA_7	, 
+G_CITYWARDATA_8	Thi ®Êu vÉn ch­a tiÕn hµnh...
+G_CITYWARDATA_9	<Khu vùc khiªu chiÕn %s - ®¹i chiÕn L«i ®µi>\n 
+G_CITYWARDATA_10	Tr­íc m¾t ®ang lµ thêi gian hßa b×nh \n
+G_CITYWARDATA_11	Khu vùc L«i ®µi hiÖn ®ang b¸o danh \n
+G_CITYWARDATA_12	Khu vùc L«i ®µi ®· c«ng bè tr×nh tù thi ®Êu \n
+G_CITYWARDATA_13	Khu vùc L«i ®µi ®· tiÕn hµnh thi ®Êu \n
+G_CITYWARDATA_14	 §· tuyÓn ®­îc mét bang héi khiªu chiÕn %s, phe c«ng thµnh chuÈn bÞ chiÕn ®Êu \n
+G_CITYWARDATA_15	C«ng thµnh chiÕn ®· b¾t ®Çu \n
+G_CITYWARDATA_16	§ang lóc hçn ®én \n
+G_CITYWARDATA_17	Chän vÞ Th¸i Thó t¹i thµnh lµm %s, thèng lÜnh bang héi %s\n
+G_CITYWARDATA_18	ThiÕt lËp thuÕ suÊt giao dÞch lµ %u, chØ sè vËt gi¸ lµ %u\n
+G_CITYWARDATA_19	ThuÕ suÊt míi vÉn ch­a c«ng bè \n
+G_CITYWARDATA_20	Thêi gian chiÕm lÜnh: %ld ngµy \n
+G_CITYWARDATA_21	Thêi gian chiÕm lÜnh:? \n
+G_CITYWARDATA_22	Thµnh nµy vÉn ch­a cã vÞ Th¸i Thó \n
+L_ADD_SELF_TAG_TOO_FAST	Ng­¬i ph¸t biÓu t©m t×nh qu¸ nhiÒu, xin h·y ®îi %d phót %d gi©y sau h·y thö l¹i
+L_ADD_SELF_TAG_MSG	%s ®· göi mét dßng t©m t×no: %s
+L_RECEIVE_OTHER_TAG	Ng­¬i nhËn ®­îc %s sù ®¸nh gi¸ tõ giang hå
+L_ADD_OTHER_TAG_TOO_FAST	§¸nh gi¸ cña ng­¬i ®èi víi %s qu¸ nhiÒu råi, xin h·y ®îi ®Õn %d phót %d gi©y sau h·y thö l¹i
+L_RELATION_NOT_ALLOW_TAG	§Çu tiªn xin h·y ®¸nh gi¸ %s víi nh÷ng ng­êi cã quan hÖ h·o h÷u/ng­êi th©n/phèi ngÉu sau ®ã sÏ ®¸nh gi¸ cho anh ta/c« ta nhÐ
+L_STR_FORBIDJUDGE	HiÖn t¹i ®èi ph­¬ng kh«ng cho phÐp ®¸nh gi¸

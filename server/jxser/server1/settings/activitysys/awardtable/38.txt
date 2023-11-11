@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+38	Tói ®­êng	"return {tbProp={6,1,2227,-1,-1,0},}"	10	100	203	11	
+38	Dõa	"return {tbProp={6,1,2230,-1,-1,0},}"	10	100	204	11	

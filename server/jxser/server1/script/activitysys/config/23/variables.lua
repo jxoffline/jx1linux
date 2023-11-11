@@ -1,0 +1,13 @@
+TaskVarIdx_YeSou		= 2811
+TaskVarIdx_GetEveryDay		= 2822
+TaskVarIdx_LeagueMatch		= 2813
+TaskVarIdx_SongJin		= 2812
+TaskVarIdx_XinXiaLinMax		= 2823
+TaskVarIdx_FengZhiQi		= 2814
+TaskVarIdx_ShanShenMiao		= 2815
+TaskVarIdx_QianBaoKu		= 2816
+TaskVarIdx_FengLingDu		= 2817
+TaskVarIdx_LanGuai		= 2818
+TaskVarIdx_ChuangGuan		= 2819
+TaskVarIdx_LongMai		= 2820
+TaskVarIdx_CangBaoTu		= 2821

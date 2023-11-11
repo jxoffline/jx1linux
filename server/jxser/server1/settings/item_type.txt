@@ -1,0 +1,13 @@
+ITEM_TYPE	ONLY_IN_MAP_TYPE	DESCRIPTION
+Chñng lo¹i vËt phÈm	ChØ cã thÓ sö dông 	Miªu t¶ 
+PK		t¨ng møc sinh lùc, néi lùc vµ n©ng cao kh¸ng tÝnh
+CITYWAR	TONGGONGCHENG	§¹o cô c«ng thµnh bang héi
+SONGJIN	SONGJIN,FENGHUO	§¹o cô Tèng Kim
+SONGJIN_SP	SONGJIN,SONGJIN_NONE	§¹o cô Tèng Kim
+TRANSFER		Di ¶nh Phï
+MATE		T©m T©m T­¬ng ¸nh phï 
+SPECIAL		VËt phÈm ®Æc biÖt (sau khi sö dông cã thÓ nhËn ®­îc ®¹o cô thuéc chñng lo¹i kh¸c) 
+CHRISTMAS	CHRISTMAS,DUANWUJIE,SPRING,RACEGAME	Ho¹t ®éng Gi¸ng Sinh
+CALLNPC		§¹o cô ®Ó gäi ra NPC chiÕn ®Êu ë vÞ trÝ hiÖn t¹i
+SPRING	SPRING	Ho¹t ®éng n¨m míi
+DUANWUJIE	DUANWUJIE	Ho¹t ®éng tÕt §oan Ngä

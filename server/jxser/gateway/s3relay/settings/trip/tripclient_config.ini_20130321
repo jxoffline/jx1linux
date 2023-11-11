@@ -1,0 +1,15 @@
+[System]
+Name=clientvl
+ServerCount=1
+
+[Server1]
+Ip=192.168.1.129
+Port=7900
+BufferSize=4096
+BindIp=192.168.10.169
+
+[Database]
+Ip=192.168.1.129
+Database=jx1relay
+User=root
+Password=A_HzIb_FEwft_BkVUE0pvjt7SvFcqKJY_123@

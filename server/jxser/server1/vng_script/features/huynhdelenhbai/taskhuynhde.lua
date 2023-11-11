@@ -1,0 +1,30 @@
+nEventId	nMinLevel	nMaxLevel	nTranslife	szMapList	szSelect	szDlg	nTaskIDStart	nBitStart
+1	1	9	0		NhiÖm vô 1 - 9	Nh×n ng­¬i cèt c¸ch tinh k× rÊt cã n¨ng khiÕu luyÖn vâ c«ng, ë ®©y ta cã 3 quyÓn thÇn c«ng bİ kİp chØ b¸n víi gi¸ 10 l­îng b¹c ng­êi cã muèn mua hay kh«ng??? NÕu hiÖn t¹i kh«ng ®ñ tiÒn th× ng­êi cã thÓ ra bªn ngoµi th«n dïng vò khİ trong hµnh trang tiªu diÖt qu¸i ®Ó nhËn ng©n l­îng.	2789	1
+2	10	19	0		NhiÖm vô 10 - 19	Hahaha khi n·y ta chØ lõa ng­êi th«i. Ra giang hå cÇn nhÊt lµ ph¶i tØnh t¸o tr­íc c¸c thñ ®o¹n lõa g¹t. Tuy nhiªn ta vÉn thÊy ng­¬i rÊt cã khİ chÊt lµm ®¹i hiÖp. Cã muèn nghe ta chØ b¶o kh«ng??? ViÖc ®Çu tiªn muèn t×m hiÓu hÖ thèng phİm t¾t ng­¬i h·y lµm theo thø tù sau: nhÊn F1 qua nhÊn chuét tr¸i vµo dßng "H­íng DÉn ng­êi ch¬i míi!". Lµm xong ®i råi h·y t×m ta.	2789	3
+3	20	29	0		NhiÖm vô 20 - 29	NÕu muèn tån t¹i th× ph¶i biÕt nªn mua thuèc. TÊt c¶ th«n trÊn vµ thµnh thŞ ®Òu cã c¸c HiÖu Thuèc. Ng­¬i h·y ®Õn ®ã vµ mua vÒ ®©y 2 b×nh Kim s¸ng d­îc (tiÓu)	2789	5
+4	30	39	0		NhiÖm vô 30 - 39	Muèn quay vÒ thµnh nhanh chãng th× ng­¬i cÇn ph¶i cã vËt phÈm Thæ ®Şa phï. HiÖn t¹i vËt phÈm nµy ®­îc b¸n ë TiÖm T¹p Hãa c¸c thµnh thŞ vµ th«n trÊn. Khi sö dông vËy phÈm nµy ng­¬i sÏ trë vÒ n¬i cuèi cïng mµ ng­¬i ®· ®èi tho¹i víi NPC R­¬ng chøa ®å. H·y ®Õn TiÖm T¹p Hãa vµ mua 1 c¸i "Thæ §Şa Phï" vÒ ®©y ®i.	2789	7
+5	40	49	0		NhiÖm vô 40 - 49	Trong giang hå kh«ng ai lµ kh«ng m«n kh«ng ph¸i mµ trë thµnh ®¹i hiÖp c¶. Víi thùc lùc hiÖn t¹i cña ng­êi th× nªn ®Çu nhËp vµo 1 m«n ph¸i nµo ®ã ®i. M«n ph¸i trong Vâ L©m ch­a lµm 10 ®¹i m«n ph¸i øng víi 5 thuéc tİnh ngò hµnh. Ng­êi cã thÓ t×m hiÓu kÜ h¬n vÒ mçi m«n ph¸i t¹i trang chñ cña s¶n phÈm. Ngoµi ra t¹i ®©y ng­êi cßn cã thÓ t×m hiÓu c¸ch lµm nhiÖm vô m«n ph¸i ®Ó nhËn ®­îc nh÷ng kü n¨ng h÷u İch. Sau khi gia nhËp m«n ph¸i h·y quay vÒ ®©y t×m ta.	2789	9
+6	50	59	0	24	NhiÖm vô 50 - 59	TiÖu diÖt 1000 Lam C©n t¹i H­ëng Thñy §éng (Thµnh §« qua Thanh Thµnh S¬n qua H­ëng Thñy §éng)	2789	11
+7	60	69	0	94	NhiÖm vô 60 - 69	TiÖu diÖt 1,000 T«ng Hïng t¹i Linh Cèc §éng (TiÕn Cóc §éng qua Linh Cèc §éng hoÆc ®i D­¬ng Ch©u qua Thôc C­¬ng S¬nqua Linh Cèc §éng)	2789	13
+8	70	74	0	319	NhiÖm vô 70 - 74	TiÖu diÖt 5,000 B«n L«i t¹i L©m Du Quan (BiÖn Kinh qua L©m Du Quan)	2789	15
+9	75	79	0	169	NhiÖm vô 75 - 79	TiÖu diÖt 5,000 Thanh Mi t¹i Long Nh·n §éng (§¹i Lı qua §iÓm Th­¬ng S¬n qua Long Nh·n §éng)	2789	17
+10	80	84	0	201	NhiÖm vô 80 - 84	TiÖu diÖt 5,000 KÕ Chñy t¹i B¨ng Hµ §éng (VÜnh L¹c TrÊn qua B¨ng Hµ §éng)	2789	19
+11	85	89	0	224	NhiÖm vô 85 - 89	TiÖu diÖt 5,000 Kªn §Êt t¹i Sa M¹c §Şa BiÓu (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu)	2789	21
+12	90	91	0	75	NhiÖm vô 90 - 91	TiÖu diÖt 5,000 H¾c C©n t¹i Kháa Lang §éng (Ba L¨ng HuyÖn qua Miªu LÜnh qua YÕn Tö §éng qua Kháa Lang §éng)  - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn.	2789	23
+13	92	93	0	340	NhiÖm vô 92 - 93	TiÖu diÖt 5,000 M¹c TÆc t¹i M¹c Cao QuËt (Long M«n TrÊn qua M¹c Cao QuËt)  - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn.	2789	25
+14	94	95	0	340	NhiÖm vô 94 - 95	TiÖu diÖt 5,000 Phi Sa t¹i M¹c Cao QuËt (Long M«n TrÊn qua M¹c Cao QuËt)  - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn.	2789	27
+15	96	96	0	340	NhiÖm vô 96	TiÖu diÖt 5,000 TÈu Th¹ch t¹i M¹c Cao QuËt (Long M«n TrÊn qua M¹c Cao QuËt) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn.	2789	29
+16	97	97	0	93	NhiÖm vô 97	TiÖu diÖt 5,000 §o¹t MÖnh Liªm t¹i  TiÕn Cóc §éng (D­¬ng Ch©u qua Thôc C­¬ng S¬n qua TiÕn Cóc §éng) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn	2790	1
+17	98	98	0	93	NhiÖm vô 98	TiÖu diÖt 5,000 B¸o §èm t¹i  TiÕn Cóc §éng (D­¬ng Ch©u qua Thôc C­¬ng S¬n qua TiÕn Cóc §éng) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn	2790	3
+18	99	99	0	225	NhiÖm vô 99	TiÖu diÖt 5,000 L­u V©n t¹i  Mª Cung Sa M¹c 1 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 3 lÇn	2790	5
+19	100	100	0	225	NhiÖm vô 100	TiÖu diÖt 5,000 L­u Phong t¹i  Mª Cung Sa M¹c 1 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	7
+20	101	101	0	226	NhiÖm vô 101	TiÖu diÖt 5,000 L­u V©n t¹i  Mª Cung Sa M¹c 2 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	9
+21	102	102	0	226	NhiÖm vô 102	TiÖu diÖt 5,000 L­u Phong t¹i  Mª Cung Sa M¹c 2 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	11
+22	103	103	0	227	NhiÖm vô 103	TiÖu diÖt 5,000 TËt ViÖm t¹i  Mª Cung Sa M¹c 3 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	13
+23	104	104	0	227	NhiÖm vô 104	TiÖu diÖt 5,000 TËt §iÖm t¹i  Mª Cung Sa M¹c 3 (C«n L«n ph¸i qua Sa M¹c ®Şa biÓu qua Mª cung Sa M¹c 1, 2, 3) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	15
+24	105	105	0	322	NhiÖm vô 105	TiÖu diÖt 5,000 L¹c Quang t¹i Tr­êng B¹ch S¬n B¾c (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n B¾c) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	17
+25	106	106	0	322	NhiÖm vô 106	TiÖu diÖt 5,000 §ao Tr¶m t¹i Tr­êng B¹ch S¬n B¾c (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n B¾c) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	19
+26	107	107	0	322	NhiÖm vô 107	TiÖu diÖt 5,000 Hµn Th­¬ng t¹i Tr­êng B¹ch S¬n B¾c (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n B¾c) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	21
+27	108	108	0	321	NhiÖm vô 108	TiÖu diÖt 5,000 L·nh Cung t¹i Tr­êng B¹ch S¬n Nam  (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n Nam) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	23
+28	109	109	0	321	NhiÖm vô 109	TiÖu diÖt 5,000 S­¬ng §ao t¹i Tr­êng B¹ch S¬n Nam (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n Nam) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	25
+29	110	110	0	321	NhiÖm vô 110	TiÖu diÖt 5,000 S¶n Vò t¹i Tr­êng B¹ch S¬n Nam (L©m Du Quan qua Ch©n Nói Tr­êng B¹ch qua Tr­êng B¹ch S¬n Nam) - Tham gia chiÕn tr­êng Tèng Kim ®­îc 500 ®iÓm 4 lÇn.	2790	27

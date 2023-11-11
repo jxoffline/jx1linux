@@ -1,0 +1,142 @@
+TaskId	Level	Value	Text	Title	Desc
+1000	0	10	Long Ngò mõng b¹n gia nhËp nghÜa qu©n. Tr­íc tiªn h·y ®i t×m Vâ s­ häc vâ. CÇn mang theo <color=red>3 miÕng thŞt t­¬i<color> tÆng Vâ s­ lµm ®å nhÊm. NhÊn <color=red>phİm R<color> ®Ó ®i nhanh. NhÊn <color=red>phİm Tab<color> më b¶n ®å nhá. NhÊn <color=red>phİm F12<color> ®Ó xem cÈm nang h­íng dÉn	Long Ngò luyÖn thøc	C«ng nguyªn n¨m 1160, Kim v­¬ng Hoµn Nhan L­îng quyÕt t©m thùc hiÖn m­u ®å th«n tİnh Trung nguyªn. Thiªn h¹ ®¹i lo¹n, quÇn hïng næi dËy. Trai tr¸ng ®Òu lÊy hä Long Ngò lµm danh nghÜa gi­¬ng cê khëi nghÜa
+1000	0	20	Vâ s­ ®· nhËn ®­îc miÕng thŞt t­¬i.		
+1000	0	30	Vâ s­ d¹y b¹n: lóc luyÖn c«ng cã thÓ nhÊn <color=red>phİm V<color> ®Ó ngåi xuèng lÊy l¹i sinh khİ.		
+1000	0	40	Vâ s­ d¹y b¹n Ngò hµnh c«ng kİch vµ ngò hµnh t­¬ng kh¾c,<color=red>Kim kh¾c Méc, Méc kh¾c Thæ, Thæ kh¾c Thñy, Thñy kh¾c Háa, Háa kh¾c Kim<color>. B¹n l¹i ®i t×m Long Ngò.		
+1000	0	50	Long Ngò d¹y b¹n nhÊn <color=red>F3<color> më giao diÖn Thuéc tİnh, sÏ thÊy: Søc m¹nh, Th©n ph¸p, Néi c«ng, Sinh kh.Søc m¹nh ¶nh h­ëng ®Õn sö dông vò khİ vµ kh¶ n¨ng c«ng kİch ngo¹i c«ng.Mçi lÇn céng <color=red>5<color>®iÓm søc m¹nh sÏ t¨ng<color=red>1<color>®iÓm tÊn c«ng c¬ b¶n.Th©n ph¸p ¶nh h­ëng ®Õn viÖc tÊn c«ng c¬ b¶n ngo¹i c«ng.Mçi lÇn céng <color=red>5<color> ®iÓm th©n ph¸p sÏ t¨ng <color=red>1<color> ®iÓm tÊn c«ng c¬ b¶n. §ång thêi th©n ph¸p còng ¶nh h­ëng ®Õn kh¶ n¨ng nĞ tr¸nh cña nh©n vËt. Kim Méc Thñy Háa Thæ mçi hÖ t¨ng <color=red>1<color> ®iÓm th©n ph¸p, nh©n vËt t¨ng <color=red>4<color>®iÓm sinh lùc. <color=red>Ngo¹i c«ng<color> t¨ng sinh lùc,<color=red>néi c«ng<color> t¨ng néi lùc. Ngò hµnh kh¸c nhau, t¨ng m¸u vµ néi lùc còng kh¸c nhau. B¹n b©y giê cã thÓ thö xem, quy luËt lµ?Mçi lÇn t¨ng <color=red>1<color> ®iÓm ngo¹i c«ng ®èi øng víi Kim Méc Thñy Háa Thæ mçi thø t¨ng <color=red>8,5,6,7,3<color> ®iÓm sinh lùc. Mçi lÇn t¨ng <color=red>1<color> ®iÓm néi c«ng øng víi Kim Méc Thñy Háa Thæ mçi thø 		
+1000	0	60	Long Ngò b¶o b¹n luyÖn ®Õn <color=red>cÊp 3<color> h·y quay l¹i		
+1000	3	70	Nam B¾c chiÕn lo¹n, Long Ngò b¶o b¹n vµo T©n Thñ Th«n t×m Th­¬ng nh©n häc hái, «ng ta b¶o b¹n ®Õn Chñ d­îc ®iÕm.		
+1000	3	80	Long Ngò b¶o b¹n ®Õn gÆp Chñ d­îc ®iÕm thØnh gi¸o		
+1000	3	90	Chñ d­îc ®iÕm tÆng b¹n mét İt d­îc phÈm, d¹y b¹n nÕu muèn mua sè l­îng nhiÒu, cã thÓ nhÊn <color=red>Shift<color><color=red>+ chuét ph¶i<color> vµo vËt phÈm cÇn mua, sau ®ã nhËp vµo sè l­îng cÇn mua.		
+1000	3	100	Chñ d­îc ®iÕm ®· d¹y xong, tiÕp theo b¹n cã thÓ vµo th«n trÊn t×m <color=red>Thî rÌn<color> häc tËp.		
+1000	3	110	Thî rÌn d¹y b¹n: chiÕu theo Ngò hµnh mµ chän binh khİ, th× cã kh¶ n¨ng kİch ho¹t lÉn nhau thuéc tİnh Èn cña trang bŞ. NhÊn <color=red>F4<color> më hµnh trang, nhÊn F3 më giao diÖn trang bŞ, dïng chuét tr¸i kĞo trang bŞ vµo vŞ trİ t­¬ng øng lµ cã thÓ sö dông.		
+1000	3	120	Thî rÌn b¶o b¹n ®Õn Bµ chñ t¹p hãa ®èi tho¹i, nÕu nh­ t×m kh«ng ®­îc bµ chñ tiÖm cã thÓ nhê «ng chñ tiÖm, lêi cña thî rÌn rÊt khã hiÓu, h×nh nh­ Bµ chñ t¹p hãa ®ang che giÊu chuyÖn g×.		
+1000	3	130	Th× ra bµ chñ tiÖm vµ Long Ngò cã 1 mèi liªn hÖ mËt thiÕt. Nghe b¹n do Long Ngò ph¸i ®Õn, liÒn ®­a cho b¹n 1 ®«i giµy vµ 2 tÊm Thæ ®Şa phï, vµ cho b¹n biÕt mét İt tin tøc vÒ bé gi¸p tuyÖt thÕ Thiªn Hoµng Long Khİ.		
+1000	3	140	Bµ chñ t¹p hãa cho b¹n vµi lêi khuyªn. B¹n biÕt cã thÓ quay vÒ t×m Long Ngò.		
+1000	3	150	Long Ngò nãi víi b¹n lóc r¶nh cã thÓ t×m Vâ s­ häc khinh c«ng, kh«ng häc còng kh«ng ¶nh h­ëng g×.		
+1000	5	160	Long Ngò b¶o b¹n cÊp 5 h·y quay l¹i t×m «ng.
+1000	5	170	Long Ngò d¹y b¹n c¸ch t¸n gÉu. NhÊn phİm <color=red>Enter<color> më « ®èi tho¹i. NhËp lêi tho¹i sau ®ã nhÊn <color=red>Enter<color> ph¸t ®i.T¹i bªn tr¸i dßng nhËp ch÷ lµ nót chän kªnh, nhÊp chuét nót cã thÓ chän kªnh ®èi tho¹i, Nh­ thÕ b¹n cã thÓ thÊy néi dung ®èi tho¹i cña kªnh mµ b¹n chän.Trong trß ch¬i b¹n g¾p bÊt cø vÊn ®Ò nµo cã thÓ th«ng qua t¸n gÉu víi ng­êi kh¸c nhê gióp ®ì. NhÊn <color=red>Ctrl + chuét tr¸i<color> vµo ng­êi muèn ®èi tho¹i, lµ cã thÓ cïng hä ®èi tho¹i, hoÆc nhÊn<color=red>ctrl+ chuét ph¶i<color> vµo ng­êi kh¸c, chän lÖnh "t¸n gÉu" trong giao diÖn võa hiÖn ra.
+1000	5	180	Long Ngò l¹i nhê b¹n ®i t×m 5 miÕng thŞt t­¬i giao cho vâ s­ 
+1000	5	190	Vâ s­ d¹y b¹n Ên phİm <color=red>F6<color> më giao diÖn h¶o h÷u, nhÊn nót t×m kiÕm ë phİa d­íi, cã thÓ chän tªn ng­êi ch¬i, hoÆc tù m×nh ®Şnh vŞ. §­¬ng nhiªn còng cã thÓ nhÊn <color=red>Ctrl<color> + <color=red>chuét ph¶i<color> lªn ®èi ph­¬ng,chän <color=red>h¶o h÷u<color> trong menu hiÖn ra
+1000	5	200	Vâ s­ tÆng b¹n 1 thanh b¶o kiÕm vµ 1 sîi d©y chuyÒn, ®ång thêi cho b¹n biÕt trªn trang bŞ cã thÓ kİch ho¹t lÉn nhau.¤ng Êy nãi sau nµy muèn kİch ho¹t trang bŞ, nhÊn <color=red>F4<color> xem mçi <color=red>dßng thuéc tİnh<color> mµu vµng phİa d­íi lµ hiÓn 
+1000	5	210	Long Ngò b¶o b¹n ®Õn cÊp 10 h·y quay l¹i t×m «ng ta
+1000	10	220	Long Ngò b¶o b¹n cã thÓ ®i t×m D· TÈu, tiÕp nhËn mét vµi nhiÖm vô nhá, th«ng qua viÖc lµm nhiÖm vô, cã thÓ ®­îc nhiÒu thø trong m¬ míi cã. §­¬ng nhiªn nÕu b¹n kh«ng lµm ®­îc còng kh«ng ¶nh h­ëng g× ®Õn nhiÖm vô hiÖn t¹i.
+1000	10	230	B©y giê b¹n ®· cã thÓ t×m §Ö tö tiªp dÉn cña c¸c m«n ph¸i trong th«n ®Ó nhËp m«n häc nghÖ 
+1000	10	240	Long Ngò cho b¹n biÕt sau khi nhËp m«n ph¸i, ®Õn nãi chuyÖn víi npc gióp ®ì cña m«n ph¸i, Long Ngò sÏ ë ®ã ®îi b¹n.
+1000	10	250	§èi tho¹i víi §Ö tö m«n ph¸i.
+1000	10	260	§Ö tö m«n ph¸i cho biÕt: nÕu trong m«n ph¸i th× ®i t×m npc trî gióp, nÕu ®· xuÊt s­ th× cø ®i t×m Long Ngò thØnh gi¸o
+1000	10	270	Long Ngò cho b¹n biÕt vâ c«ng chia ra lµm <color=red>néi c«ng vµ ngo¹i c«ng<color>, Ngò hµnh còng chia thµnh <color=red>hÖ néi c«ng<color> vµ <color=red>hÖ ngo¹i c«ng<color>. Lóc luyÖn vâ c«ng nªn chän kü.C¸c <color=red>thuéc tİnh hç trî<color> trªn vò kh
+1000	10	280	Long Ngò b¶o b¹n ®Õn cÊp<color=red>20<color> h·y ®Õn gÆp npc trî gióp cña m«n ph¸i ®Ó thØnh gi¸o
+1000	20	290	Long Ngò cho b¹n biÕt, Kim CÈu ®ét nhiªn tËp kİch vµo th«n, Bµ chñ t¹p hãa bŞ chóng s¸t h¹. B¹n khuyªn Long Ngò ®õng qu¸ ®au buån
+1000	20	300	Long Ngò cho b¹n biÕt nh÷ng ng­êi cã thÓ gióp ®ì b¹n. Chİnh ph¸i ®Õn Ph­îng T­êng t×m Ng¹o V©n T«ng <color=red> (198,206)<color>.Trung lËp ®i L©m An t×m LiÔu Nam V©n <color=red> (171,190)<color>. Tµ ph¸i ®i BiÖn Kinh t×m Th¸c B¹t Hoµi Xuyªn<color=red> (209,19
+1000	20	310	NÕu biÕt b¹n lµ ng­êi cña Long Ngò giíi thiÖu ®Õn, ch¾c ch¾n sÏ thu nhËn b¹n.
+1000	20	320	Tr­íc tiªn h·y tham quan thµnh thŞ 		
+1000	20	330	Nãi chuyÖn víi ng­êi gióp b¹n, h×nh nh­ hä cã nhiÒu bİ mËt.		
+1000	20	340	Ng­êi gióp b¹n b¶o b¹n vµo thµnh t×m Vâ L©m TruyÒn Nh©n		
+1000	20	350	Vâ L©m TruyÒn Nh©n giíi thiÖu vÒ <color=red> Phóc duyªn<color>. <color=red> Phóc duyªn<color>lµ ph­¬ng thøc tİch lòy <color=red>2 giê<color> ch¬i th× cã thÓ ®Õn <color=red> 7 thµnh lín <color> hoÆc <color=red>§µo Hoa Nguyªn<color> t×m Vâ L©m TruyÒn Nh©n nhËn		
+1000	20	360	Vâ L©m TruyÒn Nh©n b¶o b¹n ®i <color=red>L©m An<color> t×m Chñ tiÒn trang <color=red> (180,191)<color>.		
+1000	20	370	Chñ tiÒn trang cho b¹n biÕt, sau khi n¹p thÎ, cã thÓ chän ®æi giê ch¬i hoÆc ®æi thµnh nguyªn b¶o.		
+1000	20	380	Chñ tiÒn trang b¶o b¹n ®Õn t×m Thî rÌn trong thµnh hái mét vµi vÊn ®Ò.		
+1000	20	390	Thî rÌn cho b¹n biÕt, "Thiªn Hoµng Long Khİ" ®· t¸i xuÊt giang hå, kh«ng biÕt sÏ cßn ®Ém m¸u bao l©u n÷a. ¤ng Êy hi väng b¹n cã thÓ gióp thiªn h¹ tr¸nh khái tai kiÕp nµy, còng kh«ng biÕt t¹i sao «ng ta l¹i tin t­ëng b¹n nh­ vËy, l¹i cßn tÆng b¹n 1 bé ¸o g		
+1000	20	400	¸o gi¸p d­êng nh­ cã chót h­ háng, Thî rÌn b¶o ®Ó «ng ta söa mét chót<color=red><color>.		
+1000	20	410	Thî rÌn d¹y b¹n lîi dông Ngò hµnh sinh kh¾c ®Ó kİch ho¹t thuéc tİnh Èn trªn trang bŞ. NÕu trang bŞ ®óng th× <color=red>thuéc tİnh Èn <color> sÏ <color=red>tù ®éng kİch ho¹t<color>.<color=red>Kim sinh Thñy,Thñy sinh Méc, Méc sinh Háa, Háa sinh Thæ, Thæ sinh Kim<color>		
+1000	20	420	Thî rÌn tÆng b¹n <color=red>1 giê<color>,<color=red>10 ®iÓm may m¾n<color>, ®iÓm may m¾n tøc lµ lóc luyÖn c«ng sÏ cã kh¶ n¨ng lÊy ®­îc trang bŞ tèt.<color=red>®iÓm may m¾n<color> cao nhÊt lµ<color=red>255<color>.Thî rÌn b¶o b¹n quay vÒ t×m ng­êi ®· sai b¹n ®Õn ®©y.		
+1000	20	430	Ng­êi gióp ®ì trao cho b¹n mét tói th­ cña Long Ngò.		
+1000	20	440	NhËn ®­îc tói th­ cña Long Ngò 		
+1001	20	10	Long Ngò b¶o b¹n ®i t×m M¹c SÇu <color=red> (182,198)<color> ë <color=red>§¹i Lı<color>. §»ng sau c« g¸i nµy h×nh nh­ cã 1 tæ chøc thÇn bİ gäi lµ B¹ch §¹o.	Bİ mËt TÇm Long héi	HiÓm nguy ®ang b¾t ®Çu chê b¹n! Nh­ng tiÒn ®å còng cã thÓ tõ ®©y mµ ra!
+1001	20	20	M¹c SÇu ph¸t hiÖn trong th­ cã ®éc! B¹n kh«ng muèn ®Ó lé danh tİnh cña Long Ngò, xem ra bªn trong cã uÈn khóc.M¹c SÇu hÑn b¹n ë ngoµi thµnh §¹i Lı. ¸c chiÕn xem ra khã tr¸nh khái.		
+1001	20	30	M¹c SÇu hÑn b¹n t¹i bÕn tµu ngoµi thµnh §¹i Lı <color=red> (204,186)<color>.		
+1001	20	40	Th¾ng ®­îc M¹c SÇu khiÕn bao hao tæn kh«ng İt sinh lùc. Nh­ng tµi n¨ng cña b¹n ®· ®­îc béc. H·y trë l¹i thµnh <color=red> (182,198)<color> t×m c« ta. M¹c SÇu thÊt b¹i mµ vÉn vui vÎ, b¹n c¶m thÊy rÊt kú l¹.		
+1001	20	50	M¹c SÇu rÊt ng­ìng mé b¹n vµ hĞ lé tin tøc cña Thiªn Hoµng Long Khİ. Bé gi¸p nµy TÇn Thñy Hoµng triÖu tËp thî rÌn 7 n­íc chÕ t¹o ra. Xung quanh bé gi¸p thÇn bİ nµy cßn bao nhiªu ©m m­u?		
+1001	20	60	M¹c SÇu b¶o b¹n ®i <color=red>Ph­îng T­êng<color> t×m Ng¹o V©n T«ng<color=red> (198,206)<color>, «ng ta sÏ cho b¹n biÕt nhiÒu bİ mËt!		
+1001	30	70	M¹c SÇu b¶o b¹n ®Õn Thµnh §« t×m C«ng Tö TiÕu, h¾n t­êng ®Õn Tİn T­íng tù. Nghe nãi h¾n cã Hé UyÓn  ‘"Hoµng Kim L©n"cña bé Thiªn Hoµng Long Khİ.	C«ng Tö TiÕu	C«ng Tö TiÕu cña c¶i nh­ nói, m«n h¹ cã h¬n 3 ngµn sÜ tö. Nh­ng chØ v× 1 ch÷ T×nh mµ bÊt chÊp tÊt c¶.
+1001	30	80	M¹c SÇu cho b¹n biÕt, <color=red>Thµnh §«<color> C«ng Tö TiÕu <color=red> (403,319)<color> lµ ng­êi tr­îng nghÜa. LÇn nµy B¹n ®i kh«ng thÓ dïng søc c­ìng Ğp. NÕu nh­ huynh Êy mét mùc cù tuyÖt th× quay l¹i t×m c¸ch kh¸c.		
+1001	30	90	§Õn Thµnh §« t×m C«ng Tö TiÕu. Hãa ra v× b¶o vÖ Hoµng Kim L©n,y ph¶i tr¸nh sù truy s¸t cña giang hå, vî y ta bŞ bÖnh vµ qua ®êi.C«ng Tö TiÕu míi ®· mÊt c¸i quı nhÊt trªn ®êi, nh­ng ®· qu¸ muén råi.		
+1001	30	100	<color=red>Thµnh §«<color> C«ng Tö TiÕu <color=red> (403,319)<color> b¶o b¹n ®Õn <color=red>tÇng 1 D­îc V­¬ng §éng<color> t×m thuéc h¹ cña y lµ Giíi L­u Phong <color=red> (192,207)<color>, chØ cÇn b¹n ®¸nh b¹i h¾n, Hoµng Kim L©n tïy b¹n lÊy.		
+1001	30	110	§¸nh b¹i Giíi L­u Phong <color=red> (192,207)<color> lÊy ®­îc <color=red>Hoµng Kim L©n<color>. B¹n lËp tøc quay vÒ t×m M¹c SÇu.		
+1001	30	120	§­a Hoµng Kim L©n cho <color=red><color>M¹c SÇu <color=red> (182,198)<color>, M¹c SÇu kh«ng thÓ giÊu ®­îc niÒm vui!		
+1001	30	130	M¹c SÇu l¹i b¶o b¹n ®i gÆp <color=red>Ng¹o V©n T«ng<color> t¹i Ph­îng T­êng <color=red> (198,206)<color>, biÕt ®©u sÏ cã chuyÖn hay!		
+1001	40	140	M¹c SÇu cho b¹n biÕt, TÇm Long Héi ë <color=red>D­¬ng Ch©u<color> cã H¹ V« Th­ ng­êi phô tr¸ch m¹ng l­íi t×nh b¸o khu vùc nµy <color=red> (212,195)<color> d­êng nh­ giÊu kİn tin tøc vÒ Thiªn Hoµng Long Khİ. Y kh«ng muèn tin ®©y lµ sù thËt, cã thÓ chØ cã b¹n míi lµm râ tÊt c¶.	D­¬ng Ch©u lo¹n khëi	Lóc b¹n tiÕn s©u vµo TÇm Long héi thËt ra lµ 1 tæ chøc nh­ thÕ nµo? LiÖu b¹n cã ®ñ søc ®¶m ®­¬ng träng tr¸ch nµy?
+1001	40	150	M¹c SÇu b¶o b¹n ®i <color=red>D­¬ng Ch©u<color> t×m  H¹ V« Th­<color=red> (212,195)<color> ®iÒu tra tung tİch Cöu HiÖn Chi ChØ 		
+1001	40	160	Cöu HiÖn chi ChØ còng lµ 1 phÇn cña bé Thiªn Hoµng Long Khİ. B¹n ph¸t hiÖn sù thÇn bİ cña bé b¸o gi¸p nµy ngµy cµng nhiÒu.		
+1001	40	170	H¹ V« Th­ b¶o b¹n ®Õn <color=red>tÇng 3 §iÓm Th­¬ng ®éng<color> t×m Tö §ao HiÖp <color=red> (194,190)<color> biÕt ®©u sÏ cã chót manh mèi!		
+1001	40	180	LÊy ®­îc thñ cÊp Tö ®ao HiÖp khiÕn b¹n hao tæn kh«ng İt sinh lùc! B¹n lËp tøc mang Cöu HiÖn Chi ChØ  vÒ <color=red>§¹i Lı<color> t×m M¹c SÇu <color=red> (182,198)<color>.		
+1001	40	190	M¹c SÇu rÊt hµi lßng vÒ b¹n nªn nhê b¹n ®i <color=red>PhôngT­êng<color> t×m Ng¹o V©n T«ng<color=red> (198,206)<color> b¸o chót tin tøc!		
+1001	40	200	M¹c SÇu nãi sÏ sÏ l¹i t×m b¹n! H×nh  nh­ c« ta ®ang cã t©m sù g× ®ã!		
+1001	50	210	M¹c X¶o Nhi cho biÕt M¹c SÇu ®· bŞ thİch kh¸ch b¾t ®i. ViÖc nµy liÖu cã liªn quan tíi Thiªn Hoµng Long Khİ ch¨ng?	H¾c Y D¹ KiÕp	M¹c SÇu bŞ b¾t cãc! Nh©n vËt giÊu mÆt lµ ai ®©y!
+1001	50	220	M¹c sÇu ®· dÆn X¶o Nhi, nÕu cã chuyÖn g× bÊt tr¾c, h·y ®Õn <color=red>L©m An<color> t×m M¹nh Phµm <color=red> (203,187)<color>, chØ cã «ng ta míi gi¶i quyÕt ®­îc mäi chuyÖn.		
+1001	50	230	M·i ®Õn khi nhËn ®­îc bå c©u truyÒn tin cña X¶o Nhi, M¹nh Phµm míi tin t­ëng b¹n.		
+1001	50	240	M¹nh Phµm b¶o b¹n ®Õn <color=red>H­ëng Thñy ®éng<color> t×m O¸n §éc<color=red> (264,207)<color> lÊy thñ cÊp cña h¾n vÒ!		
+1001	50	250	Cuèi cïng b¹n còng cã thÓ chiÕn th¾ng hoµn thµnh nhiÖm vô!		
+1001	50	260	Xin b¹n h·y nhÉn n¹i chê ®îi sù s¾p xÕp cña M¹nh Phµm.		
+1001	50	270	M¹nh Phµm cho biÕt <color=red>Ng¹o V©n T«ng<color> t¹i Ph­îng T­êng <color=red> (198,206)<color>, trë thµnh thñ lÜnh trÎ tuæi nhÊt cña TÇm Long héi tõ khi thµnh lËp ®Õn nay, «ng ta qu¸ xuÊt s¾c v× thÕ lu«n bŞ ®è kş vµ kÎ thï ¸m h¹i!		
+1001	60	280	M¹nh Phµm qu¶ nhiªn biÓu hiÖn n¨ng lùc siªu phµm cña m×nh, «ng ta kh«ng nh÷ng ®iÒu tra ra tung tİch cña M¹c SÇu, thËm chİ ph¸t hiÖn tin tøc liªn quan ®Õn Thiªn Hoµng Long Khİ.M¹nh Phµm quyÕt ®Şnh giao nhiÖm vô ®i cøu M¹c SÇu giao cho b¹n, cßn «ng ta ®i hå Bµ D­¬ng th¸m thİnh tin tøc cña Long Khİ.	Chñ Nh©n TÇm Long Héi	KÎ thÇn bİ ®· b¾t M¹c SÇu ®i, Thiªn Hoµng Khİ Kinh xuÊt hiÖn ë hå Bµ D­¬ng, mäi viÖc ngµy cµng phøc t¹p, muèn t×m ra ®Çu mèi, tr­íc tiªn h·y ®iÒu tra tõ T­¬ng D­¬ng, bªn trong d­êng nh­ cã nhiÒu bİ mËt kh«ng muèn ng­êi biÕt?KÎ thÇn bİ sao l¹i muèn giÕt M¹c SÇu?
+1001	60	290	M¹nh Phµm cho b¹n biÕt M¹c SÇu bŞ mét Nam nh©n thÇn bİ<color=red> (211,195)<color> ®em ®Õn mËt ®¹o <color=red>Nha m«n T­¬ng D­¬ng<color> khuyªn b¹n ph¶i hÕt søc cÈn thËn		
+1001	60	300	Dï th¾ng Nam nh©n thÇn bİ còng kh«ng lµm cho b¹n vui mõng, v× h¾n l¹i b¶o b¹n vÒ §¹i Lı t×m M¹c SÇu, bªn trong cã bİ mËt g× ®©y?		
+1001	60	310	Th× ra Nam nh©n thÇn bİ nµy lµ chñ nh©n TÇm Long Héi ®· mÊt tİch trªn giang hå tõ l©u!<color=red> <color>! Chİnh «ng ta ®· cøu M¹c SÇu. Vî «ng ta <color=red>Hoµn Nhan Nh­îc TuyÕt<color> bŞ giam t¹i mét hang ®éng bİ mËt t¹i Trung nguyªn, chØ khi giao ®­îc Thiªn Hoµng Long Khİ th× «ng ta míi cøu ®­îc vî m×nh.		
+1001	60	320	M¹c SÇu l¹i cïng Nam Cung Phi V©n ®i §¹i Lı <color=red>Thiªn Long Tù<color> c« ta dÆn b¹n ®i nhËn mét mãn quµ tõ <color=red>Long Ngò<color>.		
+1002	20	10	Th­ cña Long Ngò nãi râ, b¹n nªn ®i <color=red>BiÖn Kinh<color> t×m Phã Nam B¨ng <color=red> (212,197)<color>.	C©u chuyÖn L©m Uyªn Nhai	Long Ngò giíi thiÖu b¹n ®Õn BiÖn Kinh gÆp Phã Nam B¨ng <color=red> (212,197)<color>, lµ 1 ng­êi trong tæ chøc L©m Uyªn Nhai. Xem ra b¹n ®· kh«ng thÓ an nhµn n÷a råi!
+1002	20	20	Phã Nam B¨ng xem th­ xong rÊt c¨ng th¼ng! Xem ra ®· cã chuyÖn quan träng!		
+1002	20	30	Phã Nam B¨ng b¶o b¹n ®i b¾t trõ ph¶n quèc <color=red>Ninh T­íng qu©n ë La Tiªu S¬n <color><color=red> (254,172)<color>. B¹n quyÕt chøng tá cho Phã Nam B¨ng thÊy thùc lùc cña m×nh.		
+1002	20	40	Trõ Ninh t­íng qu©n kh«ng khã b»ng viÖc b¹n t×m ®­îc h¾n. Cuèi cïng b¹n còng cã thÓ thë phµo quay vÒ t×m Phã Nam B¨ng.		
+1002	20	50	Phã Nam B¨ng rÊt ng¹c nhiªn víi biÓu hiÖn cña b¹n. ThËt kh«ng ngê 1 tªn nhµ quª lÇn ®Çu rêi khái lÒu tranh l¹i cã thÓ dÔ dµng lÊy m¹ng Nam Tèng t­íng qu©n.		
+1002	20	60	Phã Nam B¨ng b¶o b¹n ®i t×m LiÔu Nam V©n <color=red> (171,190)<color>. ë ®ã b¹n sÏ häc ®­îc nhiÒu ®iÒu quı gi¸.		
+1002	30	70	Phã Nam B¨ng cho biÕt, trªn giang hå cã 3 ng­êi kh«ng thÓ giÕt ®­îc: 1 lµ Nh¹c Vâ Môc, 2 lµ §éc C« KiÕm, 3 lµ L­ ThiÖn T­îng. B¹n cã vÎ kh«ng tin?	Vua s¸t thñ 	Giang hå th©n bÊt do kû! B¹n ®· quyÕt ®Şnh kÕ ho¹ch cho m×nh ch­a?
+1002	30	80	Phã Nam B¨ng b¶o b¹n ®i <color=red>Kho¸i Ho¹t L©m<color> thö søc víi L­ ThiÖn T­îng <color=red> (201,199)<color>, ng­êi nµy vâ nghÖ cao c­êng. Hi väng b¹n sÏ b×nh an trë vÒ!		
+1002	30	90	Kh«ng biÕt lµ may m¾n hay thËt sù b¹n ®· trë thµnh cao thñ, nh­ng sù thËt tr­íc m¾t lµ L­ ThiÖn T­îng ®· ph¶i van xin b¹n tha m¹ng!		
+1002	30	100	Quay vÒ <color=red>BiÖn Kinh<color> t×m <color=red>Phã Nam B¨ng<color> phôc mÖnh. Sau ®ã nghØ ng¬i mét thêi gian.		
+1002	30	110	Phã Nam B¨ng dÆn b¹n, lóc r¶nh rçi nªn ®Õn Thµnh §« t×m LiÔu Nam V©n <color=red> (171,190)<color>. ChØ cã kh«ng ngõng luyÖn tËp, b¹n míi chiÕm 1 vŞ trİ trong kÕ ho¹ch cña «ng ta, xem ra Phã Nam B¨ng ®· rÊt tİn nhiÖm b¹n.		
+1002	40	120	Cuèi cïng c¬ héi còng ®· ®Õn. Phã Nam B¨ng b¶o b¹n ®Õn Thóy Yªn m«n t×m §¹i s­ tû LÖ Thu Thñy, c« ta sÏ nãi víi b¹n b­íc tiÕp theo.	Ph¶n t­íng th× chÕt	Cã liªn quan ®Õn tin tøc vÒ Thiªn Hoµng Long Khİ, l¹i lµ bİ mËt kinh ng­êi cña L©m Uyªn Nhai
+1002	40	130	Lóc b¶o b¹n ®i <color=red>Thóy Yªn m«n<color> t×m LÖ Thu Thñy <color=red> (43,84)<color>, B¹n c¶m thÊy lêi nãi cña Phã Nam B¨ng kh«ng ®¸ng tin cËy!		
+1002	40	140	Ng­êi trong giang hå nghe ®Õn Thóy Yªn LÖ Thu Thñy ®Òu biÕn s¾c, C« ta qu¸ kiªu ng¹o vµ hung ¸c		
+1002	40	150	LÖ Thu Thñy b¶o b¹n ®Õn <color=red>Kinh Hoµng ®éng<color> giÕt Tõ Tù Lùc<color=red> (181,214)<color>, ®©y lµ c¬ héi ®Ó b¹n chøng tá b¶n th©n, mét lÇn thµnh c«ng míi ®­îc lµm cho nhiÒu ng­êi tin t­ëng, thÕ gian nµy vèn dÜ kh«ng cã thø g× tù nhiªn mµ cã!		
+1002	40	160	L¹i 1 tªn t­íng lÜnh ph¶n quèc! RÌn luyÖn ı chİ kiªn c­êng dòng c¶m lµ thø mµ b¹n ®ang cÇn. §· ®Õn lóc quay vÒ t×m <color=red>LÖ Thu Thñy råi<color>.		
+1002	40	170	Bçng nhiªn b¹n ph¸t hiÖn, m×nh ®· lÊy ®­îc ChiÕn gi¸p B¹ch Long Tøc trong Thiªn Hoµng Long Khİ, lóc ®­a nã cho LÖ Thu Thñy, trong lßng kh«ng vui chót nµo!		
+1002	40	180	§Õn lóc vÒ t×m Phã Nam B¨ng råi. Cuèi cïng ®· cã thÓ rêi Thóy Yªn m«n. Nh­ng tr­íc tiªn h·y ®i <color=red>Thµnh §«<color> t×m LiÔu Nam V©n<color=red> (171,190)<color>, biÕt ®©u sÏ l¹i cã nmang mèi g×!		
+1002	50	190	ChiÕn Th­¬ng "Long §o¹n" trong "Thiªn Hoµng B¸t Khİ" lµ TrÊn Bang Chi B¶o cña Thiªn V­¬ng Bang, ®¸ng tiÕc ®· bŞ kÎ c­íp ®i. Thiªn V­¬ng Bang lµ mét phÇn quan träng cña L©m Uyªn Nhai, Bang chñ <color=red>D­¬ng Anh<color> lµ chñ nh©n cña L©m Uyªn Nhai. ChuyÖn nµy cïng víi <color=red>Hµn Giang §éc §iÕu TÈu<color><color=red> (205,199)<color>¾t cã liªn quan.	Danh Th­¬ng Long §o¹n	Sau 1 thêi gian nghØ ng¬i! B¹n quyÕt ®Şnh kh«ng ®Ó cho tuæi trÎ tr«i qua l·ng phİ n÷a!
+1002	50	200	Ng­êi nµy cã cèng hiÕn rÊt nhiÒu cho Thiªn V­¬ng, chñ nh©n cña hä kh«ng muèn ®İch th©n ra tay! B¹n cã thÓ ®¶m nhËn viÖc nµy kh«ng?		
+1002	50	210	B¹n h×nh nh­ ®· ph¸t hiÖn ra ®­îc chót manh mèi!		
+1002	50	215	§éc §iÕu TÈu b¶o b¹n xuèng ®¸y §éng §×nh hå <color=red> (199,206)<color> gÆp «ng ta. H×nh nh­ trong tay «ng ta ®ang gi÷ b¶o khİ Long §o¹n.		
+1002	50	220	Mét lÇn n÷a b¹n l¹i thÓ hiÖn ®­îc b·n lÜnh tr¸c tuyÖt cña m×nh. Long §o¹n ®ang ë trong tay. H·y mau ®i t×m <color=red>Phã Nam B¨ng<color>.		
+1002	50	230	Phã Nam B¨ng nh×n thÊy Long §o¹n nh­ muèn ph¸t rå! Xem h¾n lócth× nh­ Ma V­¬ng lóc th× nh­ PhËt vËy.		
+1002	50	240	Phã Nam B¨ng nãi sau nµy sÏ cã lóc t×m b¹n.B©y giê b¹n h·y ®i <color=red>L©m An<color> t×m LiÔu Nam V©n <color=red> (171,190)<color>, tiÕp tôc gióp ®ì L©m Uyªn Nhai.		
+1002	60	250	Phã Nam B¨ng l¹i t×m b¹n, h¾n nãi TÇm Long héi ®· thu thËp ®­îc 2 lo¹i thÇn binh, nÕu ®Ó hä thu thËp ®Çy ®ñ, kÕ ho¹ch L©m Uyªn Nhai sÏ kh«ng thÓ hoµn thµnh. V× sù kú väng cña thiªn h¹, b¹n nhÊt ®Şnh ph¶i ®o¹t l¹i thÇn binh! §Õn ThiÕu L©m Tù t×m Kh«ng TŞch ThÇn T¨ng ®i.	Hæ KhÈu §o¹t B¶o 	§¹i nghÜa! Gian tµ! ¤i giang hå sao l¾m gian tru©n! Cuèi cïng ai chİnh ai tµ!
+1002	60	260	B¶o khİ hiÖn ®ang ë trong tay cña Kh«ng TŞch <color=red> (221,177)<color>.H¾n ®ang Èn tİch t¹i <color=red>ThiÕu L©m Tù<color>. L©m Uyªn Nhai ®ang ®Æt kú väng vµo b¹n.		
+1002	60	270	Kh«ng TŞch<color=red> (218,166)<color> mét lßng h­íng PhËt kh«ng muèn mµng ®Õn ©n o¸n giang hå.		
+1002	60	280	Kh«ng TŞch x¸c nhËn Long Khİ ®ang trong tay «ng ta, nÕu b¹n nhÊt ®Şnh muèn ®o¹t lÊy, h·y ®Õn khu rõng hËu s¬n ThiÕu L©m Tù <color=red> (218,166)<color> t×m «ng ta.		
+1002	60	290	ThËt sù vâ c«ng cña Kh«ng TŞch qu¸ yÕu kĞm hay v× «ng ta kh«ng cßn mµng sù th¾ng thua? B¹n lÊy ®­îc 2 bé B¶o khİ nh­ng trong lßng kh«ng vui!		
+1002	60	300	Mét lÇn n÷a Phã Nam B¨ng l¹i ph¸t rå khi nh×n thÊy B¶o khİ! Râ rµng h¾n ®ang cã 1 ©m m­u lín!		
+1002	60	310	Phã Nam B¨ng b¶o b¹n ®i t×m <color=red>chç Long Ngò<color>, sÏ l¹i cã nhiÖm vô cho b¹n!		
+1003	20	10	H·y ®Õn <color=red>Chu Tiªn TrÊn<color> t×m <color=red>V©n Nhi?215,198)<color>. C« g¸i nµy vµ TrÊn Minh Chi Liªn cã quan hÖ g×?Xem ra ph¶i ®i 1 chuyÕn míi ®­îc.	Long khİ chi häa	Thiªn Hoµng Long Khİ thËt sù ®· lµm cho giang hå dËy sãng! B¹n còng khã mµ tho¸t khái søc hót hÊp dÉn cña nã!
+1003	20	20	V©n Nhi b¶o b¹n ®Õn <color=red>L©m An<color> t×m <color=red> (203,200?Th¸i C«ng C«ng hiÖn cã <color>1 b×nh<color=red> Thiªn H­¬ng Ngäc ChØ Cao<color>, xem ra vÊn ®Ò kh«ng ®¬n gi¶n vËy ®©u!		
+1003	20	30	Th¸i C«ng C«ng nhê b¹n ®i <color=red>Phôc Ng­u S¬n ®«ng<color> t×m <color=red>TiÓu Kú Nhi?226,205)<color> ®o¹t l¹i Kim PhËt, sau ®ã sÏ cho b¹n biÕt tung tİch cña TrÊn Minh Chi Liªn		
+1003	20	40	B¹n mau ®i lÊy Kim PhËt vÒ cho «ng ta th«i!		
+1003	20	50	Th¸i C«ng C«ng kh«ng nuèt lêi, b¹n nhËn ®­îc Thiªn H­¬ng Ngäc Chi Cao, ®­a vÒ cho V©n Nhi.		
+1003	20	100	V©n Nhi b¶o b¹n ®i <color=red>D­¬ng Ch©u<color> t×m <color=red>Tiªu s­ (199,194)<color>.<enter>		
+1003	20	108	§îi ®Õn lóc ®¼ng cÊp cña b¹n ®¹t ®Õn 30 h·y ®i D­¬ng Ch©u t×m Tiªu s­.		
+1003	20	109	B©y giê b¹n cã thÓ ®i D­¬ng Ch©u t×m Tiªu s­, chØ cã «ng Êy míi biÕt ®­îc H¹ HÇu Phôc ë ®©u.		
+1003	30	110	Cuèi cïng còng biÕt ai ®ang gi÷ TrÊn Minh Chi Liªn. B¹n lËp tøc ®i Thµnh §«, ®Õn <color=red>trªn Thanh Thµnh s¬n<color> t×m <color=red>H¹ HÇu Phôc?338,246)<color>.	Giang hå qu¶ cã nh÷ng chuyÖn mµ ta kh«ng thÊy sÏ kh«ng bao giê tin!	TiÒn ®å ®ang më réng nh­ng còng l¾m ch«ng gai! ChØ cã b¹n míi tù quyÕt ®Şnh ®­îc sè phËn cho m×nh mµ th«i!
+1003	30	120	B¹n mang trong lßng nçi nghi vÊn quay l¹i t×m <color=red>V©n Nhi<color>.		
+1003	30	140	ThÕ giíi nµy thËt sù cã ng­êi c¸i g× còng biÕt sao? Dï kh«ng tin nh­ng b¹n còng ®Õn <color=red>Long TuyÒn th«n<color> t×m <color=red>Phã L«i Th­?199,203)<color>		
+1003	30	150	Kh«ng mÊt ®ång nµo vÉn moi ®­îc tin tøc tõ Phã L«i Th­. B¹n lËp tøc ®Õn <color=red>Ngò §écgi¸o<color> t×m <color=red>MÆc Thï H­¬ng Chñ<color> hái th¨m tin tøc.		
+1003	30	160	H­¬ng Chñ ®· qu¸ giµ yÕu kh«ng muèn nãi chuyÖn víi b¹n. B¹n quay vÒ gÆp <color=red>Phã L«i Th­<color> hái tung tİch con g¸i cña Tang Chu.		
+1003	30	170	Phã L«i Th­ qu¶ bÊt phµm. B¹n h·y ®Õn <color=red>Vâ §ang ph¸i<color> dß la tin tøc<enter>		
+1003	30	208	§îi ®Õn lóc ®¼ng cÊp cña b¹n trªn 40 cã thÓ §µo Th¹ch M«n sÏ nhê b¹n gióp «ng ta trõ ph¶n ®å Tiªu V« Th­êng.		
+1003	30	209	B¹n b©y giê cã thÓ gióp §µo Th¹ch M«n trõ ph¶n ®å.		
+1003	40	210	ChØ v× TrÊn Minh Chi Liªn mµ thiªn h¹ ®¹i lo¹n. B¹n quyÕt ®Şnh ®Õn <color=red>Thôc C­¬ng S¬n<color> diÖt <color=red>Tiªu V« Th­êng?243,200)<color>.	MÉu Tö t×nh ®o¹n	Cæ nh©n cã c©u ch÷ hiÕu lµm ®Çu, lı do cã thÓ khiÕn 1 ng­êi hËn th©n sinh kh«ng nhiÒu. VËy th× v× lİ do g× khiÕn 2 mÉu tö trë mÆt thµnh thï?
+1003	40	220	TiÕng kªu bi th¶m cña Tiªu V« Th­êng nh­ vang tËn trêi cao.ChØ v× mét sîi TrÊn Minh Chi Liªn 3 ng­êi ®· ph¶i bá m¹ng. Thiªn Hoµng Long Khİ thËt sù muèn lÊy m¸u cña v¹n ng­êi míi chŞu kÕt thóc hay sao?		
+1003	40	230	CÇm TrÊn Minh Chi Liªn tay, b¹n c¶m thÊy trong lßng hoang mang khã t¶! §Õn <color=red>Long TuyÒn th«n t×m Phã L«i Th­<color>.<enter>		
+1003	50	300	Mét lêi cña Phã L«i Th­ gióp b¹n thÊy ®­îc ph­¬ng h­íng! Mang trªn m×nh 1 sø mÖnh khã hoµn thµnh vÒ <color=red>BiÖn Kinh<color> dÓ dß hái th¨m tin tøc.	Nô c­êi cuèi cïng cña §å §¬n	TrÊn Minh Chi Liªn cña Thiªn Hoµng Long Khİ trªn tay b¹n ph¸t ra mµu xanh huyÒn ¶o! Kh«ng ai cã thÓ dù b¸o tr­íc ®Òu g× sÏ x¶y ra!
+1003	50	310	Nh­ Ngäc giíi thiÖu b¹n víi <color=red>TrÇn Tam B¶o?219,187)<color>, ng­êi nµy n¾m ®­îc nhiÒu bİ mËt cña Kim triÒu.		
+1003	50	328	TrÇn Tam B¶o cã vÎ xem th­êng b¹n! Cã thÓ ®¼ng cÊp cña b¹n ch­a ®¹t ®Õn 50! Hay lµ sau nµy quay l¹i t×m h¾n vËy!		
+1003	50	329	B¹n cã thÓ ®Õn BiÖn Kinh t×m TrÇn Tam B¶o.		
+1003	50	330	§Ó th©m nhËp Kim triÒu, b¹n quyÕt ®Şnh høa gióp TrÇn Tam B¶o ®Õn <color=red>Nh¹n §·ng S¬n<color> ®o¹t Lam Hoa sø bŞ <color=red>®¹o tÆc Lôc Phi?74,191)<color>c­íp ®i.		
+1003	50	340	B¹n ®· ngµy cµng dÊn s©u vµo chuyÖn giang hå! B©y giê khã mµ rót tay ra! Tr­íc m¾t h·y mang Lam Hoa sø vÒ cho TrÇn Tam  B¶o. Mäi chuyÖn sau h½ng tİnh!		
+1003	50	350	Èn t×nh? ¢m m­u? Th¶m häa?Mang theo nçi nghi vÊn quay vÒ BiÖn Kinh t×m Kim Quèc t­íng qu©n <color=red>§å §¬n?211,189)<color>.		
+1003	50	360	Khi nghe §å §an nh¾c ®Õn 4 ch÷ Hoµn Nhan Hång Khang, b¹n lËp tøc liªn t­ëng ®Õn 3 ch÷ kh¸c: Thiªn NhÉn gi¸o<enter>		
+1003	60	400	§oan Méc DuÖ d­êng nh­ kh«ng võa lßng khi nh¾c ®Õn em g¸i h¾n, bÊt luËn thÕ nµo t×m ®­îc <color=red>§oan Méc Thanh<color> th× cã thÓ t×m ®­îc Hoµn Nhan Hång Khang, t×m ®­îc Hoµn Nhan Hång Khang sÏ biÕt manh mèi Bµn Long C«i. B¹n h·y ®i <color=red>Long M«n trÊn<color>thùc hiÖn kÕ ho¹ch cña m×nh.	Kh«ng cã ai kh«ng chÕt 	L¹i cã 1 ng­êi b¹i d­íi tay b¹n, kh«ng biÕt ng­êi tiÕp theo sÏ lµ ai! 9 miÕng Thiªn Hoµng Long Khİ cã thÓ ®· nhuèm kh«ng İt m¸u! Cuèi cïng lµ v× c¸i g× ®©y? Danh väng? Vinh quang? TiÒn tµi?
+1003	60	408	§oan Méc Thanh thÊy th©n thñ cña b¹n cã vÎ kh«ng vui l¾m! Hay ®îi ®¹t ®Õn 60 h·y quay l¹i t×m c« ta vËy!		
+1003	60	409	B¹n ®· cã thÓ ®i Long M«n trÊn t×m  §oan Méc Thanh		
+1003	60	410	Nh×n d¸ng vÎ yªu kiÒu cña §oan Méc Thanh b¹n sÏ kh«ng thÓ ngê ®©y lµ 1 s¸t thñ v« t×nh! V× Thiªn Hoµng Long Khİ, b¹n quyÕt ®Şnh ®Õn <color=red>Linh Cèc ®éng<color> t×m Anh hïng kh¸ng Kim <color=red>Liªu §Şnh?193,196)<color>.		
+1003	60	420	¸nh m¾t cña Liªu §Şnh khiÕn b¹n v« cïng hoang mang! Rèt cuéc phİa sau cßn Èn chøa ®iÒu g×? B¹n vÒ <color=red>Long M«n trÊn <color> hái <color=red>§oan Méc Thanh<color> cho tá t­êng.		
+1003	60	430	MiÕng Ngäc béi Bµn Long C«i nµy ®· nhuèm m¸u bao nhiªu ng­êi? §»ng sau Thiªn Hoµng Long Khİ cßn Èn chøa nh÷ng bİ mËt g×?Xem ra b¹n vÉn cßn nhiÒu viÖc ph¶i lµm. B©y giê h·y vÒ t×m <color=red>Long Ngò<color> thØnh gi¸o!		

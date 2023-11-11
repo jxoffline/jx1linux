@@ -1,0 +1,10 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+66	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	0.005	585	16	
+66	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	0.02	586	16	
+66	V©n Léc LÖnh	{tbProp={6,1,2353,1,0,0},}	1	1	587	16	
+66	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},nExpiredTime=43200,}	2	5	588	16	
+66	§¹i Lùc hoµn	{tbProp={6,0,3,1,0,0},}	1	25	589	16	
+66	Phi Tèc hoµn	{tbProp={6,0,6,1,0,0},}	1	25	590	16	--ok
+66	Tiªn Th¶o Lé 	{tbProp={6,1,71,1,0,0},nExpiredTime=43200,}	1	0	591	16	
+66	Tiªn Th¶o Lé ®Æc biÖt	{tbProp={6,1,1181,1,0,0},nExpiredTime=43200,}	1	2	592	16	
+66	Khiªu chiÕn lÔ bao	{tbProp={6,1,2006,1,0,0},}	1	41.975	593	16	

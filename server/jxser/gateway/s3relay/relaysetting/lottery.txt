@@ -1,0 +1,1 @@
+QId	Tip	Content	ChooseCount	Price	Choose1	Choose2	Choose3	Choose4	Choose5	Choose6	Choose7	Choose8	Choose9	Choose10	BeginSaleTime	EndSaleTime	BeginPayForTime	EndPayForTime	Answer	BonusRate	MaxBonus

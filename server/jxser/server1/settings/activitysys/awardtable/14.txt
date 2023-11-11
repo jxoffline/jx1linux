@@ -1,0 +1,7 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+14	kinh nghi÷m 	"return {nExp=1}"	3000000	80	96	2
+14	kinh nghi÷m 	"return {nExp=1}"	4000000	14	97	2
+14	kinh nghi÷m 	"return {nExp=1}"	6000000	3	98	2
+14	kinh nghi÷m 	"return {nExp=1}"	8000000	2	99	2
+14	kinh nghi÷m 	"return {nExp=1}"	9000000	0.8	100	2
+14	kinh nghi÷m 	"return {nExp=1}"	20000000	0.2	101	2

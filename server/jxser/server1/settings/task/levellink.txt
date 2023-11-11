@@ -1,0 +1,6 @@
+TaskLevel	TaskStart
+1	1
+20	3
+50	6
+80	11
+100	16

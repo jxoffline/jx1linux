@@ -1,0 +1,4 @@
+--¾üÐè¹Ù
+function main()
+	Sale(182)
+end

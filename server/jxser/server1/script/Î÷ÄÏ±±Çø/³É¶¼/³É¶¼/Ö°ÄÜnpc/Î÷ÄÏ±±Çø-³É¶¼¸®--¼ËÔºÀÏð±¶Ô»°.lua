@@ -1,0 +1,7 @@
+--Î÷ÄÏ±±Çø ³É¶¼¸® ¼ËÔºÀÏð±¶Ô»°
+
+function main(sel)
+
+Say("Ng­¬i lµ ng­êi vïng kh¸c, cã dïng qua thøc ¨n vÆt cña Thµnh §« ch­a? B¶o ®¶m ng­¬i thÝch!",0)
+
+end;

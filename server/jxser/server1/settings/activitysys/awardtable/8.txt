@@ -1,0 +1,2 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+8	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {szName=\"Ðþ¾§¿óÊ¯[8¼¶]\",tbProp={6,1,147,8,0,0},}"	1	100	50	1

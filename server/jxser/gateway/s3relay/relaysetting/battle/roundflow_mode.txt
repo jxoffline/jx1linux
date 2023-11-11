@@ -1,0 +1,2 @@
+ROUND_FLOW_MODE	SCRIPT	REMARK
+1	\\RelaySetting\\battle\\script\\rf_bintree_fix.lua	chÿ mÎ ra khi bæt Æ«u khai chi’n

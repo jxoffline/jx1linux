@@ -1,0 +1,6 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+3	H¾c Kú 	"return {szName=\"ºÚæë\",tbProp={0,10,3,5,5,0},}"	1	100	19	
+3	Phóc Duyªn Lé (§¹i) 	"return {szName=\"¸£ÔµÂ¶£¨´ó£©\",tbProp={6,1,124,1,0,0},}"	3	100	20	
+3	T©m T©m T­¬ng ¸nh phï 	"return {szName=\"ĞÄĞÄÏàÓ³·û\",tbProp={6,1,18,1,0,0},nExpiredTime=10080,}"	1	100	21	
+3	Ò»Ãù¾ªÈË°ü	"return {szName=\"Ò»Ãù¾ªÈË°ü\",tbProp={6,1,1782,1,0,0},}"	2	100	22	
+3	B¶o hép vËn may	"return {szName=\"Õä²ØĞÒÔËÉÙÏÀ±¦ºĞ\",tbProp={6,1,2083,4,0,0},}"	1	100	23	

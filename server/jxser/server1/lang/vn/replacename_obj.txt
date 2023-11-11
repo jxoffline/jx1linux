@@ -1,0 +1,157 @@
+SourceName	ReplaceName
+±¦Ïä1	R­¬ng b¸u 1
+±¦Ïä2	R­¬ng b¸u 2
+¸æÊ¾ÅÆ1	B¶ng th«ng b¸o 1
+¸æÊ¾ÅÆ2	B¶ng th«ng b¸o 2
+¸æÊ¾ÅÆ3	B¶ng th«ng b¸o 3
+Â·±ê1	BiÓn chØ ®­êng 1
+Â·±ê2	BiÓn chØ ®­êng 2
+Â·±ê3	BiÓn chØ ®­êng 3
+½£	KiÕm
+µ¶	§ao
+¹÷°ô	Dïi cui
+Ç¹	Th­¬ng
+´¸	Chïy
+Ë«µ¶	Song ®ao
+·ÉïÚ	Phi tiªu
+¹­	Cung
+°µÆ÷Ï»	Hép ¸m khİ 
+ºìÒ©Æ¿	Chai thuèc ®á
+°×Ò©Æ¿	Chai thuèc tr¾ng
+À¶Ò©Æ¿	Chai thuèc xanh
+¾ÆÌ³×Ó	B×nh r­îu
+»Æ²¼ÒÂ	¸o v¶i vµng
+°×îø¼×	¸o A tr¾ng
+À¶²¼ÒÂ	¸o v¶i xanh
+½ğîø¼×	¸o A vµng
+ÄĞÑ¥	Giµy cho nam
+Å®Ğ¬	Giµy cho n÷ 
+À¶É«²¼Ã±	Mò v¶i mµu xanh
+¸Ö¿ø	Mò b¶o hé 
+·¢ô¢	Tr©m cµi tãc
+½ğ¿ø	Mò b¶o hé vµng
+²¼Ñü´ø	§ai l­ng v¶i
+½ğÊôÑü´ø	§ai l­ng d¸t vµng
+»¤Íó	Bao tay b¶o hé 
+Óñïí	Vßng ngäc
+ÏîÁ´	D©y chuyÒn
+½äÖ¸	NhÉn
+ÍÁµØ·û	Thæ §Şa Phï 
+´«ËÍµã	§iÓm truyÒn tông
+Âí°°	Yªn ngùa
+ÈÎÎñµÀ¾ß	§å dïng cho nhiÖm vô 
+Ğ¡Ç®	İt tiÒn
+Ò»µãÇ®	Mét İt tiÒn
+²»ÉÙÇ®	NhiÒu tiÒn
+ºÜ¶àÇ®	RB nhiÒu tiÒn
+±©¶àÇ®	Cùc nhiÒu tiÒn
+´óÂüÍÓÂŞ»¨	Hoa cµ ®éc d­îc lín
+ºìòÇò¾	Con giun ®á
+±ÌÉÑ·ïµû	Bİch Th­êng Phông §iÖp
+½ğË¿ºï	KhØ vµng
+×êÊ¯	Kim c­¬ng
+²¼´ü	Tói v¶i
+Ö©Öë	NhÒn nhÖn
+µ±¹é	§­¬ng quy
+×ÏÜÙŞ£	Tö Môc Tóc
+ÁéÖ¥	Linh chi
+É½Àïºì	S¬n Lı Hång
+ÁÁÒø¿ó	L­¬ng Ng©n Kho¸ng
+³àÍ­¿ó	Xİch §ång Kho¸ng
+´ÅÌú¿ó	Tõ ThiÕt Kho¸ng
+Ş½Ïã	Ho¾c H­¬ng
+ÉÕ¼¦	Gµ quay
+Ê¯Í·	Viªn ®¸
+Ğ¡»Æ¹·	Chã vµng nhá 
+Ğ¡»ÒÂ¿	Lõa x¸m nhá 
+ÖìÉ°	Chu sa
+÷êÏã	X¹ h­¬ng
+ºÎÊ×ÎÚ	Hµ thñ « 
+Â·±ê41	BiÓn chØ ®­êng 41
+Â·±ê42	BiÓn chØ ®­êng 42
+Â·±ê43	BiÓn chØ ®­êng 43
+Â·±ê44	BiÓn chØ ®­êng 44
+Â·±ê51	BiÓn chØ ®­êng 51
+Â·±ê52	BiÓn chØ ®­êng 52
+Â·±ê53	BiÓn chØ ®­êng 53
+Å£Æ¤	Da bß 
+Ê÷è¾	Cµnh c©y
+×ÏÑÌÓñÅå	Tö Yªn Ngäc Béi
+ºìÒ©Æ¿	Chai thuèc ®á
+°×Ò©Æ¿	Chai thuèc tr¾ng
+À¶Ò©Æ¿	Chai thuèc xanh
+ºìÒ©Æ¿	Chai thuèc ®á
+°×Ò©Æ¿	Chai thuèc tr¾ng
+À¶Ò©Æ¿	Chai thuèc xanh
+ÒôĞ§°ÙÁé	TiÕng chim chiÒn chiÖn
+ÒôĞ§»Æİº	TiÕng chim vµng anh
+ÒôĞ§»­Ã¼	TiÕng chim hĞt
+ÒôĞ§É½È¸	TiÕng chim sÎ ng« 
+ÒôĞ§ÎÚÑ»	TiÕng qu¹ ®en
+ÒôĞ§Ò¹Ã¨	TiÕng mÌo ®ªm
+ÒôĞ§ó¬ó°	TiÕng dÕ 
+ÒôĞ§Ö¨Ö¨	TiÕng chip chip
+ÒôĞ§òĞòĞ	TiÕng dÕ kªu
+ÒôĞ§À¥³æ	TiÕng c«n trïng
+ÒôĞ§Ğ¡Ïª	TiÕng khe n­íc
+ÒôĞ§É½Èª	TiÕng suèi
+ÒôĞ§ÇÃÖÓ	TiÕng chu«ng ng©n
+ÒôĞ§ÆÙ²¼	TiÕng th¸c n­íc
+ÒôĞ§ÀÖÒô	TiÕng nh¹c
+ÒôĞ§´ò¸ü	TiÕng ®iÓm canh
+ÌØÊâµÀ¾ß	Dông cô ®Æc thï 
+ÏÊ»¨	Hoa t­¬i
+°×Ñ©°ÙºÏ	B¹ch TuyÕt B¸ch Hîp
+Ñô´ºÁéÖ¥	D­¬ng Xu©n Linh Chi
+±¦Ê¯Ïà¹Ø	T­¬ng quan B¶o Th¹ch
+±¬ÖñÏà¹Ø	T­¬ng quan ph¸o ®èt
+Ê¥µ®Ê÷	C©y Gi¸ng sinh
+ÁîÅÆ	LÖnh bµi
+¼¦ÍÈ	Ch©n gµ 
+Åû·ç	¸o kho¸c
+Ôª±¦	Nguyªn b¶o
+½ğÔª±¦	Kim Nguyªn B¶o
+°ãÈôĞÄ¾­	B¸t Nh· T©m Kinh
+´óºì°ü	Bao l× x× lín
+Ğ¡ºì°ü	Bao l× x× nhá 
+ĞÂ´º´óÀñ°ü	Bao l× x× lín ®Çu xu©n
+ĞÂ´ºĞ¡Àñ°ü	Bao l× x× lín ®Çu xu©n
+ĞÄĞÄÏàÓ³·û	T©m T©m T­¬ng ¸nh Phï 
+ºïÄê¼ªÏé°ü	Bao l× x× ®Çu n¨m
+ºÏ»¶°ü	Bao l× x× hîp hoan
+Ô§ÑìÅÁ	Kh¨n tay uyªn ­¬ng
+ÇéÒâ½á	Nót kÕt T×nh ı 
+É½ºÓÉçğ¢Í¼ËéÆ¬	M¶nh b¶n ®å S¬n Hµ X· T¾c 
+Ó¢ĞÛÁî	Anh Hïng lÖnh
+ËéÆ¬	M¶nh
+ÕÏ°­1	Ch­íng ng¹i vËt 1
+ºìÔæ	T¸o tµu
+°åÀõ	H¹t dÎ 
+ôÕÒ¶	L¸ gãi b¸nh
+µ¾Ã×	Lóa g¹o
+ÖíÈâ	ThŞt heo
+Å£Èâ	ThŞt bß 
+ôÕ×Ó	Lóa
+»Æ½ğ±¦Ïä	R­¬ng b¸u Hoµng Kim
+ÇüÔ­ÃØ·½	KhuÊt Nguyªn MËt Ph­¬ng
+ÌìÉ½»ØÉñµ¤	Thiªn S¬n Håi ThÇn §¬n
+Ë®¾§Æ¿	B×nh thñy tinh
+±ù²ÏÎŞ¼«Ë¿	B¨ng T¸m V« Cùc T¬ 
+ÄÏÃ÷Ö®¾«	Nam Minh Chi Tinh
+Í­Ç®Ïà¹Ø	T­¬ng quan tiÒn ®ång
+ÎäÁÖÃØÂ¼	Vâ L©m MËt Lôc
+ÉÏÊÖÖ¸Òı	Th­îng Thñ ChØ DÉn
+¹ğ»¨¾Æ	QuÕ Hoa Töu
+ÔÂ±ıºĞ	Hép b¸nh Trung thu
+ÖĞÇïµ¥×Ö	Trung thu §¬n Tù 
+Ò×ÈİÃæ¾ß	MÆt n¹ 
+ÖĞÇïÎïÆ·	LÔ phÈm trung thu
+´¢ÎïÏä	R­¬ng Chøa §å
+¹Å¾ÉÏä×Ó	R­¬ng b¸u
+ÂúÇó¹û	M·ng cÇu
+Ò¬×Ó	Dõa
+Ä¾¹Ï	§u ®ñ
+Ã¢¹û	Xoµi
+³ÉÈº¹û	Sung
+´º±ıÄÏ	B¸nh tĞt
+´º±ı±±	B¸nh ch­ng

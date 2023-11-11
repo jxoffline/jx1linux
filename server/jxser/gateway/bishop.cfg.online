@@ -1,0 +1,32 @@
+[Network]
+AccSvrIP = 14.241.237.220
+AccSvrPort = 5002
+RoleSvrIP =  127.0.0.1
+RoleSvrPort = 5001
+ClientOpenPort = 5622
+GameSvrOpenPort = 5632
+DenialPort = 5623
+
+[KickOut]
+AutoKickOut = 1
+AccoutTimeOut = 300000
+
+[ServerCfg]
+MaxPlayerCount = 500
+CheckAccount = 1
+MaxOnlineCount = 6000
+
+[LogLevel]
+usermap = 4
+login = 4
+
+[Setting]
+Guid = {2BC89936-B1F5-4f76-8E39-573BD258AC0B}
+MacAddress = fc-aa-14-04-67-ba
+Account = abc123456
+Password = 7yUAGT0r_QKDyB0UIA6C1FeKE9eA4eB6
+
+[FixIp]
+InternetIp = 14.241.237.217
+IntranetIp = 14.241.237.217
+

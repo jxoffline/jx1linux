@@ -1,0 +1,291 @@
+AttributeType	Value1	Value2	Value3	Comment
+166	1500	-1	-1	Ôö¼ÓÃüÖĞ
+166	2000	-1	-1	Ôö¼ÓÃüÖĞ
+166	2500	-1	-1	Ôö¼ÓÃüÖĞ
+85	800	-1	-1	Ôö¼ÓÉúÃü
+85	1200	-1	-1	Ôö¼ÓÉúÃü
+85	1500	-1	-1	Ôö¼ÓÉúÃü
+85	2000	-1	-1	Ôö¼ÓÉúÃü
+86	20	-1	-1	Ôö¼ÓÉúÃü°Ù·Ö±È
+86	30	-1	-1	Ôö¼ÓÉúÃü°Ù·Ö±È
+86	40	-1	-1	Ôö¼ÓÉúÃü°Ù·Ö±È
+169	400	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	800	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	1200	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+170	200	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	300	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	400	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+171	200	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+171	300	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+171	400	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+121	10	-1	-1	Ôö¼ÓÍâÆÕµã
+121	20	-1	-1	Ôö¼ÓÍâÆÕµã
+121	30	-1	-1	Ôö¼ÓÍâÆÕµã
+65	30	-1	-1	Ôö¼ÓÍâÆÕ±È
+65	40	-1	-1	Ôö¼ÓÍâÆÕ±È
+65	50	-1	-1	Ôö¼ÓÍâÆÕ±È
+171	70	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+171	120	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+171	150	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+171	250	-1	-1	Ôö¼ÓÄÚÀ×ÉËº¦
+170	50	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	70	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	100	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	120	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	150	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+170	250	-1	-1	Ôö¼ÓÄÚ»ğÉËº¦
+169	70	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	120	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	150	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	250	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+172	10	-1	-1	Ôö¼ÓÄÚ¶¾ÉËº¦
+172	20	-1	-1	Ôö¼ÓÄÚ¶¾ÉËº¦
+172	30	-1	-1	Ôö¼ÓÄÚ¶¾ÉËº¦
+172	40	-1	-1	Ôö¼ÓÄÚ¶¾ÉËº¦
+167	300	-1	-1	Ôö¼ÓÃüÖĞ°Ù·Ö±È
+167	400	-1	-1	Ôö¼ÓÃüÖĞ°Ù·Ö±È
+167	500	-1	-1	Ôö¼ÓÃüÖĞ°Ù·Ö±È
+89	800	-1	-1	Ôö¼ÓÄÚÁ¦µã
+89	1200	-1	-1	Ôö¼ÓÄÚÁ¦µã
+89	1500	-1	-1	Ôö¼ÓÄÚÁ¦µã
+139	1	-1	359	Thiªn H¹ V« CÈu 
+139	2	-1	359	Thiªn H¹ V« CÈu 
+139	3	-1	359	Thiªn H¹ V« CÈu 
+139	1	-1	357	Phi Long T¹i Thiªn 
+139	2	-1	357	Phi Long T¹i Thiªn 
+139	3	-1	357	Phi Long T¹i Thiªn 
+139	1	-1	375	L«i ®éng Cöu Thiªn 
+139	2	-1	375	L«i ®éng Cöu Thiªn 
+139	3	-1	375	L«i ®éng Cöu Thiªn 
+139	1	-1	372	Ng¹o TuyÕt Tiªu Phong 
+139	2	-1	372	Ng¹o TuyÕt Tiªu Phong 
+139	3	-1	372	Ng¹o TuyÕt Tiªu Phong 
+139	1	-1	339	NhiÕp Hån NguyÖt ¶nh
+139	2	-1	339	NhiÕp Hån NguyÖt ¶nh
+139	3	-1	339	NhiÕp Hån NguyÖt ¶nh
+139	1	-1	342	Cöu Cung Phi Tinh
+139	2	-1	342	Cöu Cung Phi Tinh
+139	3	-1	342	Cöu Cung Phi Tinh
+139	1	-1	302	B¹o Vò Lª Hoa
+139	2	-1	302	B¹o Vò Lª Hoa
+139	3	-1	302	B¹o Vò Lª Hoa
+139	1	-1	328	Tam Nga TÒ TuyÕt 
+139	2	-1	328	Tam Nga TÒ TuyÕt 
+139	3	-1	328	Tam Nga TÒ TuyÕt 
+139	1	-1	380	Phong S­¬ng To¸i ¶nh 
+139	2	-1	380	Phong S­¬ng To¸i ¶nh 
+139	3	-1	380	Phong S­¬ng To¸i ¶nh 
+139	1	-1	355	HuyÒn ¢m Tr¶m 
+139	2	-1	355	HuyÒn ¢m Tr¶m 
+139	3	-1	355	HuyÒn ¢m Tr¶m 
+139	1	-1	353	¢m Phong Thùc Cèt 
+139	2	-1	353	¢m Phong Thùc Cèt 
+139	3	-1	353	¢m Phong Thùc Cèt 
+139	1	-1	361	V©n Long Kİch
+139	2	-1	361	V©n Long Kİch
+139	3	-1	361	V©n Long Kİch
+139	1	-1	362	Thiªn Ngo¹i L­u Tinh
+139	2	-1	362	Thiªn Ngo¹i L­u Tinh
+139	3	-1	362	Thiªn Ngo¹i L­u Tinh
+139	1	-1	325	Truy Phong QuyÕt 
+139	2	-1	325	Truy Phong QuyÕt 
+139	3	-1	325	Truy Phong QuyÕt 
+139	1	-1	323	Truy Tinh Trôc NguyÖt 
+139	2	-1	323	Truy Tinh Trôc NguyÖt 
+139	3	-1	323	Truy Tinh Trôc NguyÖt 
+139	1	-1	322	Ph¸ Thiªn Tr¶m 
+139	2	-1	322	Ph¸ Thiªn Tr¶m 
+139	3	-1	322	Ph¸ Thiªn Tr¶m 
+139	1	-1	318	§¹t Ma §é Giang
+139	2	-1	318	§¹t Ma §é Giang
+139	3	-1	318	§¹t Ma §é Giang
+139	1	-1	319	Hoµnh T¶o Thiªn Qu©n
+139	2	-1	319	Hoµnh T¶o Thiªn Qu©n
+139	3	-1	319	Hoµnh T¶o Thiªn Qu©n
+139	1	-1	321	V« T­íng Tr¶m 
+139	2	-1	321	V« T­íng Tr¶m 
+139	3	-1	321	V« T­íng Tr¶m 
+139	1	-1	337	B¨ng T©m Tiªn Tö  
+139	2	-1	337	B¨ng T©m Tiªn Tö  
+139	3	-1	337	B¨ng T©m Tiªn Tö  
+139	1	-1	336	B¨ng Tung V« ¶nh 
+139	2	-1	336	B¨ng Tung V« ¶nh 
+139	3	-1	336	B¨ng Tung V« ¶nh 
+139	1	-1	368	Nh©n KiÕm Hîp NhÊt  
+139	2	-1	368	Nh©n KiÕm Hîp NhÊt  
+139	3	-1	368	Nh©n KiÕm Hîp NhÊt  
+139	1	-1	365	Thiªn §Şa V« Cùc 
+139	2	-1	365	Thiªn §Şa V« Cùc 
+139	3	-1	365	Thiªn §Şa V« Cùc 
+169	200	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	300	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+65	60	-1	-1	Ôö¼ÓÍâÆÕ±È
+65	100	-1	-1	Ôö¼ÓÍâÆÕ±È
+114	5	-1	-1	Ôö¼ÓÈ«¿¹
+114	10	-1	-1	Ôö¼ÓÈ«¿¹
+114	15	-1	-1	Ôö¼ÓÈ«¿¹
+139	1	-1	271	Long Tr¶o Hæ Tr¶o
+139	2	-1	271	Long Tr¶o Hæ Tr¶o
+139	3	-1	271	Long Tr¶o Hæ Tr¶o
+139	1	-1	324	Thõa Long QuyÕt 
+139	2	-1	324	Thõa Long QuyÕt 
+139	3	-1	324	Thõa Long QuyÕt 
+139	1	-1	88	BÊt DiÖt BÊt TuyÖt
+139	2	-1	88	BÊt DiÖt BÊt TuyÖt
+139	3	-1	88	BÊt DiÖt BÊt TuyÖt
+139	1	-1	91	PhËt Quang Phæ ChiÕu
+139	2	-1	91	PhËt Quang Phæ ChiÕu
+139	3	-1	91	PhËt Quang Phæ ChiÕu
+139	1	-1	82	Tø T­îng §ång Quy
+139	2	-1	82	Tø T­îng §ång Quy
+139	3	-1	82	Tø T­îng §ång Quy
+139	1	-1	111	Bİch H¶i TriÒu Sinh
+139	2	-1	111	Bİch H¶i TriÒu Sinh
+139	3	-1	111	Bİch H¶i TriÒu Sinh
+139	1	-1	108	Môc D· L­u Tinh
+139	2	-1	108	Môc D· L­u Tinh
+139	3	-1	108	Môc D· L­u Tinh
+139	1	-1	108	Môc D· L­u Tinh
+139	2	-1	108	Môc D· L­u Tinh
+139	3	-1	108	Môc D· L­u Tinh
+139	1	-1	128	Kh¸ng Long H÷u Hèi
+139	2	-1	128	Kh¸ng Long H÷u Hèi
+139	3	-1	128	Kh¸ng Long H÷u Hèi
+139	1	-1	267	Tam Hoµn Thao NguyÖt
+139	2	-1	267	Tam Hoµn Thao NguyÖt
+139	3	-1	267	Tam Hoµn Thao NguyÖt
+139	1	-1	164	B¸c CÊp Nhi Phôc
+139	2	-1	164	B¸c CÊp Nhi Phôc
+139	3	-1	164	B¸c CÊp Nhi Phôc
+169	200	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	300	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	500	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+169	600	-1	-1	Ôö¼ÓÄÚ±ùÉËº¦
+65	60	-1	-1	Ôö¼ÓÍâÆÕ±È
+85	500	-1	-1	Ôö¼ÓÉúÃü
+85	700	-1	-1	Ôö¼ÓÉúÃü
+85	1000	-1	-1	Ôö¼ÓÉúÃü
+139	1	-1	8	ThiÕu L©m QuyÒn Ph¸p
+139	2	-1	8	ThiÕu L©m QuyÒn Ph¸p
+139	3	-1	8	ThiÕu L©m QuyÒn Ph¸p
+139	1	-1	11	Hoµnh T¶o Lôc Hîp
+139	2	-1	11	Hoµnh T¶o Lôc Hîp
+139	3	-1	11	Hoµnh T¶o Lôc Hîp
+139	1	-1	4	ThiÕu L©m C«n ph¸p
+139	2	-1	4	ThiÕu L©m C«n ph¸p
+139	3	-1	4	ThiÕu L©m C«n ph¸p
+139	1	-1	6	ThiÕu L©m §ao ph¸p
+139	2	-1	6	ThiÕu L©m §ao ph¸p
+139	3	-1	6	ThiÕu L©m §ao ph¸p
+139	1	-1	19	Ma Ha V« L­îng
+139	2	-1	19	Ma Ha V« L­îng
+139	3	-1	19	Ma Ha V« L­îng
+139	1	-1	41	HuyÕt ChiÕn B¸t Ph­¬ng
+139	2	-1	41	HuyÕt ChiÕn B¸t Ph­¬ng
+139	3	-1	41	HuyÕt ChiÕn B¸t Ph­¬ng
+139	1	-1	31	Hµng V©n QuyÕt
+139	2	-1	31	Hµng V©n QuyÕt
+139	3	-1	31	Hµng V©n QuyÕt
+139	1	-1	35	D­¬ng Quan Tam §iÖp
+139	2	-1	35	D­¬ng Quan Tam §iÖp
+139	3	-1	35	D­¬ng Quan Tam §iÖp
+139	1	-1	32	V« T©m Tr¶m 
+139	2	-1	32	V« T©m Tr¶m 
+139	3	-1	32	V« T©m Tr¶m 
+139	1	-1	37	B¸t Phong Tr¶m
+139	2	-1	37	B¸t Phong Tr¶m
+139	3	-1	37	B¸t Phong Tr¶m
+139	1	-1	249	TiÓu Lı Phi §ao
+139	2	-1	249	TiÓu Lı Phi §ao
+139	3	-1	249	TiÓu Lı Phi §ao
+139	1	-1	50	Truy T©m TiÔn
+139	2	-1	50	Truy T©m TiÔn
+139	3	-1	50	Truy T©m TiÔn
+139	1	-1	343	Xuyªn T©m Thİch 
+139	2	-1	343	Xuyªn T©m Thİch 
+139	3	-1	343	Xuyªn T©m Thİch 
+139	1	-1	341	T¸n Hoa Tiªu 
+139	2	-1	341	T¸n Hoa Tiªu 
+139	3	-1	341	T¸n Hoa Tiªu 
+139	1	-1	47	§o¹t Hån Tiªu
+139	2	-1	47	§o¹t Hån Tiªu
+139	3	-1	47	§o¹t Hån Tiªu
+139	1	-1	58	Thiªn La §Şa Vâng
+139	2	-1	58	Thiªn La §Şa Vâng
+139	3	-1	58	Thiªn La §Şa Vâng
+139	1	-1	54	M¹n Thiªn Hoa Vò 
+139	2	-1	54	M¹n Thiªn Hoa Vò 
+139	3	-1	54	M¹n Thiªn Hoa Vò 
+139	1	-1	64	B¨ng Lam HuyÒn Tinh
+139	2	-1	64	B¨ng Lam HuyÒn Tinh
+139	3	-1	64	B¨ng Lam HuyÒn Tinh
+139	1	-1	384	B¸ch §éc Xuyªn T©m 
+139	2	-1	384	B¸ch §éc Xuyªn T©m 
+139	3	-1	384	B¸ch §éc Xuyªn T©m 
+139	1	-1	74	Chu C¸p Thanh Minh
+139	2	-1	74	Chu C¸p Thanh Minh
+139	3	-1	74	Chu C¸p Thanh Minh
+139	1	-1	68	U Minh Kh« L©u
+139	2	-1	68	U Minh Kh« L©u
+139	3	-1	68	U Minh Kh« L©u
+139	1	-1	71	Thiªn C­¬ng §Şa S¸t
+139	2	-1	71	Thiªn C­¬ng §Şa S¸t
+139	3	-1	71	Thiªn C­¬ng §Şa S¸t
+139	1	-1	385	Th«i Song Väng NguyÖt
+139	2	-1	385	Th«i Song Väng NguyÖt
+139	3	-1	385	Th«i Song Väng NguyÖt
+139	1	-1	113	Phï V©n T¸n TuyÕt
+139	2	-1	113	Phï V©n T¸n TuyÕt
+139	3	-1	113	Phï V©n T¸n TuyÕt
+139	1	-1	105	Vò §¶ Lª Hoa
+139	2	-1	105	Vò §¶ Lª Hoa
+139	3	-1	105	Vò §¶ Lª Hoa
+139	1	-1	124	§¶ CÈu bæng
+139	2	-1	124	§¶ CÈu bæng
+139	3	-1	124	§¶ CÈu bæng
+139	1	-1	125	Bæng §¶ ¸c CÈu
+139	2	-1	125	Bæng §¶ ¸c CÈu
+139	3	-1	125	Bæng §¶ ¸c CÈu
+139	1	-1	274	Gi¸ng Long Ch­ëng 
+139	2	-1	274	Gi¸ng Long Ch­ëng 
+139	3	-1	274	Gi¸ng Long Ch­ëng 
+139	1	-1	140	Phi Hång V« Tİch 
+139	2	-1	140	Phi Hång V« Tİch 
+139	3	-1	140	Phi Hång V« Tİch 
+139	1	-1	141	LiÖt Háa T×nh Thiªn 
+139	2	-1	141	LiÖt Háa T×nh Thiªn 
+139	3	-1	141	LiÖt Háa T×nh Thiªn 
+139	1	-1	142	Th©u Thiªn Ho¸n NhËt
+139	2	-1	142	Th©u Thiªn Ho¸n NhËt
+139	3	-1	142	Th©u Thiªn Ho¸n NhËt
+139	1	-1	138	Th«i s¬n  §iÒn H¶i
+139	2	-1	138	Th«i s¬n  §iÒn H¶i
+139	3	-1	138	Th«i s¬n  §iÒn H¶i
+139	1	-1	148	Ma DiÖm ThÊt S¸t
+139	2	-1	148	Ma DiÖm ThÊt S¸t
+139	3	-1	148	Ma DiÖm ThÊt S¸t
+139	1	-1	158	KiÕm Phi Kinh Thiªn
+139	2	-1	158	KiÕm Phi Kinh Thiªn
+139	3	-1	158	KiÕm Phi Kinh Thiªn
+139	1	-1	165	V« Ng· V« KiÕm  
+139	2	-1	165	V« Ng· V« KiÕm  
+139	3	-1	165	V« Ng· V« KiÕm  
+139	1	-1	172	Thiªn TÕ TÊn L«i  
+139	2	-1	172	Thiªn TÕ TÊn L«i  
+139	3	-1	172	Thiªn TÕ TÊn L«i  
+139	1	-1	182	Ngò L«i Ch¸nh Ph¸p
+139	2	-1	182	Ngò L«i Ch¸nh Ph¸p
+139	3	-1	182	Ngò L«i Ch¸nh Ph¸p
+139	1	-1	178	NhÊt Khİ Tam Thanh
+139	2	-1	178	NhÊt Khİ Tam Thanh
+139	3	-1	178	NhÊt Khİ Tam Thanh
+139	1	-1	169	H« Phong Ph¸p
+139	2	-1	169	H« Phong Ph¸p
+139	3	-1	169	H« Phong Ph¸p
+139	1	-1	393	B¾c Minh §¸o H¶i
+139	2	-1	393	B¾c Minh §¸o H¶i
+139	3	-1	393	B¾c Minh §¸o H¶i
+139	1	-1	86	L­u Thñy 
+139	2	-1	86	L­u Thñy 
+139	3	-1	86	L­u Thñy 
+85	600	-1	-1	Ôö¼ÓÉúÃü

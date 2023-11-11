@@ -1,0 +1,4 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+36	TÛi Æ≠Íng	"return {tbProp={6,1,2227,-1,-1,0},}"	1	100	198	11	
+36	B›	"return {tbProp={6,1,2229,-1,-1,0},}"	1	100	199	11	
+36	Ti“n	"return {nJxb=1}"	30000	100	200	11	

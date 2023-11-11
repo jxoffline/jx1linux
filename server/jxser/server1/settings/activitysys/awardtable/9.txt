@@ -1,0 +1,18 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+9	LÖnh bµi vinh dù B¹ch Ng©n	"return {szName=\"°×ÒøÎäÁÖÈÙÓşÁî\",tbProp={6,1,1255,1,0,0},}"	1	0.5	53	5
+9	LÖnh bµi vinh dù Thanh ®ång	"return {szName=\"ÇàÍ­ÎäÁÖÈÙÓşÁî\",tbProp={6,1,1256,1,0,0},}"	1	1	54	5
+9	LÖnh bµi vinh dù	"return {szName=\"ĞşÄ¾ÎäÁÖÈÙÓşÁî\",tbProp={6,1,1294,1,0,0},}"	1	2.5	56	5
+9	LÖnh bµi vinh dù Hµn thiÕt	"return {szName=\"ºÚÌúÎäÁÖÈÙÓşÁî\",tbProp={6,1,1257,1,0,0},}"	1	4	57	5
+9	ThÇn bİ kho¸ng th¹ch	"return {szName=\"ÉñÃØ¿óÊ¯\",tbProp={6,1,398,1,0,0},}"	1	0.1	58	5
+9	HuyÒn tinh kho¸ng th¹ch cÊp 8	"return {szName=\"Ğş¾§¿óÊ¯[8¼¶]\",tbProp={6,1,147,8,0,0},}"	1	0.3	59	5
+9	HuyÒn tinh kho¸ng th¹ch cÊp 7	"return {szName=\"Ğş¾§¿óÊ¯[7¼¶]\",tbProp={6,1,147,7,0,0},}"	1	3.5	60	5
+9	HuyÒn tinh kho¸ng th¹ch cÊp 6	"return {szName=\"Ğş¾§¿óÊ¯[6¼¶]\",tbProp={6,1,147,6,0,0},}"	1	5	61	5
+9	HuyÒn tinh kho¸ng th¹ch cÊp 5	"return {szName=\"Ğş¾§¿óÊ¯[5¼¶]\",tbProp={6,1,147,5,0,0},}"	1	10	62	5
+9	HuyÒn thiÕt b¶o r­¬ng	"return {szName=\"ĞşÌú±¦Ïä\",tbProp={6,1,1831,1,0,0},}"	1	35.8	63	5
+9	ĞşÌúÔ¿³×	"return {szName=\"ĞşÌúÔ¿³×\",tbProp={6,1,1828,1,0,0},}"	1	35	64	5
+9	Kim Tª	"return {szName=\"½ğÏ¬\",tbProp={4,979,1,1,0,0},}"	1	0.5	65	5
+9	LÖnh Bµi Tr­êng Ca M«n	"return {szName=\"³¤¸èÃÅÁîÅÆ\",tbProp={4,996,1,1,0,0},}"	1	0.5	66	5
+9	M¶nh Bæ Thiªn Th¹ch (tiÓu)	"return {szName=\"²¹ÌìÊ¯ËéÆ¬£¨Ğ¡£©\",tbProp={6,1,1308,1,0,0},}"	1	0.25	67	5
+9	M¶nh Bæ Thiªn Th¹ch (trung)	"return {szName=\"²¹ÌìÊ¯ËéÆ¬£¨ÖĞ£©\",tbProp={6,1,1309,1,0,0},}"	1	0.05	68	5
+9	Vâ L©m MËt TŞch	"return {szName=\"ÎäÁÖÃØ¼®\",tbProp={6,1,26,1,0,0},}"	1	0.5	69	5
+9	TÈy Tñy Kinh	"return {szName=\"Ï´Ëè¾­\",tbProp={6,1,22,1,0,0},}"	1	0.5	70	5

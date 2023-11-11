@@ -1,0 +1,8 @@
+StuntID	StuntName	MaxMemberCnt	MaxStuntCntPer	Cycle	Consume	RightLimit	SkillID	Describe
+ID kü n¨ng	Tªn kü n¨ng ®Æc biÖt	Sè ng­êi nhËn cao nhÊt	Sè l­îng ng­êi nhËn cao nhÊt	B¶o tr× hµng tuÇn	Ng©n s¸ch cÇn ®Ó b¶o tr×	H¹n chÕ nhËn: 1 lµ chØ cã cÊp l·nh ®¹o nhËn	HiÖu qu¶ ®Æc biÖt cét biÓu t­îng	M« t¶ kü n¨ng ®Æc biÖt
+1	Phông Hoµng Ên	300	2	4	6000	2	739	Phông hoµng Ên lµ lo¹i ®¸ hiÕm t¹i chèn th©m s¬n, dïng ®Ó chÕ t¹o trang bŞ, cã thÓ gióp n©ng cao x¸c suÊt thµnh c«ng.
+2	LuyÖn vâ hån	300	5	4	6000	2	740	Mét kü nghÖ t¹o t¸c, cã thÓ gióp t¨ng thªm 40 ®iÓm ®é bÒn trªn trang bŞ, gióp cho trang bŞ trë nªn cøng c¸p h¬n.
+3	V« Song S¸t TrËn	10	2	4	6000	1	741	Kú binh trËn ph¸p ghi l¹i trong Vâ Méc Di Th­. Sau khi ph¸t ®éng cã thÓ khiÕn cho nh÷ng thµnh viªn bang héi trong ph¹m vi nhÊt ®Şnh gi¶m ®­îc trŞ PK.
+4	§µo Chu TiÒn	300	1	4	6000	2	742	Sau khi sÏ khiÕn cho Boss vµ Thñy tÆc ®Çu lÜnh trªn ®é thuyÒn rít Ên S¸t Gi¶ nhiÒu h¬n.
+5	Vâ thÇn tø phóc	2	2	4	6000	1	743	Sau khi nhËn ®­îc Vâ ThÇn Tø Phóc, trong vßng 2 giê sÏ ®­îc nh©n ®«i phÇn th­ëng khi tham gia Tèng Kim, nhiÖm vô tİn sø, th¸ch thøc thêi gian, vâ l©m liªn ®Êu, nhiÖm vô D· TÈu, §ªm huy hoµng.
+7	Hoµng Kim LÖnh	2	2	4	6000	1	745	LÖnh bµi Hoµng Kim, dïng ®Ó gäi ra c¸c vâ sü thÇn bİ. Sau khi ®¸nh b¹i vâ sü sÏ nhËn ®­îc b¶o tµng mµ h¾n ®ang canh gi÷.

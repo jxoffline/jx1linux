@@ -1,0 +1,3 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+47	C©y nªu [cÊp 4]	"return {tbProp={6,1,2234,4,0,0},}"	1	100	527	12	
+47	Bïa b¸t qu¸i	"return {tbProp={6,1,2224,1,0,0},}"	1	100	528	12	

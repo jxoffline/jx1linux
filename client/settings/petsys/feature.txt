@@ -1,0 +1,21 @@
+nFeatureLevel	nFeatureName	nNpcId
+1	Cæ B¸ch	566
+1	B¹ch Doanh Doanh	742
+1	Yªn HiÓu Tr¸i	744
+1	Hµ Nh©n Ng· 	745
+1	TuyÒn C¬ Tö 	747
+2	HuyÒn Gi¸c §¹i S­ 	740
+2	§­êng BÊt NhiÔm	741
+2	Hµ Linh Phiªu	568
+2	§¹o Thanh Ch©n Nh©n	562
+2	Gia LuËt TÞ Ly	563
+3	V­¬ng T¸ 	739
+3	Lam Y Y	582
+3	Chung Linh Tó 	567
+3	M¹nh Th­¬ng L­¬ng	583
+3	Thanh Liªn Tö 	477
+4	HuyÒn Nan §¹i S­	1365
+4	§­êng Phi YÕn	1366
+4	Thanh TuyÖt S­ Th¸i	1468
+4	§oan Méc DuÖ 	565
+4	Tõ §¹i Nh¹c	1367

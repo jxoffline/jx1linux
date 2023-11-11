@@ -1,0 +1,6 @@
+EventID	EventName	EventText
+ID sù kiÖn	Tªn sù kiÖn	Miªu t¶ sù kiÖn
+1	Ph­¬ng thøc test	¸p dông gièng Ph­¬ng thøc test ®Ó kiÓm tra
+3	NhiÖm vô b¹n ®ång hµnh	NhiÖm vô ngÉu nhiªn do b¹n ®ång hµnh giao 
+4	NhiÖm vô mËt ®å	NhiÖm vô do mËt ®å giao
+5	NhiÖm vô th¨ng cÊp trang bŞ	NhiÖm vô gia cè trang bŞ An Bang

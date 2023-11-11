@@ -1,0 +1,4 @@
+function GetDesc(nItemIndex)
+	local _,_,_,nLevel = GetItemProp(nItemIndex)
+	return format("B t c¯ t«ng kinh mπch %d khi xung %d t«ng th t bπi sœ kh´ng bﬁ hπ c p", nLevel + 5, nLevel + 6)
+end

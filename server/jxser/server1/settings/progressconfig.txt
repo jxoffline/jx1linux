@@ -1,0 +1,15 @@
+Id	Title	Time	EVENT_MOVE	EVENT_ATTACK	EVENT_SITE	EVENT_RIDE	EVENT_USEITEM	EVENT_ARRANGEITEM	EVENT_DROPITEM	EVENT_CHANGEEQUIP	EVENT_TRADE	EVENT_CHANGEFIGHTSTATE	EVENT_ATTACKED	EVENT_DEATH	EVENT_REVIVE	EVENT_BUYITEM	EVENT_SELLITEM	EVENT_TALK	comment
+1	§ang thu thËp…	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Qu¶ Huy Hoµng
+2	§ang thu thËp…	8	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Qu¶ Hoµng Kim
+3	§ang thu thËp…	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Qu¶ Huy Hoµng
+4	§ang nhÆt…	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hép b¸nh ch­ng
+5	§ang më…	10	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Më thuèc
+6	B¾t ®Çu lÊy n­íc...	8	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	TiÕt trång c©y 2011, lÊy n­íc
+7	§ang thu thËp…	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bôi Hoa Lan Rõng
+8	§ang ¨n...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thá 
+9	§ang trÞ liÖu	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	NhiÖm vô cÊp 150 C¸i Bang
+10	§ang l·nh ngé	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	§é tu luyÖn kü n¨ng cÊp 150
+11	§ang më…	6	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	R­¬ng Thiªn Chi
+12	§ang më…	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	Bao Hçn Nguyªn Linh Lé
+13	§ang nhÆt…	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thu thËp 3 gi©y
+14	§ang th¨ng cÊp…	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2 gi©y th¨ng cÊp

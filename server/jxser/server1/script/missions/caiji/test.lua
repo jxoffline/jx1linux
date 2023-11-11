@@ -1,0 +1,1 @@
+Include("\\script\\activitysys\\config\\20\\extend.lua")

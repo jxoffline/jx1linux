@@ -1,0 +1,203 @@
+[MissleId]
+Type=Number
+
+[MissleName]
+Type=String
+
+[MoveKind]
+Type=IndexList
+Value=Ô­µØ|Ö±Ïß·ÉÐÐ|Ëæ»ú·ÉÐÐ|»·ÐÐ·ÉÐÐ|°¢»ùÃ×µÂÂÝÐýÏß|¸ú×ÙÄ¿±ê·ÉÐÐ|Íæ¼Ò¶¯×÷Àà|Å×ÎïÏß|»ØÐý,100
+StaticName=Lo¹i h×nh hµnh ®éng
+
+
+[FollowKind]
+Type=IndexList
+Value=²»¸ú×Ù|¸ú×ÙNPC|¸ú×Ù×Óµ¯
+StaticName=B¸m theoLo¹i h×nh
+
+
+[AnimFile1]
+Type=EventEdit
+StaticName=File ¶nh ®éng 1
+
+[SndFile1]
+Type=EventEdit
+StaticName=File tiÕng 1
+
+[AnimFile2]
+Type=EventEdit
+StaticName=File ¶nh ®éng 2
+
+[SndFile2]
+Type=EventEdit
+StaticName=File tiÕng 2
+
+[AnimFile3]
+Type=EventEdit
+StaticName=File ¶nh ®éng 3
+
+[SndFile3]
+Type=EventEdit
+StaticName=File tiÕng 3
+
+[AnimFile4]
+Type=EventEdit
+StaticName=File ¶nh ®éng 4
+
+[SndFile4]
+Type=EventEdit
+StaticName=File tiÕng 4
+
+[AnimFileB1]
+Type=EventEdit
+StaticName=File ¶nh ®éng 1
+
+[SndFileB1]
+Type=EventEdit
+StaticName=File tiÕng B1
+
+[AnimFileB2]
+Type=EventEdit
+StaticName=File ¶nh ®éng B2
+
+[SndFileB2]
+Type=EventEdit
+StaticName=File tiÕng B2
+
+[AnimFileB3]
+Type=EventEdit
+StaticName=File ¶nh ®éng B3
+
+[SndFileB3]
+Type=EventEdit
+StaticName=File tiÕng B3
+
+[AnimFileB4]
+Type=EventEdit
+StaticName=File ¶nh ®éng B4
+
+[SndFileB4]
+Type=EventEdit
+StaticName=File tiÕng B4
+
+
+[MissleHeight]
+Type=Number
+Value=
+StaticName=Cao ®é cña ®¹n
+
+
+[CollidRange]
+Type=Number
+Value=
+StaticName=Ph¹m vi va ch¹m
+
+[IsRangeDmg]
+Type=IndexList
+Value=§óng/sai
+StaticName=S¸t th­¬ng khu vùc hay kh«ng
+
+[DmgRange]
+Type=Number
+StaticName=Cì s¸t th­¬ng khu vùc
+
+[LifeTime]
+Type=Number
+StaticName=Thêi gian sinh mÖnh
+
+[Speed]
+Type=Number
+StaticName=Tèc ®é ch¹y
+
+
+[LoopPlay]
+Type=IndexList
+StaticName=Ch¬i l¹i ®o¹n ho¹t h×nh
+Value=§óng/sai
+
+
+[ResponseSkill]
+Type=String
+StaticName=kü n¨ng t­¬ng quan
+
+
+[CanDestroy]
+Type=IndexList
+Value=§óng/sai
+StaticName=Cã thÓ bÞ tiªu diÖt
+
+[ColVanish]
+Type=IndexList
+Value=§óng/sai
+StaticName=Va ®Ëp bÞ tiªu vong
+
+[CanSlow]
+Type=IndexList
+Value=§óng/sai
+StaticName=Cã thÓ gi¶m tèc
+
+[CanColFriend]
+Type=IndexList
+Value=§óng/sai
+StaticName=Cã thÓ va ch¹m phe b¹n h÷u
+
+
+[Param1]
+Type=Number
+StaticName=Tham sè 1
+
+
+[Param2]
+Type=Number
+StaticName=Tham sè 2
+
+[Param3]
+Type=Number
+StaticName=Tham sè 3
+
+[AnimFileInfo1]
+Type=String
+
+[AnimFileInfo2]
+Type=String
+
+[AnimFileInfo3]
+Type=String
+
+[AnimFileInfo4]
+Type=String
+
+[AnimFileInfoB1]
+Type=String
+
+[AnimFileInfoB2]
+Type=String
+
+[AnimFileInfoB3]
+Type=String
+
+[AnimFileInfoB4]
+Type=String
+
+[MultiShow]
+Type=IndexList
+StaticName=HiÓn thÞ ®a hiÖu qu¶ hay kh«ng
+Value=§óng/sai
+
+[SubLoop]
+Type=IndexList
+StaticName=HiÓn thÞ tuÇn hoµn hay kh«ng
+Value=§óng/sai
+
+[SubStart]
+Type=Number
+StaticName=Khung h×nh ®Çu tiªn Play tuÇn hoµn
+
+[SubStop]
+Type=Number
+StaticName=Khung h×nh cuèi cïng Play tuÇn hoµn
+
+
+	
+	
+

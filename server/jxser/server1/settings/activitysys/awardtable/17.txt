@@ -1,0 +1,2 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+17	Ti“n	"return {nJxb=1}"	1	100	124	3

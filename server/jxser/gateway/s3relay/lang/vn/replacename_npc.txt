@@ -1,0 +1,886 @@
+sourcename	targetname
+¹­±ø¶Ó³¤	Cung binh ®éi tr­ëng
+Å£Å£Âè	Ng­u TÈu
+×·»êÛÅÌÆÏÐ	Truy Hån TÈu §­êng Nhµn
+³ÇÃÅÎÀ±ø¼×	VÖ binh thµnh m«n
+³ÇÃÅÎÀ±øÒÒ	VÖ binh thµnh m«n	
+¾ÆµêÀÏ°åÄï	Bµ chñ töu ®iÕm
+ÅÓÎïÀÏ°åÄï	Bµ chñ tiÖm ®å cæ 
+Ìú½³Ñ§Í½	Häc trß thî rÌn
+°×»¢¾«	B¹ch Hæ Tinh
+Äá¹ÃÇåºÍ	Ni C« Thanh Hßa
+±¼À×	B«n L«i
+ÒøÑÀ	Ng©n Nha
+µ¶Õ¶	§ao Tr¶m
+Âä¹â	L¹c Quang
+º®Ç¹	Hµn Th­¬ng
+¶áÆÇ	§o¹t Hån
+ÅüÁ­	Ph¸ch Liªm 
+¸«¹â	Phñ Quang
+Ëªµ¶	S­¬ng §ao 
+Àä¹­	L·nh Cung
+²ùÎè	S¶n Vò 
+½µ´¸	Hµng Chïy
+·ÉËª	Phi S­¬ng 
+¶á»ê	§o¹t Hån
+³àÕÆ	XÝch Ch­ëng
+Ñ©Ó°	TuyÕt  ¶nh 
+¶«±±»¢	§«ng B¾c Hæ 
+¶À²½	§éc Bé 
+ÁéÃ¨	Linh Miªu 
+Ò°Öí	Heo rõng
+´Ìâ¬	NhÝm
+´¬·ò	ThuyÒn Phu
+»ÛÐÄÊ¦Ì«	HuÖ T©m S­ Th¸i
+Äá¹Ã	Ni c« 
+Ïã¿Í	H­¬ng Kh¸ch 
+ÉñÃØÉÌÈË	ThÇn BÝ Th­¬ng Nh©n
+ÕÅÌú×ì	Tr­¬ng ThiÕt Chñy 
+¾Æ±£	Töu B¶o 
+¾ÆµêÀÏ°å	¤ng chñ töu ®iÕm
+ÕÊ·¿ÏÈÉú	Ng­êi thu tiÒn
+µ±ÆÌÀÏ°å	Chñ tiÖm cÇm ®å
+µ±ÆÌ»ï¼Æ	Ng­êi thu tiÒn tiÖm cÇm ®å
+³µ·ò	Xa phu
+³ÇÃÅÎÀ±ø	VÖ binh thµnh m«n
+ÍËÈÎ¹ÙÔ±	Quan Viªn tho¸i nhiÖm
+×¡¿Í	Kh¸ch trä 
+ÂôÓÍ»õµÄ	Ng­êi b¸n dÇu
+æä¹Ù	DÞch quan
+Áã··	Hµng rong
+¹Ë×ÏÆ¼	Cè Tö B×nh
+²Ã·ì	Thî may
+Ò©µêÀÏ°å	¤ng chñ d­îc ®iÕm
+Ò©µêÀÏ°å 	¤ng chñ d­îc ®iÕm
+ÕÅÐ¡Èª	Tr­¬ng TiÓu TuyÒn 
+ÇØÈãÐÀ	TÇn Nh­ H©n 
+Ìú½³	Thî rÌn
+Ìú½³ÀÏ°å	Thî rÌn
+Àñ¹Ù	LÔ Quan 
+Ñ§Í½	Häc trß 
+Ò°ÛÅ	D· TÈu
+Áú½éÉú	Long Giíi Sinh
+¶Ä³¡´òÊÖ	B¶o kª 
+¶ÄÍ½	Con b¹c
+¶Ä³¡ÀÏ°å	Chñ sßng b¹c
+Âí··×Ó	B¸n ngùa
+ÎäÁÖÃË´«ÈË	Vâ L©m truyÒn nh©n
+ÆòØ¤	¡n mµy
+¾Æ¿Í¼×	Töu Kh¸ch Gi¸p
+¾Æ¿ÍÒÒ	Töu Kh¸ch Êt
+¾Æ¹í	Töu Quû 
+Ç®×¯ÀÏ°å	Chñ TiÒn trang
+Ò¶Ð¡Óñ	DiÖp TiÓu Ngäc
+²è¿Í	Trµ Kh¸ch 
+²è¹ÝÀÏ°å	Chñ tiÖm trµ 
+²è²©Ê¿	Trµ b¸c sÜ 
+²è¹ÝÐ¡¶þ	TiÓu nhÞ qu¸n trµ 
+Ð»´óÒ¯	T¹ §¹i Gia
+ËÕÈýÄï	T« Tam N­¬ng
+²èÌ¯	Qu¸n trµ 
+Ï¹ÆÅÆÅ	Bµ giµ mï 
+Ð¡´¨	TiÓu Xuyªn
+Ï²¶ù	HØ Nhi
+»ªÔ±Íâ	Hoa Viªn Ngo¹i
+Ë¿³ñÌ¯	TiÖm t¬ ®iÒu
+ÔÓ»õµêÀÏ°å	Chñ tiÖm t¹p hãa
+Êé»­Ì¯	TiÖm tranh
+ÇîÊéÉú	Th­ sinh nghÌo
+¿ÍÕ»Ð¡¶þ	TiÓu nhÞ l÷ qu¸n
+¿ÍÕ»ÀÏ°å	Chñ l÷ qu¸n
+¹¬Å®¼×	Cung N÷ Gi¸p
+¹¬Å®ÒÒ	Cung N÷ Êt
+»Ê¹¬ÎÀ±ø	VÖ binh hoµng cung
+Ð¡Ì«¼à	TiÓu Th¸i gi¸m
+ÁÙ°²¹«²î	 C«ng sai L©m An 
+¶¡Ô±Íâ	§inh Viªn Ngo¹i
+½ûÎÀÍ³Áì	Thèng lÜnh cÊm VÖ 
+ÑÃÒÛ	Nha DÞch
+²ÉÒ©ÀÏÕß	Ng­êi h¸i thuèc
+Ð»¼ÒÏ±¸¾	Con d©u T¹ gia
+³èÎïµêÀÏ°å	Chñ tiÖm ®å cæ 
+ÕÅ¿£	Tr­¬ng TuÊn
+ÊéÉú	Th­ sinh
+²Ü¹«¹«	Tµo C«ng C«ng
+½ûÎÀ¶Ó³¤	 §éi tr­ëng CÊm VÖ 
+½ûÎÀ¾ü	CÊm VÖ qu©n
+ÑÛ¾µÍõòþÉß	Nh·n KÝnh V­¬ng m·ng Xµ 
+ÑÛ¾µÉß	Nh·n KÝnh Xµ 
+¸òó¡	Cãc
+³àÁ·Éß	XÝch LuyÖn Xµ 
+¶¾ÐÄ	§éc T©m
+¹Æ»ó	Co HoÆc
+¶¾´Ì	§éc ThÝch
+¶¾ÑÀ	§éc Nha
+Îå¶¾½ÌµÜ×Ó	§Ö tö Ngò §éc gi¸o
+¶¾Ð«	§éc mät
+òÚò¼	RÕt 
+¶¾Ö©Öë	NhÖn ®éc
+Ö©Öë	NhÖn
+Ñªó¸òÜ	Cãc ®á
+¶¾òþ	§éc m·ng
+¶¾òáòæ	Th»n l»n
+É£Öé	Tang Chu
+ºÚÃæÀÉ¾ý	H¾c DiÖn Lang Qu©n
+½ðÉßÏãÖ÷	Kim Xµ H­¬ng Chñ 
+ÍÀÒì	§å DÞ 
+ÔÆ²»Ð°	V©n BÊt Tµ 
+°×Ó¨Ó¨	B¹ch Doanh Doanh 
+ÌÀåö	Thang BËt
+Ð»±£Òå	T¹ B¶o NghÜa
+ÍêÑÕÌì´Í	Hoµn Nhan Thiªn Tø 
+Éò°¬±ù	ThÈm Ng·i B¨ng 
+¾²´È	TÜnhTõ
+³ðÑÓ	Cõu Diªn
+ÌÒ»¨ÒþÊ¿	§µo Hoa Èn SÜ 
+ÌÆÈýµ¶	§­êng Tam §ao 
+¿Õ»Ý	Kh«ng HuÖ 
+·ë¾ýºâ	Phïng Qu©n Hµnh
+ÃÏÐÇÑþ	M¹nh Tinh Dao
+Ò¶·É	DiÖp Phi 
+»ÒÀÇ	Sãi x¸m
+Ñ©±ª	B¸o tr¾ng
+»ÆÀÇ	Sãi Vµng
+ÅÑÔô	Ph¶n tÆc
+À¶½í	Lam C©n
+Á÷¿Ü	L­u KhÊu
+´©É½±ª	Xuyªn s¬n b¸o
+Ò°±ª	B¸o hoang
+³¤Ç¹	Tr­êng th­¬ng
+÷ÙØ°	KÕ chñy
+·ÉÁ­	Phi Liªm 
+½ð¹úÃØÊ¹	Kim Quèc mËt sø 
+¶áÃüÁ­	§o¹t mÖnh Liªm 
+É½Ôô	S¬n tÆc
+Ó°¹÷	¶nh C«n
+ÀÇ°ô	Lang bæng
+Æ½Ç¹	Th­¬ng th­êng
+¿ìµ¶	Kho¸i ®ao 
+Ç¿µÁ	C­êng ®¹o
+»ðÀÇ	Sãi ®á
+ÂÞÏüÆß¹í	La Tiªu ThÊt Quû 
+ÔÆ²¿É½Ó¥	V©n Bé S¬n ¦ng 
+ÔÆ²¿Ó¥Ö÷	V©n Bé ¦ng Chñ 
+À×²¿¿ñÀÇ	L«i Bé Cuång lang
+À×²¿ÀÇÖ÷	L«i Bé Lamg Chñ 
+ºÚ½í	H¾c C©n
+½ðÒÂ	Kim y
+Ë«·æ	Song phong
+½ð¹ú´Ì¿Í	Kim quèc ThÝch Kh¸ch 
+Ñãµ´ÅÉÕÆÃÅ	Ch­ëng m«n Nh¹n §·ng ph¸i 
+Ñãµ´ÅÉµÜ×Ó	§Ö tö Nh¹n §·ng ph¸i  
+ºüÀê	Hå ly
+²òÀÇ	Sãi nhá 
+â¨ºï	Di hÇu
+Ã·»¨Â¹	H­¬u ®èm
+°×Öí	Heo tr¾ng
+½ðÃ¨	Kim Miªu 
+¹Ù²î	Quan sai
+´äÑÌ»¨Ê¹	Thóy Yªn Hoa Sø 
+Îå¶¾É¢ÈË	Ngò §écT¸n nh©n
+Ð»ÇàÃ¼	T¹ Thanh My
+Ï¼¶ù	Hµ Nhi
+À¥ÂØ»¤·¨	C«n L«n Hé Ph¸p
+¶ëáÒµÜ×Ó	§Ö tö Nga Mi
+ÉÙÁÖÂÞºº	ThiÕu L©m La H¸n
+ÖÓÀë	Chung CÇm
+ÌÆÃÅµÜ×Ó	§Ö tö §­êng M«n 
+¹¥³ÇÕ½½ÓÍ·ÈË	C«ng thµnh quan
+ÕÂÒ¯Ò¯	T©n Gia Gia
+ÌìÍõ°ïÖÚ	§Ö tö Thiªn V­¬ng 
+Àî¼Ñ	Lý Giai
+ÆÝÔÊÕæ	Uy DuÉn Ch©n 
+Åí·Å	Bµnh Phãng
+ÌìÈÌ½ÌÍ½	Thiªn NhÉn Gi¸o ®å
+Îäµ±µÜ×Ó	§Ö tö Vâ §ang 
+Ø¤°ïµÜ×Ó	§Ö tö C¸i Bang
+ËÕºìÐä	T« Hång Tô 
+¿×Ïþ	Khæng HiÓu
+ÃÏÆÅÆÅ	M¹nh Bµ Bµ 
+É³´ü	Bao c¸t
+Ä¾×®	Cäc gç 
+Ä¾ÈË	Méc nh©n
+ÎäÊ¦	Vâ S­ 
+ä½ÐÜ	GÊu
+¾²óÆìøÊ¦	TÜnh §èc ThiÒn S­ 
+°¢¸£	A Phóc 
+Éò¾Ô	ThÈm C©u
+ÌïÌ«ÆÅ	§iÒn Th¸i Bµ 
+ÕÔ°ÙÄê	TriÖu B¸ch Niªn
+ÍòÊÂÍ¨	V¹n Sù Th«ng
+ãÉËÄÉô	MÉn Tø ThÈm
+ÍõÊØÒå	V­¬ng Thñ NghÜa
+Åí´óÒ¯	Bµnh §¹i Gia
+±¼»ð	B«n Háa
+ÕÔÒøæ·	TriÖu Ng©n §Ô
+ÎÅ»Û	V¨n HuÖ 
+¹ÈÖ®À¼	Cèc Chi Lan
+Ç°Ê¹Íõ×ô	TiÒn Sø V­¬ng T¸ 
+Ìì»¤·¨Â·ÔÆÔ¶	Thiªn Hé Ph¸p Lé V©n ViÔn 
+â¦áû	X¸ LÞ 
+´óä½ÐÜ	§¹i Hoµn Hïng
+×óÊ¹¹Å°Ø	T¶ Sø Cæ b¸ch
+µØ»¤·¨ÏÄ³Ï	§Þa Hé Ph¸p H¹ Thµnh
+ÎÄÊé	V¨n Th­ 
+ÓÒÊ¹Ñîºþ	H÷u Sø D­¬ng Hå 
+µöÓãÎÌ	Ng­ ¤ng
+ËïµÀÁì	T«n §¹o LÜnh 
+Ë®Éú	Thuû Sinh 
+Óæ¸¾ºÉÉ©	Ng­ Phô Hµ TÈu
+ÌìÍõ°ïÖ÷Ñîçø	Thiªn V­¬ng Bang Chñ D­¬ng Anh
+öùÓã	C¸ SÊu
+½ð»·Éß	Kim Hoµn Xµ 
+»ðöù	SÊu ®á
+Ë®¹Ö	Thuû Qu¸i  
+Ìú×¦	ThiÕt Tr¶o
+ÐÐÕß	Hµnh gi¶ 
+òáòæ¾«	Th»n l»n tinh
+ÍÀÈË	§å tÓ 
+ÓÎ¿Í	Du Kh¸ch 
+ÂÞ¼ÒÉô×Ó	La gia ThÈm Tö 
+Ë³Ë®	ThuËn Thuû 
+ÌìÈÌËÀÊ¿	Thiªn NhÉn Tö sÜ 
+ÓæÃñ	Ng­ d©n
+Éò¾Å	ThÈm Cöu 
+¾Å½ïÀÏµù	Cöu c©n l·o gia
+·½¿ÉÎª	Ph­¬ng Kh¶ VÞ 
+ÔÓ»õÆÌÀÏ°å	Chñ tiÖm t¹p hãa
+ÌÆÃÅÊÌÎÀ	§­êng M«n ThÞ VÖ 
+ÌìÍõ½«Áì	Thiªn V­¬ng T­íng LÜnh 
+¶ëáÒ½õÒÂÄá	Nga My CÈm Y Ni
+Îäµ±µÀÈË	Vâ §ang §¹o Nh©n 
+Óá¾ÅÖÝ	Du Cöu Ch©u
+ÎâÉñÒ½	Ng« ThÇn Y
+Ð¡Óæ	TiÓu Ng­ 
+°¢·¼	A Ph­¬ng 
+¹ÅÀÏÌ«	Cæ L·o Th¸i
+»ðºü	Háa Hå 
+ÎÞÃûÉ®	V« danh T¨ng
+ÂæÓ¢	L¹c Anh
+ÌÕÈ»	§µo Nhiªn
+ÂôÒ©ÎÌ	¤ng b¸n thuèc
+Âô±øÆ÷µÄÈË	Ng­êi b¸n binh khÝ 
+È½ÎÌ	NhiÔm ¤ng
+Ð¡Ò¶	TiÓu DiÖp 
+ÏÉºü	Hå tinh
+»ðòáòæ	Th»n l»n ®á
+Í­´¸	§ång Chïy 
+ÍºðÕ	KÒn KÒn
+²ÔÓ¥	Th­¬ng ¦ng 
+¶Û¸«ºº	§én Phñ H¸n
+ÍÁ·ËÍ·Ä¿	Thæ PhØ §Çu Môc
+»ðÑ×»¢	Háa Viªm Hæ 
+ºÚÐÜ	GÊu ®en
+òùòð	D¬i
+Ñªòð	D¬i ®á
+ÎüÑªòùòð	D¬i hót m¸u
+±ª×ÓÍ·	B¸o Tö ®Çu
+»ª±±É½Ôô2	Hoa B¾c S¬n tÆc 2
+Âíºï	KhØ ngùa
+Ò°Å£	Tr©u rõng
+ºÚÒ¶ºï	H¾c DiÖp HÇu 
+¶À¹Âö©	§éc Hå V¨n
+¶À¹Â½£	§écHå KiÕm
+ÕÅÁÕÐÄ	Tr­¬ng L©m T©m
+ðÕÉñ	Thøu ThÇn
+½ðµñ	Kim §iªu
+ºâÉ½µÜ×Ó	§Ö tö Hoµnh S¬n  
+Ëæ¾üÒ©Ò½	Tïy Qu©n D­îc y
+ÃÜµÀÎÀ±ø	VÖ binh MËt §¹o 
+¾üÓªÎÀ±ø	VÖ binh qu©n doanh
+¾üÐè¹Ù	Qu©n nhu Quan 
+ÀÞ³¡ÃÅÊÌ	VÖ binh ®Êu tr­êng
+ÉÙÁÖÅÑÉ®	ThiÕu L©m Ph¶n T¨ng
+Ò©··	B¸n thuèc
+¡°Ñýµ¶¡±ÕÔ·½	“Yªu §ao ”TriÖu Ph­¬ng
+Ñ©¹Ö	TuyÕt Qu¸i  
+´óÑ©¹Ö	§¹i TuyÕt Qu¸i  
+¹ÖÈË	Qu¸i  Nh©n 
+Óñºâ×Ó	Ngäc Hoµnh Tö 
+Ò°ºï	KhØ hoang
+»Òºï	KhØ x¸m
+ºÚºï	KhØ ®en
+½ðË¿ºïÍõ	Kim T¬ HÇu V­¬ng 
+ÉÛÓñ·É	ThiÖu Ngäc Phi 
+ÓãËØÕæ	Ng­ Tè Ch©n 
+ÇðÓ¢	Kh©u Anh 
+Í¯Ï¦ÑÕ	§ång TÞch Nhan
+³¾Ôµ	TrÇn Duyªn
+Ð¡º®	TiÓu Hµn 
+³¾ÐÄ	TrÇn T©m
+³¾Äî	TrÇn NiÖm
+ÇàéÔÛÅ	Thanh TiÒu TÈu 
+Ì¾Ï¢ÀÏÈË	Th¸n Tøc L·o Nh©n 
+ÖìÈ±	Chu KhuyÕt
+è¯çá×Ó	TuyÒn C¬ Tö 
+ÇàÁ«×Ó	Thanh Liªn Tö 
+¶Û¸«	§én Phñ 
+µ¶¿Í	§ao Kh¸ch 
+¶Ìêª	§o¶n KÝch
+ºìÔÂ	Hång NguyÖt 
+À¶ÔÆ	Lam V©n 
+É³Ð«	Bä c¹p
+É³ðÕ	Kªn ®Êt
+Á÷·ç	L­u Phong 
+Á÷¹â	L­u Quang
+Á÷ÔÆ	L­u V©n 
+¼²Óð	TËt Vò 
+¼²·ç	TËt Phong 
+¼²µç	TËt §iÖn 
+¼²Ñ×	TËt Viªm 
+¼²Óê	TËt Vò 
+ÍÁ·Ë	Thæ PhØ 
+·çÃù	Phong Minh 
+Áé¶¯	Linh §éng 
+ÓñÃæ	Ngäc DiÖn 
+¿ìÍÈ	Kho¸i Thèi
+Ë«¸«	Song Phñ 
+´©É½	Xuyªn S¬n 
+Ò°Ã¨	MÌo rõng 
+»Æâ¨ºï	Hoµng Di HÇu 
+õËµÀÈË	 §¹o Nh©n QuÌ 
+³àºü	C¸o ®á
+½ðÇ®±ª	Kim TiÒn B¸o
+ÎÄ±ª	V¨n B¸o
+»¨°ß±ª	Hoa Ban B¸o
+Çà¶Ü	Thanh Mi 
+Á÷ÀË	L­u L­¬ng
+Àû¸«	Lîi Phñ 
+´Ì¿Í	ThÝch Kh¸ch 
+Ã§ºº	M·ng H¸n
+×·»ê	Truy Hån
+Á÷ÐÇ	L­u Tinh 
+³Ë·ç	Thõa Phong 
+Å®´Ì¿Í	N÷ ThÝch Kh¸ch 
+´óÏó	§¹i T­îng
+»ÆºÓÏó	Voi Hoµng Hµ 
+°×»¢	B¹ch Hæ 
+ÎÞÃûÀÏµÀ	V« Danh L·o §¹o 
+³Ì´óÎª	Tr×nh §¹i Vi
+ÕÔÃ¼¶ù	TriÖu Mi Nhi
+ÕÔ¼ÒÆÅÆÅ	TriÖu gia Bµ Bµ 
+ÉÏ¹ÙÇï	Th­îng Quan Thu 
+ÀÏ°åÄï	Bµ chñ 
+éØÏã	Tª H­¬ng 
+Ëï¶þÀÉ	T«n NhÞ Lang 
+ËïÐ¡Ð¡	T«n TiÓu TiÓu 
+Ëï¼ÒÉ©×Ó	T«n gia TÈuTö 
+Ã·Ïã	Mai H­¬ng 
+½Ð»¨×Ó	¡n mµy
+·¨ÃÅËÂ×¡³Ö	Trô tr× Ph¸p M«n tù 
+ÔøÔÆÓ¢	T¨ng V©n Anh 
+Âô²Ë¸¾	Ng­êi b¸n rau
+½­ÆÅÆÅ	Giang Bµ Bµ 
+²Ì´óÊå	Th¸i §¹i thóc 
+¶¹¶¹	§Ëu §Ëu 
+ÂÀÀÏºº	L÷ L·o H¸n
+ÅíÐ¡µÜ	Bµnh TiÓu ®Ö
+ÇØ¶þ¸ç	TÇn NhÞ ca
+ÖìÍÀ·ò	Chu §å Phu
+ÌÀ°ü×Ó	Thang Bao Tö 
+ïÚ¾ÖÀÏ°å	¤ng chñ Tiªu côc
+ÑÃÃÅ²îÒÛ	Nha M«n sai dÞch
+ÑîÊéÉú	D­¬ng Th­ sinh
+³èÎïÀÏ°å	¤ng chñ ®å cæ 
+ºúÔ±Íâ	Hå Viªn Ngo¹i
+á¯ÐÛ	SÇm Hïng
+ÓàÎä	D­ Vò 
+²ÌÉôÉô	Th¸i ThÈm ThÈm 
+ÓàÉ©	D­ TÈu
+°¢½¿	A KiÒu
+Äµµ¤	MÉu §¬n
+°¢Å£	A Ng­u
+ÕÅ×ÓÉÆ	Tr­¬ng Tö ThiÖn
+´ä´ä	Thóy Thóy 
+ÇàÀÇ	Sãi xanh
+Áéµñ	Linh §iªu
+²Ý¿Ü¼×	Th¶o KhÊu Gi¸p
+²Ý¿ÜÒÒ	Th¶o KhÊu Êt
+µÁ¾­ÈË	Ng­êi trém kinh
+ÁÎÆç	LiÖu Kú 
+´ó´Ìâ¬	NhÝm to
+½ðÉ½ÕÆÃÅ	Kim S¬n Ch­ëng M«n 
+´óÒ°Öí	§¹i Heo rõng
+»ªÉ½ÀÏÛÅ	Hoa S¬n L·o TÈu 
+æäÕ¾³µ·ò	DÞch tr¹m Xa phu
+ÉÙÁÖµÜ×Ó³£°ÙÀï	ThiÕu L©m §Ö tö Th­êng B¸ch Lý 
+ÉÙÁÖµÜ×Ó¼¾µÑ·ç	ThiÕu L©m §Ö tö Lý §Þch Phong 
+½ð±ø	Kim binh 
+½ð¹ú½«ÁìÍÐ¶ûºº	Kim quèc t­íng LÜnh Th¸c NhÜ H¸n
+Å£Å£	Ng­u Ng­u
+Å·Ñô	¢u D­¬ng 
+»ÆÊå	Hoµng thóc 
+¶­´óÊå	§æng §¹i thóc 
+³ÌÎÞÐÄ	Tr×nh V« T©m
+·ï¶ù	Phông Nhi
+ÓÀÀÖµ±ÆÌÀÏ°å	¤ng chñ cÇm ®å VÜnh l¹c
+Â³Ò¯	Lç Gia
+ÀîÔ¥	Lý Dù 
+¾Õæ¤	Cóc N÷u 
+ÔÓ»õÀÏ°å	¤ng chñ t¹p hãa
+´ºÏã	Xu©n H­¬ng 
+ÊæÄÌÄÌ	Bµ Th­ 
+¶­´óÂè	§æng §¹i Ma
+¸ðÒ¯	C¸t Gia
+µÁ±¦Ôô	Trém b¶o tÆc
+Í­ÈË	§ång Nh©n 
+³àÉß	R¾n ®á
+»Òòð	D¬i x¸m
+ºìòð	§¬i ®á
+Å©·ò	N«ng Phu
+ÕÆÃÅÌÆ³ð	Ch­ëng M«n §­êng Cõu 
+¾ø´ºÛÅÌÆÒ°	TuyÖt Xu©n TÈu §­êng D· 
+³àÑæöù	XÝch DiÖm Ng¹c
+ÌÆ¶¾	§­êng §éc 
+¹Ü¼Ò	Qu¶n gia 
+ÌÆÇá	§­êng Khinh 
+ÌÆÈ±	§­êng KhuyÕt 
+´óºÚÒ¶ºï	§¹i H¾c DiÖp HÇu 
+ÌÆÃÅ×¯¶¡	§­êng M«n Tr¸ng §inh 
+´óÒ°ºï	§¹i D· HÇu 
+´óÂíºï	§¹i M· HÇu 
+ÌÆ²»È¾	§­êng BÊt NhiÔm 
+°×ÅÛÛÅÌÆº×	B¹ch bµo TÈu §­êng H¹c
+½¹÷×ÛÅÌÆÔÆ	Tiªu Nhiªm TÈu §­êng V©n 
+µã¾¦»¢	§iÓm T×nh Hæ 
+ÌÆÒ»³¾	§­êng NhÊt TrÇn 
+ÃîÒþ	DiÖu Èn 
+òáòæÍõ	Th»n l»n chóa 
+½ðË¿ºï	Kim t¬ HÇu 
+¡°Ó³Ñ©ÏÉ×Ó¡±ÄÂÔÆ´È	Ánh TuyÕt Tiªn Tö Môc V©n Tõ 
+ÃîÁé	DiÖu Linh 
+Ãî½à	DiÖu KhiÕt 
+ÃîÐÄ	DiÖu T©m
+»ÛÄá	HuÖ Ni
+ÓðÒÂÄá	Vò Y Ni
+Ãî³¾	DiÖu TrÇn 
+¡°ÒÆ¹âÏÉ×Ó¡±Ð»ÔÆÂÜ	Di QuangTiªn Tö T¹ V©n La 
+¡°ºá²¨ÏÉ×Ó¡±ºÎÁ¯Æ®	Hoµnh Ba Tiªn Tö Hµ Linh Phiªu
+¡°·÷ÔÆÏÉ×Ó¡±ÇØÒÐ·ç	PhÊt V©n Tiªn Tö TÇn Kú Phong 
+¡°ÕÛÃ·ÏÉ×Ó¡±Ò¶±ùºÛ	TriÕt Mai Tiªn Tö DiÖp B¨ng Ng©n
+¡°°ÝÔÂÏÉ×Ó¡±ËÕ´ÊÜ°	B¸i NguyÖt Tiªn Tö T« Tõ Hinh
+¶ëáÒÕÆÃÅÇåÏþÊ¦Ì«	Nga My Ch­ëng M«n Thanh  HiÓu S­ Th¸i
+»ðÔÆ»¢	Háa V©n Hæ 
+ÃîÈç	DiÖu Nh­ 
+ÐÁÔ±Íâ	T©n Viªn Ngo¹i
+Îº´óÒ¯	Ngôy §¹i Gia
+Ð¡»ì»ì	TiÓu Hçn Hçn 
+Ð¤ÆÅÆÅ	Tiªu Bµ Bµ 
+ÓÎÈË	Du Nh©n 
+Ñ¦Ð¡ÃÃ	TiÕt TiÓu Muéi
+Ê¯†´	Th¹ch TriÕt
+ÖÜË´Îä	Chu ThuÊn Vò 
+Ã·Äï	Mai N­¬ng
+´º¹Ã	Xu©n C« 
+ÐÁ¶þÉô	T©n NhÞ ThÈm 
+ÄªÐã²Å	M¹c Tó Tµi  
+ÐìÉ©	Tõ TÈu
+Ó¦²É¶ù	øng Th¸i Nhi
+ÎºÐ¡Ã÷	Ngôy TiÓu Minh
+×Þ³¤¾Ã	Tr©u Tr­êng Cöu 
+Âí··¸ú°à	Ng­êi ch¨m sãc ngùa
+¸ßÀÏ°å	¤ng chñ Cao  
+ËÂÉ®	Tù T¨ng 
+´ÈÔÆ·¨Ê¦	Tõ V©n Ph¸p S­ 
+·½ÊÊ	Ph­¬ng Qu¸t
+²ÉÒ©ÉÙÅ®	C« g¸i h¸i thuèc
+ÒüÉñËã	Do·n ThÇn To¸n
+±Ì»ª	BÝch Hoa 
+ÑÌ¶ù	Yªn Nhi
+ÕÅËÄÉ©	Tr­¬ng Tø TÈu
+ËïÍñ	T«n UyÓn
+ºØÀ¼Ö¥	H¹ Lan Chi
+ËÎ¾ÙÈË	Tèng cö Nh©n 
+ÂäÆÇ×ÓµÜ	L¹c HånTö ®Ö
+Ð×É®	Hung T¨ng 
+ÅÑÉ®Í·Ä¿	Ph¶n T¨ng §Çu Môc
+ÂÞÏÈÉú	La Tiªn Sinh 
+ÔÂÏÂÀÏÈË	NguyÖt h¹ L·o Nh©n 
+ÌÆÔª¾Ë¾Ë	CËu cña §­êng Nguyªn  
+ÌÆÔª	§­êng Nguyªn 
+ÎâºìÃ·	Ng« Hång Mai
+»¢×ÓÄï	Hæ Tö N­¬ng
+»¢×Ó	Hæ Tö 
+¹ùÓÂ	Qu¸ch Dòng
+ÌìÌìÄï	Thiªn Thiªn N­¬ng
+ÌìÌì	Thiªn Thiªn 
+ÎâÀÏµù	Ng« L·o gia
+¶ñÄá	¸c Ni
+ÉñÃØÉ±ÊÖ	ThÇn BÝ s¸t thñ 
+½çÎÞÐ°	Giíi V« Tµ 
+½ðÇ¹	Kim Th­¬ng
+ÁéÓ¡	Linh Ên 
+Ìú´¸Ä§¾ý	ThiÕt Chïy Ma Qu©n 
+ÌúÈ­ÑÖÂÞ	ThiÕt QuyÒn Diªm La 
+ÌÆºÌ	§­êng Hßa
+Ð¡Í·Ä¿À÷È­	TiÓu §Çu Môc LÞch QuyÒn
+´óÍ·Ä¿¿ñÉ³	§¹i §Çu Môc Cuång Sa
+Ð¡Í·Ä¿¶À¶ú	TiÓu §Çu Môc §écNhÜ 
+Ð¡Í·Ä¿¹íÓ°	TiÓu §Çu Môc Quû ¶nh
+Ð¡Í·Ä¿Ìú±Û	TiÓu §Çu Môc ThiÕt Tý 
+³¤µ¶	Tr­êng §ao 
+Ò¹²æ	D¹ Xoa
+ÁéÊÞ	Linh thó 
+¸ßÈË	Cao Nh©n 
+Ð×ðÕ	Hung Thó 
+ºÚÓ¥	H¾c ¦ng 
+×ØÐÜ	T«ng Hïng 
+¹¢×ÓÆæ	C¶nhTö Kú 
+ÃÍ»¢	M·nh Hæ 
+ÉñÃØÈË	ThÇn BÝ Nh©n 
+´¬¼Ò	ThuyÒn gia 
+½ðâ¨ºï	Kim Di HÇu 
+»ðòá	Th»n l»n ®á
+ÑÃÃÅÎÀ±ø	Nha M«n VÖ binh
+ºÍÉÐ	Hßa Th­îng
+¶ÎË¼³É	§oµn T­ Thµnh 
+ÐéÔ²·½ÕÉ	H­ Viªn Ph­¬ngTr­îng 
+Áú×·Îè	Long Truy Vò 
+¶¡°¢Åô	§inh A B»ng
+µ¶Á«Ó¢	§ao Liªn Anh 
+¶­¿ËÒÑ	§æng Kh¾c DÜ 
+¾Æ¿Í	Töu Kh¸ch 
+»¨Å©	Hoa N«ng 
+°¢ä¿	A Kú 
+ÎÄÎÄ	V¨n V¨n 
+¶ÎÀÏºº	§oµn L·o H¸n
+µ«ÐÓ»¨	§¶n H¹nh Hoa 
+°×ÀÏºº	B¹ch L·o H¸n
+³µÀÏÌ«	Xa L·o Th¸i 
+¶ÎÓñ·ï	§oµn NgäcPhông 
+ÓãÏºÌ¯	Ng­ H¹ Than 
+Óæ·òÒÒ	Ng­ Phu Êt
+Óæ·ò¶¡	Ng­ Phu §inh 
+Óæ·ò±û	Ng­ Phu BÝnh 
+Óæ·ò¼×	Ng­ Phu Gi¸p
+¶ñ°Ô´òÊÖ	¸c b¸ ®¶ thñ 
+¶ñ°Ô	¸c b¸ 
+ÆÃÆ¤	B¸t B× 
+²×ÀË¿Í	Th­¬ng L­¬ng Kh¸ch 
+°¢Çí	A Kinh 
+ÉòÒ¯	ThÈm Gia
+ÁøÒ¶¶ù	LiÔu DiÖp Nhi
+°¢È«	A Toµn 
+°¢Âê	A M· 
+°¢Ô´	A Nguyªn 
+ÎâõÂÈË	Ng« NghiÔn Nh©n 
+Òüº¬ÑÌ	Do·n Hµm Yªn
+æÌÏþÙ»	Yªn HiÓu Tr¸i
+ºÎÄºÑ©	Hµ Mé TuyÕt 
+²Ý¿Ü	Th¶o KhÊu 
+ÎÞÃûÀÏÕß	V« Danh L·o gi¶ 
+¡°º£ÌÄÊ¹Õß¡±ÛªÇïË®	H¶i §­êng sø gi¶ LÖ Thu Thuû 
+ÈôÀ¼	Nh­îc Lan 
+·áÖñ	Phong Tróc
+°ÁÃ·	Ng¹o Mai
+Ð¦¾Õ	TiÕu Cóc
+ºìºü	Hång Hå 
+ËÆÓñ	Hå Ngäc
+Ðß»¨	Tu Hoa 
+Èç»¨	Nh­ Hoa 
+±ÕÔÂ	BÕ NguyÖt 
+´äÑÌµÜ×Ó	§Ö tö Thóy Yªn 
+Ñ©ÀÇ	Sãi tuyÕt
+ÂùÈË	Di Nh©n 
+ÊÔ¹¦±®	§¸ luyÖn c«ng
+Âå¾ÅÌì	L¹c Cöu Thiªn 
+¶Ïêª	§o¶n KÝch
+Ìú¼¬	ThiÕt t¸o
+ÆßÉ±¶´ËÀÇô	ThÊt V­¬ng §éng tö tï 
+Ð«×Ó¾«	RÕt tinh
+¶¾Éß	§éc Xµ 
+ÓÒ»¤·¨Ò®ÂÉ±ÙÀë	H÷u Hé Ph¸p Gia LuËt TÞ Ly
+ÌìÈÌ½ÌÖ÷ÍêÑÕºêÁÒ	Thiªn NhÉn gi¸o chñ Hoµn Nhan Hïng LiÖt
+»ðÌÃÌÃÖ÷Ø£°½	Háa §­êng §­êng chñ Ngét Ng¹o
+¾üÊ¦	Qu©n S­ 
+ËþÀïº±	Th¸p Lý H·n
+ÓíµÒ	Vò §Þch 
+ÆîÓÓ	Khëi H÷u 
+×ó»¤·¨¶ËÄ¾î£	T¶ Hé Ph¸p §oan Méc DuÖ 
+·çÌÃÌÃÖ÷ÍêÑÕÑ©ÒÂ	Phong §­êng §­êng chñ Hoµn Nhan TuyÕt Y
+ÈÕÔÂÌ³Ö÷ÎÚºÏÈø	NhËt NguyÖt §µn chñ « Hîp T¸t 
+Ð¡ÄÐº¢	BÐ trai
+½ð¹ú¹­±ø	Kim quèc Cung binh 
+½ð¹úÇ¹±ø	Kim quèc Th­¬ng binh 
+½ð¹úµ¶±ø	Kim quèc §ao binh 
+½ð¹ú¹­¼ýÊÖ	Kim quèc CungTiÔn thñ 
+½ð±ø¼×	Kim binh Gi¸p
+½ð¹ú¸±½«	Kim quèc phã t­íng 
+½ð¹ú¾üÒ½	Kim quèc Qu©n y
+½ð¹ú´ó½«	Kim quèc §¹i t­íng
+ÄÏËÎ¹­±ø	Nam Tèng Cung binh 
+ÄÏËÎÇ¹±ø	Nam Tèng Th­¬ng binh 
+ÄÏËÎµ¶±ø	Nam Tèng §ao binh 
+·ÀÓù¹¤ÊÂ	C«ng sù phßng ngù 
+½ð¹úºó·½¾üÒ½	Kim quèc hËu Ph­¬ng Qu©n y
+ËÎ¾üºó·½¾üÒ½	Tèng Qu©n hËu Ph­¬ng Qu©n y
+ÄÏËÎ½«¾ü	Nam Tèng t­íng Qu©n 
+ÄÏËÎ¸±½«	Nam Tèng phã t­íng 
+ËÎ¾ü¾üÒ½	Tèng Qu©n Qu©n y
+ÄÏËÎ¹­¼ýÊÖ	Nam Tèng Cung TiÔn thñ 
+ÄÏËÎÍ³Áì	Nam Tèng Thèng LÜnh 
+ËÎ±ø¼×	Tèng binh Gi¸p
+ÉÙÁÖÍ­ÈË	ThiÕu L©m §ång Nh©n 
+ÉÙÁÖÉ®±ø	ThiÕu L©m T¨ng binh 
+É®±øÊ×Áì	T¨ng binh ®Çu LÜnh 
+½ð¸ÕÈË	Kim cang Nh©n 
+³ÎÐÄ	Trõng T©m
+Ðþ¾õ	HuyÒn Gi¸c 
+³ÎÎ¢	Trõng Vi 
+³Î½Ú	Trõng TiÕt 
+Öª¿ÍÉ®	Tri Kh¸ch T¨ng 
+³ÎÄ©	Trõng M¹c
+ÐþÐé	HuyÒn H­ 
+Ä°Ó§	M¹ch Anh 
+·½ÕÉÐþÒò	Ph­¬ngTr­îng Tõ Nh©n
+»ú¹ØÈË	C¬ quan Nh©n 
+ÐþÄÑ	HuyÒn Nan 
+Ðþ´È	HuyÒnTõ 
+Ðþ±¯	HuyÒn Bi 
+ÖìÏÉÕòµ±ÆÌÀÏ°å	Chñ tiÖm cÇm ®å Chu Tiªn TrÊn   
+ÖìÏÉÕòÒ©µêÀÏ°å	Chñ d­îc ®iÕm Chu Tiªn TrÊn    
+°¢Ã«	A Mao 
+ÔÂÔÂ	NguyÖt NguyÖt 
+ÖìÏÉÕòÆòØ¤	¡n mµy Chu Tiªn TrÊn  
+Ë«Ë«	Song Song 
+ÖìÉ©	Chu TÈu
+Ó¯Ó¯	Doanh Doanh 
+ÖìÏÉÕò¿ÍÕ»ÀÏ°å	Chñ l÷ qu¸n Chu Tiªn TrÊn  
+ÕÅ´óÔª	Tr­¬ng §¹i Nguyªn 
+Àö¾ê	LÖ Quyªn 
+ÔÆ¶ù	V©n Nhi
+°¢ºÚ	A H¾c 
+Ð¡ÐÜ	TiÓu Hïng 
+³ÂÉ©	TrÇn TÈu
+ÀÏÂí	L·o M· 
+ÀÏÖì	L·o Chu 
+ËïÀÏÍ·	T«n L·o ®Çu 
+ÃÏÐñ	M¹nh Hóc 
+Àî×æµÂ	Lý Tæ §øc
+´ó¶ÉìøÊ¦	§¹i §é ThiÒn S­ 
+ËïÐã²Å	T«n Tó Tµi  
+³ÂÈý±¦	TrÇn Tam B¶o 
+·½ÀÏÌ«	Ph­¬ng L·o Th¸i 
+ÐÁÆú¼²	T©n Khëi TËt 
+¿×È«	Khæng Toµn 
+ÐÁ´ó¹Ã	T©n §¹i C« 
+°×¹«×Ó	B¹ch C«ng Tö 
+¼§ÀÏ°å	¤ng chñ C¬ 
+ÇúÌú½³	Khóc ThiÕt T­îng 
+ÌÆÀÏµù	§­êng L·o gia
+¶¬Ã·	§«ng Mai
+³Ì´óÒ¯	Tr×nh §¹i Gia
+¾ÆÂ¥ÀÏ°å	¤ng chñ töu lÇu
+ÍõÌú½³	V­¬ng ThiÕt T­îng 
+Ð¡º£	TiÓu H¶i 
+Ó¢×Ó	Anh Tö 
+ÁõÔ±Íâ	L­u Viªn Ngo¹i
+Íõ·òÈË	V­¬ng Phu Nh©n 
+´º»¨	Xu©n Hoa 
+ÈçÓñ	Nh­ Ngäc
+»Æ´óÉÙ	Hoµng §¹i ThiÕu 
+¸µÄÏ±ù	Phã Nam B¨ng 
+È³×ÓÀî	§Ëu Tö Lý 
+ÕÅ¹Ñ¸¾	Tr­¬ng Qu¶ phô 
+½ð¹úÎäÊ¿	Kim quèc Vâ sÜ 
+Ç¹±ø	Th­¬ng binh 
+¹­±ø	Cung binh 
+µ¶±ø	§ao binh 
+×Ü±ø	Tæng binh 
+²ò¹·	Chã hoang
+ÃÏÔ¶²Å	M¹nh ViÔn Tµi  
+ÀîËÅ	Lý T­ 
+ÍõÎà	V­¬ng Ng« 
+ÂÞ¿ïÉú	La Khu«ng Sinh 
+ÕÅÉ¢	Tr­¬ng T¸n 
+ÆîÎÌ	Khëi ¤ng
+ºÎÈËÎÒ	Hµ Nh©n Ng· 
+ÙÜÈýÕÉ	Tõ Tam Tr­îng 
+ÃÏ²ÔÀË	M¹nh Th­¬ng L­¬ng
+ÎºÁËÎÌ	Ngôy LiÔu ¤ng 
+»¢È­	Hæ QuyÒn
+»¨±ª	Hoa B¸o
+³àÑæ	XÝch DiÖm
+º×ÐÐ	H¹c hµnh
+´óÇàÀÇ	§¹i Thanh lang
+´óÑ©ÀÇ	§¹i TuyÕt lang
+´ó»ðºü	§¹i Háa Hå 
+ÌìÈÌ¸ßÊÖÀ×¾ö	Thiªn NhÉn cao thñ L«i QuyÕt 
+»ÆÑ×»¢	 Hoµng Viªm Hæ 
+ÈóÄï¼Ò±ª	NhuËn N­¬ng Gia b¸o
+ÈóÄï¼Ò»¢	NhuËn N­¬ng Gia hæ 
+°×Óñ»¢	B¹ch Ngäc Hæ 
+ÈóÄï	NhuËn N­¬ng
+ÀÎÍ·	Lao ®Çu
+ÕÔ¶æÖ÷	TriÖu §µ Chñ 
+ÑÝÎä³¡»¤ÎÀ	Hé VÖ diÔn Vâ tr­êng
+Ò»Î­·¨Ê¦	NhÊt VÜ ph¸p s­ 
+àïàï	BÐ g¸i
+æäÕ¾æä¹Ù	DÞch tr¹m dÞch quan
+ËÎÆÅÆÅ	Tèng Bµ bµ 
+×í°ëÏÉ	Tuý b¸n tiªn
+ËïÔ±Íâ	T«n Viªn ngo¹i
+ËÎË¼ÎÄ	Tèng T­ V¨n
+ÖÝÖÝ	Ch©u Ch©u
+½­Ò»Ïô	Giang NhÊt Tiªu
+ÙþÏþÕæ	TiÓn HiÓu Ch©n
+¹À¼ÛÏÈÉú	C« gi¸ tiªn sinh
+³þ³þ	Së Së 
+ËÎÔ±Íâ	Tèng Viªn ngo¹i
+Éò·òÈË	ThÈm phu nh©n
+ÈçÒâ	Nh­ ý 
+Éò·ç	ThÈm Phong
+ïÚÍ·	Tiªu ®Çu
+ÀÖÇåÇï	L¹c Thanh Thu
+Âô»¨Å®	C« g¸i b¸n hoa
+»¨µÆÀÉ	Hoa §¨ng Lang
+ÍñÄï	UyÓn N­¬ng
+ÈÎÌìÑÄ	NhiÖm Thiªn Nhai
+³Â´óÁ¦	TrÇn §¹i Lùc
+¶ÅÀÏ°å	¤ng chñ §ç
+Áø´óÒ¯	LiÔu ®¹i gia
+²Ýòþ	Tr¨n cá 
+´óöùÓã	C¸ sÊu
+´ó¸òó¡	Cãc lín
+´ó²Ýòþ	Tr¨n lín
+Ðìá·ÔÀ	Tõ §¹i Nh¹c
+ÐìÖÐÔ­	Tõ Trung Nguyªn
+Ò¶¼ÌÃÀ	DiÖp TiÕp MÜ 
+ÖÜÔÆÈª	Chu V©n TuyÒn 
+ÓñÊ÷	Ngäc Thô 
+»ªºâ	Hoa Hµnh
+Îäµ±ÊÌÍ¯Ã÷ÔÂ	Vâ §ang thÞ ®ång Minh NguyÖt 
+ÀîÌìÄ¿	Lý Thiªn Môc
+ÕÆÊé	Ch­ëng th­ 
+Îäµ±ÊÌÍ¯Çå·ç	Vâ §ang thÞ ®ång Thanh Phong
+²ÔÀÇ	Th­¬ng H©n
+Ò°ÀÇ	D· H©n
+Ò¦Ê¯ÃÅ	§µo Th¹ch M«n
+Îäµ±ÕÆÃÅµÀÒ»ÕæÈË	Vâ §ang ch­ëng m«n §¹o NhÊt Ch©n nh©n
+µ¥Ë¼ÄÏ	§¬n T­ Nam
+ÕÅÈý	Tr­¬ng Tam
+ÀîËÄ	Lý T­ 
+ÌÆÊå	§­êng thóc
+½¯·á	T­ëng Phong
+µ¾Ïã´åµ±ÆÌÀÏ°å	Chñ qu¸n §¹o H­¬ng Th«n
+ËÕ´óÂè	T« ®¹i ma
+ËÕÖÒ	T« Trung
+ÀîÐã²Å	Lý Tó Tµi
+´äÓñ	Thuý Ngäc
+µ¾Ïã´åÒ©µêÀÏ°å	Chñ d­îc ®iÕm §¹o H­¬ng Th«n
+Ð¡Áú	TiÓu Long
+µ¾Ïã´å¿ÍÕ»ÀÏ°å	Chñ l÷ qu¸n  §¹o H­¬ng Th«n
+ÐÐ½ÅÉÌÈË	Hµnh C­íc th­¬ng nh©n
+ÑîÆÅÆÅ	D­¬ng Bµ Bµ 
+Íõ¶þÉ©	V­¬ng NhÞ TÈu
+Íõ»¢	V­¬ng Hæ 
+²èµêÀÏ°å	Chñ tiÖm trµ 
+»¨»¨	Hoa Hoa
+ÁÔÈË	Thî s¨n
+Ð¡À¼	TiÓu Lan
+Äª¿ÕÔÂ	M¹c Kh«ng NguyÖt
+¾øÉ±	TuyÖt s¸t
+¾øÕ¶	TuyÖt tr¶m
+´ÈÓê·¨Ê¦	Tõ Vò ph¸p s­ 
+·¶µùµù	Ph¹m §a §a
+·¶¶þ´º	Ph¹m NhÞ Xu©n
+ÎâÀÏÌ«	Ng« L·o Th¸i 
+»¢×Óµù	Phô Th©n Hæ Tö 
+¹¢ÀÏÍ·	C¶nh L·o ®Çu 
+Ò¦Ò¦	§µo §µo
+·¶´óÇ¿	Ph¹m §¹i C­êng
+¹¨°¢Å£	Cung A Ng­u
+¹¨ÀÏÌ«	Cung l·o Th¸i
+¶ÎÐã²Å	§oµn Tó Tµi
+°×Ü¿	B¹ch V©n
+ºÉ¹Ã	Hµ C« 
+Áõºã	L­u H»ng
+Ïã¶ù	H­¬ng Nhi
+Ð¡µË×Ó	TiÓu §Æng tö 
+·ëÅÖ×Ó	CËu bÐo Phïng
+¼ÖÉñËã	Gi¶ ThÇn To¸n
+¹Ï··	Qua Ph¸n
+ºÎÀÏ°å	¤ng chñ Hµ 
+µË¼ÒÉ©×Ó	§Æng Gia tÈu tö 
+Ò¦¼Î	§µo Gia
+¹ùÔ±Íâ	Qu¸ch Viªn ngo¹i
+ÏåÑôÊØ½«	T­¬ng D­¬ng Thñ t­íng
+ÅÓÎïµêÀÏ°åÄï	Bµ chñ tiÖm vËt nu«i
+³èÎïÀÏ°åÄï	Bµ chñ tiÖm vËt nu«i
+³èÎïµêÀÏ°åÄï	Bµ chñ tiÖm vËt nu«i
+µ±ÆÌÀÏ°åÅ®¶ù	Con g¸i Chñ tiÖm cÇm ®å
+¶¹¶¹Äï	MÑ cña §Ëu §Ëu
+ÉñÃØÉÌÈËÁøÒÒ	ThÇn bÝ Th­¬ng Nh©n
+½ð¹úÎÀ±ø	LÝnh canh n­íc Kim
+ÃîÒþÏà¹«	DiÖu Èn T­íng C«ng
+ÔÓ»õµêÀÏ°åÄï	T¹p Hãa
+ÍÁ·Ë¼×	Thæ phØ Gi¸p
+ÍÁ·ËÒÒ	Thæ phØ Êt
+´¢ÎïÏä	R­¬ng Chøa §å
+É½Ôô¼×	S¬n tÆc Gi¸p
+É½ÔôÒÒ	S¬n tÆc Êt
+É½ÔôÍ·×Ó	S¬n tÆc §Çu tö 
+ÁÎÆç	LiÖu Kú 
+ÓÎÏ·ÍÆ¹ãÔ±	Qu¶ng c¸o viªn
+½ð¾üÄ¼±ø¹Ù	Kim quèc chiªu binh quan
+½ð¾ü³µ·ò	Xa phu Kim qu©n
+½ð¾ü¾üÐè¹Ù	Kim Quèc Qu©n nhu quan
+´¬·ò±û	ThuyÒn phu BÝnh
+´¬·ò¼×	ThuyÒn phu Gi¸p
+´ºÏãÆÅÆÅ	Xu©n H­¬ng bµ bµ 
+µ¶±ø¶Ó³¤	§ao binh ®éi tr­ëng
+µ¶±øÍ³Áì	§ao binh Thèng lÜnh
+¶¾Éß¾«	§éc Xµ Tinh
+¶¾Ð«Íõ	Bß c¹p chóa
+¶ñ°Ô±£ïÚ	¸c B¸ b¶o tiªu
+¶ñ°Ô»¤Ôº	¸c B¸ hé viÖn
+öùÓã¾«	C¸ sÊu tinh
+¸òó¡¾«	Cãc tinh
+¹­±øÍ³Áì	Cung binh Thèng lÜnh
+»¨±ª×Ó	B¸o ®èm
+ä½ÐÜ¾«	GÊu ngùa
+½ðÃ¨Íõ	Kim Miªu v­¬ng
+Ã§ººÍ·Áì	M·ng H¸n ®Çu lÜnh
+Ä¾ÈË£¨30000ÉúÃü£©	Méc nh©n (30000 Sinh lùc)
+Ä¾×®£¨3000ÉúÃü£©	Cäc gç (30000 Sinh lùc)
+ÅÑÔôÍ·Ä¿	Ph¶n tÆc ®Çu môc
+Ç¹±ø¶Ó³¤	Th­¬ng binh ®éi tr­ëng
+É³´ü£¨10000ÉúÃü£©	Bao c¸t (10000 Sinh lùc)
+â¦áû¾«	X¸ LÞ tinh
+Ñ©±ªÍõ	TuyÕt B¸o v­¬ng
+ÓñÃæÅÐ¹Ù	Ngäc DiÖn Ph¸n quan
+Ö©Öë¾«	NhÖn tinh
+¹¥³Ç³å³µ	C«ng Thµnh Xung Xa
+Í¶Ê¯³µ	§Çu Th¹ch Xa
+ÀÞ¹ÄÊ¿±ø	L«i Cæ Binh SÜ 
+Ò¡ÆìÊ¿±ø	Diªu Kú Binh SÜ 
+¹¥³Ç¹¥·½ÍêÕûÁúÖù	Long trô phe c«ng nguyªn vÑn
+¹¥³Ç¹¥·½ÆÆËðÁúÖù	Long trô phe c«ng tæn h¹i
+¹¥³ÇÊØ·½ÍêÕûÁúÖù	Long trô phe thñ nguyªn vÑn
+¹¥³ÇÊØ·½ÆÆËðÁúÖù	Long trô phe thñ tæn h¹i
+¹¥³ÇÕ½ÍêÕû³ÇÃÅ	Thµnh m«n nguyªn vÑn
+¹¥³ÇÕ½ÆÆËð³ÇÃÅ	Thµnh m«n tæn h¹i
+ÂÓ·ç	L­îc Phong
+ÁÑ¿Õ	LiÖt Kh«ng
+±±°¶´¬·ò±û	ThuyÒn phu BÝnh
+ÄÏ°¶´¬·ò±û	ThuyÒn phu BÝnh
+ÄÏ°¶´¬·òÒÒ	ThuyÒn phu Êt
+±±°¶´¬·òÒÒ	ThuyÒn phu Êt
+±±°¶´¬·ò¼×	ThuyÒn phu Gi¸p
+ÄÏ°¶´¬·ò¼×	ThuyÒn phu Gi¸p
+¹«Æ½×Ó	C«ng B×nh Tö 
+Ò×ÈÝÊõÊ¿	ThuËt sÜ 
+·ü²¨	Phôc Ba
+ËÎ¾ü³µ·ò	Xa phu
+ËÎ¾üÄ¼±ø¹Ù	Mé binh quan
+¼ýÍ·	TiÔn §Çu
+ÀäÇ¹	L·nh Th­¬ng
+ÃÉ¹ÅÎäÊ¿	M«ng Cæ Vâ sÜ 
+Ä®Ôô	M¹c TÆc
+ÆÆÀË	Ph¸ Lang
+É³µÁ	Sa §¹o
+Éñ±Û	ThÇn Tý 
+Ë®Ôô	Thñy TÆc
+ËÎ¾ü¾üÐè¹Ù	Qu©n Nhu quan (Tèng)
+×ßÊ¯	TÈu Th¹ch
+³ÕÉ®	Si T¨ng

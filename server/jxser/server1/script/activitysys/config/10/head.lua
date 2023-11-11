@@ -1,0 +1,9 @@
+--Include("\\script\\activitysys\\activity.lua")
+--pActivity = ActivityClass:new()
+--pActivity.nId = 10
+--pActivity.szName = "ÐÐÏÀÁî¶Ò»»½±Àø£¨³¤ÆÚ£©"
+--pActivity.nStartDate = nil
+--pActivity.nEndDate = nil
+--pActivity.szDescription = "nil"
+--pActivity.nGroupId = nil
+--pActivity.nVersion = nil

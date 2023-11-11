@@ -1,0 +1,3 @@
+MapId	PosX	PosY	Comment
+53	1626	3178	Ba L¨ng huyÖn
+20	3546	6226	Giang T©n Th«n

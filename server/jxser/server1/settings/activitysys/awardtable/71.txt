@@ -1,0 +1,15 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+71	Tiªn Th¶o Lé	{tbProp={6,1,71,1,0,0},}	1	1	632	17	
+71	Phóc Duyªn Lé (§¹i)	{tbProp={6,1,124,1,0,0},}	1	1	633	17	
+71	Tö thñy tinh	{tbProp={4,239,0,1,0,0},}	1	5	634	17	
+71	Lôc Thñy tinh	{tbProp={4,240,0,1,0,0},}	1	5	635	17	
+71	Lam thñy tinh	{tbProp={4,238,0,1,0,0},}	1	5	636	17	
+71	§¹i Lùc hoµn	{tbProp={6,0,3,1,0,0},}	1	5	637	17	
+71	Phi Tèc hoµn	{tbProp={6,0,6,1,0,0},}	1	7	638	17	
+71	Phóc Duyªn Lé (Trung)	{tbProp={6,1,123,1,0,0},}	1	3	639	17	
+71	Phóc Duyªn Lé (TiÓu)	{tbProp={6,1,122,1,0,0},}	1	6	640	17	
+71	Phi Phong	{tbProp={6, 1, 15, 1, 0, 0},}	1	8	641	17	
+71	Tèy Tñy Kinh	{tbProp={6, 1, 22, 1, 0, 0},}	1	1	642	17	
+71	Vâ l©m mËt tÞch	{tbProp={6, 1, 26, 1, 0, 0},}	1	1	643	17	
+71	Hoa Hång	{tbProp={6, 0, 20, 1, 0, 0},}	1	27	644	17	
+71	Ph¸o hoa	{tbProp={6, 0, 11, 1, 0, 0},}	1	25	645	17	

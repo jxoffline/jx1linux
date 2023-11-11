@@ -1,0 +1,1082 @@
+STT	Tr¶ lêi	C©u Hái		B	C	D
+1	A	Vâ l©m truyÒn kú ra m¾t hÖ thèng bang héi thêi gian nµo?	21-01-2008	18-01-2008	15-02-2008	19-02-2008
+2	A	MËt TÞch nµo gióp ta t¨ng ®iÓm tiÒm n¨ng?	TÈy Tñy Kinh	Vâ L©m MËt TÞch	Bµn Nh­îc T©m Kinh	ThiÕt La H¸n
+3	A	Tö Thñy Tinh cã chøc n¨ng g×?	N©ng CÊp Trang BÞ	Ma ThuËt Trang BÞ	§æi HÖ Trang BÞ	Kh«ng Cã Chøc N¨ng G×
+4	A	Ngùa Hoa L­[CÊp 9] ®­îc b¸n ë thµnh nµo?	D­¬ng Ch©u	Ph­îng T­êng 	Thµnh §«	T­¬ng D­¬ng
+5	A	Khi rót 10 ®iÓm phóc duyªn ë thÇn bÝ th­¬ng nh©n ta mÊt mÊy ®iÓm?	12	8	10	15
+6	A	Ngùa nµo sau ®©y cã "Tèc ®é di chuyÔn 40%"?	Ngäc Hoa Th«ng	B¹ch M·	¤ Chïy	LiÖt B¹ch M·
+7	A	Sau khi online mÊy giê th× ng­êi ch¬i míi nhËn ®­îc ®iÓm phóc duyªn?	2 giê	1 giê	4 giê	3 giê
+8	A	Mét ngµy cã thÓ ®¸nh mÊy trËn Tèng-Kim?	7	6	5	8
+9	A	D· TÈu cã tèi ®a bao nhiªu nhiÖm vô?	12	16	9	13
+10	A	Sinh nhËt vâ l©m vµo ngµy, th¸ng nµo?	15-6	24-12	14-6	15-7
+11	A	Cã bao nhiªu tr­êng ph¸i chuyªn vÒ kiÕm trong vâ l©m?	3	2	1	4
+12	A	NhiÖm vô Boss S¸t thñ "Liªn H×nh Th¸i" n»m ë map nµo?	Tr­êng B¹ch Nam	Tr­êng B¹ch B¾c 	Kháa Lang §éng	TiÕn Cóc §éng
+13	A	Muèn hîp thµnh s¸t thñ gi¶n tèn bao nhiªu s¸t thñ lÖnh?	5	4	7	9
+14	A	Trong phiªn b¶n Phong Háa Liªn Thµnh, 1 ngµy b¹n cã thÓ ®i mÊy lÇn "thö luyÖn s¸t thñ"?	2	5	3	4
+15	A	Tõ §¹i Lý b¹n cã thÓ ®i vµo n¬i tÝn sø nµo?	C¶ 3 n¬i	Phong K×	Më B¶o R­¬ng	S¬n ThÇn MiÕu
+16	A	Tam Hoa T¸n cã t¸c dông g×?	gi¶i ®éc	t¨ng néi lùc	t¨ng thÓ lùc	t¨ng sinh lùc
+17	A	Thõa Tiªn MËt cã t¸c dông g×?	t¨ng sinh lùc vµ néi lùc	t¨ng néi lùc	t¨ng thÓ lùc	t¨ng sinh lùc
+18	A	Cã bao nhiªu lo¹i d­îc hoµn PK?	10	8	6	3
+19	A	Long M«n TrÊn l­u r­¬ng ë thµnh nµo?	BiÖn Kinh	§¹i lý	T­¬ng D­¬ng	Thµnh §«
+20	A	§i xa phu tõ VÜnh L¹c TrÊn lªn Ph­îng T­êng tèn nhiªu l­îng?	100	300	200	500
+21	A	Ng­êi ch¬i trªn ®¼ng cÊp 25 nhËn s­ phô th× ®­îc goi lµ?	trùc hÖ ®Ö tö	phæ th«ng ®Ö tö	§Ých truyÒn ®Ö tö	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai
+22	A	Quû §Çu §ao lµ vò khÝ cÊp mÊy?	3	2	1	4
+23	A	V­¬ng ThiÕt T­îng lµ thî rÌn thµnh nµo?	BiÖn Kinh	L©m An	T­¬ng D­¬ng	§¹i Lý
+24	A	Muèn ®æi TÝn Sø LÖnh Bµi B¹c Tèn nhiªu ®iÓm tÝn sø?	450	350	400	300
+25	A	QuÕ Hoa Töu cã hiÖu lùc trong bao l©u?	1800s	1200s	3600s	2400s
+26	A	TrËn Tèng Kim thø t­ trong ngµy b¾t ®Çu lóc mÊy giê?	17h30	11h30	16h30	14h30
+27	A	Vâ l©m truyÒn kú cã tæng céng bao nhiªu th«n trÊn?	10	8	9	7
+28	A	Sinh nhËt vâ l©m truyÒn kú vµo th¸ng mÊy?	6	5	7	8
+29	A	Vâ l©m truyÒn kú cã tæng céng bao nhiªu D· TÈu?	15	16	10	20
+30	A	B¹n cÇn gÆp ai ®Ó kÕt b¸i kim lan?	TÜnh ®èc thiÒn s­	Vâ l©m truyÒn nh©n	NguyÖt l·o	Tõ V©n ph¸p s­
+31	A	ThiÕu L©m Tù täa l¹c ë ngän nói nµo?	ThiÕu thÊt	Tung s¬n	Th¸i s¬n	Thiªn s¬n
+32	A	Bang héi nµo ®o¹t h¹ng 4 ë gi¶i THDNB lÇn 1?	PhóHé (Thiªn S¬n)	TiÕuNg¹o (Cöu Giang)	TrgGiang (Tr­êngGiang)	HångH­ng (Kim S¬n)
+33	A	Bang héi nµo ®o¹t h¹ng 4 ë gi¶i THDNB lÇn 2?	PhóHé (Thiªn S¬n)	MaGi¸o (Ch©uGiang)	*** (Kh¸nh S¬n)	TrgGiang (Tr­êngGiang)
+34	A	Bang héi nµo ®o¹t h¹ng 2 ë gi¶i THDNB lÇn 1?	HångH­ng (Kim S¬n)	TiÒuNg¹o (Cöu Giang)	TrgGiang (Tr­êngGiang)	PhóHé (Thiªn S¬n)
+35	A	Bang héi nµo ®o¹t h¹ng 1 ë gi¶i THDNB lÇn 2?	*** (Kh¸nh S¬n)	MaGi¸o (Ch©uGiang)	PhóHé (Thiªn S¬n)	TrgGiang (Tr­êngGiang)
+36	A	Trong vâ l©m truyÒn kú bang héi nµo ®­îc lËp ra ®Çu tiªn?	Ph¸ Thiªn (Tung S¬n)	ViÖt kiÕm (Th¸i S¬n)	§«ng §« (Hoa S¬n)	Tiªu Diªu (Kim S¬n)
+37	A	Vâ l©m truyÒn kú cã tèi ®a bao nhiªu kªnh t¸n gÉu ?	8	6	4	10
+38	A	Bang héi nµo ®o¹t h¹ng 1 ë gi¶i THDNB lÇn 1?	TrgGiang-Tr­êngGiang	TiÒuNg¹o-Cöu Giang	HångH­ng-Kim S¬n	PhóHé-Thiªn S¬n
+39	A	Bang héi nµo ®o¹t h¹ng 2 ë gi¶i THDNB lÇn 2?	TamHoµng-Hµnh S¬n	MaGi¸o-Ch©uGiang	***-Kh¸nh S¬n	TrgGiang-Tr­êngGiang
+40	A	§iÓm danh väng cã bao nhiªu ®¼ng cÊp?	8	6	4	10
+41	A	Vâ l©m truyÒn kú cã bao nhiªu NPC Long Ngò?	8	7	9	10
+42	A	Vâ l©m truyÒn kú hiÖn t¹i cã bao nhiªu ph­¬ng thøc liªn ®Êu?	6	5	4	7
+43	A	T¨ng mét ®iÓm sinh khÝ cña hÖ Kim ®­îc bao nhiªu sinh lùc?	8	5	7	3
+44	A	T¨ng mét ®iÓm sinh khÝ cña hÖ Méc ®­îc bao nhiªu sinh lùc?	5	3	7	8
+45	A	T¨ng mét ®iÓm sinh khÝ cña hÖ Háa ®­îc bao nhiªu sinh lùc?	7	5	3	8
+46	A	T¨ng mét ®iÓm sinh khÝ cña hÖ thñy ®­îc bao nhiªu sinh lùc?	6	3	7	8
+47	A	T¨ng mét ®iÓm sinh khÝ cña hÖ thæ ®­îc bao nhiªu sinh lùc?	3	5	7	8
+48	A	¡n Thiªn S¬n TuyÕt Liªn sÏ ®­îc kho¶ng bao nhiªu ®iÓm kinh nghiÖm?	1,4 tû-1,5 tû	1,3 tû-1,4 tû	1,2 tû-1,3 tû	1,5 tû-1,6 tû
+49	A	§Ó cã ®­îc 2 cÆp s­ ®å th× 4 ng­êi cÇn Ýt nhÊt bao nhiªu S­ §å ThiÕp?	1	3	2	4
+50	A	Tæng sè boss tiÓu HK céng víi tæng sè m«n ph¸i toµn n÷ giíi b»ng bao nhiªu?	5	9	7	11
+51	A	Nh©n vËt ch­a tõng gÆp Ph¹n T¨ng, cÇn bao nhiªu viªn THBT vµ Thñy Tinh ®Ó lªn ®¶o tÈy tñy?	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai	6	3	9
+52	A	Cã bao nhiªu ph¸i cã thÓ cÇm ®ao?	10	8	6	4
+53	A	Phiªn b¶n S¬n Hµ X· T¾c ra m¾t trong thêi gian nµo?	30-3-2006	26-3-2006	2-4-2006	26-3-2008
+54	A	Cã bao nhiªu ph¸i b¾t buéc ph¶i xuèng ngùa míi xµi ®­îc chiªu 90?	5	4	9	10
+55	A	Nh÷ng vËt phÈm nµo sau ®©y kh«ng sö dông ®­îc trªn M¹c B¾c Th¶o Nguyªn?	T©m T©m T­¬ng ¸nh Phï	Tèng Kim Chiªu Th­	S­ §å ThiÕp	B¹ch C©u Hoµn
+56	A	KiÕn TÝnh Phong S¬n ®éng l­u r­¬ng ë ®©u ®Ó trë l¹i ®Þa ®iÓm cò ®­îc?	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai	BiÖn Kinh	Ph­îng T­êng	Thµnh §«
+57	A	Tõ T­¬ng D­¬ng ®i xa phu qua BiÖn Kinh, råi tiÕp tôc ®i xa phu qua L©m An tèn bao nhiªu?	700 l­îng	800 l­îng	900 l­îng	1000 l­îng
+58	A	Mãn nµo ®­îc yªu cÇu trong nhiÖm vô giao kho¸ng?	L­îng Ng©n Kho¸ng	MËt Ng©n Kho¸ng	HuyÒn ThiÕt Kho¸ng	Chu Sa Kho¸ng
+59	A	§­êng Nghª Gi¸p b¸n shop ®­îc bao nhiªu l­îng?	6250 l­îng	6500 l­îng 	6750 l­îng	7000 l­îng
+60	A	Ph¸i nµo ph¶i ®i thuyÒn míi qua ®­îc?	Thiªn V­¬ng Bang	Nga My	§­êng M«n	C¸i Bang
+61	A	Háa §­êng ®­êng chñ cña Thiªn NhÉn Gi¸o lµ ai?	Ngét Ng¹o	Hoang Nhan TuyÕt Y	Gia LuËt TÞ Ly	§oan Méc DuÖ
+62	A	NPC cña ph¸i nµo cã ®øa con bÞ thÊt l¹c trªn Vâ §ang?	Ngò §éc	C«n Lu©n	Thóy Yªn	Vâ §ang
+63	A	Ai lµ ng­êi mµ thËp ®¹i m«n ph¸i ®Òu kÝnh phôc?	§éc Hå KiÕm	Tõ Nh©n Ph­¬ng Tr­îng	Thanh HiÓu S­ Th¸i	Yªn HiÓu Tr¸i
+64	A	Ai lµ ng­êi ng«ng cuång nhÊt?	TuyÒn C¬ Tö	§­êng Cõu	D­¬ng Anh	Hoµng Nhan Hïng LiÖt
+65	A	2 nh©n vËt lÇn ®Çu tiªn kÕt h«n sÏ nhËn ®­îc?	NhÉn	D©y chuyÒn	Ngäc béi	¸o
+66	A	Mang 1 bé Thiªn Hoµng kh«ng max ®­îc bao nhiªu may m¾n?	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai	36	27	45
+67	A	PK9 ra tï tèn bao nhiªu l­îng?	81 v¹n	54 v¹n	9 v¹n	18 v¹n
+68	A	Nh÷ng n¬i nµo sau ®©y b¸n c¸c lo¹i vËt phÈm mµ tÊt c¶ ®Òu sö dông ®­îc trªn Vi S¬n §¶o?	HiÖu thuèc	Thî RÌn	TiÖm t¹p hãa	Kh«ng ë n¬i nµo c¶
+69	A	Tõ 15h ®Õn hÕt ngµy cã bao nhiªu trËn Tèng Kim?	5	6	7	4
+70	A	Hoµn thµnh nhiÖm vô phô tuyÕn trong kho¶ng cÊp bao nhiªu sÏ ®­îc phÇn th­ëng Kim Phong Tr¹c Liªn Quang?	20-30	40-50	30-40	50-60
+71	A	Trong Tèng Kim, nh©n vËt khi chÕt cã bÞ mÊt tiÒn vµ ®iÓm kinh nghiÖm hay kh«ng?	Kh«ng	Cã		
+72	A	§Ó ®i Phong L¨ng §é ng­êi ch¬i cÇn nh÷ng vËt phÈm g×?	LÖnh bµi Phong L¨ng §é	300 tÊm MËt §å ThÇn BÝ	TÊt c¶ c©u tr¶ lêi ®Òu sai	100 v¹n l­îng
+73	A	§Ó ®i Vi S¬n §¶o nh©n vËt cÇn nh÷ng vËt phÈm g×?	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai	500 tÊm MËt §å ThÇn BÝ	LÖnh Bµi Phong L¨ng §é	200 v¹n l­îng
+74	A	Cã bao nhiªu thµnh b¸n ngùa Tóc S­¬ng?	2	1	3	4
+75	A	Trong Tèng Kim, khi b¹n ®­îc phong lµ HiÖu óy b¹n sÏ ®­îc tÆng nh÷ng g×?	Sinh lùc t¨ng 20%	Sinh lùc t¨ng 10%	Sinh lùc t¨ng 30%	Sinh lùc t¨ng 40%
+76	A	Trong Tèng Kim, khi b¹n ®­îc phong lµ Thèng LÜnh b¹n sÏ ®­îc tÆng nh÷ng g×?	TÊt c¶ ®Òu ®óng	Sinh lùc t¨ng 30%	Phßng thñ 5%	
+77	A	Trong Tèng Kim, khi b¹n ®­îc phong lµ Phã T­íng b¹n sÏ ®­îc tÆng nh÷ng g×?	TÊt c¶ ®Òu ®óng	Phßng thñ t¨ng 10%	Sinh lùc t¨ng 40%	
+78	A	KÕt thóc mét trËn Tèng Kim bªn th¾ng ®­îc bao nhiªu ®iÓm th­ëng?	1200 ®iÓm vµ 3 ®iÓm danh väng	1200 ®iÓm	600 ®iÓm	
+79	A	KÕt thóc mét trËn Tèng Kim bªn thua ®­îc bao nhiªu ®iÓm th­ëng?	600 ®iÓm	1000 ®iÓm	1200 ®iÓm vµ 3 ®iÓm danh väng	600 ®iÓm vµ 3 ®iÓm danh väng
+80	A	Ph¸i nµo cã tèc ®é ®¸nh nhanh nhÊt?	§­êng M«n	Thóy Yªn	Thiªn V­¬ng 	Vâ §ang
+81	A	Ph¸i nµo cã tèc ®é ®¸nh chËm nhÊt?	Thiªn V­¬ng 	Thóy Yªn	§­êng M«n	Vâ §ang
+82	A	Trong mét ngµy nh©n vËt cã thÓ lµm tèi ®a bao nhiªu nhiÖm vô D· TÈu?	40	50	60	70
+83	A	D· TÈu cã tèi ®a bao nhiªu nhiÖm vô?	8000	7000	6000	9000
+84	A	Chñ TiÒn Trang ë c¸c thµnh thÞ b¸n vËt phÈm g× (trõ L©m An)?	Bao l× x×	Phi Phong	¸o Mõng Tuæi	¸o Míi
+85	A	Chñ D­îc §iÕm t¹i c¸c thµnh thÞ b¸n bao nhiªu lo¹i thuèc?	17	16	15	18
+86	A	Cã bao nhiªu thµnh dïng ®Ó ngåi tï gi¶m PK?	2	1	3	4
+87	A	Mét bé Kim Phong gåm bao nhiªu mãn?	9	8	10	7
+88	A	§Ó ®i §¶o TÈy Tñy nh©n vËt cÇn nh÷ng vËt phÈm g×?	TÊt c¶ ®Òu ®óng	6 Tinh Hång B¶o Th¹ch	3 Thñy Tinh vµ 6 Tinh Hång B¶o Th¹ch	3 Thñy Tinh
+89	A	Cã bao nhiªu NPC ThÇn BÝ Th­¬ng Nh©n t¹i ThÊt ®¹i thµnh thÞ?	3	2	1	4
+90	A	Chøc n¨ng NPC C«ng B×nh Tö dïng ®Ó lµm g×?	L«i §µi	V­ît ¶i 	TÝn sø	Liªn ®Êu
+91	A	Cã thÓ ®æi ®iÓm tÝch lòy liªn ®Êu lÊy vËt phÈm t¹i NPC nµo?	Sø gi¶ liªn ®Êu (Nam)	Vâ L©m TruyÒn Nh©n	Sø gi¶ liªn ®Êu (N÷)	NhiÕp ThÝ TrÇn
+92	A	Cã mÊy m«n ph¸i kh«ng cã tèc ®é xuÊt chiªu trong trÊn ph¸i? 	4	3	5	6
+93	A	Ng­êi b¸n chiÕn m· ë Nam Nh¹c trÊn tªn lµ?	ThÈm C©u	Xa Phu	Th­¬ng nh©n thÇn bÝ	Sø gi¶ vâ l©m
+94	A	HuyÒn Gi¸c §¹i s­ khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	TÊt c¶ ®Òu ®óng	Thñy tinh	Tinh hång b¶o th¹ch	Phôc ma Tö Kim c«n
+95	A	Hµ Linh Phiªu khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	V« Ma tÈy t­îng ngäc khÊu	V« TrÇn Thanh T©m h­íng thiÖn ch©u	V« Gian û thiªn kiÕm	V« gian tÈy t­îng ngäc khÊu
+96	A	LiÔu Thanh Thanh khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	TÊt c¶ ®Òu ®óng	TÈy tñy kinh	Tö Thñy Tinh	Vâ L©m MËt tÞch
+97	A	§o¹n Méc DuÖ khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	Ma S¸t QuØ cèc u minh th­¬ng	CËp phong ch©n vò kiÕm	S­¬ng Tinh thiªn niªn hµn thiÕt	Tø kh«ng gi¸ng ma giíi ®ao
+98	A	Thanh TuyÖt S­ Th¸i khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	TÊt c¶ ®Òu ®óng	V« TrÇn Thanh T©m h­íng thiÖn ch©u	Nga My mËt tÞch	V« Gian û thiªn kiÕm
+99	A	DiÖu Nh­ lµ m«n ®Ö cña ph¸i nµo?	Nga My	Thóy Yªn	Vâ §ang	§­êng M«n
+100	A	§¹o Thanh Ch©n Nh©n khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	CËp phong tam thanh phï	CËp phong ch©n vò kiÕm	V« Gian û thiªn kiÕm	TÊt c¶ ®Òu ®óng
+101	A	Tr­¬ng T«ng ChÝnh lµ m«n ®Ö cña?	Vâ §ang	Nga My	thiÕu l©m	Thiªn v­¬ng bang 
+102	A	Gia LuËt TÞ Ly khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	Ma hoµng ¸n xuÊt hæ h¹ng khuyªn	Ma S¸t QuØ cèc u minh th­¬ng	CËp phong tam thanh phï	V« gian tÈy t­îng ngäc khÊu
+103	A	Yªn HiÓu Tr¸i  khi bÞ ®¸nh b¹i cã thÓ r¬i ra vËt phÈm?	Tª hoµng phông nghi ®ao	Tª hoµng b¨ng tung hé uyÓn	Nhu t×nh c©n quèc nghª th­êng	BÝch h¶i uyªn ­¬ng liªn hoµn ®ao
+104	A	Ch­ëng m«n Nga My lµ?	Thanh TuyÖt s­ th¸i	Chung Linh Tó	Hµ Linh Phiªu	DiÖu Nh­
+105	A	Ch­ëng m«n Vâ §ang lµ?	§¹o NhÊt ch©n nh©n	§¹o Thanh ch©n nh©n	Thanh H­ ch©n nh©n	Thanh V©n ®¹o tr­ëng
+106	A	M«n chñ §­êng m«n lµ?	§­êng cõu	§­êng Háa	§­êng BÊt nhiÔm	§­êng V©n
+107	A	Bang chñ Thiªn v­¬ng bang lµ?	D­¬ng Anh	V­¬ng T¸	Gia LuËt TÞ Ly	Hµ Linh Phiªu
+108	A	Ch­ëng m«n C«n L«n lµ?	TuyÒn C¬ Tö	§¹o Thanh Ch©n Nh©n	Thiªn C¬ Tö	Thanh Linh Tö
+109	A	Gi¸o chñ Ngò ®éc lµ?	H¾c DiÖn Lang Qu©n	§éc ThÝch	§«c DiÖn Lang Qu©n	Tang Chu
+110	A	Ph­¬ng tr­îng ThiÕu L©m?	HuyÒn Tõ §¹i s­	HuyÒn Gi¸c ®¹i s­	Tõ V©n Ph¸p S­	Tõ V©n §¹i S­
+111	A	Ch­ëng m«n Thóy Yªn lµ?	Do·n Hµm Yªn	Hoµn Nhan TuyÕt Y	Yªn HiÓu Tr¸i	Hµ Linh Phiªu
+112	A	Bang chñ C¸i bang lµ?	Hµ Nh©n Ng·	Cöu ChØ ThÇn C¸i	Hång Th«ng	M¹nh Th­¬ng L­¬ng
+113	A	Gi¸o chñ Thiªn nhÉn lµ?	Hoµng Nhan Hång LiÖt	Hoµng Nhan TuyÕt Y	Hoµng Nhan Khang	Hoµng Nhan A Cèt §¶
+114	A	Gi¸n ®iÖp Kim quèc ë T­¬ng D­¬ng lµ?	L­u UÈn cæ	B¹ch C«ng Tö	Ng« L·o th¸i	Kim Quèc vâ sÜ
+115	A	M¸y chñ nµo ®o¹t h¹ng 1 ë gi¶i THDNB lÇn 5	Ch©uGiang	Tr­êngGiang	Thiªn S¬n	Cöu Giang
+116	A	Dïng bao nhiªu ®iÓm tÝch lòy trong nhiÖm vô tÝn sø ®Ó ®æi lÊy Hång ¶nh Tô Chiªu?	50000	40000	60000	500000
+117	A	Dïng bao nhiªu ®iÓm tÝch lòy trong nhiÖm vô tÝn sø ®Ó ®æi lÊy Hång ¶nh Môc Tóc T­¬ng Vong?	70000	60000	50000	80000
+118	A	Dïng bao nhiªu ®iÓm tÝch lòy trong nhiÖm vô tÝn sø ®Ó ®æi lÊy Hång ¶nh KiÕm Qua T©y Ph­¬ng?	70000	50000	60000	40000
+119	A	Dïng bao nhiªu ®iÓm tÝch lòy trong nhiÖm vô tÝn sø ®Ó ®æi lÊy Hång ¶nh TrÇm Viªn V·n Tóy?	100000	10000	1000000	1000
+120	A	Trong tÝn sø, khi b¹n cã danh hiÖu lµ TÝn Sø-Méc th× th× b¹n cã thÓ mua ®­îc TÝn Sø lÖnh bµi nµo?	TÝn sø lÖnh bµi - Méc	TÝn sø lÖnh bµi - §ång	TÝn sø lÖnh bµi - B¹c	TÝn sø lÖnh bµi - Vµng
+121	A	Mçi tÝn sø yªu bµi ®­îc sù dông bao nhiªu lÇn?	5	3	4	2
+122	A	Ngù Tø tÝn sø lÖnh bµi Vµng khi sö dông phôc håi bao nhiªu ®iÓm ©m trong phÇn kh¸ng ngò hµnh?	30	20	10	40
+123	A	Trong hÖ thèng ngò hµnh t­¬ng sinh, th× hÖ Méc t¹o ra hÖ g× ?	Háa	Thñy 	Kim	Thæ
+124	A	Trong hÖ thèng ngò hµnh t­¬ng sinh, th× hÖ Háa t¹o ra hÖ g× ?	Thæ	Thñy 	Méc	Kim
+125	A	Trong hÖ thèng ngò hµnh t­¬ng sinh, th× hÖ Thæ t¹o ra hÖ g× ?	Kim	Thñy 	Háa	Méc
+126	A	Trong hÖ thèng ngò hµnh t­¬ng sinh, th× hÖ Kim t¹o ra hÖ g× ?	Thñy 	Méc	Háa	Thæ
+127	A	Trong hÖ thèng ngò hµnh t­¬ng sinh, th× hÖ Thñy t¹o ra hÖ g× ?	Méc	Kim	Háa	Thæ
+128	A	Trong phÇn trang bÞ, th× trang bÞ vò khÝ cã thÓ kÝch ®­îc trang bÞ nµo trªn ng­êi ?	Giµy - nhÉn trªn 	NhÉn d­íi - th¾t l­ng 	D©y chuyÒn - trang phôc	Ngäc béi - bao tay
+129	A	Trong phÇn trang bÞ, th× nhÉn d­íi ®­îc trang bÞ nµo kÝch thuéc tÝnh Èn?	Ngäc béi - bao tay	Giµy - nhÉn trªn 	Trang phôc - d©y chuyÒn	Mò - vò khÝ
+130	A	Trong hÖ thèng ngò hµnh, th× hÖ nµo kh«ng cã nh©n vËt Nam?	Thñy	Méc	Háa	Kim
+131	A	Trong hÖ thèng ngò hµnh, th× hÖ nµo kh«ng cã nh©n vËt N÷?	Kh«ng cã hÖ nµo	Kim 	Háa	Thæ 
+132	A	B¹n cÊp tõ 90-120, muèn tham gia thi liªn ®Êu th× ph¶i tíi NPC Sø Gi¶ Liªn §Êu thµnh nµo ®Ó b¸o danh?	BiÖn Kinh	T­¬ng D­¬ng 	Thµnh §«	L©m An
+133	A	B¹n tõ cÊp 120 trë lªn, muèn tham gia thi liªn ®Êu th× ph¶i tíi NPC Sø Gi¶ Liªn §Êu thµnh nµo ®Ó b¸o danh?	Thµnh §«	BiÖn Kinh	L©m An	§¹i Lý
+134	A	Ngåi tï bao l©u th× sÏ gi¶m ®­îc 1 PK?	2h	1h	30'	4h
+135	A	Theo giíi h¹n 5 giê ch¬I trong vâ l©m, th× 3 giê ®Çu tiªn ng­êi ch¬i ®­îc h­ëng bao nhiªu % ®iÓm kinh nghiÖm khi ®¸nh qu¸i?	100%	50%	150%	200%
+136	A	Theo c¸ch gäi cña nhiÒu ng­êi th× "cô ®å ChiÓu" ®­îc hiÓu lµ ai?	 NguyÔn §×nh ChiÓu	Lª V¨n ChiÓu	TrÇn §×nh ChiÓu	NguyÔn V¨n ChiÓu
+137	A	Con ng­êi ®Æt ch©n lªn mÆt tr¨ng lÇn ®Çu tiªn vµo n¨m nµo?	1969	1968	1970	1971
+138	A	Khæng Tö, ng­êi thÇy cña mäi thêi ®¹i sèng vµo thÕ kû nµo tr­íc c«ng nguyªn?	6	5	4	7
+139	A	N­íc ta cã bao nhiªu d©n téc?	54	52	50	56
+140	A	Liªn HiÖp Quèc ®­îc thµnh lËp vµo n¨m nµo?	1945	1941	1943	1939
+141	A	Cã bao nhiªu n­íc tham gia thµnh lËp Liªn HiÖp Quèc?	51	55	59	63
+142	A	§iÖn tho¹i ®­îc ph¸t minh vµo n¨m nµo?	1876	1886	1900	1976
+143	A	Pasteur ph¸t minh ra v¾c xin ngõa bÖnh d¹i vµo n¨m nµo?	1888	1878	1898	1908
+144	A	Hä ®Çu tiªn ë n­íc ta lµ g×?	Hång Bµng	TriÖu	Ng« 	D­¬ng 
+145	A	Cuéc ®Êu tranh ®ßi nhµ cÇm quyÒn Ph¸p th¶ cô Phan Béi Ch©u diÔn ra vµo n¨m nµo?	1919	1924	1929	1934
+146	A	Vua Quang Trung b¨ng hµ vµo n¨m nµo?	1799	1793	1805	1811
+147	A	Ai lµ ng­êi dêi ®« tõ Hoa L­ vÒ Th¨ng Long n¨m 1010?	Lý Th¸i Tæ	Lª Th¸i Tæ	Lý Nam §Õ	Lý Th­êng KiÖt
+148	A	Kú quan nµo kh«ng n»m trong 7 kú quan ThÕ Giíi cæ ®¹i?	V¹n Lý Tr­êng Thµnh	Khu l¨ng mé Giza	H¶i ®¨ng Alexandria	TÊt c¶ c©u tr¶ lêi trªn ®Òu sai
+149	A	C©n ®­îc ph¸t minh ®Çu tiªn bëi c­ d©n cña n­íc nµo?	Ai cËp	Trung Quèc	Ên ®é	ViÖt cæ
+150	A	V¨n MiÕu, tr­êng ®¹i häc ®Çu tiªn cña ViÖt Nam, ®­îc x©y dùng d­íi triÒu ®¹i nµo?	Nhµ Lý	Nhµ TrÇn	Nhµ Ng«	Nhµ NguyÔn
+151	A	ViÖt Nam trë thµnh thµnh viªn cña Liªn Hîp Quèc n¨m nµo?	1977	1970	1963	1984
+152	A	§Êt n­íc nµo lµ quª h­¬ng cña «ng giµ Noel?	PhÇn Lan	Thôy §iÓn	Mü	Anh
+153	A	Thñ ®« n­íc nµo l©u ®êi nhÊt §«ng Nam ¸?	Hµ Néi - ViÖt Nam	Bangkok - Th¸i Lan	Viªn Ch¨n - Lµo	Phnom Penh - Campuchia
+154	A	HuÊn luyÖn viªn Alex Feguson cña Mu cã t­íc hiÖu g×?	HiÖp sÜ	B¸ t­íc	T­íng qu©n	§¹i t­íng
+155	A	ViÖt Nam v« ®Þch AFF cup n¨m nµo?	2008	2005	1998	2009
+156	A	BiÓu t­îng N÷ thÇn tù do lµ cña n­íc nµo?	Mü	Ph¸p	Anh 	NhËt
+157	A	N­íc nµo cã h×nh chiÕc ñng?	Italia	Ph¸p	Chi Lª	Trung Quèc
+158	A	Ngµy thµnh lËp ®¶ng céng s¶n ViÖt Nam?	Ngµy 3 th¸ng 2	Ngµy 30 th¸ng 4	Ngµy 2 th¸ng 9	Ngµy 8 th¸ng 3
+159	A	§¬n vÞ tiÒn tÖ cña Italia?	Euro	Róp	Yªn	TÖ
+160	A	§Ønh nói nµo cao nhÊt thÕ giíi?	Everest	Phanxiphang	Makalu	K2
+161	A	Sao Kim Venus t­îng tr­ng cho vÞ thÇn nµo?	T×nh yªu	ChiÕn tranh	Hßa b×nh	BiÓn c¶
+162	A	Ng«i sao 5 c¸nh trªn quèc k× c¸c quèc gia t­îng tr­ng cho c¸i g× ?	5 ch©u lôc	5 quèc gia	5 hµnh tinh	5 ng«i sao
+163	A	H×nh trßn mµu ®á trªn l¸ cê cña NhËt B¶n t­îng tr­ng cho c¸i g×?	MÆt trêi	MÆt tr¨ng	Tr¸i ®Êt	Sao háa
+164	A	Rõng nµo cã biªn giíi tù nhiªn tr¶i dµi ®Õn 9 quèc gia?	Amazon	Cóc ph­¬ng	Fontainebleau	§ray S¸p 
+165	A	Loµi c©y nµo biÓu t­îng cho søc m¹nh cña Ch©u Phi?	Bao b¸p	Lim	Th«ng	X­¬ng rång
+166	A	Con s«ng nµo lín nhÊt Ch©u ¸?	Mª K«ng	Gange	S«ng Hång	D­¬ng tö
+167	A	§éi tuyÓn bãng ®¸ nam Brazil v« ®Þch thÕ giíi mÊy lÇn?	5	4	3	6
+168	A	N­íc Mü cã bao nhiªu bang?	50	49	48	51
+169	A	DTH lµ dÞch vô g×?	TruyÒn h×nh sè vÖ tinh 	TruyÒn h×nh sè	TruyÒn h×nh m¹ng	TruyÒn h×nh c¸p
+170	A	¢m thanh kh«ng truyÒn ®i ®­îc trong m«i tr­êng nµo?	Ch©n kh«ng	ChÊt láng	ChÊt khÝ	ChÊt r¾n
+171	A	Ng­êi ta th­êng nãi ngang nh­...?	Cua	Ngçng	GhÑ	Heo
+172	A	§iÒn vµo c©u sau: "L¬ ng¬ nh­ ... ®éi nãn" ?	Bß	Gµ	KhØ	MÌo
+173	A	ë b¾c cùc cã bao nhiu loµi chim c¸nh côt?	0	1	2	3
+174	A	Dông cô ®o th©n nhiÖt lµ g×?	NhiÖt kÕ	Ampe KÕ	¸p kÕ	V«n kÕ
+175	A	TØnh nµo sau ®©y ë miÒn b¾c n­íc ta?	H¶i D­¬ng	B×nh D­¬ng 	Binh ThuËn	B×nh §Þnh
+176	A	B¸o nµo chuyªn vÒ c«ng nghÖ th«ng tin?	Echip	Tuæi trÎ	Hoa häc trß	Mùc tÝm
+177	A	"Dictionary" trong tiÕng Anh nghÜa lµ g×?	Tõ ®iÓn	QuyÓn nhËt kÝ	KÝ tù	TËp giÊy tr¾ng
+178	A	Quèc gia nµo cã liªn hoan film Cannes?	Ph¸p	§øc	ý	MÜ 
+179	A	Website ®æi mËt khÈu cña VNG lµ g×?	id.zing.vn	zing.vn	pay.zing.vn	me.zing.vn
+180	A	M«n thÓ thao nµo mµ 6 game sÏ kÕt thóc 1 set?	Tennis	Baseball	Soccer	Basketball
+181	A	Quèc gia nµo ®«ng d©n nhÊt thÕ giíi?	Trung Quèc	Ên §é	MÜ 	Nga
+182	A	Quèc gia nµo tÆng n­íc MÜ t­îng "N÷ thÇn tù do"?	Ph¸p	Anh	ý	Canada
+183	A	Mét bé cê vua cã bao nhiu lo¹i qu©n?	6	5	4	7
+184	A	Vµo mïa nµo th× tr¸i ®Êt gÇn mÆt trêi nhÊt?	H¹	Xu©n	Thu	§«ng
+185	A	C¸i g× lín nhÊt d­íi ®©y?	Lôc §Þa	§¶o	Ch©u Lôc	VÞnh
+186	A	Vßng chung kÕt WorldCup 1994 quèc gia nµo ®¹t h¹ng ba ?	Thôy §iÓn	§øc	T©y Ban Nha	Hµ Lan
+187	A	Sea Game 25 sÏ tæ chøc ë quèc gia nµo ?	Lµo	In®«nªsia	Th¸i Lan	Malaysia
+188	A	KÕt thóc Sea Game 24 ®oµn ViÖt Nam ®¹t bao nhiªu HCV?	64	62	63	61
+189	A	ThÕ vËn héi Olympic 2012 diÔn ra t¹i quèc gia nµo?	Anh	Ph¸p	§øc	T©y Ban Nha
+190	A	TrÇn HiÕu Ng©n lµ V§V m«n thÓ thao nµo?	Taekwondo	Karate	Judo	Bãng bµn
+191	A	NguyÔn TiÕn Minh lµ V§V m«n thÓ thao nµo?	CÇu l«ng	Bãng bµn	Bida	Bãng ®¸
+192	A	Vßng chung kÕt Euro 2004 ®éi nµo ®¹t danh hiÖu v« ®Þch?	Hy L¹p	Bå §µo Nha	ý	T©y Ban Nha
+193	A	Lª C«ng Vinh ®¹t bao nhiªu danh hiÖu Qu¶ Bãng Vµng VN?	3	2	4	5
+194	A	Vßng chung kÕt Euro 2008 ®éi nµo ®¹t danh hiÖu v« ®Þch?	T©y Ban Nha	Bå §µo Nha	ý	Hy L¹p
+195	A	CLB bãng ®¸ nµo ®¹t danh hiÖu v« ®Þch cup C1 Ch©u ¢u nhiÒu nhÊt?	Real Madrid	Liverpool	AC Milan	Bayer Munich
+196	A	CÇu Mü ThuËn ®­îc b¾c qua con s«ng nµo cña ViÖt Nam?	S«ng TiÒn	S«ng HËu	S«ng §µ	S«ng H­¬ng
+197	A	§éi tuyÓn bãng ®¸ nam Th¸i Lan bao nhiªu lÇn v« ®Þch c¸c kú Sea Game?	8	7	9	10
+198	A	Thñ ®« Cana®a tªn g×?	Ottawa	Toronto	Habana	Madrid
+199	A	Ai ®¹t danh hiÖu qu¶ bãng vµng ViÖt Nam n¨m 2009?	D­¬ng Hång S¬n	Vò Nh­ Thµnh	Lª C«ng Vinh	Phan V¨n Tµi Em
+200	A	GiÕng n­íc lín nhÊt ViÖt Nam n»m ë ®©u?	Ninh B×nh	Hµ Néi	B×nh D­¬ng	Hµ T©y
+201	A	Tªn cña anh hïng NguyÔn HuÖ lóc nhá lµ?	Hå Th¬m	Kh¾c Nhi	TiÓu Minh	Du Thiªn
+202	A	§êi vua nµo cã chøc L¹c HÇu?	Hïng V­¬ng	An D­¬ng V­¬ng	§inh Bé LÜnh	Lý Nam §Õ
+203	A	TruyÒn thuyÕt vÒ Tø BÊt Tö cña ViÖt Nam gåm: T¶n Viªn (S¬n Tinh - Thñy Tinh), Chö §ång Tö, LiÔu H¹nh. Ng­êi cßn l¹i lµ ai?	Th¸nh Giãng	Tr¹ng VËt	Sä Dõa	Tr¹ng Quúnh
+204	A	V¹n Th¾ng V­¬ng lµ biÖt hiÖu cña vÞ t­íng qu©n nµo ?	§inh Bé LÜnh	TrÇn L·m	Ng« QuyÒn	D­¬ng §×nh NghÖ
+205	A	Nhµ §inh ®óc tiÒn lÇn ®Çu tiªn trong lÞch sö n­íc ViÖt, ®ång tiÒn ®ã mang tªn g× ?	Th¸i B×nh H­ng B¶o	ThiÖu Phong Th«ng B¶o	VÜnh ThÞnh Th«ng B¶o	Thiªn Phóc TrÊn B¶o
+206	A	B¸nh Kho¸i lµ ®Æc s¶n cña miÒn nµo?	MiÒn B¾c	MiÒn Trung	C¶ ba miÒn	MiÒn Nam
+207	A	Giß Heo Gi¶ CÇy th­êng ®­îc ng­êi miÒn nµo ­a chuéng?	MiÒn Nam	MiÒn Trung	MiÒn B¾c	C¶ ba miÒn
+208	A	Bón Su«ng, mét mãn ¨n ®Æc s¾c cã t«m gi· nhuyÔn, thÞt cua cã xuÊt xø tõ miÒn nµo?	MiÒn Nam	MiÒn B¾c	MiÒn Trung	C¶ ba miÒn
+209	A	Cµ ph¸o, m¾m t«m th­êng ®­îc ng­êi d©n miÒn nµo ­a chuéng?	MiÒn B¾c	MiÒn Trung	MiÒn Nam	C¶ ba miÒn
+210	A	Trong c¸c mãn ¨n d©n d·, Gái Søa lµ mãn ¨n "®éc ®¸o" ®Ó thiÕt ®·i b»ng h÷u cña ng­êi d©n n¬i nµo sau ®©y?	Tuy Hßa	Vòng Tµu	Mòi NÐ	Phan ThiÕt
+211	A	 Ba KhÝa, mét ®Æc s¶n cña vïng BiÓn miÒn Nam, næi tiÕng nhÊt lµ ë ®©u?	R¹ch Gèc 	CÇn Th¬	Long An	TiÒn Giang
+212	A	Ch¶ R­¬i cã nguån gèc xuÊt xø tõ miÒn nµo?	MiÒn B¾c	MiÒn Trung	MiÒn Nam	C¶ ba miÒn
+213	A	Bón Thang lµ ®Æc s¶n cña n¬i nµo?	Hµ Néi	Phan ThiÕt	CÇn Th¬	HuÕ
+214	A	C¬m hÕn lµ ®Æc s¶n cña n¬i nµo?	HuÕ	Qu¶ng Ninh 	H¶i Phßng	Hµ Néi
+215	A	Bón mùc V¹n Ninh lµ ®Æc s¶n n¬i nµo?	Nha Trang	H¶i Phßng	HuÕ	Hµ Néi
+216	A	Mãn M× Qu¶ng lµ ®Æc s¶n cña n¬i nµo?	Qu¶ng Nam	Hµ Néi	Qu¶ng Ninh 	Tuy Hßa
+217	A	B¸nh tæ lµ mét trong bèn lo¹i b¸nh truyÒn thèng cña ng­êi d©n n¬i nµo?	Qu¶ng Nam	Tuy Hßa	Hµ Néi	Qu¶ng Ninh 
+218	A	Bón Bß lµ ®Æc s¶n cña miÒn nµo?	MiÒn Trung	MiÒn Nam	MiÒn B¾c	C¶ ba miÒn
+219	A	Chî næi lµ ®Æc tr­ng cña n¬i nµo?	MiÒn Nam	MiÒn Trung	MiÒn B¾c	C¶ ba miÒn
+220	A	Hµng n¨m nh»m vµo th¸ng 3 kh¸ch thËp ph­¬ng vÒ Nam §Þnh ®Ó tham dù lÔ héi nµo?	Phñ DÇy	§Òn Hïng	Nghinh ¤ng	Giç tæ
+221	A	ë Cao B»ng, h»ng n¨m vµo ngµy 22 th¸ng 3 cã lÔ héi vÒ MÑ Tr¨ng vµ m­êi hai nµng tiªn - con cña MÑ Tr¨ng. §ã lµ lÔ héi g×? 	Nµng Hai	Nghinh ¤ng	§Òn Hïng	Giç tæ
+222	A	H¶i Th­îng L·n ¤ng lµ tªn hiÖu cña bËc danh nh©n nµo?	Lª H÷u Tr¸c	Lª Quý §«n	Lª V¨n H­u	NguyÔn KhuyÕn
+223	A	Hä em cïng víi hä ng­êi, Tªn em cïng loµi ë chèn bïn s©u. Lµ vËt g×?	§inh èc	§inh	èc	èc ®inh
+224	A	Bèn bªn bèn bøc t­êng cao, LÝnh ®¸nh µo µo, t­íng vÉn n»m yªn. Lµ vËt dông g×?	C¸i mïng	C¸i ch¨n	C¸i gèi	C¸i gi­êng
+225	A	Mßn l­ng kÎ x¸t ng­êi chµ, C¸nh ®©u mµ b¶o ta bay lªn trêi? Lµ c¸i g×?	C¸i bay	C¸i xÎng	C¸i cuèc	C¸i bóa
+226	A	Kh«ng tay kh«ng ch©n kh«ng m¾t kh«ng mòi, MiÖng ­ít rÇn rÇn, bß ®i lñi nhñi. Lµ con g×?	Con giun	Con mÌo	Con chim	Con c¸
+227	A	Võa b»ng h¹t l¹c, trong n¹c ngoµi x­¬ng. Lµ con g×?	Con èc	Con mÌo	Con c¸	Con giun
+228	A	N¨m «ng cÇm hai c©y sµo, Lïa ®µn tr©u tr¾ng th¼ng vµo trong hang. Dïng ®Ó chØ viÖc g×?	¡n c¬m	Uèng n­íc	¡n canh	¡n chay
+229	A	B»ng mét b­íc mµ b­íc kh«ng qua. Lµ c¸i g×?	C¸i bãng	C¸i b¶ng	C¸i bµn	C¸i s¶i tay
+230	A	Con cua t¸m c¼ng 2 cµng, Bß qua bß l¹i hái bß mÊy ch©n?	4 ch©n	2 ch©n	6 ch©n	8 ch©n
+231	A	B¾c thang lªn h¸t ph­êng chÌo, Hái thang mét nÊc mµ leo nçi g×? Lµ ch÷ g×?	Ch÷ H	Ch÷ A	Ch÷ D	Ch÷ P
+232	A	X©y thµnh ®¾p luü trªn non, H¸i hoa nuèt nhuþ nu«i con th¸ng ngµy? Lµ con g×?	Con ong	Con b­ím	Con gµ	Con cuèc
+233	A	Måm bß nh­ng kh«ng ph¶i måm bß mµ lµ måm bß. Lµ con g×?	Con èc sªn	Con kiÕn	Con rïa	Con ngan
+234	A	Trong lÔ héi ®ua thuyÒn truyÒn thèng n­íc ta, lo¹i thuyÒn nµo th­êng ®­îc nh©n d©n sö dông?	ThuyÒn rång	Ghe ngo	ThuyÒn thóng	Ghe bÇu
+235	A	Tôc mõng nhµ míi ë ViÖt Nam gäi lµ g×?	T©n gia	T©n niªn gia	T©n kú	T©n quý
+236	A	ë c¸c gia ®×nh cã cha mÑ giµ ®Õn b¶y t¸m m­¬i tuæi, nhµ phóc léc dåi dµo, ®«ng con c¸i, th× lµm lÔ mõng thä cha mÑ. LÔ ®ã gäi lµ g×?	Th­îng thä	Mõng thä	§¹i thä	Mõng tuæi
+237	A	Dï ai ®i ng­îc vÒ xu«i, Nhí ngµy giç tæ mïng m­êi th¸ng ba. 2 c©u th¬ ®ã nãi vÒ ngµy héi g× ë n­íc ta.?	Giç tæ Hïng V­¬ng	Giç tæ	Giç tæ tiªn	Giç «ng bµ
+238	A	Lµng gèm B¸t Trµng, lµng gèm næi tiÕng cña n­íc ta thuéc huyÖn nµo cña Hµ Néi?	Gia L©m	Tõ Liªm	§«ng Anh	Thanh Tr×
+239	A	C¬m lam lµ mãn Èm thùc ®Æc s¾c cña c¸c d©n téc n¬i nµo ë n­íc ta?	T©y B¾c Bé	§«ng B¾c Bé	T©y Nam Bé	§«ng Nam Bé
+240	A	N÷ sinh §ång Kh¸nh xø HuÕ næi tiÕng bëi tµ ¸o dµi th­ít tha cã mµu s¾c?	TÝm	Hång	Lam	Tr¾ng
+241	A	Trong tµ ¸o dµi truyÒn thèng cña phô n÷ ViÖt Nam, hµng nót ®­îc kÕt t¹i ®©u?	Bªn ph¶i tõ cæ xuèng eo	Bªn tr¸i tõ cæ xuèng eo	Sau l­ng	Kh«ng cÇn cµi nót
+242	A	Nhµ sö häc ®Çu tiªn cña ViÖt Nam lµ?	Lª V¨n H­u	NguyÔn HiÒn	Phan Phu Tiªn	Ng« SÜ Liªn
+243	A	Cuèn "§¹i ViÖt Sö Ký Toµn Th­" do ai so¹n th¶o?	Ng« SÜ Liªn	Phan Phu Tiªn	Lª V¨n H­u	Ph¹m C«ng Trø
+244	A	Thêi nhµ TrÇn, ai ®­îc phong tÆng lµ "L­ìng Quèc Tr¹ng Nguyªn" ?	M¹c §Ünh Chi	NguyÔn Trùc	NguyÔn §¨ng §¹o	Phïng Kh¾c Khoan
+245	A	Tr¹ng nguyªn trÎ nhÊt trong lÞch sö ViÖt Nam lµ ai?	NguyÔn HiÒn	L­¬ng ThÕ Vinh	M¹c §Ünh Chi	NguyÔn Trùc
+246	A	Ai ®­îc d©n gian phong tÆng danh hiÖu Tr¹ng L­êng ?	L­¬ng ThÕ Vinh	Phïng Kh¾c Khoan	NguyÔn HiÒn	M¹c §Ønh Chi
+247	A	Ai ®­îc d©n gian phong tÆng danh hiÖu Tr¹ng Bïng ?	Phïng Kh¾c Khoan	NguyÔn HiÒn	L­¬ng ThÕ Vinh	M¹c §Ønh Chi
+248	A	Ai l·nh ®¹o nghÜa qu©n Lam S¬n khëi nghÜa dµnh th¾ng lîi?	Lª Lîi	TrÇn C¶nh	Lª Hoµn	TrÇn H­ng §¹o
+249	A	Ai th¶o ¸ng v¨n bÊt hñ "B×nh Ng« §¹i C¸o"?	NguyÔn Tr·i	Lª V¨n H­u	TrÇn Th¸nh T«ng	NguyÔn HiÒn
+250	A	B¹ch V©n C­ SÜ lµ tªn hiÖu cña nhµ th¬ nµo?	NguyÔn BØnh Khiªm	NguyÔn Tr·i	Lª Th¸nh T«ng	NguyÔn Du
+251	A	L¸ cê thªu 6 ch÷ vµng "Ph¸ C­êng §Þch, B¸o Hoµng ¢n" g¾n víi tªn tuæi cña vÞ anh hïng thiÕu niªn nµo?	TrÇn Quèc To¶n	NguyÔn Trung Trùc	TrÇn Quèc TuÊn	M¹c §Ünh Chi
+252	A	TiÒn giÊy ®Çu tiªn ®­îc söu dông g¾n víi triÒu ®¹i cña vÞ vua nµo?	Hå Quý Ly	TrÇn Th¸nh T«ng	Lª Th¸nh T«ng	Lª Lîi
+253	A	VÞ tæ nghÒ in cña n­íc ta lµ?	L­¬ng Nh÷ Häc	NguyÔn XÝ	Ng« SÜ Liªn	NguyÔn ChÝch
+254	A	Nh©n vËt kiÖt xuÊt cña thÕ kû XV ®­îc UNESCO phong lµ danh nh©n v¨n hãa thÕ giíi?	NguyÔn Tr·i	NguyÔn Du	Hå Xu©n H­¬ng	NguyÔn §×nh ChiÓu
+255	A	Thµ r»ng ¨n nöa qu¶ hång, Cßn h¬n ¨n c¶ chïm ...ch¸t lÌ.	Sung	SÊu	Cãc	Xoµi
+256	A	Nãi chÝn th× nªn lµm m­êi, Nãi m­êi lµm ... kÎ c­êi ng­êi chª.	ChÝn	T¸m	Mét	N¨m
+257	A	ThÕ gian ch¼ng Ýt th× nhiÒu, Kh«ng ... ai dÔ ®Æt ®iÒu cho ai .	D­ng	Th×	LÏ 	T­
+258	A	Th¸ng ... heo m©y, Chuån chuån bay th× b·o.	B¶y	chÝn	M­êi	T¸m
+259	A	Bao giê cho ®Õn th¸ng ... , Hoa g¹o rông xuèng, bµ giµ cÊt ch¨n .	Ba	N¨m	Hai	T­
+260	A	ë ®êi mu«n sù cöa trïng, H¬n nhau hai tiÕng anh ... mµ th«i.	Hïng	KiÖt 	TuÊn	Tµi 
+261	A	N­íc gi÷a dßng chª trong, chª ®ôc, Vòng ...®Çm h× hôc khen ngon	Tr©u	Voi	Chã 	N­íc
+262	A	C¸i bèng ®i chî cÇu Canh, C¸i t«m ®i tr­íc, cñ ... ®i sau. Con cua lËt ®Ët theo hÇu, C¸i chµy r¬i xuèng vì ®Çu con cua.	Hµnh	N¨ng	Tái	S¾n
+263	A	Nùc c­êi ch©u chÊu ®¸ ..., T­ëng r»ng chÊu n¸t, ai dÌ ... nghiªng.	Xe	Lon	Nhau	Voi
+264	A	Trªn trêi cã ®¸m m©y xanh, ë gi÷a m©y tr¾ng chung quanh m©y vµng. ¦íc g× anh lÊy ®­îc nµng, Th× anh mua g¹ch ... vÒ x©y.	B¸t Trµng	§ång T©m	VÜnh Long	Long An
+265	A	Rñ nhau xuèng bÓ mß cua, §em vÒ nÊu qu¶ ... chua trªn rõng.	M¬	Chanh	ít	Me
+266	A	TrÌo lªn c©y b­ëi h¸i hoa, B­íc xuèng v­ên cµ h¸i ... tÇm xu©n.	Nô	Nhµnh	L¸	Nhuþ
+267	A	§­êng v« xø ... quanh quanh, Non xanh n­íc biÕc nh­ tranh häa ®å.	NghÖ	HuÕ	B¾c	Nam
+268	A	... ¬i th­¬ng lÊy bÝ cïng, Tuy r»ng kh¸c gièng nh­ng chung mét giµn.	BÇu	Võng	BÝ	M¨ng
+269	A	Kh«n cho ng­êi b¸i, D¹i cho ng­êi th­¬ng. Dë dë ... ..., Tæ cho ng­êi ghÐt.	­¬ng ­¬ng	ung ung	thiu thiu	chi chi
+270	A	§ªm khuya thiÕp míi hái chµng:  ... xanh ¨n víi trÇu vµng xøng ch¨ng? 	Cau	C©y	TrÇu	L¸
+271	A	Chim ... ¨n tr¸i nh·n lång, Thia thia quen chËu, vî chång quen h¬i.	Quyªn	ChÝch choÌ	SÏ	S¸o
+272	A	Vî chång lµ nghÜa tao khang, Xuèng khe b¾t èc lªn ngµn h¸i ... 	Rau	M¨ng	Thuèc	Hoa
+273	A	Lªnh ®ªnh mét chiÕc thuyÒn t×nh, M­êi ... bÕn n­íc biÕt göi m×nh vµo ®©u ? 	Hai	Mét	L¨m	Ba
+274	A	Con g× ë c¹nh bê ao? ChÆt ®u«i chÆt ®Çu bay vót lªn cao. Lµ con g×?	Con Cãc	Con C¸	Con B­ím	Con Chuån chuån
+275	A	Hai c« n»m nghØ hai phßng, Ngµy th× më cöa ra tr«ng, §ªm th× ®ãng cöa lÊp trong ra ngoµi. Lµ bé phËn nµo trªn c¬ thÓ?	§«i m¾t	Mòi	Tai	Tay
+276	A	Trªn hang ®¸, d­íi hang ®¸, Gi÷a cã con c¸ thên b¬n. Lµ bé phËn nµo trªn c¬ thÓ?	MiÖng	M¾t	Mòi	Tai
+277	A	Trßn trßn nh­ lµ c¸i t«, Vôc miÖng vµo hå ®Çu ­ít ®u«i kh«.Lµ c¸i g×?	C¸i g¸o dõa	ChiÕc l¸	C©y cñi	Thanh tre
+278	A	Ch©n em ®o ®á, m×nh em vµng vµng, Kh¾p xãm cïng lµng, ai còng kÝnh d©ng? Lµ c©y g×?	C©y nhang	C©y chæi	C©y t¨m	Rau mång t¬i
+279	A	Mét vòng n­íc vµng, con r¾n bß ngang, c¸i ®Çu ®á chãt? Lµ c¸i g×?	C©y ®Ìn dÇu	Lß than	Que diªm	C©y nÕn
+280	A	Anh ngåi ®©u, em còng ngåi chÇu, Anh yªu em, anh mím quÕt trÇu cho em. Lµ c¸i g×?	C¸i cèi - C¸i chÇy	C¸i cèi - §«i ®òa	B¸t ¨n c¬m - C¸i muçng	§«i ®òa - B¸t ¨n c¬m
+281	A	Ba chôc cïng ë mét lång, Mét chôc cã mång, hai chôc th× kh«ng. Lµ c¸i g×?	Mét th¸ng 30 ngµy	Mét th¸ng 31 ngµy	Mét n¨m	Mét th¸ng 28 ngµy
+282	A	Hoa g× hÑn ®Õn ngµy sau, Hoa g× l¹i mäc trªn ®Çu hïng kª? Lµ cÆp hoa nµo?	Hoa Mai - Hoa Mµo gµ	Hoa §µo - Hoa Cóc	Hoa Mai - Hoa Cóc	Hoa Sóng - Hoa Sen
+283	A	Hoa g× nghe tiÕng mµ ghª, Hoa g× s¾c tr¾ng cËn kÒ ¬n trªn. Lµ cÆp hoa nµo?	Hoa Sóng - Hoa HuÖ	Hoa Sóng - Hoa Sen	Hoa Mai - Hoa Cóc	Hoa Sóng - Hoa Lµi
+284	A	Hoa g× th¬m ng¸t vÒ ®ªm, Hoa g× sèng c¹nh bïn phÌn kh«ng d¬? Lµ cÆp hoa nµo?	Hoa Quúnh - Hoa Sen	Hoa Quúnh - Hoa §µo	Hoa Sen - Hoa Lµi	Hoa Quúnh - Hoa Cóc
+285	A	Hoa g× nhiÒu tuæi ®Ó thê, Hoa g× b¸o hiÖu ®Õn giê thu sang? Lµ cÆp hoa nµo?	Hoa V¹n thä - Hoa Cóc	Hoa Cóc - Hoa Lµi	Hoa V¹n Thä - Hoa Mai	Hoa mai - Hoa Mµo gµ
+286	A	Hoa g× sím në tèi tµn, Hoa g× ®­îc s¸nh vµo hµng t«n v­¬ng? Lµ cÆp hoa nµo?	Hoa Phï Dung - Hoa MÉu §¬n	Hoa MÉu §¬n - Hoa Lµi	Hoa Phï Dung - Hoa Cóc	Hoa Lµi - Hoa Cóc 
+287	A	Hoa g× e thÑn bªn ®­êng, Hoa g× hÌ ®Õn th× th­êng tèt t­¬i? Lµ cÆp hoa nµo?	Hoa M¾c Cì - Hoa Ph­îng	Hoa Ph­îng - Hoa Cóc	Hoa M¾c Cì - Hoa Sóng	Hoa M¾c Cì - Hoa M­êi Giê
+288	A	Hoa g× theo ¸nh mÆt trêi, Hoa g× xinh ®Ñp ®ång thêi l¾m gai? Lµ cÆp hoa nµo?	Hoa H­íng D­¬ng - Hoa Hång	Hoa H­íng D­¬ng - Hoa Lµi	Hoa Hång - Hoa Sen	Hoa Hång - Hoa H­íng D­¬ng
+289	A	Hoa g× mu«n dÆm ®­êng dµi, Hoa g× th¬m ng¸t s¸nh tµi m«i em? Lµ cÆp hoa g×?	Hoa Thiªn Lý - Hoa Hµm TiÕu	Hoa Hµm TiÕu - Hoa Hång	Hoa Thiªn Lý - Hoa Hång	Hoa Thiªn Lý - Hoa Quúnh
+290	A	Kh«ng s¬n mµ ®á, Kh«ng gâ mµ kªu? Lµ c¸i g× trong tù nhiªn?	MÆt trêi - TiÕng SÊm	MÆt tr¨ng - MÆt trêi	TiÕng SÊm - MÆt tr¨ng	MÆt trêi - MÆt tr¨ng
+291	A	Kh«ng c¸nh mµ bay míi l¹ ®êi, Khi th× v­ît bÓ, lóc qua kh¬i? Lµ hiÖn t­îng nµo trong tù nhiªn?	Giã	M­a	Lò	B·o
+292	A	B¸n KÝnh Tr¸i §Êt b»ng bao nhiªu?	6400 Km	4200 Km	5300 Km	7500 Km
+293	A	N¬i nµo ë ViÖt Nam nói löa tõng ho¹t ®éng?	Gia Lai	HuÕ	Hµ Néi	TPHCM
+294	A	C¸i nµo ng¨n c¶n sù tho¸t h¬i n­íc cña l¸ c©y?	ChÊt Cutin	DiÖp lôc	G©n la	Lç khÝ
+295	A	Trô së cña Liªn HiÖp Quèc ®Æt t¹i ®©u?	Mü	Anh	Ph¸p	NhËt B¶n
+296	A	ViÖt Nam & Mü chÝnh thøc lËp l¹i quan hÖ b×nh th­êng vµo n¨m nµo?	1995	1993	1994	1996
+297	A	Nh©n vËt næi tiÕng nµo ch­a tõng ®Õn ViÖt Nam?	Mohamet Ali	Jang Jong Gun	TriÖu Vy	Thµnh Long
+298	A	0 giê lµ mÊy giê?	12 giê tèi	1 giê s¸ng	1 giê tèi	12 giê s¸ng
+299	A	N¨m NhuÇn cã bao nhiªu ngµy?	366	365	364	367
+300	A	N­íc chiÕm bao nhiªu diÖn tÝch Tr¸i ®Êt?	3 phÇn 4	2 phÇn 3	1 phÇn 2	2 phÇn 5
+301	A	Loµi ®éng vËt nµo lín nhÊt trªn tr¸i ®Êt?	C¸ Voi	B¹ch tuéc khæng lå	C¸ Heo	Voi
+302	A	KhÝ cÇu bay ®­îc nhê g×?	KhÝ nãng	Giã	§iÖn	H¬i n­íc
+303	A	D¬i x¸c ®Þnh ph­¬ng h­íng nhê c¬ quan c¶m gi¸c nµo?	ThÝnh Gi¸c	ThÞ Gi¸c	Khøu Gi¸c	VÞ Gi¸c
+304	A	Dùa vµo sè khoanh trong th©n c©y cã thÓ x¸c ®Þnh ®­îc ®iÒu gi?	Tuæi	§é cao	Loµi C©y	§é cøng
+305	A	H·y ®iÒn vµo c©u: "T©y nguyªn ... mïa m­a n¾ng"?	Mét	Hai	Ba	Bèn
+306	A	Chuån chuån bay thÊp b¸o hiÖu ®iÒu g×?	Trêi s¾p m­a	Trêi n¾ng	Trêi r©m	Trêi ©m u
+307	A	ThiÕt bÞ dïng ®Ó ®o ®iÖn trong m¹ng ®iÖn Gia ®×nh?	C«ng t¬ §iÖn	Acquy	æn Ap	CÇu dao
+308	A	¢m tiÕt ®­îc ph¸t ra nhê bé phËn g× trong c¬ thÓ con ng­¬i?	Thanh Qu¶n	Thùc Qu¶n	Häng	KhÝ Qu¶n
+309	A	HiÖn t­îng bÝ Èn vÒ "ng­êi ngoµi Hµnh tinh" viÕt t¾t lµ g×?	UFO	FDI	FBI	NASA
+310	A	Ai ®­îc phong lµm "L­ìng Quèc Tr¹ng Nguyªn"?	M¹c §Ünh Chi	L­¬ng V¨n Cam	TrÇn Quèc TuÊn	Tr¹ng TÝ
+311	A	Kathy Kathy lµ ca khóc do Ca sü nµo thÓ hiÖn ®Çu tiªn?	Lam Tr­êng	Quang Linh	Hång Nhung	Mü LÖ
+312	A	VCK WorldCup ®­îc tæ chøc mÊy n¨m mét lÇn	4 n¨m	1 n¨m	2 n¨m	3 n¨m
+313	A	ChØ sè th«ng minh ®­îc dùa trªn d¬n vÞ khoa häc nµo?	ChØ sè IQ	ThÓ tÝch §¹i n·o	Khèi l­îng §¹i n·o	ChØ sè BMI
+314	A	¶o ThuËt gia næi tiÕng nhÊt n­íc Mü?	David Cooperfil	Robert Killer	OliverCan	William Hospert
+315	A	Tªn cña Gi¸m §èc Trung T©m An ninh m¹ng ViÖt Nam?	NguyÔn Tö Qu¶ng	Bill Gates	NguyÔn Minh HiÓn	§ç Thµnh Qu©n
+316	A	Ngµy thµnh lËp Qu©n ®éi Nh©n d©n ViÖt Nam?	22-12	27-7	8-3	26-3
+317	A	Ngµy thµnh lËp §¶ng Céng S¶n ViÖt Nam?	3-2	2-9	2-3	9-3
+318	A	ë B¾c cùc cã kho¶ng bao nhiªu loµi chim C¸nh côt?	Mét loµi	Hai loµi	Ba loµi	Bèn loµi
+319	A	Loµi ®éng vËt nµo th«ng minh nhÊt trªn Tr¸i ®Êt?	C¶ 3 ý ®Òu sai	KhØ	V­în	Tinh Tinh
+320	A	Ai lµ ng­êi ph¸t minh ra §iÖn tho¹i ®Çu tiªn?	William Bells	NewTon	Thomas Edison	§acuyn
+321	A	ViÕt t¾t cña tæ chøc c¸c n­íc xuÊt khÈu dÇu má lín nhÊt ThÕ giíi?	OPEC	NASA	NATO	ASIEM
+322	A	§ång TiÒn nµo cã tØ gi¸ hèi ®o¸i lín nhÊt so víi VN§?	B¶ng	Euro	USD	Nh©n d©n tÖ
+323	A	1 trong nh÷ng C¨n bÖnh ch­a cã thuèc §Æc trÞ hiÖn nay?	AIDS	Sèt rÐt	Phong	Sëi
+324	A	T¸c gi¶ cña bé truyÖn tranh næi tiÕng Th¸m tö lõng danh CONAN?	Gosho Aoyama	Fujico Fujio	Takahashi Monona	Kajuki Takahashi
+325	A	Dictionary trong TiÕng Anh nghÜa lµ g×?	Tõ §iÓn	TËp giÊy tr¾ng	QuyÓn NhËt ký	Gia Ph¶
+326	A	Dông cô ®o th©n nhiÖt?	NhiÖt kÕ	Ap kÕ	Ampe kÕ	V«n kÕ
+327	A	Eva ®­îc sinh ra tõ bé phËn nµo cña Adam?	X­¬ng s­ên	Sîi tãc	Ngãn tay	Ngãn ch©n
+328	A	San h« lµ sinh vËt lo¹i nµo?	C¶ 2 ®Òu ®óng	Thùc vËt	§éng VËt	c¶ 2 ®Òu sai
+329	A	Rång Komodo sèng ë ®©u?	Indonexia	Malaisia	Australia	Russia
+330	A	T¾t ®Ìn lµ t¸c phÈm cña nhµ v¨n nµo?	Ng« TÊt tè	Vò Träng Phông	Nam Cao	Th¹ch Lam
+331	A	Lùc hót ë mÆt Tr¨ng nhá gÊp bao nhiªu lÇn Tr¸i ®Êt?	6 lÇn	7 lÇn	8 lÇn	9 lÇn
+332	A	Loµi C¸ nµo sèng kh«ng sèng ë biÓn?	Basa	C¸ Chim	C¸ Heo	C¸ Thu
+333	A	Quèc Gia cã diÖn tÝch lín thø 2 trªn thÕ giíi?	Canada	Nga	Trung Quèc	Mü
+334	A	Thµnh nhµ Hå lµ di tÝch ë tØnh nµo n­íc ta?	Thanh Hoa	NghÖ An	Hµ TÜnh	HuÕ
+335	A	Tobicom lµ d­îc phÈm dïng ®Ó trÞ bÖnh g×?	§au m¾t	Giun s¸n	GhÎ	C¶m cóm
+336	A	MÆt trêi ph¸t ra tia g× trong c¸c tia sau?	C¶ 2 ®Òu ®óng	Tö Ngo¹i	Hång Ngo¹i	C¶ 2 ®Òu sai
+337	A	Tªn 1 chuyªn môc cña tuÇn b¸o Mùc TÝm?	V­ên hoang	Vui c­êi	T×m tõ	Ngé nghÜnh
+338	A	§¹i d­¬ng nµo lín nhÊt?	Th¸i B×nh D­¬ng	§¹i T©y D­¬ng	Ên §é D­¬ng	B¾c B¨ng D­¬ng
+339	A	PC lµ cã nghÜa g× trong tin häc?	M¸y tÝnh c¸ nh©n	Chuét	Bµn PhÝm	Mµn h×nh
+340	A	Loµi vËt nµo kh«ng cã hµm r¨ng trªn?	Tr©u	Bß	Ngùa	Tª gi¸c
+341	A	Vµo mïa nµo th× Tr¸i ®Êt gÇn mÆt trêi nhÊt?	H¹	Xu©n	Thu	§«ng
+342	A	CÇu thñ ®­îc mÖnh danh lµ "Ng­êi ngoµi Hµnh tinh"	Ronaldo	Beckham	Zidane	Ronaldinho
+343	A	CÇu thñ ®­îc vÝ lµ cã ch©n ph¶i khÐo nh­ bµn tay	Zidane	C.Ronaldo	Kaka	Raul
+344	A	Loµi vËt kh«ng n»m trong 12 con gi¸p (ViÖt Nam)?	Thá	Chuét	Dª	Gµ
+345	A	Ngän nói næi tiÕng NhËt B¶n?	Phó SÜ	Hµm Rång	Th¸i S¬n	Tam hîp
+346	A	Nh·n hiÖu B¸nh ®Ëu xanh næi tiÕng?	Rång vµng	M & M	Chocopie	H¶i D­¬ng
+347	A	Tªn gäi kh¸c cña hoa Trinh N÷?	M¾c cë	B»ng l¨ng	B¹ch lan	B¹ch n÷
+348	A	Bøc tranh næi tiÕng cña Leonard de Vinci?	Lagiocongder	12 tÝn ®å	§avit	§øc mÑ Maria
+349	A	Thuý KiÒu cã mÊy ng­êi em?	2 ng­êi	1 ng­êi	3 ng­êi	4 ng­êi
+350	A	Danh hµi giµnh gi¶i nhÊt GALA C­êi 2003?	Xu©n B¾c	Thanh B¹ch	Ph¹m B»ng	Thóy Nga
+351	A	Tªn cña con quû chuyªn hót m¸u?	Dracula	Bracula	Bracun	Dracun
+352	A	Loµi c¸ duy nhÊt cã thÓ nh¸y m¾t?	C¸ MËp	C¸ ChÐp	C¸ Heo	C¸ Voi
+353	A	TruyÖn tranh vÞt Donal bÞ cÊm t¹i n­íc nµo (v× c¸c nh©n vËt kh«ng mÆc quÇn)?	Hµ Lan	Ba Lan	PhÇn Lan	Thuþ §iÓn
+354	A	C¬ b¾p m¹nh nhÊt trong c¬ thÓ con ng­êi lµ?	C¬ L­ìi	C¬ B¾p tay	C¬ b¾p ch©n	C¬ Bông
+355	A	Ng­êi ®Çu tiªn ®Æt ch©n lªn mÆt Tr¨ng?	Neil Amtrong	Nila Amstrong	Narel Amstron	Nicolas Amstrong
+356	A	Träng tµi næi tiÕng "l¹nh" nhÊt ThÕ giíi 2006?	Colina	Bolin	Doloun	Moliman
+357	A	§¹o diÔn bé phim "ChiÕn tranh gi÷a c¸c v× sao"	George Lucas	Annba Willing	Sanchiego Mann	Mc Donal
+358	A	§éi tuyÓn nµo ®­îc mÖnh danh lµ "C¬n lèc mµu da cam"?	Hµ Lan	Italia	Ba Lan	Thuþ §iÓn
+359	A	Ng­êi ®Çu tiªn ®o¹t gi¶i Olympia?	TrÇn Ngäc Minh	Lª KiÒu Giang	Bïi Quang B×nh	NguyÔn Thµnh Vinh
+360	A	ChÊt khÝ th­êng dïng ®Ó b¬m vµo bÓ b¬i ®Ó diÖt khuÈn?	Clo	Oxy	Flo	Hydro
+361	A	B¸o gÊm ch¹y víi vËn tèc bao nhiªu?	60 dÆm-1h	40 dÆm-1h	50 dÆm-1h	70 dÆm-1h
+362	A	Loµi vËt cã tèc ®é di chuyÓn nhanh nhÊt ThÕ giíi?	Chim ¦ng	B¸o gÊm	Sãc	Bå C©u
+363	A	Tªn cña nh©n vËt ®iÖp viªn 007 trong phim "§iÖp Viªn 007"?	James Bond	James Bound	Janes Bond	Janes Bound
+364	A	ViÖt Nam kh¸ng chiÕn chèng Mü trong bao nhiªu n¨m?	21 n¨m	19 n¨m	20 n¨m	22 n¨m
+365	A	Ng­êi ®ãng thÕ trong c¸c pha m¹o hiÓm trong phim gäi lµ g×?	Cascader	Bandanger	Qwerty	Dangerous Hero
+366	A	S«ng NhËt LÖ thuéc ®Þa phËn tØnh nµo?	Qu¶ng B×nh	Cµ Mau	B×nh §Þnh	Ninh B×nh
+367	A	Jackie Chan lµ tªn tiÕng Anh cña diÔn viªn ®iÖn ¶nh nµo?	Thµnh Long	Ch©u Tinh Tr×	Lý TiÓu Long	Lý Liªn KiÖt
+368	A	TiÕng Anh vµ tiÕng Ph¸p cã nguån gèc tõ?	TiÕng §øc	TiÕng Hy L¹p	TiÕng T©y Ban Nha	TiÕng Bå §µo Nha
+369	A	Cuèn s¸ch khoa häc vËt lý næi tiÕng 1987 "L­îc sö thêi gian" do nhµ khoa häc nµo viÕt?	Stephen Hawking	Anbe Einstein	George Ellis	Roger Penrose
+370	A	Nicolas Copecnic, ng­êi ph¶n b¸c "Tr¸i ®Êt lµ trung t©m vò trô" lµ ng­êi n­íc nµo?	Ba Lan	Hµ Lan	Hy L¹p	§øc
+371	A	Nh¾c ®Õn Issac Newton ng­êi ta th­êng nghÜ ®Õn tr¸i c©y nµo?	T¸o	Chuèi	MÝt	D­a chuét
+372	A	Theo quan ®iÓm duy t©m th× VËt ChÊt hay ý Thøc cã tr­íc?	ý thøc	VËt chÊt	C¶ hai 1 lóc	Kh«ng x¸c ®Þnh
+373	A	Tæ chøc ASEAN thµnh lËp vµo n¨m nµo?	1967	1957	1977	1978
+374	A	Ai lµ ng­êi ®Çu tiªn ph¸t hiÖn: ¸nh s¸ng cã vËn tèc h÷u h¹n?	Christensen Roeme	Issac Newton	Anbe Einstein	Galileo
+375	A	Trong c¸c tia sau ®©y, tia nµo cã b­íc sãng ng¾n nhÊt?	Tia Gamma	Tia Hång ngo¹i	Tia Tö Ngo¹i	Tia X
+376	A	Con g× sÏ ho¸ thµnh muçi khi tr­ëng thµnh?	L¨ng Qu¨ng	Nßng Näc	Gißi	Nhéng
+377	A	VÞ thÇn cai qu¶n biÓn, s«ng theo thÇn tho¹i Trung Hoa gäi lµ g×?	Long v­¬ng	H¶i v­¬ng	Thuû v­¬ng	Hµ v­¬ng
+378	A	Quèc gia nµo kh«ng thuéc b¸n ®¶o §«ng D­¬ng?	Th¸i Lan	Lµo	Campuchia	ViÖt Nam
+379	A	Nhµ tiªn tri víi nh÷ng c©u sÊm truyÒn linh nghiÖm?	Nostradamus	Arixtot	Galileo	Imhotep
+380	A	TËp ®oµn kh«ng kinh doanh §iÖn Tho¹i Di §éng?	Toyota	Motorola	Siemen	Sony
+381	A	Thñ ®« NhËt B¶n x­a kia tªn gäi lµ g×?	Edo	Osaka	Hiroshima	Nagasaki
+382	A	Bøc ho¹ Monalisa cña Leonard de Vinci cã tªn gäi kh¸c lµ g×?	La Giocongder	Christina	Christina	Marry Anna
+383	A	Ca khóc "T×nh cê" do nh¹c sÜ nµo s¸ng t¸c?	§iÖp Minh TuyÒn	Hoµi An	TrÞnh C«ng S¬n	Ngäc S¬n
+384	A	VÞ t­íng ®· ph¸ qu©n M«ng Cæ ë Hµm Tö Quan	TrÇn NhËt DuËt	TrÇn Quang Kh¶i	TrÇn Quèc TuÊn	TrÇn Quèc To¶n
+385	A	Tªn mét bøc tranh d©n gian cã 12 con chuét?	§¸m c­íi chuét	§¸m ma chuét	§¸m dç chuét	Gia ®×nh chuét
+386	A	Ai ®· nãi c©u: "Ta thµ lµm ma n­íc Nam, cßn h¬n lµm v­¬ng ®Êt B¾c"?	TrÇn B×nh Träng	TrÇn Quèc To¶n	TrÇn NhËt DuËt	TrÇn Quèc TuÊn
+387	A	Chïa mét cét ®­îc x©y dùng d­íi thêi nµo?	Lý	TrÇn	Lª	NguyÔn
+388	A	B×nh Ng« §¹i C¸o do ai s¸ng t¸c?	NguyÔn Tr·i	NguyÔn BØnh Khiªm	NguyÔn KhuyÕn	NguyÔn Anh
+389	A	Quèc Gia næi tiÕng vÒ trång Hoa Hång?	Bungary	Hungary	Hµ Lan	Ba Lan
+390	A	Thµnh phè lín nhÊt ë miÒn t©y Canada lµ g×?	Vancouver	Canada	Copec	Monaco
+391	A	N¨m 939 trªn s«ng B¹ch §»ng, Ng« QuyÒn ®¸nh tan qu©n giÆc nµo?	Nam H¸n	Nguyªn M«ng	Thanh	Minh
+392	A	Ai t×m ra Penecilline?	Fleming	§acUyn	Paster	T«n ThÊt B¸ch
+393	A	T¸c gi¶ bµi h¸t "Anh Ba H­ng"?	TrÇn KiÕt T­êng	Phan Huúnh §iÓu	Y V©n	H÷u Minh
+394	A	Bé §Þa chÝ ®Çu tiªn cña Sµi Gßn x­a?	Gia §Þnh Thµnh §«ng ChÝ	Gia §Þnh Phñ ChÝ	Gia §Þnh D­ §Þa ChÝ	Gia §Þnh NhÊt Thèng
+395	A	V¨n hµo ng­êi Anh, t¸c gi¶ "TiÕng gäi n¬i hoang d·"?	Jack London	Conan Doyle	J.K Rolling	Charle Dicken
+396	A	Senegal n»m ë vïng nµo cña Ch©u Phi?	B¾c Phi	Trung Phi	Nam Phi	Madagasca
+397	A	Mét Ca khóc næi tiÕng cña Michael Jackson?	Heal the world	Coco Jamboo	Baby one more time	25 minutes
+398	A	Con s«ng dµi nhÊt thÕ giíi?	Nil	Hoµng Hµ	Mª K«ng	Amazon
+399	A	UN lµ tªn viÕt t¾t cña tæ chøc nµo?	Liªn HiÖp Quèc	Liªn §oµn	Liªn HiÖp Phô N÷	Nh©n §¹o
+400	A	Ngµy lÔ t×nh yªu?	Ngµy 14-02	Ngµy 12-04	Ngµy 22-04	Ngµy 24-02
+401	A	Hoµng ®Õ cuèi cïng cña ViÖt Nam?	B¶o §¹i	Ng« §×nh DiÖm	Hµm Nghi	Quang Trung
+402	A	Bøc tranh Portrait of Dr.Gauchet cña Van Gogh ®­îc s¸ng t¸c n¨m nµo?	N¨m 1890	N¨m 1860	N¨m 1870	N¨m 1880
+403	A	DiÔn viªn chÝnh trong bé phim T©y Du ký cña Ng« Thõa ¢n?	Lôc TiÓu Linh §ång	T«n Ngé Kh«ng	L­u §øc Hoa	L­u Hy
+404	A	Ngän nói Sapa thuéc d·y nói nµo?	Hoµng Liªn S¬n	Phan Xi P¨ng	Tr­êng S¬n ®«ng	Tr­êng S¬n t©y
+405	A	Ca khóc g¾n liÒn víi bé phim "Love Story" do Andy Williams s¸ng t¸c?	Where do I begin	Who do You love	Love Story	My honey
+406	A	Kh¸ch s¹n ®­îc x©y dùng sím nhÊt ë Sµi Gßn thêi Ph¸p thuéc, hiÖn nay tªn g×?	Continental	H¶i Ch©u	Je'taime	§×nh Nhu
+407	A	ThÇy tro §­êng T¨ng cã bao nhiªu thµnh viªn?	5	3	4	6
+408	A	1 b¶ng Anh (pound) cã bao nhiªu xu (penny)?	100	10	500	1000
+409	A	0 ®é C (Celcius) t­¬ng øng bao nhiªu ®é F (Fahrenheit)?	273	32	80	100
+410	A	Tr­êng §¹i häc nµo kh«ng ph¶i ë Mü?	Cambridge	Ivy League	Harvard	Princeton
+411	A	D¶i tÇn sè nµo cã tÇn sè cao nhÊt trong c¸c d¶i tÇn sau?	EHF	SHF	UHF	VHF
+412	A	§©y kh«ng ph¶i lµ ng«n ng÷ lËp tr×nh?	D	C	Java	Visual Basic
+413	A	Kh¸i niÖm nµo kh¸c nhÊt so víi mÊy kh¸i niÖm kh¸c?	Tù nhiªn	TriÕt häc	T©m lý	Vò khÝ
+414	A	§Ëp thñy ®iÖn lín nhÊt thÕ giíi, Three Gorges, ë quèc gia nµo?	Trung Quèc	NhËt B¶n	An §é	Bhutan
+415	A	VËn tèc cña ©m thanh?	1000 km-h	100 km-h	560 km-h	3200 km-h
+416	A	§iÒn vµo d·y sau: A,D,G,J,...	L	M	B	C
+417	A	TuÊn cao h¬n Nam, B×nh thÊp h¬n TuÊn. C©u nµo d­íi ®©y lµ ®óng nhÊt?	Ch­a ch¾c	B×nh = Nam	B×nh > Nam	B×nh < Nam
+418	A	Sè tiÕp theo cña d·y: 19, 28, 37, 46, ... lµ sè nµo?	55	67	57	54
+419	A	1 tê b¸o gi¶m gi¸ 20%, cÇn ph¶i t¨ng mÊy% ®Ó cã gi¸ nh­ cò?	25%	20%	50%	75%
+420	A	Gang lµ hîp chÊt cña S¾t vµ 1 l­îng nhá chÊt g×?	Cacbon	Nh«m	§ång	B¹c
+421	A	Ng­êi giµu nhÊt ThÕ giíi 2006-2007 lµ ai?	Bill Gates	Bush	Bin Laden	Ambramovic
+422	A	Nhµ th¬ Tago lµ ng­êi n­íc nµo?	An §é	Anh	Ai CËp	Hy L¹p
+423	A	N­íc m¾m ®­îc chiÕt suÊt tõ loµi ®éng vËt nµo?	C¸	T«m	Cua	Oc
+424	A	Trang phôc truyÒn thèng cña NhËt B¶n?	Kimono	Ao Dµi	Kimoana	Mimono
+425	A	Loµi hoa nµo th­êng ®­îc ­íp cïng Trµ Xanh?	Nhµi	Hång	Lan	Hµi
+426	A	Tæ s­ cña m«n vâ ThiÕu L©m ngµy nay?	§¹t Ma	PhËt Tæ	Tr­¬ng Tam Phong	Lý TiÓu Long
+427	A	Ng«n ng÷ nµo ®­îc nhiÒu ng­êi dïng nhÊt trªn thÕ giíi?	Trung Quèc	Anh	Ph¸p	T©y Ban Nha
+428	A	Quèc gia cã diÖn tÝch nhá nhÊt?	Vatican	Monaco	Nauru	Tuvalu
+429	A	VÞ t­íng muèn chinh ph¹t c¶ Ch©u ¢u?	Napoleon	Hitle	Pharaon	Thµnh C¸c T­ h·n
+430	A	Copernicus næi tiÕng trong lÜnh vùc nµo?	Thiªn v¨n häc	Héi Häa	V¨n Häc	¢m nh¹c
+431	A	Sè tiÕp theo 1, 1, 2, 3, 5, ...?	8	6	7	9
+432	A	ký hiÖu hãa häc cña Vµng lµ g×?	Au	Ar	Al	Ag
+433	A	Theo thÇn tho¹i Hy L¹p, Saturn lµ tªn vÞ thÇn nµo?	ThÇn n«ng	ThÇn søc m¹nh	ThÇn t×nh ¸i	ThÇn BiÓn c¶
+434	A	Sao Thiªn V­¬ng quay quanh mÆt trêi mÊt trong bao l©u?	84 n¨m	84 giê	84 ngµy	84 th¸ng
+435	A	B¹ch §»ng Giang Phó lµ bµi th¬ do ai s¸ng t¸c?	Tr­¬ng H¸n Siªu	TrÇn Quèc TuÊn	Ng« Sü Liªn	NguyÔn Du
+436	A	§iÒn sè tiÕp theo trong d·y: 144, 121, 100, 81, 64, ...?	49	36	25	55
+437	A	Ng­êi ta th­êng nãi: "xa mÆt c¸ch ..."?	Lßng	T×nh	Xa	BiÖt
+438	A	Bµi kiÓm tra IQ hoµn thiÖn ®Çu tiªn trªn thÕ giíi do ai ph¸t triÓn?	Alfred Binet	Lewis Terman	David Wechsler	William Stern
+439	A	ChØ sè IQ cña 1 ®øa bÐ ®­îc nhËn lµm con nu«i cã thÓ dù ®o¸n ®­îc dùa vµo?	Bè mÑ ruét	Tæ tiªn	Bè mÑ nu«i	¤ng bµ
+440	A	YÕu tè di truyÒn quyÕt ®Þnh bao nhiªu phÇn tr¨m sù th«ng minh?	50%	0%	25%	100%
+441	A	Nhµ m¸y läc dÇu Dung QuÊt ®­îc x©y dùng ë tØnh nµo?	Qu¶ng Ng·i	Qu¶ng Nam	Vòng Tµu	H¶i Phßng
+442	A	B¸c T«n §øc Th¾ng sinh vµo n¨m nµo?	1888	1878	1898	1908
+443	A	IMO lµ kú thi quèc tÕ tæ chøc lÇn ®Çu tiªn t¹i VN 2007, m«n thi lµ?	To¸n häc	VËt Lý	Hãa häc	Tin Häc
+444	A	CÇu thñ giµnh ®­îc danh hiÖu chiÕc giµy vµng ch©u ¢u 2007?	Francesco Totti	Fernando Torres	Ronaldinho	Beckham
+445	A	Federer lµ vËn ®éng viªn 3 lÇn liªn tiÕp nhËn gi¶i Laureus ch¬i m«n thÓ thao nµo?	QuÇn vît	Bãng bµn	CÇu l«ng	Bãng ®¸
+446	A	C¸i g× cã thÓ c¾t ®­îc kim c­¬ng?	Kim c­¬ng	S¾t	Vµng	Kh«ng cã
+447	A	GÊu tr¾ng vµ Voi biÓn sèng ë ®©u?	B¾c cùc	Senegal	Nam cùc	§«ng Nam ¸
+448	A	ChuyÕn bay ®Çu tiªn cña con ng­êi vµo vò trô tiÕn hµnh vµo n¨m nµo?	1961	1959	1960	1962
+449	A	Nguyªn tè cã sè thø tù lµ 2 trong b¶ng hÖ thèng tuÇn hoµn cña Mendelep?	He	Li	Ar	Bo
+450	A	T¸c gi¶ bµi th¬ "Bªn kia s«ng §uèng"?	Hoµng CÇm	Ph¹m TiÕn DuËt	Hå Xu©n H­¬ng	Th¹ch Lam
+451	A	Sè nµo kh«ng hîp quy luËt trong d·y sau: 9 7 8 6 7 5 6 3?	3	5	8	9
+452	A	Nhµ hµng h¶i vÜ ®¹i Fernando Magienlang (1480-1521) lµ ng­êi n­íc nµo?	Bå §µo Nha	T©y Ban Nha	Hµ Lan	Anh
+453	A	§¹i d­¬ng nµo nhá nhÊt trªn thÕ giíi?	B¾c B¨ng D­¬ng	Th¸i B×nh D­¬ng	§¹i T©y D­¬ng	Ên §é D­¬ng
+454	A	Hæ Ph¸ch theo tiÕng Hy L¹p lµ g×?	Electron	Proton	Notron	Gamma
+455	A	Thñ ®« nµo ë ch©u ¢u n»m trªn 96 hßn ®¶o, ®­îc nèi víi nhau b»ng nh÷ng chiÕc cÇu?	Amstecdam (Hµ Lan)	London (Anh)	Paris (Ph¸p)	Stockhom (Thuþ §iÓn)
+456	A	N÷ thÇn Athena, 1 trong 12 vÞ thÇn cña ®Ønh Olympus, ®¹i diÖn cho ®iÒu g×?	TrÝ tuÖ	S¾c ®Ñp	T×nh yªu	Lßng nh©n tõ
+457	A	Danh häa më ®Çu tr­êng ph¸i lËp thÓ cña héi häa ®Çu thÕ kû XX?	Picasso	Vangog	Leonard de Vinci	Bandac
+458	A	Gi¶i Nobel v¨n ch­¬ng ®­îc b¾t ®Çu trao vµo n¨m nµo?	1901	1900	1902	1903
+459	A	Ai lµ ng­êi s¸ng lËp ra m«n Vi sinh vËt häc?	Luis Pauster	Flemming	Dack Uyn	Moocgan
+460	A	Moocgan sö dông loµi vËt nµo ®Ó nghiªn cøu di truyÒn häc?	Ruåi giÊm	MÌo	Chuét b¹ch	Giun
+461	A	Khi ®Õn t©m tr¸i ®Êt, träng l­îng cña mét qu¶ c©n 10kg b»ng bao nhiªu?	0 Kg	10Kg	9,8Kg	0,98 Kg
+462	A	Lý Nam §Õ (Lý BÝ) thµnh lËp nhµ n­íc d©n téc ®éc lËp ë gi÷a thêi B¾c thuéc mang tªn?	V¹n xu©n	§¹i Cå ViÖt	ViÖt Nam	§¹i ViÖt
+463	A	C«ng thøc næi tiÕng E=mc2 lµ cña ai?	Einstein	Huc	Pascal	Herry
+464	A	VËn ®éng viªn Marathon ngµy nay cÇn ch¹y bao nhiªu dÆm ®Ó ®Õn ®­îc ®Ých?	26	13	39	41
+465	A	Hµnh tinh mang tªn Jupiter - vÞ thÇn kháe nhÊt trong thÇn tho¹i Hy L¹p cã tªn tiÕng ViÖt lµ?	Méc tinh	Háa tinh	Thñy tinh	Thæ tinh
+466	A	4 loµi c¸ Trong bµi th¬ §oµn thuyÒn ®¸nh c¸ cña Huy CËn lµ: Chim,Thu, Nhô, vµ...?	C¸ §Ð	C¸ Nãc	C¸ Håi	C¸ Heo
+467	A	Danh hiÖu thñ ®« v¨n hãa cña ch©u ¢u 1999 ®­îc trao cho thµnh phè nµo?	Vaima	London	Paris	Bern
+468	A	Chïa mét cét ®­îc x©y n¨m 1409 cßn cã tªn gäi lµ g×?	Diªn Hùu	B¶o Liªn	Tr­êng Sinh	PhËt Sen
+469	A	Sao Thñy cã tªn cña mét vÞ thÇn ch¹y nhanh nhÊt trong thÇn tho¹i Hy L¹p nµo?	Mercury	Jupiter	Neptune	Mars
+470	A	ë ch©u ¢u, ng­êi ta ®Æt tªn cho th¸ng 1 lµ January, ®©y lµ tªn vÞ thÇn nµo?	ThÇn chiÕn tranh	ThÇn thêi gian	ThÇn t×nh ¸i	ThÇn biÓn c¶
+471	A	NguyÔn Kh¾c HiÕu (8-5-1889) lµ tªn thËt cña nhµ th¬ nµo?	T¶n §µ	NguyÔn §×nh ChiÓu	Tè H÷u	Tó X­¬ng
+472	A	Johannes Gutenberg ®· ph¸t minh ra c¸i g× gióp cho thêi kú Phôc H­ng ph¸t triÓn m¹nh mÏ?	M¸y In	M¸y h¬i n­íc	M¸y dÖt	M¸y tÝnh
+473	A	Ng« QuyÒn cã quan hÖ g× víi D­¬ng §×nh NghÖ?	Con rÓ	Con	Ch¸u	B¹n
+474	A	Loµi vËt nµo th­êng ®­îc dïng ®Ó vËn chuyÓn hµng hãa ë Th¸i Lan?	Voi	Tr©u	Bß	Ngùa
+475	A	Ai tù x­ng m×nh lµ HËu Lý Nam §Õ?	Lý PhËt Tö	Lý Chiªu Hoµng	Lý C«ng UÈn	Lý BÝ
+476	A	§Êt VÞ Hoµng lµ ®Þa danh thuéc tØnh nµo?	Nam §Þnh	Thanh Hãa	NghÖ An	Phó Thä
+477	A	Sè d©n ViÖt Nam ®øng thø mÊy §«ng Nam ¸?	2	1	3	4
+478	A	Quª gèc cña Lý Th­êng KiÖt lµ vïng ®Êt nµo?	Th¨ng Long	Hång Ch©u	Kinh B¾c	ThuËn Hãa
+479	A	Sao Háa cã bao nhiªu vÖ tinh tù nhiªn?	2	1	3	4
+480	A	Bµi th¬ nµo kh«ng n»m trong chïm th¬ mïa thu cña NguyÔn KhuyÕn?	Thu ngÉm	Thu Èm	Thu vÞnh	Thu ®iÕu
+481	A	Hµ Lan vµ §an M¹ch lµ 2 quèc gia cã ®Þa h×nh 100% lµ g×?	§ång B»ng	BiÓn	§åi Nói	B¨ng tuyÕt
+482	A	ViÖt Nam lÇn ®Çu tiªn tham dù k× thi Olympic To¸n quèc tÕ vµo n¨m nµo?	1974	1972	1973	1975
+483	A	V¹n Th¾ng V­¬ng lµ biÖt hiÖu cña ai?	§inh Bé LÜnh	TrÇn H­ng §¹o	Quang Trung	Ng« QuyÒn
+484	A	Thµnh phÇn chÝnh cÊu t¹o thµnh tÕ bµo nÊm lµ g×?	Kitin	Bµo tö	Mannan	Cutin
+485	A	Ai lµ ng­êi ®Çu tiªn sö dông thuËt ng÷ "PhÐp chia vµng"?	Leonard de Vinci	Pithagor	Euclid	Fibonacci
+486	A	Tªn 2 ng«i sao s¸ng nhÊt cña chßm Tr¸ng sÜ (Orion)?	Rigel - Betelgeuse	Dened - Vega	Rigel - Procyon	Vega - Betelguese
+487	A	Bµi th¬ ®¨ng b¸o ®Çu tiªn cña NguyÔn BÝnh?	C« h¸i m¬	T­¬ng T­	C« l¸i ®ß	C« hµng xãm
+488	A	Tån t¹i hay kh«ng tån t¹i lµ c©u nãi næi tiÕng cña nh©n vËt nµo?	Hamlet	Claudius	The ghost	Laertes
+489	A	Ng­êi l·nh ®¹o phong trµo B×nh Xuyªn trong kh¸ng chiÕn chèng Ph¸p?	D­¬ng V¨n D­¬ng	Hå Tïng MËu	T¨ng B¹t Hæ	Ph¹m Hång Th¸i
+490	A	Ai lµ thñ t­íng ®Çu tiªn cña Singapore?	Lý Quang DiÖu	L­u §øc Hoa	Tèng Hång Qu©n	ThÝch Phi Long
+491	A	Thñ ®« Jakarta n»m trªn hßn ®¶o nµo cña Indonesia?	Java	Indo	Karti	Nesia
+492	A	Machu Pichu lµ tªn mét di tÝch lÞch sö ë quèc gia nµo ngµy nay?	Peru	Bolivia	Ecuador	Colombia
+493	A	Sè l­îng cöa s«ng TiÒn vµ s«ng HËu lÇn l­ît lµ?	6,3	4,5	5,4	3,6
+494	A	Ng­êi ViÖt Nam ®­îc phong hµm t­íng cña c¶ 2 quèc gia VN vµ Trung Quèc?	NguyÔn S¬n	NguyÔn B×nh	Vâ Nguyªn Gi¸p	V¨n TiÕn Dòng
+495	A	Thµnh phè nµo ®­îc mÖnh danh lµ Paris cña ph­¬ng ®«ng?	Th­îng H¶i	Sµi Gßn	Hong Kong	Bangkok
+496	A	Nguyªn thñ quèc gia nµo ®Çu tiªn ®Õn th¨m ViÖt Nam sau CMT8 thµnh c«ng?	Ên §é	Liªn X«	Cuba	Trung Quèc
+497	A	Hä tªn thËt cña nh©n vËt Tho¹i Ngäc HÇu?	NguyÔn V¨n Tho¹i	TrÇn V¨n Thµnh	Vâ Duy D­¬ng	NguyÔn TÊn KiÒu
+498	A	Quª gèc cña tæng ®èc Hoµng DiÖu?	Qu¶ng Nam	Qu¶ng B×nh	Thõa Thiªn HuÕ	Hµ Néi
+499	A	Vïng c«ng nghiÖp lín nhÊt n­íc §øc cã tªn lµ g×?	Ruhr	Bavaria	Brandenburg	Saxony
+500	A	S«ng nµo dµi thø 3 ë ch©u ¢u?	Rhine	Volga	Danube	Thames
+501	A	Vµo n¨m nµo Mü vµ Liªn X« tuyªn bè chÊm døt chiÕn tranh l¹nh?	1989	1986	1987	1988
+502	A	Asuncion lµ thñ ®« cña n­íc nµo?	Paraquay	Uruguay	Nepal	Trung phi
+503	A	§¶o nµo cña Indonesia kh«ng cã ®­êng XÝch §¹o ch¹y qua?	Java	Kalimantan	Sulawesi	Sumatra
+504	A	§¹i héi anh hïng chiÕn sü thi ®ua toµn qu©n lÇn thø nhÊt diÔn ra vµo n¨m nµo?	1951	1950	1952	1953
+505	A	VËt nµo kh«ng n»m trong "An Nam tø ®¹i khÝ" cña ViÖt Nam?	Chïa mét cét	Th¸p B¸o Thiªn	Chu«ng Quy §iÒn	V¹c Phæ Minh
+506	A	N¨m 79 sau CN, ngän nói löa nµo ®· phun trµo vµ ch«n vïi thµnh phè Pompei ë Italia?	Vesuvius	Handica	Mologne	Ertona
+507	A	Liªn hoan phim Cannes th­êng ®­îc tæ chøc vµo th¸ng nµo trong n¨m?	Th¸ng 5	Th¸ng 1	Th¸ng 8	Th¸ng 12
+508	A	HiÖp héi WGAE vµ WGAW ®· b×nh chän bé phim nµo lµ cã kÞch b¶n hay nhÊt mäi thêi ®¹i?	Casablanca	Citizen Kane	God Father	Titanic
+509	A	ChØ sè khoa häc BMI dïng ®Ó ®¸nh gi¸ c¸i g× ë con ng­êi?	Sù c©n ®èi	ChiÒu cao	C©n nÆng	TÝnh t×nh
+510	A	KÕt qu¶ cña phÐp tÝnh: 1000 x 1000 x 1000 =?	1 Tû	1 V¹n	1 TriÖu	1 Ngh×n Tû
+511	A	Con khØ giã lµ con g×? 	Con Culi	KhØ vµng	Con khØ ®ét	Con v­în
+512	A	TØnh nµo sau ®©y kh«ng gi¸p biÓn?	Gia Lai	Kh¸nh Hßa	Cµ Mau	Qu¶ng TrÞ
+513	A	§iÒn vµo c©u sau: "NhÊt Nam viÕt h÷u, ... N÷ viÕt v«"?	ThËp	NhÞ	Lôc	ThÊt
+514	A	§éi tuyÓn Nam vµ ®éi tuyÓn N÷ n­íc nµo ®Òu tõng v« ®Þch WorldCup?	§øc	Ph¸p	Brazil	Italia
+515	A	TØnh nµo cã nhiÒu quËn, huyÖn nhÊt c¶ n­íc?	Thanh Hãa	Gia Lai	Cµ Mau	Qu¶ng B×nh
+516	A	CÇu thñ ngoµi ch©u ¢u ®Çu tiªn ®o¹t Qu¶ Bãng Vµng ch©u ¢U?	G.Weah	Shevchenko	Romaldo	R. Carlos
+517	A	Mét d·y nhiÒu sinh vËt cã quan hÖ dinh d­ìng víi nhau gäi lµ g×?	Chuçi thøc ¨n	Chuçi sinh vËt	L­íi Thøc ¨n	L­íi sinh vËt
+518	A	N¨m 2004, bøc t­îng Davis cña Michellangelo trßn bao nhiªu tuæi?	500	300	400	600
+519	A	Sau khi tan r·, Liªn x« t¸ch thµnh bao nhiªu quèc gia?	15 quèc gia	5 quèc gia	10 quèc gia	20 quèc gia
+520	A	Ng­êi n­íc nµo ph¸t minh ra diªm?	Thôy §iÓn	BØ	¸o	Nga
+521	A	ChuyÖn t×nh cña Romeo & Juliette x¶y ra t¹i thµnh phè nµo cña Italia?	Verona	Florence	Rome	Venice
+522	A	V­¬ng quèc Ba T­ ngµy x­a lµ quèc gia nµo ngµy nay?	Iraq	Iran	Kuwait	Qatar
+523	A	Ng­êi ®Çu tiªn ®Æt ch©n ®Õn Nam cùc lµ ng­êi n­íc nµo?	Na Uy	Nam Phi	MÜ	Canada
+524	A	Thµnh phè cã mËt ®é d©n sè cao nhÊt thÕ giíi lµ?	Mexico city	Tokyo	Th­îng H¶i	Hång K«ng
+525	A	N­íc nµo sau ®©y kh«ng thuéc liªn hiÖp V­¬ng quèc Anh?	Céng hßa Ireland	Anh	Scotland	Wales
+526	A	Viking lµ tõ dïng ®Ó ¸m chØ Quèc gia nµo?	Na Uy	PhÇn Lan	§an M¹ch	Iceland
+527	A	Quèc gia nµo sau ®©y ch­a tõng ph¶i dêi thñ ®« tõ n¬i nµy sang n¬i kh¸c?	Thôy §iÓn	Myanmar	Thæ NhÜ K×	NhËt B¶n
+528	A	Ng«n ng÷ lËp tr×nh nµo lµ ng«n ng÷ lËp tr×nh ®Çu tiªn?	Fortran	 Visual Basic	C	Pascal
+529	A	§¬n vÞ ®o dung l­îng bé nhí nµo lín nhÊt trong c¸c ®¬n vÞ sau ®©y?	Tb	Kb	Mb	Gb
+530	A	§a sè trÎ em ®­îc sinh ra tù nhiªn th­êng vµo kho¶ng thêi gian nµo trong ngµy?	Nöa ®ªm vÒ s¸ng	Buæi s¸ng sím	Buæi tr­a	Buæi chiÒu tèi
+531	A	Nhµ to¸n häc Turing lµ ng­êi n­íc nµo?	T©y Ban Nha	Anh	Ph¸p	Italia
+532	A	Liªn ®oµn bãng ®¸ ch©u ¸ (AFC) ra ®êi t¹i quèc gia nµo?	Philipines	Ên §é	Mailaisia	NhËt B¶n
+533	A	Loµi nµo cã sè l­îng NhiÔm s¾c thÓ lín nhÊt trong c¸c loµi sau?	Gi¸p x¸c	Giun trßn	Ruåi giÊm	Chuét nhµ
+534	A	Hoµng ®Õ nµo sèng l©u nhÊt ë Trung Quèc	Cµn Long	TÇn Thñy Hoµng	Phæ Nghi	Khang Hy
+535	A	Trong c¸c chÊt sau ®©y, chÊt nµo cã nhiÖt ®é s«i cao nhÊt? 	n-Amyl axetat	Propionic	n-Amylic	n-Valeric
+536	A	Quèc gia nµo tr¶i dµi trªn nhiÒu vÜ tuyÕn nhÊt?	Chile	Nga	Argentina	Thôy §iÓn
+537	A	Bé NhiÔm s¾c thÓ giíi tÝnh cña ng­êi bÞ bÖnh T¬cn¬ lµ g×?	OX	XXY	XXX	OY
+538	A	Con vËt g× ®· gióp nhµ b¸c häc Vonta ph¸t minh ra pin? 	Con muçi	Con ruåi	Con gµ	Con chã
+539	A	Kinh tuyÕn 0 ®é vµ vÜ tuyÕn 0 ®é giao nhau ë ch©u lôc nµo?	Ch©u Phi	Ch©u ¸	Ch©u ¢u	Ch©u Mü
+540	A	N­íc CHDCND Trung Hoa hiÖn nay cã bao nhiªu d©n téc?	56	46	66	76
+541	A	Ai ®· nãi: "Ng«n ng÷ lµ yÕu tè ®Çu tiªn cña v¨n häc"?	M. Gorki	Lªnin	B¸c Hå	Puskin
+542	A	¸nh s¸ng mÆt trêi ph¶n x¹ tõ Thiªn v­¬ng tinh cã mµu g×? 	Mµu xanh biÕc	Mµu vµng	Mµu ®á	Mµu tÝm
+543	A	Chßm sao nµo cã h×nh ch÷ c¸i W?	Thiªn HËu	B¾c §Èu	§¹i Hïng	Tr¸ng Sü
+544	A	§¬n vÞ ®o tõ th«ng trong hÖ SI? 	Wb	H	T	A
+545	A	LÔ héi tÐ n­íc ë Myanma diÔn ra vµo th¸ng mÊy trong n¨m?	Th¸ng 4	Th¸ng 1	Th¸ng 7	Th¸ng 9
+546	A	Nghµnh c«ng nghiÖp s¶n xuÊt thñy tinh gäi lµ g×?	CN Silicat	CN Cabonat	CN Nitorat	CN Nano
+547	A	C©y cÇu treo lín nhÊt thÕ giíi Acasi Caikio n»m ë quèc gia nµo? 	NhËt B¶n	Ph¸p	Australia	Mexico
+548	A	Lo¹i m­a nµo sau ®©y ®­îc h×nh thµnh tõ nh÷ng trËn m­a trong kh«ng khÝ?	M­a tuyÕt	M­a rµo	M­a phïn	M­a ®¸
+549	A	ChÊt nµo cã nhiÖt ®é nãng ch¶y cao nhÊt?	Vonfram	Graphit	Constantan	Duyra
+550	A	1 ®¬n vÞ thiªn v¨n t­¬ng ®­¬ng víi kho¶ng bao nhiªu triÖu Km?	1	10	20	50
+551	A	CÇu thñ ®eo b¨ng ®éi tr­ëng §T Anh nhiÒu nhÊt hiÖn giê lµ ai?	Billy Wright	Alan Sheare	Bobby Robson	David Beckham
+552	A	Tõ WorldCup n¨m bao nhiªu ®éi ®­¬ng kim v« ®Þch ph¶i ®¸ vßng lo¹i? 	2006	1994	1998	2002
+553	A	Loµi c«n trïng nµo cã tèc ®é bay nhanh nhÊt (58km-h)?	Chuån chuån	Ong	Ch©u chÊu	Ruåi
+554	A	§¶o lín nhÊt cña Philippines, n¬i cã thñ ®« Manila, tªn lµ g×?	Luzon	Midanao	Visayas	Cebu
+555	A	Charlemange lµ tªn thËt cña vÞ vua nµo?	Karl ®¹i dÕ	Alexander ®¹i ®Õ	Otto ®¹i ®Õ	Heirich ®Ö tø
+556	A	TiÓu thuyÕt "Thêi xa v¾ng" cña t¸c gi¶ nµo?	Lª Lùu	NguyÔn Minh Ch©u	NguyÔn §×nh Thi	Huy T­ëng
+557	A	Ai lµ ng­êi ph¸t hiÖn ra khÝ quyÓn trªn sao Kim?	Lomonosov	Kepler	Copernicus	Galileo
+558	A	C©u l¹c bé nµo ®o¹t cóp C1 ®Çu tiªn? 	Real Madrid	Juventus	Barcelona	Bayer Munich
+559	A	§éi bãng nµo cña n­íc Anh ®o¹t nhiÒu danh hiÖu v« ®Þch C1 nhÊt?	Liverpool	Manchester United	Chelsea	Arsenal
+560	A	Trong g¹o løc chøa nhiÒu Vitamin g× nhÊt?	B1	A	B12	C
+561	A	Lo¹i h×nh ©m nh¹c d©n gian cæ truyÒn VÝ dÆm lµ cña vïng nµo?	NghÖ TÜnh	B¾c Ninh	Hµ Néi	HuÕ
+562	A	Linh Tõ Quèc MÉu lµ mÑ cña vÞ vua nµo n­íc ta?	Lý Chiªu Hoµng	Quang Trung	Hµm Nghi	B¶o §¹i
+563	A	NguyÔn Trung Trùc quª ë ®©u?	Kiªn Giang	An Giang	CÇn Th¬	VÜnh Long
+564	A	C«ng ty nµo lµ nhµ ph¸t minh kü thuËt in mùc kh«?	XEROX	EPSON	IBM	Microsoft
+565	A	Nguyªn tè hãa häc cã nhiÒu thø 2 trong vò trô? 	He	N	O	H
+566	A	Hy L¹p n»m trªn b¸n ®¶o nµo cña ch©u ¢u?	Balkan	Queensland	Butrida	Xcangdinavi
+567	A	BiÖt danh Elephants lµ cña ®éi bãng ch©u Phi nµo?	Bê biÓn ngµ	Angola	Senegal	Ai cËp
+568	A	Hµnh tinh nµo cã nhiÖt ®é trung b×nh cao nhÊt trong hÖ mÆt trêi?	Sao Kim	Sao Thñy	Sao Thiªn v­¬ng	Sao Háa
+569	A	LÔ héi Canaval lµ lÔ héi næi tiÕng ë quèc gia nµo?	Brazil	Mexico	Ên ®é	Argentina
+570	A	Luxembourg kh«ng ph¶i lµ thµnh viªn cña tæ chøc nµo sau ®©y? 	OPEC	FIFA	EU	Benelux
+571	A	Quèc kú n­íc nµo gièng hÖt quèc kú Indonesia?	Monaco	Balan	Malta	M«ng cæ
+572	A	Trªn tê 100USD cña MÜ cã in hinh vÞ tæng thèng nµo?	Franklin	Washington	Lincoln	Kennedy
+573	A	N­íc nµo sau ®©y kh«ng thuéc nhãm G7?	Australia	Anh	Ph¸p	NhËt
+574	A	§iÖu Flamengo xuÊt xø tõ vïng nµo cña T©y Ban Nha?	Andalucia	Galicia	Valencia	La Mancha
+575	A	Loµi hoa nµo lµ biÓu t­îng cña Argentina?	G¹o	Cóc	§ç Quyªn	Hång
+576	A	Häa sü nµo sau ®©y kh«ng ph¶i lµ ng­êi Ph¸p?	Marc Chagall	Paul Cezanne	Claude Monet	Edgar Degas
+577	A	Khi míi thµnh lËp, ASEAN gåm bao nhiªu n­íc?	6	4	5	7
+578	A	Kim Tù Th¸p mÆt trêi cßn cã tªn gäi kh¸c lµ g×? 	Teohihuacan	Tabasco	Tula	El Tajin
+579	A	Thµnh phè nµo sau ®©y lµ thñ phñ cña tiÓu bang Queensland? 	Brisbane	Sydney	Melbourne	Adelaide
+580	A	Bøc t­îng cËu bÐ ®øng "tÌ", biÓu t­îng cña n­íc BØ, cã tªn riªng lµ g×?	Manneken Pis	Wallonia	Sambre Meuse	Passendale
+581	A	Thµnh phè nµo cña Lµo cã d©n sè cao nhÊt?	Savannakhet	Pakse	Xiang Khoang	Saravan
+582	A	H­¬ng vÞ chÝnh trong c¸c mãn ¨n cña Th¸i Lan lµ g×?	Cay	MÆn	Ngät	Chua
+583	A	§¬n vÞ tiÒn tÖ cò cña Hy L¹p lµ g×? 	Drachma	Lev	Krona	Escudo
+584	A	Ng«n ng÷ chÝnh thøc cña Pakistan lµ g×?	Urdur	Dari	Pushtu	Kurd
+585	A	Thµnh phè nµo cña Afghanistan cã nÒn kinh tÕ ph¸t triÓn nhÊt?	Kandahar	Kabul	Ghaza	Herat
+586	A	Bukit Timah lµ ngän nói cao nhÊt cña Quèc gia nµo?	Singapore	Malaysia	Indonesia	Philippines
+587	A	Quèc k× cña George xuÊt hiÖn ®Çu tiªn vµo n¨m nµo?	1917	1880	1945	1972
+588	A	N­íc nµo cã nhiÒu lÔ héi nhÊt trªn thÕ giíi, trung b×nh 3 ngµy 1 lÔ héi?	Colombia	Brazil	Urugoay	Hy L¹p
+589	A	Sö thi §am San cña d©n téc nµo?	£ ®ª	Th¸i	Giarai	Bana
+590	A	Bµi th¬ "¤ng ®å" cña Vò §×nh Liªn lÇn ®Çu xuÊt hiÖn trªn b¸o nµo? 	Tinh hoa	Phong hãa	Phô n÷	Ngµy nay
+591	A	Ai lµ t¸c gi¶ cña tiÓu thuyÕt "MÆt trêi vÉn mäc"? 	Miller Hemingway	Toni Morrison	William Golding	Thomas Mann
+592	A	§Þa danh nµo xuÊt hiÖn ®Çu tiªn trong bµi Tú Bµ Hµnh cña B¹ch C­ DÞ?	BÕn TÇm D­¬ng	Ch©n Ch©u c¶ng	Hoµng H¹c l©u	Th¨ng Long thµnh
+593	A	3 mèi quan hÖ: vua t«i, cha con, vî chång ®­îc gäi lµ g×? 	Tam c­¬ng	Tam ®µn	Tam hÖ	Tam th­êng
+594	A	Ai lµ ng­êi s¸ng t¸c kÞch nãi ®Çu tiªn cña Hµ Néi víi vë "ChÐn thuèc ®éc"?	Vò §×nh Long	Hoµng V¨n Thô	Lª H¶i TuyÕn	§oµn Ngäc ThuyÕt
+595	A	Thêi gian ®Ó mÆt trêi quanh quanh t©m Thiªn Hµ cña chóng ta?	225 triÖu n¨m	225 ngµn n¨m	225 v¹n n¨m	225 tØ n¨m
+596	A	Mét ngµy trªn sao Thñy dµi b»ng kho¶ng bao l©u trªn Tr¸i §Êt?	6 th¸ng	1 th¸ng	1 n¨m	6 n¨m
+597	A	§¬n vÞ sinh th¸i nµo bao gåm tÊt c¶ c¸c nh©n tè v« sinh?	HÖ sinh th¸i	QuÇn x·	QuÇn The	Loµi
+598	A	Napoleon Bonaparte sî nhÊt con vËt g×?	Con mÌo	Con r¾n	Con s©u	Con ruåi
+599	A	M«n thÓ thao nµo ®em vÒ tÊm huy ch­¬ng ®Çu tiªn cho §oµn VN t¹i Seagame23?	QuÇn vît	§iÒn kinh	Nh¶y cao	ThÓ h×nh
+600	A	Ai lµ t¸c gi¶ cña "Thñy Hö"?	Thi N¹i Am	La Qu¸n Trung	Ng« Thõa ¢n	Lª H¶i TuyÕn
+601	A	Bµi h¸t "T×nh ca" cña Hoµng ViÖt nh¾c ®Õn mïa nµo trong n¨m? 	Xu©n	H¹	Thu	§«ng
+602	A	C¸i nµo kh«ng ph¶i lµ 1 trong 3 ®Ønh cña tam gi¸c quû Bermuda?	§¶o Hawaii	§¶o Bermuda	§¶o PuertoRico	B¸n ®¶o Florida
+603	A	ThuËt ng÷ Big Bang (vô næ lín) ®· ®­îc nhµ khoa häc nµo ®Ò xuÊt?	F.Hoyle	G.Lemantre	O.Klein	G.Gamow
+604	A	Chïa Thiªn Mô do ai ®Æt tªn?	NguyÔn Hoµng	Lý Nam §Õ	Lý C«ng UÈn	Lª Lîi
+605	A	ChÊt nµo sau ®©y cã kh¶ n¨ng cho ph¶n øng tr¸ng g­¬ng?	Glucozo	Glixerin	Axeton	Etilen Glicol
+606	A	Ca sü ViÖt Nam nµo tham gia liªn hoan tiÕng h¸t ch©u ¸ lÇn thø 2?	Mü Linh	Lam Tr­êng	§an Tr­êng	Mü T©m
+607	A	Ngoµi Nam Phi, trªn thÕ giíi cßn cã n­íc nµo cã nhiÒu h¬n 1 Thñ ®«?	Yemen	Kenya	Bolivia	Kazakhstan
+608	A	Sau 1975, c¶ n­íc b¾t ®Çu sö dông chung mét lo¹i tiÒn tõ n¨m nµo?	1986	1985	1987	1988
+609	A	C¸i g× lµ "bøc b×nh phong cña kinh thµnh HuÕ"?	Nói Ngù B×nh	Cöa Ngä M«n	S«ng H­¬ng	§Ìo H¶i V©n
+610	A	Hµo khÝ §«ng A lµ tinh thÇn cña triÒu ®¹i nµo? 	Nhµ TrÇn	Nhµ NguyÔn	Nhµ Lý	Nhµ Hå
+611	A	T¸c phÈm truyÖn ng¾n nµo ®· kÕt thóc b»ng c©u: "Tiªn s­ anh Tµo Th¸o"?	Sè §á	§«i M¾t	ChÝ PhÌo	ChÞ DËu
+612	A	Líp mµng ngoµi cïng cña mµng n·o lµ g×?	Mµng cøng	ChÊt tr¾ng	Vá n·o	ChÊt x¸m
+613	A	N­íc TriÒu Tiªn bÞ chia 2 miÒn Nam B¾c t¹i vÜ tuyÕn sè bao nhiªu?	38	27	28	37
+614	A	Ai lµ t¸c gi¶ bµi h¸t "Trªn ®Ønh Phï V©n"?	Phã §øc Ph­¬ng	Hoµng V©n	Phan Huúnh §iÓu	TrÞnh C«ng S¬n
+615	A	Muèn ®Õn th¨m di tÝch lÞch sö Dinh Hä V­¬ng, b¹n ph¶i ®Õn ®Þa danh nµo?	Hµ Giang	Phó Thä	Thanh Hãa	NghÖ An
+616	A	§¹i héi thÓ thao c¸c n­íc ch©u ¸ cã tªn lµ g×?	Asiad	Asian cup	Seagame	Asian game
+617	A	ë §«ng Nam ¸ hiÖn nay, cã bao nhiªu quèc gia cßn cã vua trÞ v×?	3	1	2	4
+618	A	ë Th¸i B×nh cã lÔ héi g× sau ®©y?	Héi Chïa Keo	Héi YÕt Kiªu	Héi §×nh B¶ng	Héi Chïa ThÇy
+619	A	Sa m¹c Gobi thuéc quèc gia nµo?	M«ng Cæ	Mü	Chile	Trung Quèc
+620	A	Th¸ng 3 cã bao nhiªu ngµy?	31	28	29	30
+621	A	Tªn gäi cña nguyªn tè Clo (Cl) cã nghÜa lµ g×?	Vµng lôc	X¸m	Xanh l¸	§á tÝa
+622	A	Bé phim "C¸nh ®ång hoang" dùa trªn t¸c phÈm cña nhµ v¨n nµo?	Quang S¸ng	Nam Cao	Hång Ph¸t	Th¹ch Lam
+623	A	Maradona ®· ®o¹t chøc v« ®Þch quèc gia Italia 1987 víi c©u l¹c bé nµo?	Napoli	AC Milan	AS Roma	Juventus
+624	A	Khu l¨ng mé cña vÞ hoµng ®Õ Trung Quèc ®Çu tiªn n»m ë t×nh nµo?	ThiÓm T©y	Giang Nam	ChiÕt Giang	S¬n §«ng
+625	A	Ai lµ ng­êi ®Çu tiªn ®­a ra c«ng thøc cña bµi to¸n c¬ häc? 	Acsimet	Galile	Newton	Pascal
+626	A	Chïa D¬i thuéc tØnh nµo cña n­íc ta? 	Sãc Tr¨ng	Cµ Mau	B¹c Liªu	Kiªn Giang
+627	A	Tê b¸o ®Çu tiªn cña C¸ch m¹ng Nga lµ g×?	Tia Löa	D©n téc	Cïng khæ	Bóa liÒm
+628	A	§¬n vÞ tÝnh ®é ph©n gi¶i mµn h×nh lµ g×?	Pixel	Bit	Mgbs	Inch
+629	A	§éi tuyÓn nµo v« ®Þch gi¶i bãng ®¸ n÷ ViÖt Nam 2006?	Hµ T©y	B¾c Giang	Hµ Néi	TP.HCM
+630	A	Napoleon ®· bÞ trôc xuÊt vµ sèng nh÷ng ngµy cuèi ®êi t¹i hßn ®¶o nµo?	Saint Helen	Madagasca	Hawaii	Java
+631	A	§¬n vÞ tiÒn tÖ cña Thôy §iÓn lµ g×?	Krone	Euro	Schilling	Zloty
+632	A	Hãa th¹ch t«m ba l¸ t×m thÊy ®­îc ë kû nµo? 	Kû Cambri	Kû Xilua	Kû Xilua	Kû Than ®¸
+633	A	Bµi th¬ nµo sau ®©y kh«ng ph¶i lµ cña n÷ thi sÜ Hå Xu©n H­¬ng?	H¸t ru	M¾ng häc trß dèt	B¸nh tr«i n­íc	§¸nh ®u
+634	A	Ai lµ ng­êi thùc hiÖn ph¶n øng h¹t nh©n ®Çu tiªn?	Rutherford	Davy	Marie Curie	Faraday
+635	A	S«ng Danuyp ®æ ra BiÓn §en t¹i Quèc Gia nµo?	Rumania	Bulgaria	Hungaria	Gruzia
+636	A	C©u l¹c bé nµo cã nhiÒu cÇu thñ ®o¹t Qu¶ Bãng Vµng ch©u ¢u nhÊt?	Juventus	AC Milan	Inter Milan	Real Madrid
+637	A	C¬ quan n¨ng l­îng nguyªn tö quèc tÕ viÕt t¾t lµ g×?	IAEA	FAO	NASA	IMF
+638	A	WLAN lµ viÕt t¾t cña hÖ thèng m¹ng nµo?	M¹ng kh«ng d©y	M¹ng ®iÖn tho¹i	M¹ng Internet	M¹ng ATM
+639	A	Ng­êi ch©u ¸ ®Çu tiªn bay vµo vò trô?	Lôc Thiªn B¶o	Komamoto	Ph¹m Tu©n	Tahamat
+640	A	Gi¸ trÞ cùc ®¹i cña li ®é trong dao ®éng ®­îc gäi lµ g×?	Biªn ®é	C­êng ®é	Tèc ®é	Cùc ®é
+641	A	S«ng Linh Giang hay Thanh Hµ lµ tªn gäi kh¸c cña dßng s«ng nµo?	S«ng Gianh	S«ng NhËt LÖ	S«ng H­¬ng	S«ng Hång
+642	A	Thµnh phè nµo cña ViÖt Nam tr­íc ®©y tõng cã tªn lµ Tèng B×nh? 	Hµ Néi	TP. HCM	§µ N½ng	HuÕ
+643	A	§¬n vÞ tån t¹i cña loµi trong thiªn nhiªn lµ g×? 	QuÇn thÓ	C¸ thÓ	QuÇn x·	HÖ sinh th¸i
+644	A	Trong 5 gi¸c quan l­ìi thuéc gi¸c quan nµo?	VÞ gi¸c	Khøu gi¸c	ThÝnh gi¸c	ThÞ gi¸c
+645	A	Nguyªn tè Cacbon cã bao nhiªu electron?	6 electron	10 electron	12 electron	2 electron
+646	A	Tãc n©u m«i trÇm lµ tªn mét ca khóc g¾n liÒn víi ca sÜ tr×nh bµy nµo?	Mü T©m	Quang Dòng	Hång Nhung	§an Tr­êng
+647	A	Hå n­íc næi tiÕng ë Hµ Néi tªn g×?	Hå Hoµn KiÕm	Hå Xu©n H­¬ng	Hå Ba BÓ	Hå Than Thë
+648	A	VÞ vua cuèi cïng cña triÒu ®¹i Phong KiÕn ViÖt Nam lµ?	B¶o §¹i	Kh¶i §Þnh	Gia Long	Cµn Long
+649	A	QuÇn ¸o cì lín nhÊt th­êng ®­îc ký hiÕu nh­ thÕ nµo?	XXM	XXS	L	S
+650	A	Lo¹i h×nh v¨n nghÖ nµo mµ ng­êi b×nh d©n Nam bé rÊt ­a thÝch?	C¶i l­¬ng	H¸t chÌo	H¸t béi	Hß Qu¶ng
+651	A	Ngµy sinh cña chñ tÞch Hå ChÝ Minh?	19-05-1890	19-05-1980	19-08-1890	30-04-1930
+652	A	Trong c¸c loµi chim d­íi ®©y loµi nµo th­êng hay ¨n thÞt?	Kªn kªn	S¸o sËu	ChÝch chße	Gâ kiÕn
+653	A	VËt thÓ trong m¸u gåm cã : B¹ch CÇu, TiÓu CÇu vµ?	Hång CÇu	§¹i CÇu	H¾c CÇu	Trung CÇu
+654	A	Trong c¸c tõ sau ®©y, tõ nµo kh«ng dïng ®Ó chØ r©u?	Tr¸i xoan	Dª	Quai nãn	C¸ chèt
+655	A	N¨m 938, Ng« QuyÒn ®¸nh tan qu©n?	Nam h¸n	Ch¨m pa	Nguyªn	M«ng cæ
+656	A	Con s«ng ch¶y qua thµnh phè HuÕ lµ s«ng g×?	S«ng H­¬ng	S«ng T« LÞch	S«ng §ång Nai	S«ng Mª k«ng
+657	A	Con s«ng chÝnh ë Ai CËp tªn g×?	Nil	Danube	Amazone	Tigris
+658	A	Ngän nói cao nhÊt n­íc ta tªn g×?	Fansipan	Hoµnh S¬n	Ngäc Linh	Tr­êng S¬n
+659	A	Con s«ng dµi nhÊt Nam Mü tªn g×?	Amazone	Indus	Missisippi	Nil
+660	A	Trong lóc ®iÒu trÞ bÖnh sèt xuÊt huyÕt b¸c sÜ th­êng khuyªn ng­êi bÖnh uèng n­íc g×?	N­íc chanh	Trµ	Cµ phª	Ca cao
+661	A	Trong c¸c loµi d­íi ®©y, con nµo kh«ng thuéc loµi bß s¸t?	èc b­¬u	Khñng long	R¾n	C¸ sÊu
+662	A	Christopher Columbus kh¸m ph¸ ra ch©u Mü n¨m nµo?	1492	938	983	1324
+663	A	M«n thÓ thao nµo sau ®©y kh«ng cã vÞ trÝ thñ m«n?	Bãng bÇu dôc	Khóc kh«n cÇu	Bãng ®¸	Bãng nÐm
+664	A	Vïng nµo lµ vïng trång d©u nu«i t»m c«ng nghiÖp lín nhÊt n­íc ta?	T©y nguyªn	§ång b»ng s«ng Hång	§ång b»ng s«ng Cöu Long	Duyªn h¶i miÒn Trung
+665	A	Lo¹i nµo sau ®©y khi n¶y mÇm sÏ sinh ®éc tè?	Khoai t©y	§Ëu xanh	§Ëu nµnh	Khoai lang
+666	A	§ång tiÒn ®Çu tiªn trong lÞch sö n­íc ta ®­îc ®óc vµo d­êi thêi nµo?	Nhµ §inh	Nhµ TrÇn	Nhµ hËu Lª	Nhµ NguyÔn
+667	A	Con g× kh«ng thuéc loµi c¸ mµ thuéc loµi bß s¸t?	C¸ sÊu	C¸ tai t­¬ng	C¸ heo	C¸ lãc
+668	A	B¶ng ch÷ c¸i tiÕng viÖt cã bao nhiªu nguyªn ©m?	12 nguyªn ©m	6 nguyªn ©m	10 nguyªn ©m	17 nguyªn ©m
+669	A	Tªn mét vÞ thÇn t×nh yªu trong thÇn tho¹i Hy L¹p lµ?	Cupid	Venus	Argon	Herong
+670	A	TrËn §iÖn Biªn Phñ trªn kh«ng diÔn ra bao nhiªu ngµy ®ªm?	12	11	13	14
+671	A	Chïa "Mét cét" ®ù¬c x©y dùng vµo thêi nµo?	Thêi Lý	Thêi Lª	Thêi TrÇn	Thêi NguyÔn
+672	A	B¶n tuyªn ng«n ®éc lËp thø 2 do ai so¹n th¶o?	NguyÔn Tr·i	TrÇn H­ng §¹o	NguyÔn KhuyÕn	TrÇn Quèc To¶n
+673	A	Lµng B¸t Trµng ë miÒn B¾c næi tiÕng vÒ nghÒ truyÒn thèng nµo?	Lµm ®å gèm	DÖt v¶i	§óc ®ång	Tranh s¬n mµi
+674	A	Hå BiÓu Ch¸nh lµ t¸c gi¶ cña t¸c phÈm nµo d­íi ®©y?	Ngän cá giã ®ïa	N¾ng trong v­ên	S«ng C«n mïa lò	L·o h¹c
+675	A	ChÊt liÖu nµo sau ®©y ®­îc dïng ®Ó may quÇn ¸o Jeans cæ ®iÓn?	V¶i §ªmim	V¶i Katª	V¶i Sil	V¶i Kaki
+676	A	C¸c lo¹i b¸nh d­íi ®©y cã mét lo¹i kh«ng lµ b¸nh n­íng?	B¸nh tiªu	B¸nh thuÈn	B¸nh b«ng lan	B¸nh kÑp
+677	A	Hµnh tinh to nhÊt trong HÖ MÆt Trêi lµ hµnh tinh nµo?	Sao Méc	Sao Thiªn V­¬ng	Sao Chæi	Sao Thæ
+678	A	Ban nh¹c næi tiÕng ThÕ giíi nµo sau ®©y ®· tõng ®Õn ViÖt Nam tr×nh diÔn?	Boney M	ABBA	Backstreet boy	MTV
+679	A	Nh©n vËt n÷ nµo sau ®©y trong v¨n häc n­íc ta lµ nh©n vËt h­ cÊu?	ChÞ DËu	ChÞ ót tÞch	ChÞ T­ hËu	ChÞ Quyªn
+680	A	Khi tan vì Liªn bang X« ViÕt cã bao nhiªu n­íc thµnh viªn?	15 n­íc thµnh viªn	8 n­íc thµnh viªn	10 n­íc thµnh viªn	16 n­íc thµnh viªn
+681	A	Cleopatre lµ n÷ hoµng n­íc nµo?	Ai cËp	Hi l¹p	La m·	Do th¸i
+682	A	Nam diÔn viªn ®ãng vai chÝnh trong phim LÊy vî Sµi Gßn lµ ai?	Nguyªn Vò	Quang Dòng	Lam Tr­êng	§an Tr­êng
+683	A	§iÓm ph¹t ®Òn trong m«n bãng nÐm c¸ch khung thµnh bao nhiªu mÐt?	6 mÐt	10 mÐt	11 mÐt	16.5 mÐt
+684	A	Con Õch ®­îc ngµnh vËt lý nµo sau ®©y sö dông lµm vËt thÝ nghiÖm ®Çu tiªn?	§iÖn häc	¢m häc	Quang häc	NhiÖt häc
+685	A	Lo¹i r­îu næi tiÕng cña Bå §µo Nha tªn g×?	Porto	Sake	Vodka	Bå ®µo mü töu
+686	A	Khu kinh tÕ më Chu Lai thuéc ®Þa bµn cña tØnh nµo n­íc ta?	Qu¶ng Nam	Phó Yªn	B×nh d­¬ng	§ång Nai
+687	A	Khi trêi m­a trong n­íc m­a cã chÊt g× lµm cho s¾t chãng rØ sÐt?	Acid Nitric	Acid Oleic	Acid Oxalic	Acid Glutamic
+688	A	Bµi th¬ R¾n ®Çu biÕng häc do ai s¸ng t¸c?	Lª Quý §«n	M¹c §Ünh Chi	Tr¹ng Quúnh	Th»ng Bêm
+689	A	T¸c phÈm ®iªu kh¾c nµo sau ®©y trë thµnh mét trong nh÷ng biÓu t­îng cña Ai CËp?	T­îng Nh©n S­	T­îng thÇn Venus	T­îng thÇn Zeus	T­îng Cleopatre
+690	A	Khñng long xuÊy hiÖn vµo kû nguyªn nµo?	Permain	Jurassic	Cretasious	Cambrian
+691	A	Bøc häa La Joncode do ai vÏ?	Leonard de Vinci	Picasso	Vang go	Mozart
+692	A	Ai lµ ng­êi kh¸m ph¸ ra quang tuyÕn X?	Rontgen	Hezt	Tesla	Henry
+693	A	Khu du lÞch biÓn SÇm S¬n thuéc ®Þa phËn tØnh thµnh nµo?	Thanh Hãa	Cµ Mau	Bµ RÞa	B×nh D­¬ng
+694	A	Lôc ®Þa lín thø 3 ch©u lôc lµ lôc ®Þa nµo?	Ch©u Phi	Ch©u ¢u	Ch©u ¸	Ch©u Mü
+695	A	Kú Thñ cê vua nµo ë ViÖt Nam ®­îc phong lµ ®¹i kiÖn t­íng quèc tÕ?	§µo Thiªn H¶i	Lý An ThuËn	NguyÔn Gia B¶o	TrÇn §¹i Th¾ng
+696	A	Trong côm tõ H¸n ViÖt "Danh Lam Th¾ng C¶nh" tõ nµo có nghÜa lµ chïa?	Lam	Danh	Th¾ng	C¶nh
+697	A	Ai ph¸t minh ra bãng ®Ìn ®iÖn cã d©y tãc?	Thomas	Noben	Mac	Garile
+698	A	Ng­êi thèng nhÊt c¸c bé l¹c M«ng Cæ lµ ai?	Thµnh C¸t T­ H·n	¸i NhØ C¸p TÒ	T­ M·	Ngò Tö T­
+699	A	Côm di tÝch ®Òn thê c¸c vua Hïng n»m ë TØnh Thµnh nµo?	Phó Thä	B×nh D­¬ng	An Kh¸nh	Hµ Néi
+700	A	§iÓm B¾c cùc cña n­íc ViÖt Nam thuéc tØnh nµo?	Hµ Giang	Kiªn Giang	H¶i Phßng	Cµ Mau
+701	A	ë ViÖt Nam, b¶o th­êng ®æ bé vµo ®Êt liÒn theo h­íng nµo?	§«ng	B¾c	Nam	T©y
+702	A	§éng c¬ nµo ph¶i cã bé phËn ®¸nh löa?	§éng c¬ x¨ng	§éng c¬ ®iÖn	§éng c¬ nhiÖt	§éng c¬ m¸y
+703	A	Tai ng­êi rÊt hiÕm khi cö ®éng ®­îc lµ do kh«ng cã g×?	C¬	X­¬ng	M¸u	§éng M¹ch
+704	A	N­íc nµo cã diÖn tÝch lín nhÊt thÕ giíi?	Canada	Trung Quèc	Nga	Mü
+705	A	ChÊt nµo kh«ng ®­îc phÐp cã trong thøc ¨n?	Phooc M«n	§¹m	§­êng	X¬
+706	A	Ai lµ ng­êi theo Phan §×nh Phïng ®óc sóng chèng Ph¸p?	Cao Th¾ng	Lª Vò CÇu	La V¨n CÇu	TrÇn H­ng §¹o
+707	A	§µi t­ëng niÖm NguyÔn V¨n Trçi n»m trªn ®­êng nµo?	Nam Kú Khëi NghÜa	Hai Bµ Tr­ng	L¹c Long Qu©n	Lý Th­êng KiÖt
+708	A	Gi¶i bãng ®¸ WorldCup ®Çu tiªn ®­îc tæ chøc vµo n¨m nµo?	1930	1932	1940	1928
+709	A	Ngµy nµo lµ ngµy gia ®×nh ViÖt Nam?	28-6	25-6	28-7	25-7
+710	A	Chî trung t©m cña thµnh phè Nha Trang lµ chî g×?	Chî §Çm	Chî G¹o	Chî CÇu Muèi	Chî ChiÕu
+711	A	Agatha n÷ sÜ ng­êi Anh chuyªn viÕt truyÖn vÒ thÓ lo¹i g×?	Trinh Th¸m	KiÕm HiÖp	T×nh C¶m	Tù Sù
+712	A	Quèc gia nµo ë §«ng Nam ¸ kh«ng cïng mói giê víi ViÖt Nam (nhanh h¬n 1 giê)?	Xingapo	Indonesia	Thai Lan	Campuchia
+713	A	BiÓn nµo gîi chót h×nh t­îng vÒ chiÕc g­¬ng soi?	§Þa Trung H·i	Th¸i B×nh D­¬ng	§¹i T©y D­¬ng	B¾c B¨ng D­¬ng
+714	A	Aljred Nobel - ng­êi s¸ng lËp gi¶i Noben lµ ng­êi n­íc nµo?	Thôy §iÓn	Hµ Lan	Mü	Nga
+715	A	Ng«n ng÷ nµo sau ®©y cã nhiÒu ch÷ c¸i nhÊt?	Nga	ViÖt Nam	Mü	Anh
+716	A	QuÇn ®¶o FiFi n»m ë Ch©u nµo?	Ch©u §¹i D­¬ng	Ch©u ©u	Ch©u ¸	Ch©u Mü
+717	A	N¨m 2003 thµnh phè XanhpªtÐcpua cña Nga kØ niÖm bao nhiªu n¨m thµnh lËp?	300 n¨m	200 n¨m	400 n¨m	250 n¨m
+718	A	Trong triÒu ®¹i nhµ TrÇn, viªn t­íng nµo sau ®©y thµnh c«ng trong nghÒ kinh doanh?	TrÇn Kh¸nh D­	Lý An Kh¸nh	TrÇn Nguyªn H·n	TrÇn §¹i La
+719	A	ë c¸c loµi vËt cã vó c¸c ®èt x­¬ng cæ ®Òu hiÕm khi v­ît qu¸ con sè mÊy?	7	10	32	15
+720	A	§­êng xÝch ®¹o ch¹y qua bao nhiªu quèc gia?	12	13	14	15
+721	A	H·ng phim ®Çu tiªn ViÖt Nam thµnh lËp cã tªn g×?	Asia Phim	Sµi Gßn Phim	H·ng Phim Thèng NhÊt	H·ng Phim B«ng Sen
+722	A	N÷ diÓn viªn xuÊt s¾c nhÊt gi¶i Oscar 2003 lµ ai?	Nicol Kidman	TriÖu Vy	Ch­¬ng Tö Di	Còng Lîi
+723	A	Ca khóc bÊt hñ "Top of the world" tõng ®­îc 1 nhãm nh¹c næi tiÕng tr×nh bµy ®ã lµ nhãm?	Capenter	Westlife	MTV	Take That
+724	A	Ngµy 26-03-1931 cã 1 tæ chøc vÒ chÝnh trÞ ®­îc h×nh thµnh gãp phÇn vµo viÖc gi¶i phãng d©n téc ®ã chÝnh lµ?	§oµn thanh niªn	Qu©n ®éi nh©n d©n	HéI sinh viªn	§¶ng céng s¶n
+725	A	Tæ chøc ViÖt Nam Thanh Niªn C¸ch M¹ng §ång ChÝ Héi ®­îc thµnh lËp t¹i ®©u?	Qu¶ng Ch©u	Thiªn T©n	ChiÒu Tr©u	Qu¶ng §«ng
+726	A	T¹i Seagames 21 n­íc ViÖt Nam giµnh ®­îc bao nhiªu huy ch­¬ng Vµng?	33	71	156	25
+727	A	Tõ n¨m 1989 trë l¹i ®©y n­íc ViÖt Nam giµnh ®­îc thµnh tÝch cao nhÊt t¹i Seagames vµo n¨m nµo?	2003	1999	1993	1989
+728	A	N­íc ta chÝnh thøc lÊy tªn Céng Hoµ X· Héi Chñ NghÜa ViÖt Nam vµo ngµy th¸ng n¨m nµy?	25-4-1976	27-5-1974	17-2-1977	17-1-1975
+729	A	VÞnh H¹ Long ®­îc UNESCO c«ng nhËn lµ kú quan thiªn nhiªn cña thÕ giíi víi h¬n bao nhiªn hßn ®¶o?	300 hßn ®¶o	200 hßn ®¶o	100 hßn ®¶o	400 hßn ®¶o
+730	A	DiÖn tÝch ®Êt ®ai ë ViÖt Nam ®­îc xÕp h¹ng bao nhiªu trªn thÕ giíi?	65	85	55	75
+731	A	M¸y vi tÝnh vµo giai ®o¹n ®Çu ®­îc dïng cho?	Qu©n sù	§iÖn to¸n	Kinh tÕ	Khoa häc
+732	A	Ai lµ ng­êi ph¸t minh ra ®iÖn tho¹i?	Grahambell	Edition	NewTon	Einstrein
+733	A	Hßn ®¶o nµo ®­îc xem lµ lín nhÊt thÕ giíi?	Greenland	Scandinavi	Phó Quèc	Madagasca
+734	A	Ng­êi ®Çu tiªn th¸m hiÓm vßng quanh tr¸i ®Êt lµ ng­êi n­íc nµo?	Bå §µo Nha	Anh	T©y Ban Nha	§øc
+735	A	N­íc nµo ph¸t minh ra giÊy ®Çu tiªn?	Ai CËp	Trung Quèc	Ên §é	Hy L¹p
+736	A	WorldCup 1986 ®· ®­îc tæ chøc t¹i Quèc gia nµo?	Mªxic«	Mü	ý	§øc
+737	A	Quèc gia nµo cã sè ng­êi chÕt v× dÞch cóm gia cÇm nhiÒu nhÊt thÕ giíi?	Indonesia	Singapore	Malaysia	Th¸i Lan
+738	A	Ai lµ vua ph¸ l­íi WorldCup 2006?	Klose	Grosso	Porposky	Henry
+739	A	ë Ch©u ¢u, n­íc nµo lµ n­íc x©y dùng v­ên cÊm quèc gia ®Çu tiªn n¨m 1969?	Thôy §iÓn	Ba Lan	§an M¹nh	óc
+740	A	V­ên cÊm Quèc Gia Cóc Ph­¬ng ®­îc lËp ra vµo n¨m nµo?	1962	1960	1961	1963
+741	A	Cuéc c¸ch m¹ng c«ng nghiÖp lÇn thø 2 diÔn ra ë ®©u?	Anh	Nga	§øc	Mü
+742	A	Close to you lµ ca khóc næi tiÕng cña nhãm nh¹c nµo?	Carpenter	Boney M	Modern Talking	Badboyblue
+743	A	Trong chiÕn tranh thÕ giíi lÇn thø 2 n­íc §øc ®· ®¸nh n­íc nµo ®Çu tiªn ®Ó më ®Çu cho cuéc x©m l­îc trªn toµn thÕ giíi?	Ba Lan	Nga	Lybia	Thôy §iÓn
+744	A	Quü loµi vËt hoang d· thÕ giíi cã tªn lµ?	WWF	IUCN	CCN	UFO
+745	A	N­íc nµo phãng thµnh c«ng tµu vò trô cã ng­êi l¸i lªn tr¹m kh«ng gian lÇn thø 3?	Trung Quèc	NhËt B¶n	Singapo	Hµn Quèc
+746	A	Xµ phßng lµ hçn hîp cña muèi Natri víi?	AxÝt bÐo	Axit Clohidric	Axit Axetic	Axit Nitric
+747	A	§¹o nho trë thµnh hÖ t­ t­ëng chÝnh thèng cña ®¼ng cÊp thèng trÞ vµo thêi nµo?	Thêi Lª	Thêi Lý	Thêi NguyÔn	Thêi TrÇn
+748	A	DiÔn viªn n÷ chÝnh trong phim "VÜ tuyÕn 17- ngµy vµ ®ªm"?	NSND Trµ Giang	NSND TuÖ Minh	NSND Thanh Tó	NSND Hoµng Minh
+749	A	Th¸p chµm chÞu ¶nh h­ëng cña kiÕn tróc nµo?	Nam Ên	M· Lai	Th¸i Lai	Ch¨m
+750	A	B¾t Vî lµ tËp tôc c­íI xin cña d©n téc nµo?	H-M«ng	M­êng	£-§ª	Th¸i
+751	A	Quèc hiÖu nhµ n­íc ta lµ "ViÖt Nam" cã tõ thêi NguyÔn ¸nh n¨m?	1804	1802	1803	1805
+752	A	Con ë miÒn Nam ra th¨m l¨ng B¸c, ®· thÊy trong s­¬ng hµng tre b¸t ng¸t lµ 2 c©u th¬ trong bµi?	ViÕng L¨ng B¸c	Ra L¨ng B¸c	Th¨m L¨ng B¸c	KÝnh yªu B¸c
+753	A	"GÆm 1 khèi c¨m hên trong cñi s¾t, ta n»m dµi tr«ng ngµy th¸ng dÇn" qua lµ c©u th¬ ®­îc viÕt bëi?	ThÕ L÷	TrÇn TÕ X­¬ng	ViÔn Ph­¬ng	ChÝnh H÷u
+754	A	B¶n tr­êng ca "§Î ®Êt ®Î n­íc" lµ cña d©n téc nµo?	£-®ª	H-M«ng	Ch¨m	M­êng
+755	A	Nèi d©y lµ tËp tôc cña d©n téc?	£-®ª	M­êng	H-M«ng	Ch¨m
+756	A	CÇn Giê thuéc ®Þa phËn tØnh nµo?	TP Hå ChÝ Minh	§ång Nai	B×nh D­¬ng	Long An
+757	A	Tªn 1 v­ên quèc gia næi tiÕng ë §ång Nai?	C¸t Tiªn	CÇn Giê	B×nh Ch©u	M· §·
+758	A	VÞ vua nµo ph¸t hµnh tiÒn giÊy ®Çu tiªn ë n­íc ta?	Hå Qóy Li	Minh M¹ng	TrÇn H­ng §¹o	NguyÔn HuÖ
+759	A	Víi nh¹c nÒn du d­¬ng, l·ng m¹n, ca khóc chÝnh trong game Final Fantasy 8 lµ?	Eyes on me	The piper	Fantasy	melody of life
+760	A	Tõng vang danh 1 thêi, nhãm nh¹c the Bee Gees gåm mÊy thµnh viªn?	3	1	2	4
+761	A	Ngµy 20-11 chÝnh thøc ®­îc chän lµm ngµy "HiÕn ch­¬ng c¸c nhµ gi¸o" t¹i ®©u?	Vac-xa-va (Ba Lan)	Washington (Mü)	Roma (Italia)	Mac-x©y (Ph¸p)
+762	A	Sau khi chuyÓn ®i tõ c©u l¹c bé Fiorentina, Gabriel Batistuta gióp c©u l¹c bé nµo dµnh chøc v« ®Þch?	As-Roma	Juve	AC Milan	Inter Milan
+763	A	Giai ®o¹n §¹i ViÖt tån t¹i ®­îc bao nhiªn thÕ kû?	5	4	3	6
+764	A	Vô nhiÔm ®éc thñy ng©n ë vÞnh Minamata (NhËt) do n­íc th¶i x¶y ra vµo n¨m?	1952	1996	1947	1899
+765	A	Trong trËn ý-Hµn Quèc t¹I WorldCup 2002, cÇu thñ nµo ph¶i nhËn chiÕc thÎ vµng cuèi cïng?	Francessco Totti	Perotta	ParkChiSung	AnJungHoang
+766	A	HuÊn luyÖn viªn dÉn d¾t ý vµo kú WorldCup 2002 lµ ai?	Trappatoni	Ericsson	Capello	Mourinho
+767	A	Trong lÞch sö WorldCup ai ®· ph¸ kû lôc cña déi bom cu¶ Gerd Muller?	Ronaldo	Batistuta	Pavel Nedved	Wayne Rooney
+768	A	Vua s­ tö lµ biÖt danh do c¸c fan bãng ®¸ giµnh tÆng cho cÇu thñ nµo?	Batigol	Totti	Montella	Nedved
+769	A	Java lµ tªn cña 1 quÇn ®¶o ë ®©u?	Indonesia	Malaysia	Ên §é	Thai Lan
+770	A	Wanney Rooney ra s©n trong ®éi tuyÓn Anh vµo n¨m bao nhiªu tuæi?	18	20	19	21
+771	A	Nhµ sinh vËt häc ng­êi §øc Ernst haaeckel ®· ®Ò xuÊt thuËt ng÷ "Ecologhi" vµo n¨m nµo?	1869	1870	1871	1872
+772	A	C©y l« héi (nha ®am) thuéc hä nµo?	Agaveceae	Fabaceae	Poaceae	Sonneratiaceae
+773	A	Ca khóc nµo ®· tõng ®­îc ca sÜ næi tiÕng Lobo tr×nh bµy?	How can't I tell her	Everytime	Last Chrismast	Hello
+774	A	Arrol Carter lµ em trai cña 1 thµnh viªn trong nhãm nh¹c nµo?	Backstreet Boy	Nsync	westlife	Five
+775	A	T¸c gi¶ cña t¸c phÈm "Bè giµ" lµ ai?	Mario Puzzo	J.K.Rowling	Mac Helen	Margeret Thetcher
+776	A	Trong hÖ mÆt trêi, hµnh tinh nµo kh«ng cã mÆt tr¨ng?	Thñy tinh vµ Kim tinh	Méc tinh	Kim tinh	Thñy tinh
+777	A	HiÖn t­îng khi mÆt trêi, tr¸i ®Êt vµ mÆt tr¨ng theo thø tù cïng n»m trªn ®­êng th¼ng	NguyÖt thùc	Hoµng h«n	Giao thõa	NhËt thùc
+778	A	Ai lµ ng­êi ®Çu tiªn chøng minh tr¸i ®Êt cã d¹ng h×nh cÇu?	Aristotle	Copecnich	Galileo 	Acsimet 
+779	A	Hµnh tinh nµo tù quay nhanh ®Õn møc mét ngµy ë ®ã chØ kho¶ng 10 giê ®ång hå?	Thæ tinh vµ Méc tinh	Méc tinh vµ Kim tinh	Thæ tinh vµ Kim tinh	Kim tinh vµ Háa tinh
+780	A	Hµnh tinh nµo cã chiÒu quay kh«ng cïng chiÒu víi c¸c hµnh tinh cßn l¹i?	Kim tinh	Tr¸i dÊt	Háa tinh	Thñy tinh
+781	A	Nh÷ng hµnh tinh nµo kh«ng cã bÇu khÝ quyÓn?	Thñy tinh	Kim tinh	Méc tinh	Tr¸i ®Êt
+782	A	Trong c¸c ®¬n vÞ ®o chiÒu dµi sau, ®¬n vÞ nµo lµ lín nhÊt?	Pasªc	Km	N¨m ¸nh s¸ng	§¬n vÞ thiªn v¨n
+783	A	C©u l¹c bé nµo duy nhÊt ch­a tõng v¾ng mÆt ë c¸c cóp ch©u ¢u kÓ tõ khi gi¶i nµy ®­îc khëi tranh (1955)?	Barcelona	Manchester United	Ajax Amsterdam	Juventus
+784	A	C©u l¹c bé nµo ®­îc liªn ®oµn bãng ®¸ thÕ giíi (FIFA) chän lµ c©u l¹c bé xuÊt s¾c nhÊt thÕ kû 20?	Real Madrid	Manchester United	Barcelona	Juventus
+785	A	Sea Games lÇn ®Çu tiªn ®­îc tæ chøc vµo n¨m nµo?	1959	1955	1963	1969
+786	A	ThÎ vµng, thÎ ®á ®­îc sö dông lÇn ®Çu tiªn t¹i WorldCup vµo n¨m nµo?	1970	1955	1959	1982
+787	A	Thñ m«n duy nhÊt trong lich sö bãng ®¸ tõng giµnh qu¶ bãng vµng ch©u ¢u lµ ng­êi n­íc nµo?	Nga	Anh	T©y Ban Nha	§øc
+788	A	Tõ Sea Games 22 trë ®Õn nay, ®Þa ®iÓm thi ®Êu ph¶i treo bao nhiªu l¸ cê?	14	8	10	18
+789	A	Logo cña SEA Games 22 do ai s¸ng t¸c?	NguyÔn TrÝ Long	Bïi NhËt Quang	NguyÓn Th¸i Hïng	NguyÔn Quang Vinh
+790	A	Di tÝch cña sinh vËt sèng trong c¸c thêi ®¹i tr­íc ®Ó l¹i trong c¸c líp ®Êt ®¸ ®­îc gäi lµ g×?	Hãa th¹ch	Sinh vËt cæ	Sinh vËt nguyªn thñy	Cæ sinh vËt häc
+791	A	Lo¹i h¹t nµo sau ®©y cã kh¶ n¨ng tån t¹i l©u nhÊt?	H¹t hoa sóng	H¹t ng«	H¹t æi	H¹t tiªu
+792	A	M¸u chøa bao nhiªu phÇn tr¨m n­íc (%)?	78	30	48	85
+793	A	C¬ së vËt chÊt chñ yÕu cña sù sèng lµ g×?	Protein vµ Axit Nucleic	Protein	Axit Nucleic	Carbon hydrat
+794	A	C¸c nguyªn tè nµo sau ®©y phæ biÕn nhÊt cña c¬ thÓ sèng?	C. H, O, N.	N, P, K, ca.	C. H, O, N, Cu, Zn.	C. H, O, N, N, P, K, Mg
+795	A	§Æc ®iÓm nµo sau ®©y ®· cã ë v­în ng­êi?	BiÓu lé t×nh c¶m vui buån	§«i tay ®· tù do khi di chuyÓn	§øng th¼ng	T­ duy tr×u t­îng phøc t¹p
+796	A	Trong c¸c d¹ng v­în ng­êi, d¹ng cã quan hÖ gÇn gòi víi ng­êi nhÊt lµ?	Tinh tinh	V­în	KhØ G«rila	§­êi ­¬i
+797	A	Cét sèng h×nh ch÷ S ë ng­êi liªn quan ®Õn ho¹t ®éng nµo sau ®©y?	§i ®øng th¼ng	Ph¸t triÓn tiÕng nãi	Sö dông c«ng cô lao ®éng	T­ duy trõu t­îng
+798	A	§Æc ®iÓm nµo sau ®©y ë ng­êi g¾n liÒn víi sù ph¸t triÓn cña tiÕng nãi?	X­¬ng hµm d­íi c»m låi râ	R¨ng nanh kÐm ph¸t triÓn	Tr¸n réng vµ th¼ng	Gê hèc m¾t kh«ng cã
+799	A	Trong quang hîp, ¸nh s¸ng mµu g× cã kh¶ n¨ng cung cÊp nhiÒu n¨ng l­îng nhÊt cho c©y?	Xanh, ®á, tÝm	TÊt c¶ ®Òu cho kÕt qu¶ nh­ nhau	Tia hång ngo¹i vµ tia cùc tÝm	Vµng, lôc, da cam
+800	A	VÞ thÇn nµo sau ®©y lµ thÇn ¸nh s¸ng, thÇn thi ca, thÇn ©m nh¹c, thÇn tiªn tri trong thÇn tho¹i Hy L¹p?	Apollo	Ares	Hera	Athena
+801	A	Khi ë mét m×nh trªn ®¶o hoang, ®éng vËt nµo sau ®©y ®­îc Robinson Crusoe sö dông nhiÒu nhÊt?	Dª	Lîn rõng	Bß s÷a	Cõu
+802	A	Ai lµ ng­êi ®Çu tiªn trë thµnh tû phó ®« la Mü nhê viÕt s¸ch?	J. K. Rowling	Oprah Gail Winfrey	Ingvar Kamprad	Carlos Slim Helus
+803	A	C¸c bµi th¬ "Hµnh lé nan", "TÜnh d¹ t­", "Th¸i liªn khóc" lµ nh÷ng bµi th¬ cña t¸c gi¶ nµo?	Lý B¹ch	Tõ Ng­ng	§ç Phñ	Tr­¬ng H¸n Siªu
+804	A	LÇn ®Çu tiªn trong lÞch sö ViÖt Nam, t¸c phÈm nµo ®· thay thÕ lèi kÕt cÊu ch­¬ng håi b»ng kÕt cÊu theo quy lËt t©m lý?	Tè t©m	Sè ®á	BØ vá	TÊt c¶ ®Òu sai
+805	A	T¸c phÈm nµo sau ®©y lªn ¸n chÕ ®é n« lÖ ë Mü vµo thÕ kû 19?	Tóp lÒu b¸c Tom	Nhµ tµi chÝnh	ChiÕc l¸ cuèi cïng	Cuèn theo chiÒu giã
+806	A	T¸c phÈm "ChÝ PhÌo" cña Nam Cao ®­îc ®æi tªn mÊy lÇn?	3	2	4	5
+807	A	TruyÒn thuyÕt nµo sau ®©y thuéc thêi kú ¢u L¹c?	An D­¬ng V­¬ng	Th¸nh Giãng	L¹c Long Qu©n - ¢u C¬	S¬n Tinh - Thñy Tinh
+808	A	Ng­êi hiÖn th©n cho søc m¹nh vµ vÎ ®Ñp cña ng­êi Hy L¹p trong tr­êng ca "Illiat vµ Odyssey"	Asin (Achilles)	ThÇn Dít (Zeus)	Odixe (Odyssey)	Hecquyn (Hercules)
+809	A	Cho tíi n¨m 2003, sè m«n thi ®Êu nhiÒu nhÊt t¹i SEA Games lµ bao nhiªu?	34	24	25	42
+810	A	LÇn ®Çu tiªn SEA Games cã 10 quèc gia tham dù ®­îc tæ chøc t¹i ®©u?	Th¸i Lan	Indonesia	ViÖt Nam	Myanmar
+811	A	Cho ®Õn n¨m 2001, thø h¹ng cao nhÊt cña ®oµn ViÖt Nam qua c¸c kú SEA Games lµ h¹ng mÊy?	4	2	3	5
+812	A	Cho ®Õn n¨m 2007, Th¸i Lan ®· tæ chøc bao nhiªu lÇn §¹i héi SEA Games?	6	3	4	5
+813	A	SEA Games 22 ®­îc tæ chøc ë ViÖt Nam cã bao nhiªu m«n thi ®Êu?	32	28	34	38
+814	A	CÇu thñ ®­îc mÖnh danh lµ "ChiÕc ch©n tr¸i ma thuËt"?	Rivaldo	Romario	Thierry Henry	Roberto Carlos
+815	A	Bãng bµn lµ mét trong nh÷ng m«n thÓ thao phæ biÕn nhÊt trªn thÕ giíi, nã cã nguån gèc tõ n­íc nµo?	Anh	Ph¸p	Trung Quèc	Hy L¹p
+816	A	NguyÔn Thóy HiÒn ®· trë thµnh vËn ®éng viªn ViÖt Nam ®Çu tiªn giµnh huy ch­¬ng vµng t¹i mét gi¶i v« ®Þnh thÕ giíi n¨m bao nhiªu tuæi?	14	12	16	18
+817	A	Lý TiÓu Long lµ mét diÔn viªn vâ thuËt næi tiÕng trong nÒn ®iÖn ¶nh n­íc nµo?	Mü	Trung Quèc	Anh	Ph¸p
+818	A	§µn bÇu xuÊt hiÖn ë ViÖt Nam vµo kho¶ng thêi gian nµo?	ThÕ kû thø 7	ThÕ kû thø 9	ThÕ kû thø 11	ThÕ kû thø 17
+819	A	Gi¶i th­ëng "C¸nh diÒu vµng" ®· ®­îc tæ chøc lÇn ®Çu tiªn vµo n¨m nµo?	2002	1998	1996	1994
+820	A	Phim ®Çu tiªn cña ng­êi ViÖt?	§ång tiÒn kÏm tËu ®­îc ngùa	Trän t×nh	C¸nh ®ång hoang	C¸nh ®ång ma
+821	A	Bèi c¶nh cña phim "Mïi ®u ®ñ xanh" lµ Sµi Gßn thËp niªn 1950, bé phim ®­îc quay ë ®©u?	Paris	ViÖt Nam	Th­îng H¶i	New York
+822	A	Siªu sao ®iÖn ¶nh Thµnh Long cña Trung quèc cã hä lµ g×?	TrÇn	Lý	TriÖu	Hå
+823	A	§iÒu kiÓn tõ xa ®­îc ph¸t minh vµo n¨m nµo?	1898	1828	1788	1918
+824	A	M¸y bay tr­c th¨ng ®­îc ph¸t minh vµo n¨m nµo?	1936	1945	1914	1880
+825	A	Nh÷ng ngµy ®Çu thµnh lËp, Nokia - h·ng ®iÖn tho¹i di ®éng lín nhÊt thÕ giíi ngµy nay chuyªn s¶n xuÊt mÆt hµng g×?	GiÊy	Vi m¹ch	§iÖn tho¹i	Cao su
+826	A	Th¸p Eiffel ®­îc hoµn tÊt vµo n¨m nµo?	1889	1905	1883	1833
+827	A	¤ng lµ ng­êi s¸ng lËp ra h·ng «t« næi tiÕng, tuy nhiªn «ng cßn lµ mét thî söa ®ång hå rÊt giái.	Henry Ford	Toyoda Kiichiro	Soichiro Honda	Chung Ju-Yung
+828	A	Tªn d©n gian cña Venus (Sao Kim)	Sao mai hay Sao h«m	Sao khuª	Sao chøc n÷	Sao b¾c ®Èu
+829	A	Quü ®¹o chuyÓn ®éng cña c¸c hµnh tinh quanh mÆt trêi lµ ®­êng g×?	Elip	Parapol	Hypecpol	Trßn
+830	A	Lß ph¶n øng h¹t nh©n cña n­íc ta ®Çu tiªn n»m ë ®©u?	§µ L¹t	Hµ Néi	CÇn Th¬	§ång Nai
+831	A	B¸n kÝnh tr¸i ®Êt lµ bao nhiªu kilomet (Km)?	6.378	63.78	6.378.000	6.873
+832	A	§Ëu t­¬ng, l¹c, thuèc l¸ ®­îc trång nhiÒu nhÊt trªn lo¹i ®Êt nµo?	§Êt b¹c mÇu	§Êt phÌn	§Êt phï sa	§Êt x¸m
+833	A	NÕu b¹n ®ang ë vÜ ®é 0, kinh ®é 0, b¹n ®ang ë:	§¹i T©y D­¬ng	Greenwich (Anh Quèc)	Ghana (Quèc gia t¹i T©y Phi)	Hawaii (Bang thø 50 cña Mü)
+834	A	DiÖn tÝch n­íc ta réng kho¶ng bao nhiªu Km2?	330	300	250	260
+835	A	Con s«ng nµo ch¶y qua 10 n­íc ch©u ¢u vµ 3 thñ ®«?	Danube (§a Nuýp)	Volga	Thames	Rheil
+836	A	MËt ®é d©n sè thµnh phè nµo ®«ng nhÊt trong nh÷ng thµnh phè sau?	New York	Hµ Néi	Tokyo	Moskva
+837	A	Trong c¸c n­íc sau, n­íc nµo cã ®­êng biªn giíi víi n­íc ta lµ dµi nhÊt?	Lµo	Th¸i Lan	Trung Quèc	Campuchia
+838	A	Hå n­íc ngät nµo lín nhÊt theo thÓ tÝch vµ s©u nhÊt thÕ giíi?	Hå Baikal	Hå Victoria	Hå Ladoga	Hå Lhagba Pool
+839	A	Thµnh phè thñ ®« cña quèc gia nµo n»m ë gÇn cùc b¾c nhÊt?	Iceland (Ai X¬ Len)	Stockholm (Thôy §iÓn)	Moskva (Nga)	Victoria (Cabada)
+840	A	§¹i d­¬ng cã diÖn tÝch nhá nhÊt trªn thÕ giíi?	B¾c b¨ng d­¬ng	Th¸i b×nh d­¬ng	§¹i t©y d­¬ng	Ên ®é d­¬ng
+841	A	BiÓn néi ®Þa cã diÖn tÝch réng nhÊt?	§Þa trung h¶i	BiÓn Caspi	Th¸i b×nh d­¬ng	BiÓn hång h¶i
+842	A	Tªn d·y nói lín nhÊt thÕ giíi?	Himalaya	Andes	Alps	Tr­êng S¬n
+843	A	Thµnh phè ®­îc mÖnh danh lµ thµnh phè hoa hång?	Portland (Mü)	Paris (Ph¸p)	Sofia (Bulgaria)	London (Anh)
+844	A	Vïng cã tû lÖ ng­êi biÕt ch÷ thÊp nhÊt n­íc ta lµ?	T©y b¾c	§«ng b¾c	T©y nguyªn	B¾c trung bé
+845	A	N¬i cã h¶i c¶ng sÇm uÊt nhÊt thÕ giíi, b¹n cho biÕt tªn thµnh phè nµy?	Th­îng H¶i	London	New York	Tr©n Ch©u C¶ng
+846	A	Ch©u nµo gÇn nh­ toµn bé c¸c n­íc ®Òu trång lóa?	Ch©u Phi	Ch©u ¸	Ch©u ¢u	Ch©u Mü
+847	A	Nói löa ho¹t ®éng lín nhÊt thÕ giíi hiÖn nay n»m ë ®©u?	QuÇn ®¶o Hawaii	Indonesia	NhËt B¶n	Philippines
+848	A	Thµnh phè ®«ng d©n nhÊt §«ng Nam ¸?	Jakarta	Thµnh phè Hå ChÝ Minh	Bangkok	Phn«m Pªnh
+849	A	Nguån gèc tªn n­íc nµy cã nghÜa lµ "ng«i lµng"?	Canada	§µi Loan	Mexico	Hµn Quèc
+850	A	Hå nµo lín nhÊt thÕ giíi?	Caspi	Baikal	Ngò §¹i Hå	Victoria
+851	A	Hå n­íc ngät lín nhÊt §«ng Nam ¸?	BiÓn hå Campuchia	Hå Ba BÓ	Hå Thanh H¶i	Hå T©y
+852	A	NhiÖt ®é cao nhÊt thÕ giíi ®­îc ghi nhËn ë ®©u?	Sa m¹c Libya	Thung lòng chÕt California	Sa m¹c Sahara	Sa m¹c Gobi (M«ng cæ)
+853	A	Sa m¹c nµo lín nhÊt thÕ giíi?	Sa m¹c Sahara	Sa m¹c Gobi (M«ng Cæ)	Great Victoria	Great Sandy
+854	A	N¬i lßng s«ng Mª K«ng më réng nhÊt thuéc biªn giíi n­íc nµo?	Lµo - Campuchia	ViÖt Nam - Campuchia	Trung Quèc - Myanmar	Myanmar - Th¸i Lan
+855	A	Lo¹i ®¸ ®­îc h×nh thµnh tõ x¸c ®éng vËt?	§¸ v«i	§¸ catket	§¸ trÇm tÝch	§¸ magma
+856	A	Lo¹i ®Êt cã diÖn tÝch lín nhÊt §ång b»ng S«ng Cöu Long?	§Êt PhÌn	§Êt ®Çm lÇy	§Êt mÆn	§Êt phï sa
+857	A	S«ng dµi thø ba thÕ giíi?	Mississippi	Nil	Amazon	Hoµng Hµ
+858	A	Bøc tranh ®iªu kh¾c b»ng ®¸ to nhÊt, dµi nhÊt thÕ giíi n»m ë ®©u?	Campuchia	Trung Quèc	Mü	Lµo
+859	A	§Òu ®Æc biÖt Kimono y phôc truyÒn thèng cña NhËt B¶n lµ g×?	ChØ cã mét kÝch cì	ChØ mÆc vµo mïa ®«ng	Lµm b»ng lo¹i lôa ®Æc biÖt	Kh«ng thÓ tù mÆc
+860	A	L¸ cê ®á sao vµng lÇn ®Çu tiªn xuÊt hiÖn vµo trong thêi gian nµo?	Khëi nghÜa Nam Kú	Khëi nghÜa H­¬ng Khª	Binh biÕn §« L­¬ng	Khëi nghÜa B¾c S¬n
+861	A	TiÕng viÖt lµ ng«n ng÷ phæ biÕn thø mÊy t¹i Mü?	7	5	6	8
+862	A	Thôy §iÓn næi tiÕng víi thÓ lo¹i nh¹c nµo?	Pop	Dance	Jazz	Cæ ®iÓn
+863	A	C.M¸c lµm Tæng biªn tËp cho tê b¸o nµo vµo n¨m 1842?	B¸o s«ng Ranh	Biªn niªn Ph¸p §øc	T×nh c¶nh giai cÊp CN Anh	Tuyªn ng«n §¶ng Céng s¶n
+864	A	ë §«ng Nam ¸, §¶ng Céng s¶n ®­îc thµnh lËp ®Çu tiªn t¹i n­íc nµo?	Indonesia	ViÖt Nam	Lµo	Campuchia
+865	A	Di Hßa Viªn lµ n¬i næi tiÕng vÒ nghÖ thuËt hoa viªn truyÒn thèng cña Trung Quèc. B¹n cho biÕt lÞch sö tån t¹i cña no (n¨m).	800	500	700	1
+866	A	B¹n cho biÕt th¸p Rïa ®­îc x©y dùng ë thÕ kû nµo?	18	15	16	17
+867	A	B¹n cho biÕt vua Lª nµo ®­îc lÞch sö t«n lµm anh hïng?	Lª Th¸i Tæ	Lª HiÒn T«ng	Lª Chiªu T«ng	Lª Th¸nh T«ng
+868	A	Christopher Columbus ®­îc sinh ra ë ®©u?	Italia	Anh	Ph¸p	§øc
+869	A	Khèi Warszawa lµ mét liªn minh gåm bao nhiªu n­íc?	8	4	5	6
+870	A	B¹n cho biÕt kho¶ng bao nhiªu phÇn tr¨m d©n sè ViÖt Nam sö dông tiÕng ViÖt (%)?	85	68	90	95
+871	A	B¹n cho biÕt th¸p CN (CN Tower) lµ ngän th¸p næi tiÕng thÕ giíi cña thµnh phè nµo?	Toronto	Tokyo	New York	London
+872	A	Che Guevara hay El Che lµ mét nhµ ho¹t ®éng c¸ch m¹ng næi tiÕng, b¹n cho biÕt «ng lµ ng­êi n­íc nµo?	Argentina	Cuba	Venezuela	Mexico
+873	A	§ång tiÒn chung Ch©u ¢u (Euro) chÝnh thøc ®­îc l­u hµnh vµo n¨m nµo?	2002	1998	2000	2001
+874	A	D­íi ®êi nhµ TrÇn, ai lµ thÇy gi¸o, nhµ nho ®­îc nhiÒu ng­êi träng dông nhÊt?	Chu V¨n An	Tr­¬ng H¸n Siªu	NguyÔn Tr·i	Ph¹n S­ M¹nh
+875	A	Tæ chøc duy tr× hßa b×nh vµ an ninh thÕ giíi, ph¸t triÓn mèi quan hÖ gi÷a c¸c d©n téc trªn thÕ giíi trªn c¬ së t«n träng ®éc lËp.	Liªn hîp quèc	WTO	Liªn minh Ch©u ¢u	ASEAN
+876	A	VÞ tr¹ng nguyªn nhá tuæi nhÊt trong lÞch sö ViÖt Nam	NguyÔn HiÒn	Lª V¨n ThÞnh	Vò TuÊn Chiªu	NguyÔn K×
+877	A	Cã bao nhiªu vÞ thÇn trªn ®Ønh Olympus?	12	9	15	17
+878	A	V¨n MiÕu, tr­êng ®¹i häc ®Çu tiªn cña ViÖt Nam, ®­îc x©y dùng d­íi triÒu ®¹i nµo?	Nhµ hä Lý	Nhµ hä TrÇn	Nhµ hä Ng«	Nhµ hä NguyÔn
+879	A	TriÒu ®¹i nhµ NguyÔn b¾t ®Çu tõ n¨m nµo?	1802	1790	1845	1860
+880	A	ViÖt Nam trë thµnh thµnh viªn cña Liªn Hîp Quèc vµo n¨m nµo?	1977	1989	1979	1972
+881	A	§Êt n­íc nµo lµ quª h­¬ng cña «ng giµ tuyÕt?	PhÇn Lan	Anh	§an M¹ch	Mü
+882	A	NÒn v¨n minh Babylon ngµy nay thuéc ®Êt n­íc nµo?	Iraq	Arab Saudi	Iran	Hy L¹p
+883	A	Thñ ®« n­íc nµo l©u ®êi nhÊt ®«ng Nam ¸?	Hµ Néi - ViÖt Nam	Bangkok - Th¸i Lan	Viªng Ch¨n - Lµo	Phnom Penh - Campuchia
+884	A	Bao nhiªu % d©n Trung Quèc ®· x©y dùng V¹n Lý Tr­êng Thµnh thêi bÊy giê?	70	20	30	60
+885	A	B¹n cho biÕt vua Lª nµo cã tªn tuæi rùc rì nhÊt trong thêi kú trÞ n­íc?	Lª Th¸nh T«ng	Lª HiÒn T«ng	Lª Th¸i Tæ	Lª Nh©n T«ng
+886	A	B¹n cho biÕt tõ n¨m 2001, møc l­¬ng cña tæng thèng Mü lµ bao nhiªu (USD)?	400	300	500	600
+887	A	Giai ®o¹n "§«ng Chu LiÖt Quèc" trong lÞch sö Trung Hoa tÝnh tõ thêi kú nhµ nµo ®Õn thêi nhµ nµo?	Chu - TrÇn	Chu - Tïy	TÇn - Tèng	Tèng - Nguyªn
+888	A	Hai c©u th¬ "Lèi x­a xe ngùa hån thu th¶o. §Òn cò l©u ®µi bãng tÞch d­¬ng" lµ cña t¸c gi¶ nµo?	Bµ HuyÖn Thanh Quan	Hå Xu©n H­¬ng	§oµn ThÞ §iÓm	Th©m T©m
+889	A	Nh¹c sÜ TrÞnh C«ng S¬n tõng ®o¹t gi¶i "§Üa vµng" t¹i NhËt víi ca khóc nµo?	Ngñ ®i con	B«ng hång cµi ¸o	HuyÒn tho¹i mÑ	Nguån céi
+890	A	Thñ ®« cña Canada lµ?	Ottawa	Quebec	Montreal	Ontario
+891	A	Bøc tranh "ThiÕu n÷ ngåi bªn hoa HuÖ" cña t¸c gi¶ nµo?	T« Ngäc V©n	TrÇn V¨n CÈn	Bïi Xu©n Ph¸i	NguyÔn S¸ng
+892	A	Quª h­¬ng cña bia Heineken ë ®©u?	Ba Lan	Hµ Lan	Thôy §iÓn	Thôy SÜ
+893	A	Lµng Yªn Phô ë Hµ Néi næi tiÕng víi nghÒ g×?	Lµm h­¬ng	Kim hoµn	Lµm cèm	§óc ®ång
+894	A	§©u lµ tõ ®óng chÝnh t¶ nhÊt?	ChÊt ph¸c	ChÊc ph¸t	ChÊt ph¸t	ChÊc ph¸c
+895	A	S©n vËn ®éng "C«ng viªn c¸c hoµng tö" lµ s©n nhµ cña c©u l¹c bé nµo?	Paris Saint Germain	Liverpool	AC Milan	Ajax Amstecdams
+896	A	Phong trµo "v¨n hãa phôc h­ng" xuÊt hiÖn ®Çu tiªn ë n­íc nµo?	ý	Anh	Ph¸p	§øc
+897	A	Tªn "NhËp V©n Long" lµ tªn hiÖu cña nh©n vËt nµo trong bé tiÓu thuyÕt næi tiÕng Thñy Hö?	C«ng T«n Th¾ng	L©m Xung	Lç TrÝ Th©m	Lý Quú
+898	A	Tªn tiÕng Anh viÕt t¾t cña hÖ thèng tiÒn tÖ Ch©u ¢u lµ g×?	EMS	EMU	EFTA	ECU
+899	A	Mét trong c¸c bé phim ®o¹t gi¶i Oscar lÇn thø 78?	Crask	Titanic	Brokeback Mountain	Munich
+900	A	Nhµ h¸t kÞch næi tiÕng thÕ giíi c¶ ba mÆt ®Òu h­íng ra biÓn thuéc ®Êt n­íc nµo?	óc	Anh	Mü	Thôy §iÓn
+901	A	Hoa Loa KÌn th­êng xuÊt hiÖn vµo mïa nµo trong n¨m?	H¹	Xu©n	Thu	§«ng
+902	A	Bµi h¸t trong phim "Vî chång A Phñ" lµ g×?	Bµi ca trªn nói	HuyÒn tho¹i hå nói Cèc	Ch¶y ®i s«ng ¬i	D­ ©m
+903	A	Ai ®· kh¾c ch÷ "Nam thiªn ®Ö nhÊt ®éng" lªn cöa ®éng H­¬ng TÝch?	Chóa TrÞnh S©m	Chu M¹nh Trinh	Vua B¶o §¹i	Nam Ph­¬ng Hoµng HËu
+904	A	TruyÖn KiÒu cña NguÔn Du tæng céng gåm bao nhiªu c©u th¬?	3254	3001	3203	3541
+905	A	Quü nhi ®ång liªn hîp quèc viÕt t¾t lµ g×?	UNICEF	UNESCO	UNDP	UNHCR
+906	A	Bµi h¸t "GiÊc m¬ AiKia" ®­îc sö dông trong bé phim nµo?	Nh÷ng c« g¸i ch©n dµi	Yªu lÇm	39 ®é yªu	G¸i nh¶y
+907	A	Trong t¸c phÈm Tam Quèc ChÝ, ng­êi ®­îc mÖnh danh lµ "Phông Så"?	Bµng Thèng	Chu Du	Gia C¸t L­îng	T­ M· ý
+908	A	Danh häa næi tiÕng "Van Gogh" lµ ng­êi n­íc nµo?	Hµ Lan	Nga	Canada	BØ
+909	A	Gi¶i v« ®Þch bãng ®¸ thÕ giíi (WorldCup) n¨m 2010 ®­îc tæ chøc ë ®©u?	TÊt c¶ ®Òu sai	§øc	Brazil	Australia
+910	A	Ban nh¹c huyÒn tho¹i nµo thÓ hiÖn ca khóc "Yesterday"?	The Beatles	ABBA	U2	Queen
+911	A	Bé phim "Hoµng Kim Gi¸p" nãi vÒ triÒu ®¹i nµo cña Trung Quèc?	Nhµ §­êng	Nhµ Tèng	Nhµ Nguyªn	Nhµ Tïy
+912	A	Bao nhiªu n¨m th× n­íc ta tiÕn hµnh tæng ®iÒu tra d©n sè 1 lÇn?	10	3	5	15
+913	A	T¸c phÈm næi tiÕng "Chu«ng nguyÖn hån ai" cña nhµ v¨n nµo?	Ernest Miller Hemingway	Hector Malot	Mark Twain	Victor Hugo
+914	A	Ng«n ng÷ chÝnh cña CuBa lµ g×?	T©y Ban Nha	Anh	Ph¸p	Latinh
+915	A	Him Lam lµ cø ®iÓm tiªu diÖt ®Þch thø mÊy trong chiÕn dÞch §iÖn Biªn?	1	2	3	4
+916	A	Bµi phó næi tiÕng trong lÞch sö v¨n häc ViÖt Nam "Ngäc TØnh Liªn" lµ cña vÞ Tr¹ng Nguyªn nµo?	M¹c §Ünh Chi	NguyÔn HiÒn	Tr­¬ng H¸n Siªu	Lª V¨n ThÞnh
+917	A	Trong lÞch sö c©u l¹c bé Manchester United cÇu thñ ghi nhiÒu bµn th¾ng nhÊt lµ ai?	Bobby Charlton	George Best	Roy Keane	Gary Neville
+918	A	Bé phim "Sao th¸ng 8" cña ®iÖn ¶nh ViÖt Nam ra ®êi n¨m nµo?	1976	1977	1978	1979
+919	A	Hoµng hËu Mari Antoanet cña n­íc Ph¸p lµ vî cña vua nµo?	Luis 16	Luis 14	Luis 15	Vua kh¸c
+920	A	Ai ®­îc mÖnh danh lµ "Tam Nguyªn Yªn §æ"	NguyÔn KhuyÕn	NguyÔn BØnh Khiªm	NguyÔn Du	NguyÔn Tr·i
+921	A	Danh hiÖu hoa hËu thÕ giíi n¨m 2006 thuéc vÒ n­íc nµo?	CH Czech	Venezuela	Ba Lan	Thæ NhÜ Kú
+922	A	Trªn ®Ønh ngän nói Tïng ë Thanh Hãa cã l¨ng mé thê vÞ anh hïng d©n téc næi tiÕng nµo?	Bµ TriÖu	Nguyªn Phi û Lan	Lª Ch©n	Hai Bµ Tr­ng
+923	A	Tªn gäi kh¸c cña qu¶ m­íp ®¾ng?	Khæ qua	M­íp h­¬ng	BÇu	M­íp lai
+924	A	T¸c gi¶ cña bµi th¬ "Nhí con s«ng quª h­¬ng"?	TÕ Hanh	NguyÔn Thi	§ç Trung Qu©n	Quang Dòng
+925	A	T¸c gi¶ cña ca khóc "H­¬ng ngäc lan"	Anh Qu©n	Hång §¨ng	Thanh H¶i	Huy Du
+926	A	Thµnh phè nµo cña Italia ®­îc Shakespeares chän lµm bèi c¶nh diÔn ra c©u chuyÖn "Romeo vµ Juliet"?	Verona	Milan	Parma	Turin
+927	A	Thµnh phè nµo lµ trung t©m cña c¸ch m¹ng th¸ng 10 Nga?	Saint Peterburg (Leningrad )	Bacu	Stalingrad	Moskva
+928	A	ChuyÕn bay ®Çu tiªn thÕ giíi cña 2 anh em nhµ Smith ®· nèi liÒn 2 ch©u lôc nµo?	Ch©u §¹i D­¬ng - Ch©u ¢u	Ch©u ¢u - Ch©u ¸	Ch©u Phi - Ch©u Mü	Ch©u Mü - Ch©u §¹i D­¬ng
+929	A	Trong bµi th¬ "Canh mét" cña Lª Th¸nh T«ng cã c©u: "TÊp tÓnh trêi võa mäc §Çu tinh". B¹n cho biÕt §Çu tinh lµ sao n»m ë ph­¬ng nµo?	B¾c	§«ng	T©y	Nam
+930	A	Sù tÝch trÇu cau theo truyÒn thuyÕt ®· x¶y ra vµo thêi vua Hïng thø bao nhiªu?	12	10	14	16
+931	A	Quèc ng÷ cña Singapore?	Malaysia	Tamil	Singlish	Trung
+932	A	Thµnh tÝch cao nhÊt cña ®éi tuyÓn T©y Ban Nha qua c¸c kú WorldCup?	V« ®Þch	Vßng lo¹i	H¹ng t­	H¹ng ba
+933	A	§éi tuyÓn T©y Ban Nha ®· v« ®Þch Ch©u ¢u lÇn ®Çu vµo n¨m nµo?	1964	1960	1968	1972
+934	A	LÇn ®Çu tiªn ®éi tuyÓn ý v« ®Þch thÕ giíi vµo n¨m nµo?	1934	1938	1942	1946
+935	A	CÇu thñ ghi nhiÒu bµn th¾ng nhÊt ®éi tuyÓn T©y Ban Nha?	Raul gonzalez 	fernando Hierro 	fernando Morientes 	Luis enripue 
+936	A	§Êt n­íc nµo trªn thÕ giíi cã h×nh d¹ng gièng qu¶ ít?	Chile	Cuba	Brazil	Lµo
+937	A	Trong thêi kú ©m nh¹c cæ ®iÓn, khi mµ c¸c b¶n giao h­ëng ®Òu cã 4 ch­¬ng th× t¸c ph¶m nµo l¹i cã 5 ch­¬ng?	B¶n giao h­ëng ®ång quª - Beethoven	Bèn mïa - Vivaldi	Hµnh khóc Thæ NhÜ Kú - Mozart	S«ng Danube xanh - Strauss
+938	A	§¹i héi thÓ thao Olympic hiÖn ®¹i lÇn ®Çu tiªn n¨m 1886 cã mÊy m«n thÓ thao dµnh cho phô n÷?	Kh«ng cã m«n nµo	2	3	1
+939	A	Bµi h¸t "T×nh ca" cña Hoµng ViÖt nãi ®Õn mïa nµo trong n¨m?	Mïa xu©n	Mïa h¹	Mïa thu	Mïa ®«ng
+940	A	N¨m 1928, nh©n vËt ho¹t h×nh nµo lÇn ®Çu tiªn xuÊt hiÖn?	Chuét Mickey	Thñy thñ Popeye	VÞt Donald	Tom & Jerry
+941	A	World Cup lÇn ®Çu tiªn cã bao nhiªu ®éi tham dù?	13	11	12	15
+942	A	§µn ®éc huyÒn lµ tªn gäi kh¸c cña lo¹i ®µn nµo?	§µn bÇu	§µn guitar	§µn piano	§µn ®¸
+943	A	9 ngän nói cña nÒn ©m nh¹c thÕ giíi lµ 9 b¶n giao h­ëng cña ai?	Beethoven	Mozatr	Tchaicovsky	Vivaldi
+944	A	B¸n kÝnh vßng trßn trung t©m s©n bãng ®¸ chÝnh thøc lµ bao nhiªu?	9m15	8m15	8m10	9m10
+945	A	Phim C¸ch m¹ng ViÖt Nam ®Çu tiªn lµ phim g×?	Chung mét dßng s«ng	§ång tiÒn kÏm tËu ®­îc ngùa	C¸nh ®ång hoang	Phim kh¸c
+946	A	Ban nh¹c ABBA gåm bao nhiªu thµnh viªn?	4	3	5	2
+947	A	M«n vâ nµo ®­îc gäi lµ HiÖp khÝ ®¹o? 	Aikido	Judo	Pencat silat	Karatedo
+948	A	Quèc gia nµo giµnh nhiÒu huy ch­¬ng vµng thø 3 Olympic Athens 2004?	Nga	Anh	Hylap	T©y Ban Nha
+949	A	§éi tuyÓn bãng ®¸ n­íc nµo v« ®Þch Euro n¨m 1976?	Kh«ng ph¶i 3 ®éi trªn	§øc	Italy	Ph¸p
+950	A	PhÇn 1 vµ 2 cña bé phim Harry Potter do ai ®¹o diÔn?	James Cameron	Christina Anguilera	Scorpions	Kh«ng ph¶i 3 ng­êi trªn
+951	A	The Rock (diÔn viªn næi tiÕng trong X¸c ­íp Ai CËp vµ Vua Bä c¹p) tõng xuÊt th©n lµ?	Vâ sÜ ®« vËt	CÇu thñ	Båi bµn	TÊt c¶ ®Òu sai
+952	A	Joseph Haydn, t¸c gi¶ cña 104 b¶n giao h­ëng, cha ®Î cña giao h­ëng cæ ®iÓn quy ®Þnh mét b¶n giao h­ëng gåm bao nhiªu ch­¬ng?	4	3	5	6
+953	A	Trong bãng chµy, ®éi nµo ®­îc ch¬i tr­íc?	§éi kh¸ch ch¬i tr­íc.	§éi th¾ng khi ph©n ®Þnh b»ng ®ång xu.	QuyÕt ®Þnh cña träng tµi.	Chñ nhµ ch¬i tr­íc.
+954	A	Gi¶i th­ëng ®iÖn ¶nh vµ truyÒn h×nh BAFTA lµ cña n­íc nµo?	Anh	Mü	Ên §é	Italya
+955	A	Bé phim ®Çu tiªn mµ lêi tho¹i trong phim cã thÓ nghe ®­îc lµ bé phim nµo? Phim nµy s¶n xuÊt n¨m 1927	Ca sÜ nh¹c Jazz	Steam Boat	B¹ch TuyÕt vµ 7 chó lïn	Mickey Mouse
+956	A	Thi S¸ch hä g×?	§Æng	Ng«	Lª	Ph¹n
+957	A	Tªn gèc cña lo¹i b¸nh lµ ®Æc s¶n cña Tõ S¬n, §×nh B¶ng, B¾c Ninh? Nã th­êng ®­îc gäi lµ g×?	B¸nh phu thª - suxª	B¸nh c¸y	B¸nh ®a	B¸nh cu ®¬
+958	A	Héi Tao §µn do Lª Th¸nh T«ng thµnh lËp cã bao nhiªu ng­êi?	28	29	30	31
+959	A	18-4-1288, triÒu ®×nh nhµ TrÇn ®· tæ chøc d©ng tï binh nhµ Nguyªn ®Ó tá lßng biÕt ¬n víi d©n téc ë ®©u?	L¨ng vua TrÇn Th¸i T«ng.	Th¨ng Long.	BÕn B×nh Than.	Qu©n doanh V¹n KiÕp.
+960	A	ë Hµ Néi, x¸c B52 cã ë hå nµo?	Hå Ngäc Hµ	Hå T©y	Hå tróc b¹ch	Hå Ngäc Kh¸nh
+961	A	§Êt n­íc cã b¶ng ch÷ c¸i gåm 76 ch÷ c¸i.	Cambodia	Nga	China	Ph¸p
+962	A	Ng­êi lao ®éng ë ®Êt n­íc nµo kh«ng ph¶i ®ãng thuÕ?	Vatican	Thôy Sü	Kuwait	Singapore
+963	A	Vµo nh÷ng n¨m 1850-1870, n­íc nµo cã nÒn c«ng nghiÖp ®øng ®Çu thÕ gi¬i vµ ®­îc coi lµ "c«ng x­ëng cña thÕ giíi"?	Anh	Ph¸p	Mü 	§øc
+964	A	Hå ChÝ Minh viÕt b¶n di chóc ®Çu tiªn vµo n¨m nµo?	1965	1960	1966	1890
+965	A	HuyÖn Nga S¬n, TØnh Thanh Hãa næi tiÕng víi nghÒ thñ c«ng nµo?	DÖt chiÕu	DÖt v¶i	Lµm chiÕu	Lµm nãn
+966	A	NguyÔn §×nh ChiÓu sinh ra ë ®©u?	Gia §Þnh	Cao B»ng	Qu¶ng Ninh	NghÖ An
+967	A	B¸c Hå ph¸t ®éng TÕt Trång C©y vµo n¨m nµo?	1960	1965	1961	1954
+968	A	¤ng tæ cña "§ên ca tµi tö"?	Cao V¨n LÇu	NguyÔn V¨n Ch¸nh	NguyÔn Th­îng HiÒn	Cao B¸ Long
+969	A	NguyÔn TÊt Thµnh lÊy tªn lµ NguyÔn ¸i Quèc vµo n¨m nµo?	1919	1980	1965	1954
+970	A	B¶n ¸n chÕ ®é Thùc d©n Ph¸p cña Hå ChÝ Minh gåm bao nhiªu ch­¬ng vµ bao nhiªu phô lôc?	12 ch­¬ng vµ 1 phô lôc	12 ch­¬ng vµ 9 phô lôc	5 ch­¬ng vµ 3 phô lôc	12 ch­¬ng vµ 5 phô lôc
+971	A	Chïa nµo ®­îc Lý Nam §Õ cho x©y dùng sau khi lªn ng«i hoµng ®Õ n¨m 544?	Chïa ChÊn Quèc	Chïa 1 cét	Chïa H­¬ng	Chïa PhËt TÝch
+972	A	Líp mµng v«i máng xuÊt hiÖu trªn r¨ng khi b¹n th­ìng xuyªn quªn ch¶i r¨ng gäi lµ g×?	Cao r¨ng	Men r¨ng	S©u r¨ng	Kh«ng ph¶i 3 lo¹i trªn
+973	A	Thiªn thÓ nµo lín ®Ôn nçi ngay c¶ ¸nh s¸ng còng kh«ng tho¸t khái träng lùc cña nã?	Hè ®en	Hè s©u	Hè ¸nh s¸ng	Lo¹i kh¸c
+974	A	Dßng s«ng b¨ng di chuyÓn chËm dÇn xuèng d­íi ch©n nói gäi lµ g×?	B¨ng hµ	B¨ng tan	B¨ng tr«i	B¨ng ®¸
+975	A	Danh t­íng cã c©u nãi næi tiÕng "Ngåi yªn ®îi giÆc kh«ng b»ng ®em qu©n ra tr­íc ®Ó chÆn mòi nhän cña giÆc" lµ ai?	Lý Th­êng KiÖt	TrÇn Quèc To¶n	Vâ Nguyªn Gi¸p	Ng­êi kh¸c
+976	A	Bµi h¸t "B¸c ®ang cïng chóng ch¸u hµnh qu©n" do ai s¸ng t¸c?	Huy Thôc	Hoµng Ngäc Ph¸ch	TrÇn TiÕn	TrÇn HiÕu
+977	A	TiÓu thuyÕt v¨n häc ®Çu tiªn cña ViÖt Nam lµ t¸c phÈm nµo?	Tè t©m	Sèng mßn	¸nh tr¨ng quª	kh«ng ph¶i 3 t¸c phÈm trªn
+978	A	N¨m ph¸t minh ra Penecilin?	1928	1929	1930	1931
+979	A	§¬n vÞ d©n c­ nhá nhÊt ë vïng d©n téc kh¬ me Nam bé, t­¬ng ®­¬ng víi lµng ®­îc gäi lµ g×?	Sãc	Bu«n	B¶n	Vïng
+980	A	Kim lo¹i nµo cã nhiÒu nhÊt trong líp vá tr¸i ®Êt?	Nh«m	S¾t	§ång	Ch×
+981	A	§µn Guitar th­êng cã mÊy d©y?	6	5	7	8
+982	A	Braxin ®· tõng lµ thuéc ®Þa cña n­íc nµo?	Bå §µo Nha	Anh	Ph¸p	Mü
+983	A	TrÇn Quèc TuÊn lµ con cña ai?	TrÇn LiÔu	TrÇn B¸ Nhi	NguyÔn §øc Long	NguyÔn Thµn
+984	A	Hång K «ng ®­îc trao tr¶ l¹i cho Trung Quèc vµo n¨m nµo?	1997	1996	1998	1999
+985	A	Bé phim "Rõng ph­¬ng Nam" ®­îc chuyÓn thÓ tõ truyÖn ng¾n nµo?	§Êt rõng ph­¬ng nam	§Êt Ph­¬ng nam 	Quª h­¬ng t«i	kh«ng ph¶i ph­¬ng ¸n trªn
+986	A	Con ng­¬i cña mÌo thu nhá nhÊt vµo lóc nµo?	Khi n¾ng chãi	Ban ®ªm	Khi b¾t chuét	Lu«n lu«n më to
+987	A	Quèc hiÖu ®Çu tiªn cña n­íc ta?	V¨n Lang	§¹i cæ viÖt	ViÖt Nam	ViÖt
+988	A	Tªn viÕt t¾t cña ng©n hµng ph¸t triÓn Ch©u ¸?	ADB	UDP	ADP	ASK
+989	A	§µn thËp lôc cßn gäi lµ ®µn g×?	§µn tranh	§µn ®¸y	§µn Guitar	Kh«ng cã tªn gäi kh¸c
+990	A	§©y lµ n¨m ®¸nh dÊu rÊt nhiÒu sù kiÖn quan träng trªn thÕ giíi: chó cõu Dolly ®­îc nh©n b¶n v« tÝnh ra ®êi , n¨m mÊt cña c«ng n­¬ng Diana .. ®ã lµ n¨m nµo	1997	1995	1996	2000
+991	A	Ngµy thu ph©n lµ ngµy nµo?	23-9	25-10	40516	23-5
+992	A	CÇu Mü ThuËn b¾c qua con s«ng nµo?	S«ng TiÒn	S«ng Hång	S«ng Th­¬ng	S«ng Cöu Long
+993	A	M«n thÓ thao nµo mµ tªn cña nã cã nghÜa lµ Tay kh«ng?	Karate	Bãng ®¸	Bãng chµy	Bãng ræ
+994	A	Nh¹c cô gâ cæ nhÊt cña n­íc ta tªn lµ g×?	§µn ®¸	Trèng ®ång	Trèng ®¸	kh«ng ph¶i 3 lo¹i trªn
+995	A	Cã bao nhiªu vÞ tr¹ng nguyªn d­íi thêi vua Gia Long?	kh«ng cã tr¹ng nguyªn	1	2	10
+996	A	Mét sµo b»ng bao nhiªu th­íc?	15	10	20	100
+997	A	Ng­êi ViÖt Nam ®Çu tiªn ®­îc Unessco c«ng nhËn lµ danh nh©n v¨n ho¸ thÕ giíi?	NguyÔn Tr·i	NguyÔn KhuyÕn	Hå ChÝ Minh	TrÇn Quèc To¶n
+998	A	S«ng MeKong b¾t nguån tõ ®©u?	Trung Quèc	Lµo	Campuchia	ViÖt Nam
+999	A	§µn Guitar cã nguån gèc tõ n­íc nµo?	T©y Ban Nha	Anh	Trung Quèc	ViÖt Nam
+1000	A	Bµi h¸t "Lªn Ngµn" lµ cña t¸c gi¶ nµo?	Hoµng ViÖt	TrÇn TiÕn	TrÇn HiÕu	kh«ng biÕt t¸c gi¶
+1001	A	L¸ cê n­íc Mü cã bao nhiªu ng«i sao?	50	51	45	100
+1002	A	Tªn Quèc gia v« ®Þch bãng ®¸ ch©u ©u n¨m 1992?	§an M¹ch	Anh	Ph¸p	§øc
+1003	A	Tr­íc khi tan vì Liªn bang X« viÕt cã bao nhiªu n­íc?	15	11	12	14
+1004	A	NguyÔn Tr·i viÕt B×nh Ng« Ëi C¸o vµo n¨m nµo?	1427	1834	1440	1228
+1005	A	Bµ HuyÖn Thanh Quan t¶ c¶nh ®Ìo ngang vµo thêi gian nµo trong ngµy?	ChiÒu	S¸ng	Tr­a	Tèi
+1006	A	Lo¹i c©y vÏ trªn l¸ cê cña Liªn Hîp Quèc lµ c©y g×?	¤Liu	Cä	Nhµi	Hång
+1007	A	Cã bao nhiªu bé l¹c hîp thµnh nhµ n­íc V¨n Lang?	15	9	10	17
+1008	A	Beethoven viÕt ®­îc bao nhiªu b¶n nh¹c giao h­ëng?	9	5	6	13
+1009	A	¢m thanh cña ve sÇu c¸i ph¸t ra tõ ®©u?	Kh«ng cã ©m thanh	C¸nh	Måm	§u«i
+1010	A	§Ønh nói cao nhÊt n­íc ta (Fansipan) thuéc tØnh nµo?	Lµo Cai	S¬n La	Cao B»ng	B¾c K¹n
+1011	A	Trong thÕ kû XX n­íc T©y Ban Nha tæ chøc WorldCup vµo n¨m nµo?	1982	1991	1988	1983
+1012	A	Say it your way lµ khÈu hiÖu cña m¹ng di ®éng nµo? 	Viettel	Vina	Mobile	VN Mobile
+1013	A	Ao thu l¹nh lÏo n­íc trong veo lµ c©u th¬ trong bµi th¬ nµo?	Thu §iÕu	Thu VÞnh	Thu Èm	Kh«ng ph¶i
+1014	A	ViÖt Nam lµ thµnh viªn th­ bao nhiªu cña WTO?	150	140	145	151
+1015	A	WTO tiÕp nhËn ®¬n xin gia nhËp cña ViÖt Nam vµo n¨m nµo?	1995	1994	1997	1997
+1016	A	VÞnh H¹ Long ®­îc Unessco céng nhËn lµ di s¶n thiªn nhiªn thÕ giíi vµo n¨m nµo?	1994	1995	1996	1997
+1017	A	Héi chïa thÇy thuéc tØnh nµo?	Hµ T©y (Cò)	B¾c Ninh	L¹ng S¬n	B¾c Giang
+1018	A	Nh¹c sÜ nµo cã t¸c phÈm ®­îc dÞch ra tiÕng n­íc ngoµi nhiÒu nhÊt?	TrÞnh C«ng S¬n	TrÇn TiÕn	TrÇn HiÕu	Duy M¹nh
+1019	A	C¶ng lín nhÊt §«ng Nam ¸ lµ c¶ng nµo?	Singapore	Lµo	ViÖt Nam	Th¸i Lan
+1020	A	Loµi th©n cá lín nhÊt?	Tre	Tróc	Cá lau	Cá gÊu
+1021	A	Ngµy h¹ chÝ lµ ngµy nµo?	22-6	22-4	23-9	23-5
+1022	A	Ngµy thu ph©n lµ ngµy nµo?	23-9	22-6	22-4	23-5
+1023	A	Heraclit coi c¸i g× lµ yÕu tè ®Çu tiªn cña nguån gèc loµi ng­êi?	Löa	N­íc	Vò trô	§Êt
+1024	A	Ch©n ®µ ®iÓu cã bao nhiªu mãng?	2	1	3	4
+1025	A	Quèc hiÖu §¹i ViÖt chÝnh thøc b¾t ®Çu tõ n¨m nµo nµo?	1054	1052	1053	1055
+1026	A	Con sªn cã mÊy c¸i mòi?	4	2	3	1
+1027	A	Sao H«m - Sao Mai lµ tªn gäi kh¸c cña hµnh tinh nµo?	Sao kim	Sao méc	Sao thæ	Sao thñy
+1028	A	Quang Trung ®· hÑn qu©n sÜ mïng mÊy tÕt sau khi chiÕn th¾ng sÏ më tiÖc ¨n mõng?	7	4	5	6
+1029	A	1 MÉu b»ng bao nhiªu sµo?	10	5	15	100
+1030	A	Nguyªn tö Cacbon cã bao nhiªu electron?	6	4	8	9
+1031	A	Quª h­¬ng cña cèi xay giã?	Iran	Hµ Lan	BØ	Italia
+1032	A	Mét ng­êi sinh ngµy 29.2.1960. §Õn n¨m 2006 ng­êi ®ã ®· tæ chøc sinh nhËt bao nhiªu lÇn?	11	10	12	13
+1033	A	B¹n h·y cho biÕt ng­êi ®Çu tiªn ®¹t gi¶i Nobel khu vùc §«ng Nam ¸ mang quèc tÞch n­íc nµo?	ViÖt Nam	Lµo	Th¸i Lan	Indonexia
+1034	A	B¸o thanh niªn ®­îc xuÊt b¶n n¨m nµo?	1925	1924	1954	1945
+1035	A	Kim lo¹i dÉn ®iÖn tèt nhÊt?	Vµng	§ång	Nh«m	B¹c
+1036	A	Sinh vËt ®­îc chia thµnh bao nhiªu giíi?	5	2	4	7
+1037	A	Trong truyÖn ng¾n "¤ng l·o ®¸nh c¸ vµ con c¸ vµng", «ng l·o ®· ra biÓn mÊy lÇn?	6	3	4	5
+1038	A	Ng«n ng÷ mµ Singapo ®ang dïng hiÖn nay lµ ng«n ng÷ nµo trong c¸c ng«n ng÷ sau?	Anh ng÷	Quèc ng÷	Ph¸p ng÷	T©y ban nha
+1039	A	Ch©m cøu lµ dïng c©y kim ®©m vµo n¬i nµo trªn c¬ thÓ ng­êi?	HuyÖt	§Çu	Chç bÞ bÖnh	Tïy Ng­êi ch©m cøu
+1040	A	§éi bãng nµo ®· v« ®Þch WC 1998?	Ph¸p	Brazil	Italia	§øc
+1041	A	Thµnh phè ®­îc coi lµ s¹ch nhÊt thÕ giíi thuéc n­íc nµo?	Singapore	§øc	Mü	Italia
+1042	A	§éi bãng chuyÒn nµo ®· tõng 8 lÇn v« ®Þch thÕ giíi?	Brazil	Mü	ViÖt Nam	Trung Quèc
+1043	A	Quèc k× cña céng hßa liªn bang §øc cã bao nhiªu mµu?	3	2	4	5
+1044	A	Bµi h¸t "Thanh niªn lµm theo lêi b¸c" hay "§oµn ca" lµ s¸ng t¸c cña ai?	Hoµng Hßa	TrÇn HiÕu	TrÇn TiÕn	kh«ng ph¶i 3 t¸c gi¶ trªn
+1045	A	C©y ca cao cã nguån gèc tõ ch©u lôc nµo?	Ch©u MÜ	Ch©u ¸	Ch©u ¢u	Ch©u Phi
+1046	A	ë m¾t b·o kh«ng khÝ chuyÓn ®éng nh­ thÕ nµo?	Kh«ng chuyÓn ®éng	Theo chiÒu kim ®ång hå	Ng­îc chiÒu kim ®ång hå	Tïy vµo c¬n b·o
+1047	A	ViÖt Nam cã bao nhiªu khu b¶o tån thiªn nhiªn?	61	5	2	60
+1048	A	Thùc vËt ®­îc chia lµm mÊy ngµnh?	4	2	3	5
+1049	A	Céng hßa liªn bang §øc cã bao nhiªu bang?	16	15	17	18
+1050	A	Hoa hËu hoµn vò n¨m 2007 thuéc vÒ quèc gia nµo?	NhËt B¶n	Velezela	Trung Quèc	Mü
+1051	A	Quèc gia cã l­îng khÝ th¶i lín nhÊt thÕ giíi?	Australia	Mü	§øc	Anh
+1052	A	Trong bãng ®¸ tõ "tÕt" cã nghÜa lµ g×?	§¸nh ®Çu	§¸ ph¹t	Ph¹t gãc	§Êm bãng
+1053	A	2-9-1945 B¸c Hå ®äc b¶n Tuyªn Ng«n §éc LËp t¹i Qu¶ng trêng Ba §×nh khai sinh ra níc VNDCCH. B¹n cho biÕt ®©y lµ b¶n tuyªn ng«n lÇn thøc mÊy cña d©n téc ta?	3	1	2	4
+1054	A	Côm tõ nµo cßn thiÕu trong c©u th¬ sau cña Huy CËn: "ThuyÒn vÒ n­íc l¹i sÇu tr¨m ng¶, ... l¹c mÊy dßng"?	Cñi mét cµnh kh«	Mét c¸nh bÌo tr«i	Mét c¸nh bÌo ®¬n	Ghç l¹c rõng xa
+1055	A	§éi bãng nµo xÕp thø ba gi¶i ngo¹i h¹ng Anh mïa bãng 2006 - 2007?	Liverpool	Manchester United	Arsenal	Chelsea
+1056	A	Cung A Phßng, mét c«ng tr×nh kiÕn tróc huyÒn tho¹i trong lÞch sö Trung Quèc, ®­îc x©y dùng trong thêi nµo?	TÇn	H¸n	§­êng	Tèng
+1057	A	Lêi tho¹i "Mét lÇn, y ®­îc thÊy «ng B¸ KiÕn sai trãi mét lóc 17 ng­êi vµ ®¸nh mét ng­êi låi m¾t", lµ håi øc c¶u nh©n vËt nµo?	Gi¸o Thø	ChÝ PhÌo	L·o H¹c	Nhµ V¨n Hé
+1058	A	Bé phim "Trë vÒ" (1994) do ai ®¹o diÔn?	§Æng NhËt Minh	§íi Xu©n ViÖt	H¶i Ninh	NguyÔn VÜnh S¬n
+1059	A	Mét mÐt khèi n­íc t­¬ng ®­¬ng víi bao nhiªu lÝt n­íc?	1000	10	100	10000
+1060	A	Theo kinh nghiÖm d©n gian th× "Giã ®«ng lµ ...lóa chiªm"?	Chång	B¹n	MÑ	Em
+1061	A	Trong bµi th¬ C«n S¬n, NguyÔn Tr·i ®· miªu t¶ tiÕng suèi víi nh¹c cô nµo?	§µn cÇm	§µn t× bµ	§µn bÇu	§µn nguyÖt
+1062	A	Ng­êi ta cho thªm ch× vµo trong x¨ng nh»m môc ®Ých g×?	Chèng ch¸y næ	T¨ng thÓ tÝch cña x¨ng	Gi¶m « nhiÔm m«i tr­êng	Gi¶m bay h¬i
+1063	A	CÇu thñ ViÖt Nam nµo sau ®©y cã tªn trong danh s¸ch ®Ò cö Qu¶ bãng vµng ch©u ¸ 2008?	Nh­ Thµnh	Tµi Em	Minh Ph­¬ng	Minh Ch©u
+1064	A	Ca ghÐp thËn thµnh c«ng ®Çu tiªn ë ViÖt Nam ®­îc thùc hiÖn vµo n¨m nµo?	1992	1990	1991	1993
+1065	A	§iÖu móa "Tr¸p trÇu" lµ ®iÖu móa trong ®¸m c­íi cña d©n téc nµo?	Kh¬ me Nam Bé	Ch¨m	V©n KiÒu	£ §ª
+1066	A	§µn ®¸y cã mÊy ®¸y?	Kh«ng cã ®¸y	1	2	3
+1067	A	C©u l¹c bé bãng ®¸ nµo ®­îc b×nh chän lµ "c©u l¹c bé vÜ ®¹i nhÊt thÕ kû 20"?	Real Madrid	Manchester	Argentina 	T©y Ban Nha
+1068	A	Bµi th¬ "D­¬ng phô hµnh" do ai s¸ng t¸c?	Cao B¸ Qu¸t	TrÇn Xu©n Èn	ChÕ Lan Viªn	NguyÔn V¨n Tè
+1069	A	ë loµi chã, tuyÕn må h«i tËp trung hÇu hÕt ë ®©u?	L­ìi	Tai	§Çu	Bông
+1070	A	Bµi h¸t M­êi chÝn th¸ng t¸m lµ s¸ng t¸c cña ai?	Xu©n Oanh	TrÇn TiÕn	TrÇn HiÕu	Minh Qu©n
+1071	A	Con chim Kiwi lµ biÓu t­ëng cña n­íc nµo?	New Zealand	Hµn Quèc	NhËt B¶n	§µi Loan
+1072	A	Khëi nghÜa diÔn ra n¨m 722 do ai l·nh ®¹o?	Mai H¾c §Õ	Hoµng Hoa Th¸m	Hai Bµ Tr­ng	Bµ TriÖu
+1073	A	Hµnh tinh nãng nhÊt hÖ mÆt trêi?	Sao Kim	Sao Thæ	Sao Háa	Sao Thñy
+1074	A	Bé tem b­u chÝnh ®Çu tiªn cña VN in h×nh g×?	Ch©n dung Hå ChÝ Minh	H×nh chïa mét cét	H×nh b«ng sen	H×nh Hå G­¬m
+1075	A	§éng vËt lín nhÊt thÕ giíi hiÖn nay?	C¸ voi xanh	Con voi	Tª Gi¸c	Loµi kh¸c
+1076	A	1 ph©n tö mªtan cã bao nhiªu nguyªn tö Hi®ro?	4	2	3	6
+1077	A	Tæng thèng John Kenedy bÞ ¸m s¸t vµo n¨m nµo?	1963	1960	1962	1965
+1078	A	ViÖt Nam chÝnh thøc trë thµnh thµnh viªn cña tæ chøc APEC tõ n¨m nµo?	1998	1996	2000	2002
+1079	A	Gi¶i th­ëng c«ng nghÖ th«ng tin cña ViÖt Nam ®­îc trao giai vµo ngµy 1-1 hµng n¨m cã tªn lµ g×?	TrÝ tuÖ ViÖt Nam	Sao Khuª	Bµn tay vµng	¸nh s¸ng
+1080	A	Bµi th¬ "Ng­êi ®i t×m h×nh cña n­íc" cña t¸c gi¶ nµo?	ChÕ Lan Viªn	TÕ Hanh	NguyÔn KhuyÕn	D­¬ng §øc TrÝ
+1081	A	Gi¶i th­ëng Nobel trao cho c¸c nhµ khoa häc trong bao nhiªu lÜnh vùc?	6	9	12	15

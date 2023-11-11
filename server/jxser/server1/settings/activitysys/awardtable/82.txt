@@ -1,0 +1,10 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+82	HuyÒn Viªn LÖnh	{tbProp={6,1,2351,1,0,0},}	1	0.5	771	20	
+82	Hçn Nguyªn Linh Lé	{tbProp={6,1,2312,1,0,0},}	1	50	772	20	
+82	Tµi B¶o Thñy TÆc	{tbProp={6,1,2376,1,0,0},}	1	6	773	20	
+82	B¶o r­¬ng thÇn bÝ cña D· TÈu	{tbProp={6,1,2374,1,0,0},}	1	6	774	20	
+82	Kim Tinh Hæ V­¬ng	{tbProp={0,10,14,1,5,0},nExpiredTime=43200,}	1	2	775	20	
+82	ThÝ LuyÖn ThiÕp	{tbProp={6,1,2317,1,0,0},}	1	6	776	20	
+82	Qu¶ Huy Hoµng (cao) 	{tbProp={6,1,906,1,0,0},nExpiredTime=43200,}	1	21.7	777	20	
+82	Th­¬ng Lang LÖnh	{tbProp={6,1,2352,1,0,0},}	1	7.7	778	20	
+82	Tö M·ng LÖnh	{tbProp={6,1,2350,1,0,0},}	1	0.1	792	20	

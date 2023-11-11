@@ -1,0 +1,3 @@
+BATTLE_ID	BATTLE_NAME	ROUNDFLOW_MODE	ROUND_FILE	MAPPATTERN_FILE	RULE_FILE	MAP_ID_FILE	MAP_NAME_FILE	REMARK
+1	TrÀn chi’n	1	\\RelaySetting\\battle\\xiangyang\\round.txt	\\RelaySetting\\battle\\xiangyang\\mappattern.txt	\\RelaySetting\\battle\\xiangyang\\rule.txt	\\RelaySetting\\battle\\common\\map_id.txt	\\RelaySetting\\battle\\common\\map_name.txt	
+2	Chi’n Æ u	1	\\RelaySetting\\battle\\guozhan\\round.txt	\\RelaySetting\\battle\\guozhan\\mappattern.txt	\\RelaySetting\\battle\\guozhan\\rule.txt	\\RelaySetting\\battle\\common\\map_id.txt	\\RelaySetting\\battle\\common\\map_name.txt	

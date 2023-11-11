@@ -1,0 +1,89 @@
+prize_Quality	prize_item	nItemGenre	nItemDetailType	nItemParticularType	nItemLevel	nItemSeries	ItemLuck	nItemMagicLevel	prize_name
+1	5	2	0	0	1	0	5	0	Méng Long Kim Ti ChÝnh Hång Cµ Sa
+1	5	6	0	0	1	0	5	0	Phôc Ma Tö Kim C«n
+1	5	11	0	0	1	0	5	0	Tø Kh«ng Gi¸ng Ma Giíi ®ao
+1	5	16	0	0	1	0	5	0	H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy
+1	5	21	0	0	1	0	5	0	KÕ NghiÖp B«n L«i Toµn Long th­¬ng
+1	5	26	0	0	1	0	5	0	Ngù Long L­îng Ng©n B¶o ®ao
+1	5	31	0	0	1	0	5	0	V« Gian û Thiªn KiÕm
+1	5	39	0	0	1	0	5	0	V« Ma TÈy T­îng Ngäc KhÊu 
+1	5	42	0	0	1	0	5	0	V« TrÇn Thanh T©m H­íng ThiÖn Ch©u
+1	5	46	0	0	1	0	5	0	Tª Hoµng Phông Nghi ®ao
+1	5	51	0	0	1	0	5	0	BÝch H¶i Uyªn ¦¬ng Liªn Hoµn ®ao
+1	5	60	0	0	1	0	5	0	U Lung MÆc Thï NhuyÔn Lý 
+1	5	61	0	0	1	0	5	0	Minh ¶o Tµ S¸t §éc NhËn
+1	5	67	0	0	1	0	5	0	Chó Ph­îc DiÖt L«i C¶nh Phï 
+1	5	71	0	0	1	0	5	0	B¨ng Hµn §¬n ChØ Phi §ao
+1	5	76	0	0	1	0	5	0	Thiªn Quang Hoa Vò M¹n Thiªn
+1	5	81	0	0	1	0	5	0	S©m Hoang Phi Tinh §o¹t Hån
+1	5	87	0	0	1	0	5	0	§Þa Ph¸ch H¾c DiÖm Xung Thiªn Liªn
+1	5	92	0	0	1	0	5	0	§ång Cõu Gi¸ng Long C¸i Y
+1	5	96	0	0	1	0	5	0	§Þch Kh¸i Lôc Ngäc Tr­îng
+1	5	101	0	0	1	0	5	0	Ma S¸t Quû Cèc U Minh Th­¬ng
+1	5	106	0	0	1	0	5	0	Ma Hoµng Kim Gi¸p Kh«i
+1	5	115	0	0	1	0	5	0	Ma ThÞ s¬n  H¶i Phi Hång Lý 
+1	5	119	0	0	1	0	5	0	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi
+1	5	121	0	0	1	0	5	0	CËp Phong Ch©n Vò KiÕm
+1	5	126	0	0	1	0	5	0	S­¬ng Tinh Thiªn Niªn Hµn ThiÕt
+1	5	132	0	0	1	0	5	0	L«i Khung Thiªn §Þa Hé phï 
+1	5	136	0	0	1	0	5	0	Vô ¶o B¾c Minh §¹o qu¸n
+1	5	159	0	0	1	0	5	0	§Þnh Quèc Thanh Sa Tr­êng Sam
+1	5	160	0	0	1	0	5	0	§Þnh Quèc ¤ Sa Ph¸t Qu¸n
+1	5	161	0	0	1	0	5	0	§Þnh Quèc XÝch Quyªn NhuyÔn Ngoa
+1	5	162	0	0	1	0	5	0	§Þnh Quèc Tö §»ng Hé uyÓn
+1	5	163	0	0	1	0	5	0	§Þnh Quèc Ng©n Tµm Yªu ®¸i
+1	5	164	0	0	1	0	5	0	An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+1	5	165	0	0	1	0	5	0	An Bang Cóc Hoa Th¹ch ChØ hoµn
+1	5	166	0	0	1	0	5	0	An Bang §iÒn Hoµng Th¹ch Ngäc Béi
+1	5	167	0	0	1	0	5	0	An Bang Kª HuyÕt Th¹ch Giíi ChØ 
+1	4	186	0	0	1	0	5	0	HiÖp Cèt ThiÕt HuyÕt Sam
+1	4	187	0	0	1	0	5	0	HiÖp Cèt §a T×nh Hoµn
+1	4	188	0	0	1	0	5	0	HiÖp Cèt §an T©m Giíi
+1	4	189	0	0	1	0	5	0	HiÖp Cèt T×nh ý KÕt
+1	4	190	0	0	1	0	5	0	Nhu T×nh C©n Quèc Nghª Th­êng
+1	4	191	0	0	1	0	5	0	Nhu T×nh Thôc N÷ H¹ng Liªn
+1	4	192	0	0	1	0	5	0	Nhu T×nh  Phông Nghi Giíi ChØ 
+1	4	193	0	0	1	0	5	0	Nhu T×nh  TuÖ T©m Ngäc Béi
+1	4	168	0	0	1	0	5	0	Thiªn Hoµng Long Long §µi
+1	4	169	0	0	1	0	5	0	Thiªn Hoµng Long B¹ch Long Tøc
+1	4	170	0	0	1	0	5	0	Thiªn Hoµng Long TrÊn Minh Liªn
+1	4	171	0	0	1	0	5	0	Thiªn Hoµng Long Cöu HiÖn chØ 
+1	4	172	0	0	1	0	5	0	Thiªn Hoµng Long Ngäc Tiªu Diªu
+1	4	173	0	0	1	0	5	0	Thiªn Hoµng Long Hoµng Kim L©n
+1	4	174	0	0	1	0	5	0	Thiªn Hoµng Long Bµn Long c«i
+1	4	175	0	0	1	0	5	0	Thiªn Hoµng Long Long Khèc Thiªn Lý 
+1	4	176	0	0	1	0	5	0	Thiªn Hoµng Long Né Long §ång
+1	4	177	0	0	1	0	5	0	Kim Phong Thanh D­¬ng Kh«i
+1	4	178	0	0	1	0	5	0	Kim Phong Kú L©n HuyÕt
+1	4	179	0	0	1	0	5	0	Kim Phong Tr¹c Liªn Quang
+1	4	180	0	0	1	0	5	0	Kim Phong C«ng CÈn Tam Th¸n
+1	4	181	0	0	1	0	5	0	Kim Phong §o¹t Hån Ngäc ®¸i
+1	4	182	0	0	1	0	5	0	Kim Phong HËu NghÖ dÉn cung
+1	4	183	0	0	1	0	5	0	Kim Phong Lan §×nh Ngäc
+1	4	184	0	0	1	0	5	0	Kim Phong Thiªn Lý Th¶o Th­îng Phi
+1	4	185	0	0	1	0	5	0	Kim Phong §ång T­íc Xu©n Th©m
+0	1	6	1	26	1	0	5	0	Vâ L©m MËt TÞch
+0	1	6	1	22	1	0	5	0	TÈy Tñy Kinh
+2	2	0	8	1	10	0	5	-1	Thiªn Tµm Hé UyÓn 6 thuéc tÝnh Èn
+2	2	0	8	1	10	1	5	-1	Thiªn Tµm Hé UyÓn 6 thuéc tÝnh Èn
+2	2	0	8	1	10	2	5	-1	Thiªn Tµm Hé UyÓn 6 thuéc tÝnh Èn
+2	2	0	8	1	10	3	5	-1	Thiªn Tµm Hé UyÓn 6 thuéc tÝnh Èn
+2	2	0	8	1	10	4	5	-1	Thiªn Tµm Hé UyÓn 6 thuéc tÝnh Èn
+2	2	0	8	0	10	0	5	-1	Long Phông HuyÕt Ngäc Tr¹c 6 thuéc tÝnh Èn
+2	2	0	8	0	10	1	5	-1	Long Phông HuyÕt Ngäc Tr¹c 6 thuéc tÝnh Èn
+2	2	0	8	0	10	2	5	-1	Long Phông HuyÕt Ngäc Tr¹c 6 thuéc tÝnh Èn
+2	2	0	8	0	10	3	5	-1	Long Phông HuyÕt Ngäc Tr¹c 6 thuéc tÝnh Èn
+2	2	0	8	0	10	4	5	-1	Long Phông HuyÕt Ngäc Tr¹c 6 thuéc tÝnh Èn
+0	1	4	239	1	1	0	5	0	Tö Thñy Tinh
+0	1	4	238	1	1	0	5	0	Lam Thñy Tinh
+0	1	4	240	1	1	0	5	0	Lôc Thñy Tinh
+0	1	4	353	1	1	0	5	0	Tinh Hång B¶o Th¹ch
+0	3	6	1	147	6	0	5	0	HuyÒn Tinh Kho¸ng Th¹ch cÊp 6 
+0	3	6	1	147	5	0	5	0	HuyÒn Tinh Kho¸ng Th¹ch cÊp 5
+0	3	6	1	147	4	0	5	0	HuyÒn Tinh Kho¸ng Th¹ch cÊp 4
+0	1	6	1	124	1	0	5	0	Phóc Duyªn Lé (§¹i) 
+0	1	6	1	123	1	0	5	0	Phóc Duyªn Lé (Trung) 
+0	1	6	1	122	1	0	5	0	Phóc Duyªn Lé (TiÓu) 
+0	1	6	1	71	1	0	5	0	Tiªn Th¶o Lé 
+0	1	6	1	72	1	0	5	0	Thiªn s¬n  B¶o Lé 
+0	1	6	1	73	1	0	5	0	B¸ch Qu¶ Lé 

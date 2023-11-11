@@ -1,0 +1,2 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId	News
+60	Ti“n	"return {nJxb=1}"	2000	3.862	564	13	

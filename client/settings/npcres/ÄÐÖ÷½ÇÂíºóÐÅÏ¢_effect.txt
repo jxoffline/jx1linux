@@ -1,0 +1,141 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	JumpFly	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+ÂíÆ¥1																																																																											
+ÂíÆ¥2																																																																											
+ÂíÆ¥3																																																																											
+ÂíÆ¥4																																																																											
+ÂíÆ¥5																																																																											
+ÂíÆ¥6																																																																											
+ÂíÆ¥7																																																																											
+ÂíÆ¥8																																																																											
+ÂíÆ¥9																																																																											
+ÂíÆ¥10																																																																											
+ÂíÆ¥11																																																																											
+ÂíÆ¥12																																																																											
+ÂíÆ¥13																																																																											
+ÂíÆ¥14																																																																											
+ÂíÆ¥15																																																																											
+ÂíÆ¥16																																																																											
+ÂíÆ¥17																																																																											
+ÂíÆ¥18																																																																											
+ÂíÆ¥19																																																																											
+ÂíÆ¥20																																																																											
+ÂíÆ¥21																																																																											
+ÂíÆ¥22																																																																											
+ÂíÆ¥23																																																																		"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"	"20,1,30"
+ÂíÆ¥24																																																																											
+ÂíÆ¥25																																																																											
+ÂíÆ¥26																																																																											
+ÂíÆ¥27																																																																											
+ÂíÆ¥28																																																																											
+ÂíÆ¥29																																																																											
+ÂíÆ¥30																																																																											
+ÂíÆ¥31																																																																											
+ÂíÆ¥32																																																																											
+ÂíÆ¥33																																																																											
+ÂíÆ¥34																																																																											
+ÂíÆ¥35																																																																											
+ÂíÆ¥36																																																																											
+ÂíÆ¥37																																																																											
+ÂíÆ¥38																																																																											
+ÂíÆ¥39																																																																											
+ÂíÆ¥40																																																																											
+ÂíÆ¥41																																																																											
+ÂíÆ¥42																																																																											
+ÂíÆ¥43																																																																											
+ÂíÆ¥44																																																																											
+ÂíÆ¥45																																																																											
+ÂíÆ¥46																																																																											
+ÂíÆ¥47																																																																											
+ÂíÆ¥48																																																																											
+ÂíÆ¥49																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+ÂíÆ¥50																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+ÂíÆ¥51																																																																											
+ÂíÆ¥52																																																																											
+ÂíÆ¥53																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+T¸o Hång																																																																											
+Thanh M·																																																																											
+§¹i UyÓn																																																																											
+¤ Truy																																																																											
+¤ V©n §¹p TuyÕt																																																																											
+§Ých L«																																																																											
+TuyÖt ¶nh																																																																											
+ChiÕu D¹ Ngäc S­ Tö																																																																											
+H·n HuyÕt B¶o M·																																																																											
+XÝch Thè																																																																											
+B«n Tiªu																																																																											
+Phiªn Vò																																																																											
+Hû Hû 																																																																											
+Hoan Hoan																																																																											
+L¨ng Thiªn																																																																											
+Trôc NhËt																																																																											
+Hæ C¸t T­êng																																																																											
+øc V©n																																																																											
+TuyÕt Hån																																																																											
+Sø gi¶ Truy Phong																																																																											
+Háa Kú L©n																																																																											
+L©n Quang																																																																											
+L¹c ®µ (Tr¾ng)																																																																											
+L¹c ®µ (§en)																																																																											
+Kh«ng cã res luotuohuang																																																																											
+L¹c §µ Kh«ng B­íu																																																																											
+L¹c §µ Kh«ng B­íu (§á)																																																																											
+L¹c §µ Kh«ng B­íu (Lôc)																																																																											
+B«n L«i																																																																											
+Hång Long XÝch DiÖm																																																																											
+TuyÖt ThÕ TuyÕt Vò																																																																											
+Tóy NguyÖt-V« Tµ																																																																											
+Tóy NguyÖt-Trôc Qu©n																																																																											
+Thùc NhËt Cuång S­																																																																											
+MËt Thµnh ThiÕt Kþ																																																																											
+Ngäc Tiªu Dao																																																																											
+M¹ch Th­îng Phi S­¬ng																																																																											
+TuyÕt Vò Thiªn H­¬ng																																																																											
+MÞ Vò Thiªn H­¬ng																																																																											
+DuDu Vui VÎ																																																																											
+¤ng Thá																																																																											
+Kim T­îng Th¸i §¹t																																																																											
+Kinh HuyÒn SÊm																																																																											
+§éc Vò Thiªn H¹																																																																											
+Ng¹o Ng« Hiªn Viªn																																																																											
+Nô H«n H¾c ¸m																																																																											
+Ngän Löa ¸nh S¸ng																																																																											
+Viªm D­¬ng Long Tö																																																																											
+L¹c Th¸i Li VÉn																																																																											
+T¸i Th¸i TuÕ																																																																											
+Ngùa 105																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 106																																																																											
+Ngùa 107																																																																											
+Ngùa 108																																																																											
+Ngùa 109																																																																											
+Ngùa 110																																																																											
+Ngùa 111																																																																											
+Ngùa 112																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 113																																																																											
+Ngùa 114																																																																											
+Ngùa 115																																																																											
+Ngùa 116																																																																											
+Ngùa 117																																																																											
+Ngùa 118																																																																											
+Ngùa 119																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 120																																																																											
+Ngùa 121																																																																											
+Ngùa 122																																																																											
+Ngùa 123																																																																											
+Ngùa 124																																																																											
+Ngùa 125																																																																											
+Ngùa 126																																																																											
+Ngùa 127																																																																											
+Ngùa 128																																																																											
+Ngùa 129																																																																											
+Ngùa 130																																																																											
+Ngùa 131																																																																											
+Ngùa 132																																																																											
+Ngùa 133																																																																											
+Ngùa 134																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 135																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 136																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 137																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Ngùa 138																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Thá Vµng																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Thá Hång																																																																		"112,8,1"	"96,8,1"	"80,8,1"	"96,8,1"	"112,8,1"	"96,8,1"	"48,8,1"	"112,8,1"	"112,8,1"	"112,8,1"
+Kú L©n																																																																											

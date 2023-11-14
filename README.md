@@ -151,12 +151,6 @@ Hoa Sơn tuyệt đỉnh
 
 
 
-Ba Lăng huyện
-
-![](./_/jx02.jpg)
-
-
-
 Hoa Sơn phái tu tiên
 
 ![](./_/jx03.jpg)

@@ -26,17 +26,21 @@
 
 JXLinux 8.x Offline (Võ lâm 1)
 
-Các mã nguồn scripts được chỉnh sửa và phát triển bởi nhóm Eurofun phân phối lại theo giấy phép GNU GPL.
+Các mã nguồn scripts được chỉnh sửa và phát triển bởi cộng đồng đam mê tìm hiểu kỹ thuật phát triển game hay còn được gọi là Hội quán võ lâm. Các tài nguyên được phân phối lại theo giấy phép GNU GPL.
+
+Trong quá trình tìm hiểu, nhóm có tải và tham khảo các nguồn tài nguyên trên các diễn đàn, blog và mạng xã hội từ internet không tránh khỏi các sai sót các vấn đề liên quan đến tác quyền. Nếu có điều gì sai sót mong tác giả lượng thứ, vui lòng liên hệ jx1offline@gmail.com với các minh chứng về tác quyền. Chúng tôi sẽ gỡ bỏ theo đúng qui định pháp luật với tinh thần tôn trọng tác giả.
+
+Official Github: https://github.com/jxoffline/jx1linux/
 
 
 
 ## 1. 🚀 Thông tin cơ bản
 
-Tên mã: **JxOffline 1**
+Tên mã: **JxOffline 1** (tên gọi bởi cộng đồng `JXLinux`)
 
 Tiếng Trung: **剑侠情缘**
 
-Tiếng Việt: **VLTK 1 - JXLinux Offline**
+Tiếng Việt: **Võ lâm truyền kỳ 1 - VLTK Offline**
 
 Phiên bản: **8.x**
 

@@ -94,37 +94,39 @@ Xem chi tiết tại [ĐÂY](./CONTRIBUTING.md)
   - **Mediafire**: [Tải về](https://www.mediafire.com/file/3i9biis3j27urzq/server.7z/file)
   - **Mega**: [Tải về](https://mega.nz/file/BJZHjQLC#XRYZVoqiCLfNqP-eLmzeZpWClAdY0Cp7WbzA2fo4zZ4)
 
-- **Bước 3**: Tải mã nguồn các scripts và tập tin thực cần thiết chạy game.
+- **Bước 3**: Tải client và server mới nhất từ Github.
   
-  - Trên giao diện Github, bấm vào nút `Code` màu xanh lá.
-  - Trên hộp thoại hiển thị, chọn `Download ZIP` để tải về tập tin `jx1offline-main.zip`.
+  GitHub sẽ nén cả client và server mới nhất nhất vào tập tin `jx1linux-main.tar.gz`. Để tải tập tin này bấm vào link dưới đây
+  
+  https://github.com/jxoffline/jx1linux/archive/refs/heads/main.tar.gz
   
 - **Bước 4**: Cài đặt
-  - Giải nén `jx1offline-main.zip` vào nơi bạn muốn lưu trữ hệ thống game. Giả sử bạn lưu ở ổ `D:\`. Sau khi giải nén bạn sẽ có 2 thư mục `D:\client` và `D:\server`.
+
+  - Giải nén `jx1linux-main.tar.gz` vào nơi bạn muốn lưu trữ hệ thống game. Giả sử bạn lưu ở ổ `D:\`. Sau khi giải nén bạn sẽ có 2 thư mục `D:\client` và `D:\server`.
   - Giải nén các máy chủ ảo `server.7z` vào thư mục server (`D:\server\`). Nếu giải nén thành công, bạn sẽ có thêm 2 thư mục `Win` và `CentOS` bên trong thư mục `server`.
   - Dữ liệu gốc gồm 2 phần là `data` và `music`:
     - **data**: Copy thư mục `data` ở **Bước 1** dán đè lên thư mục `data` có sẵn bên trong thư mục `client` (`D:\client`).
     - **music**: Copy thư mục `music` ở **Bước 1** chép đè vào thư mục music có sẵn trong `client` (`D:\client`).
 
 - **Bước 5**: Triển khai
-  
+
   - Vận hành máy chủ
-  
+
     Mở thư mục `D:\server` chạy lần lượt các máy ảo
-  
+
     - `server\CentOS\CentOS16-EuroFun.vmx`
     - `server\Win\JXWindows-EuroFun.vmx`
-  
+
     Nhớ chọn `I moved it` ở lần đầu chạy máy ảo.
-  
+
   - Cập nhật jxser
-  
+
     Sử dụng WinSCP kết nối vào máy chủ CentOS, sau đó chép toàn bộ thư mục `jxser` lên máy chủ này.
-  
+
   - Sau khi cả 2 máo ảo đều khởi động xong, cần khởi động các dịch vụ trên máy chủ CentOS.
-  
+
     - Bấm lần lượt Bước 1, Bước 2 và Bước 3 nằm trên màn hình Desktop máy ảo `JXWindows-EuroFun`.
-  
+
     - Ở `Bước 3`, trên ứng dụng `SecureCRT`, bấm Kết nối.
       
       Chờ đến khi dấu nhắc lệnh xuất hiện trên màn hình đen của ứng dụng SecureCRT.

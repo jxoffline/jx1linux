@@ -18,15 +18,15 @@ SKILLS={
 			[3]={{1,15},{20,180}}
 		},
 		addskilldamage1={
-			[1]={{1,1920},{2,1920}},
+			[1]={{1,1887},{2,1887}},
 			[3]={{1,1},{20,60}}
 		},
 		addskilldamage2={
-			[1]={{1,1925},{2,1925}},
+			[1]={{1,1892},{2,1892}},
 			[3]={{1,1},{20,50}}
 		},
 		addskilldamage3={
-			[1]={{1,1929},{2,1929}},
+			[1]={{1,1896},{2,1896}},
 			[3]={{1,1},{20,35}}
 		},
 		skill_cost_v={{{1,10},{20,10}}}
@@ -41,23 +41,23 @@ SKILLS={
 		freezetimereduce_p={{{1,1},{20,30}},{{1,-1},{2,-1}}},
 		skill_desc=
 			function(level)
-				return "Mçi <color=orange> "..floor(Link(level,SKILLS.yigonghuanyu.autocastskill[3]) / 18/256).." gi©y<color> tù ®éng nhËn <color=orange>"..floor(Link(level,SKILLS.yinlv.special_point_add[3])).." tÇng [¢m LuËt]<color>"
+				return "Ã¿<color=orange>"..floor(Link(level,SKILLS.yigonghuanyu.autocastskill[3]) / 18/256).."Ãë<color>×Ô¶¯»ñµÃ<color=orange>"..floor(Link(level,SKILLS.yinlv.special_point_add[3])).."²ã¡¾ÒôÂÉ¡¿<color>"
 				--.."×î¶àÓµÓĞ<color=orange>"..floor(Link(level,SKILLS.yigonghuanyu.special_point_base[3])).."²ã¡¾ÒôÂÉ¡¿<color>"
 			end,
 		autocastskill = {
-			{{1,1917*256 + 1},{20,1917*256 + 20}},--Ä¿±ê¼¼ÄÜid * 256 + µÈ¼¶
+			{{1,1884*256 + 1},{20,1884*256 + 20}},--Ä¿±ê¼¼ÄÜid * 256 + µÈ¼¶
 			{{1,-1},{20,-1}},-- Îª1±íÊ¾ËãCD£¬²»ËãCDÌî-1
 			{{1, (1*18*256 + 100)},{20, (1*18*256 + 100)}},-- ¼ä¸ôÖ¡Êı * 256 + ·¢¶¯¼¸ÂÊ
 		},
 		special_point_base={
-			{{1,1916},{20,1916}},-- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},-- Ä¿±ê¼¼ÄÜid
 			{{1,-1},{20,-1}},-- ÅäÔÚÖ÷¶¯¼¼ÄÜÊôĞÔÉÏÌî0£¬×÷ÎªbuffÊôĞÔÌî-1
 			{{1,10},{20,10}},-- Ôö¼Ó¸öÊı
 		}
 	},
 	yinlv={ --ÒÆ¹¬»»Óğ-ÒôÂÉ£¨Ö÷¶¯£©
 		special_point_add={
-			{{1,1916},{20,1916}},-- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},-- Ä¿±ê¼¼ÄÜid
 			{{1,0},{20,0}},-- ÅäÔÚÖ÷¶¯¼¼ÄÜÊôĞÔÉÏÌî0£¬×÷ÎªbuffÊôĞÔÌî-1
 			{{1,1},{20,1}},-- Ôö¼Ó¸öÊı
 		}
@@ -65,7 +65,7 @@ SKILLS={
 
 	sataliuxing={ --ìªí³Á÷ĞÇ
 		cost_sp={
-			{{1,1916},{20,1916}},  -- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},  -- Ä¿±ê¼¼ÄÜid
 			{{1,0},{20,0}}, -- ÌîÁã
 			{{1,8},{20,3},{21,3}}, -- ³Ô¼¸¸ö
 		},
@@ -73,8 +73,8 @@ SKILLS={
 		skill_eventskilllevel={{{1,1},{20,20}}},
 		skill_desc=
 			function(level)
-				return "<color=orange>§iÒu kiÖn thi triÓn: <color><color=yellow>"..floor(Link(level,SKILLS.sataliuxing.cost_sp[3])).." tÇng [¢m LuËt]<color>\n"..
-				"Kho¶ng c¸ch di h×nh tèi ®a: <color=orange>"..floor(Link(level,SKILLS.sataliuxing.skill_param1_v[1])).."<color>\n"
+				return "<color=orange>Ê©·ÅĞèÇó£º<color><color=yellow>"..floor(Link(level,SKILLS.sataliuxing.cost_sp[3])).."²ã¡¾ÒôÂÉ¡¿<color>\n"..
+				"Ë²ÒÆ×î´ó¾àÀë£º<color=orange>"..floor(Link(level,SKILLS.sataliuxing.skill_param1_v[1])).."<color>\n"
 			end,
 	},
 	
@@ -87,11 +87,11 @@ SKILLS={
 			[3]={{1,45},{20,532}}
 		},
 		addskilldamage1={
-			[1]={{1,1925},{2,1925}},
+			[1]={{1,2092},{2,2092}},
 			[3]={{1,1},{20,70}}
 		},
 		addskilldamage2={
-			[1]={{1,1929},{2,1929}},
+			[1]={{1,2096},{2,2096}},
 			[3]={{1,1},{20,60}}
 		},
 		skill_cost_v={{{1,15},{20,40}}}
@@ -113,9 +113,6 @@ SKILLS={
 		addlightingmagic_p={{{1,5},{20,43}},{{1,-1},{2,-1}}},
 		addlightingdamage_v={{{1,45},{30,315}},{{1,-1},{2,-1}}},
 		lifemax_yan_p={{{1,21},{35,80},{36,81}},{{1,-1},{30,-1}}},
-		me2waterdamage_p={{{1,20},{35,20},{36,20}},{{1,-1},{30,-1}}},
-		water2medamage_p={{{1,20},{35,20},{36,20}},{{1,-1},{30,-1}}},
-		anti_block_rate={{{1,30},{35,30},{36,30}},{{1,-1},{30,-1}}}, 
 	},
 
 	jianjuefuyun={ --½£¾ö¸¡ÔÆ£¨½£åĞÒ£90£©
@@ -131,16 +128,16 @@ SKILLS={
 		skill_eventskilllevel={{{1,1},{20,20}}},
 		skill_vanishedevent={
 			[1]={{1,0},{10,0},{10,1},{20,1}},
-			[3]={{1,1926},{20,1926}}
+			[3]={{1,1893},{20,1893}}
 		},
 		addskilldamage1={
-			[1]={{1,1929},{2,1929}},
+			[1]={{1,2096},{2,2096}},
 			[3]={{1,1},{20,35}}
 		},
 		skill_desc=
 			function(level)
 				if (level > 10) then
-				return "<color=orange>S¸t th­¬ng cuèi vµ hiÖu øng khèng chÕ x2<color>\n "
+				return "<color=orange>Ä©¶ËÉËº¦¼°¿ØÖÆĞ§¹û·­±¶<color>\n"
 				end
 				return ""
 			end,
@@ -174,16 +171,16 @@ SKILLS={
 
 	danzhichishang={ --à¢ÖË³Öõü£¨120£©
 		autoattackskill={
-			{{1,1928*256 + 1},{20,2128*256 + 20},{21,1928*256 + 21}},--¼¼ÄÜid*256 + ¼¼ÄÜµÈ¼¶
+			{{1,1895*256 + 1},{20,1895*256 + 20},{21,1895*256 + 21}},--¼¼ÄÜid*256 + ¼¼ÄÜµÈ¼¶
 			{{1,-1},{20,-1}},
 			{{1,20*18*256 + 1},{30,20*18*256 + 10},{31,20*18*256 + 10}}--ÀäÈ´Ê±¼ä*256+¸ÅÂÊ
 		},
 		skill_desc=
 			function(level)
-				return "Tróng môc tiªu cã <color=orange> "..floor(Link(level,SKILLS.danzhichishang.autoattackskill[3]) - 20*18*256).."%<color> kİch ho¹t tr¹ng th¸i <color=water>[Say]<color>\n"..
-				"Sau mçi lÇn thi triÓn<color=orange>"..floor((Link(level,SKILLS.danzhichishang.autoattackskill[3]) / (18*256))).." gi©y<color> sÏ kh«ng kİch ho¹t l¹i\n\n"..
-				"Tr¹ng th¸i <color=water>[Say]<color>: TÊn c«ng t¨ng <color=orange>"..floor(Link(level,SKILLS.danzhichishang_Buff.add_damage_p[1])).."%<color>,"..
-				" trong <color=orange>"..floor(Link(level,SKILLS.danzhichishang_Buff.add_damage_p[2]) / 18).."<color> gi©y "
+				return "¹¥»÷ÃüÖĞÄ¿±êÊ±ÓĞ<color=orange>"..floor(Link(level,SKILLS.danzhichishang.autoattackskill[3]) - 20*18*256).."%<color>µÄ¸ÅÂÊ´¥·¢<color=water>¡¸×í¾Æ¡¹<color>×´Ì¬\n"..
+				"Ã¿´Î´¥·¢ºó<color=orange>"..floor((Link(level,SKILLS.danzhichishang.autoattackskill[3]) / (18*256))).."Ãë<color>ÄÚ²»»áÔÙ´Î´¥·¢\n\n"..
+				"<color=water>¡¸×í¾Æ¡¹<color>×´Ì¬£º¹¥»÷Á¦Ôö¼Ó<color=orange>"..floor(Link(level,SKILLS.danzhichishang_Buff.add_damage_p[1])).."%<color>£¬"..
+				"³ÖĞø<color=orange>"..floor(Link(level,SKILLS.danzhichishang_Buff.add_damage_p[2]) / 18).."<color>Ãë"
 			end,
 		skill_skillexp_v={
 			{
@@ -224,18 +221,16 @@ SKILLS={
 		deadlystrike_p={{{1,20},{20,30},{23,33},{26,34}}},
 		stun_p={{{1,5},{20,20},{21,20}},{{1,1},{20,12},{21,12}}},
 		cost_sp={
-			{{1,1916},{20,1916}},  -- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},  -- Ä¿±ê¼¼ÄÜid
 			{{1,0},{20,0}}, -- ÌîÁã
 			{{1,3},{20,3}}, -- ³Ô¼¸¸ö
 		},
 		skill_cost_v={{{1,40},{20,72},{23,82},{26,87}}},
 		skill_eventskilllevel={{{1,1},{20,20}}},
-		missle_hitcount={{{1,25},{20,25}}},
 		skill_desc=
 			function(level)
-				return "KhiÕn ®Şch trong ph¹m vi chŞu <color=orange>"..floor(Link(level,SKILLS.shibuyisha.missle_hitcount[1])).." lÇn <color>tr¶m kİch, mçi môc tiªu tèi ®a tr¶m tr¶m kİch <color=orange>5 lÇn<color>\n"..
-				"<color=orange>Thi triÓn nhËn tr¹ng th¸i kh«ng thÓ bŞ chän<color>\n"..
-				"<color=orange>§iÒu kiÖn thi triÓn: <color><color=yellow>"..floor(Link(level,SKILLS.shibuyisha.cost_sp[3])).." tÇng [¢m LuËt]<color>\n"
+				return "<color=orange>Ê©·ÅÊ±´¦ÓÚ²»¿ÉÑ¡ÖĞ×´Ì¬<color>\n"..
+				"<color=orange>Ê©·ÅĞèÇó£º<color><color=yellow>"..floor(Link(level,SKILLS.shibuyisha.cost_sp[3])).."²ã¡¾ÒôÂÉ¡¿<color>\n"
 			end,
 		skill_skillexp_v={
 			{
@@ -258,13 +253,7 @@ SKILLS={
 				{17,17100},
 				{18,19000},
 				{19,21400},
-				{20,90000},
-				{21,120000},
-				{22,150000},
-				{23,200000},
-				{24,250000},
-				{25,300000},
-				{26,390000},
+				{20,21000},
 			}
 		},
 	},
@@ -278,22 +267,18 @@ SKILLS={
 	},
 
 	suiyiqu={ --ËæÒâÇú
-		--lightingdamage_p={{{1,1},{20,16}}},
-		lightingdamage_v={
-			[1]={{1,1},{20,16}},
-			[3]={{1,1},{20,16}}
-		},
+		lightingdamage_p={{{1,1},{20,16}}},
 		seriesdamage_p={{{1,1},{20,10}}},
 		addskilldamage1={
-			[1]={{1,1940},{2,1940}},
+			[1]={{1,1909},{2,1909}},
 			[3]={{1,1},{20,60}}
 		},
 		addskilldamage2={
-			[1]={{1,1941},{2,1941}},
+			[1]={{1,1910},{2,1910}},
 			[3]={{1,1},{20,50}}
 		},
 		addskilldamage3={
-			[1]={{1,1942},{2,1942}},
+			[1]={{1,1911},{2,1911}},
 			[3]={{1,1},{20,35}}
 		},
 		skill_cost_v={{{1,15},{20,20}}}
@@ -305,67 +290,47 @@ SKILLS={
 
 	luoyanpingsha={ --ÂäÑãÆ½É³
 		seriesdamage_p={{{1,5},{20,30}}},
-		--lightingdamage_p={{{1,1},{20,10}}},
-		lightingdamage_v={
-			[1]={{1,1},{20,10}},
-			[3]={{1,1},{20,10}}
-		},
+		lightingdamage_p={{{1,1},{20,10}}},
 		stun_p={{{1,5},{20,90},{21,90}},{{1,1},{20,12},{21,12}}},
 		cost_sp={
-			{{1,1916},{20,1916}},  -- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},  -- Ä¿±ê¼¼ÄÜid
 			{{1,0},{20,0}}, -- ÌîÁã
 			{{1,8},{20,8}}, -- ³Ô¼¸¸ö
 		},
 		skill_eventskilllevel={{{1,1},{20,20}}},
+		skill_showevent={{{1,1},{20,1}}},
 		skill_desc=
 			function(level)
-				return "<color=orange>§iÒu kiÖn thi triÓn: <color><color=yellow>"..floor(Link(level,SKILLS.luoyanpingsha.cost_sp[3])).." tÇng [¢m LuËt]<color>\n"..
-				"Khi thi triÓn, b¶n th©n vµ <color=orange>"..floor(Link(level,SKILLS.xiaoyaoyu.missle_hitcount[1])).."<color> ®ång ®éi nhËn ®­îc Hé ThuÉn ¢m LuËt\n"..
-				"Hé thuÉn kh¸ng s¸t th­¬ng b»ng <color=orange>"..floor(Link(level,SKILLS.xiaoyaoyu.staticmagicshield_p[1])/100).." lÇn<color> néi lùc tèi ®a, duy tr× <color=orange>"..floor(Link(level,SKILLS.xiaoyaoyu.staticmagicshield_p[2])/18).." gi©y<color>\n"
+				return "<color=orange>Ê©·ÅĞèÇó£º<color><color=yellow>"..floor(Link(level,SKILLS.luoyanpingsha.cost_sp[3])).."²ã¡¾ÒôÂÉ¡¿<color>\n"..
+				"ÊÍ·Åºó¶Ô×Ô¼º¸½¼Ó<color=water>¡¸åĞÒ£Óğ¡¹<color>×´Ì¬£¬³ÖĞø<color=orange>"..floor(Link(level,SKILLS.xiaoyaoyu.do_stun_p[2])/18).."Ãë<color>\n"
 			end,
 	},
 	xiaoyaoyu={ --åĞÒ£Óğ£¬ÂäÑãÆ½É³_Buff
-		--do_stun_p={{{1,1},{20,25},{21,25}},{{1,5*18},{20,5*18}}}, 
-		--lightingenhance_p={{{1,1},{20,20}},{{1,5*18},{2,5*18}}},
-		lightingdamage_v={
-			[1]={{1,1},{20,20}},
-			[3]={{1,1},{20,20}}
-		},
-		staticmagicshield_p={{{1,100},{20,1000},{21,1050}},{{1,5*18},{20,5*18}}},
-		missle_hitcount={{{1,1},{20,7},{21,7}}},
-		skill_eventskilllevel={{{1,1},{20,20}}},
+		do_stun_p={{{1,1},{20,25},{21,25}},{{1,5*18},{20,5*18}}},
+		lightingenhance_p={{{1,1},{20,20}},{{1,5*18},{2,5*18}}},
 	},
 
 	guanglingsan={ --¹ãÁêÉ¢
-		--lightingdamage_p={{{1,1},{20,16}}},
-		lightingdamage_v={
-			[1]={{1,1},{20,16}},
-			[3]={{1,1},{20,16}}
-		},
+		lightingdamage_p={{{1,1},{20,16}}},
 		seriesdamage_p={{{1,10},{20,50},{21,52}}},
 		skill_misslenum_v={{{1,2},{11,3},{16,4},{20,4}}},
 		skill_cost_v={{{1,70},{20,130}}},
 		addskilldamage1={
-			[1]={{1,1941},{2,1941}},
+			[1]={{1,1910},{2,1910}},
 			[3]={{1,1},{20,70}}
 		},
 		addskilldamage2={
-			[1]={{1,1942},{2,1942}},
+			[1]={{1,1911},{2,1911}},
 			[3]={{1,1},{20,60}}
 		},
 	},
 
 	gaoshanliushui={ --¸ßÉ½Á÷Ë®£¨ÇÙåĞÒ£90£©
 		seriesdamage_p={{{1,20},{15,20},{20,60},{21,62}}},
-		--lightingdamage_p={{{1,1},{33,39}}},
-		lightingdamage_v={
-			[1]={{1,1},{33,39}},
-			[3]={{1,1},{33,39}}
-		},
-		
+		lightingdamage_p={{{1,1},{33,39}}},
 		stun_p={{{1,3},{20,60},{21,60}},{{1,1},{20,12},{21,12}}},
 		addskilldamage1={
-			[1]={{1,1942},{2,1942}},
+			[1]={{1,1911},{2,1911}},
 			[3]={{1,1},{20,35}}
 		},
 		skill_cost_v={{{1,60},{20,150}}},
@@ -398,18 +363,10 @@ SKILLS={
 
 	meihuasannong={ --Ã·»¨ÈıÅª£¨ÇÙåĞÒ£150£©
 		seriesdamage_p={{{1,40},{15,40},{20,80},{21,82}}},
-		lightingdamage_v={
-			[1]={{1,45},{33,75}},
-			[3]={{1,45},{33,75}}
-		},
-		--lightingdamage_p={{{1,2},{33,75}}},
-		lightingdamage_v={
-			[1]={{1,2},{33,75}},
-			[3]={{1,2},{33,75}}
-		},
+		lightingdamage_p={{{1,2},{33,75}}},
 		skill_collideevent={
 			[1]={{1,0},{10,0},{11,1},{20,1}},
-			[3]={{1,1943},{20,1943}}
+			[3]={{1,1912},{20,1912}}
 		},
 		skill_eventskilllevel={{{1,1},{20,20}}},
 		skill_showevent={{{1,0},{10,0},{11,4},{20,4}}},
@@ -435,33 +392,19 @@ SKILLS={
 				{17,17100},
 				{18,19000},
 				{19,21400},
-				{20,90000},
-				{21,120000},
-				{22,150000},
-				{23,200000},
-				{24,250000},
-				{25,300000},
-				{26,390000},
+				{20,21000},
 			}
 		},
 	},
 	yangguansandie={ --Ñô¹ØÈıµş£¨Ã·»¨ÈıÅª×Ó¼¼ÄÜ£©
 		seriesdamage_p={{{1,40},{15,40},{20,80},{21,82}}},
-		lightingdamage_v={
-			[1]={{1,45},{33,47}},
-			[3]={{1,45},{33,47}}
-		},
-		--lightingdamage_p={{{1,1},{33,47}}},
-		lightingdamage_v={
-			[1]={{1,1},{33,47}},
-			[3]={{1,1},{33,47}}
-		},
-		stun_p={{{1,5},{20,50},{21,50}},{{1,1},{20,12},{21,12}}},
+		lightingdamage_p={{{1,1},{33,33}}},
+		stun_p={{{1,5},{20,55},{21,55}},{{1,1},{20,12},{21,12}}},
 	},
 
 	zhizunyinjian={ --åĞÒ£ÅÉÖÁ×ğÓ¡¼ø¼¼ÄÜ
 		special_point_base={
-			{{1,1916},{20,1916}},-- Ä¿±ê¼¼ÄÜid
+			{{1,1883},{20,1883}},-- Ä¿±ê¼¼ÄÜid
 			{{1,-1},{20,-1}},-- ÅäÔÚÖ÷¶¯¼¼ÄÜÊôĞÔÉÏÌî0£¬×÷ÎªbuffÊôĞÔÌî-1
 			{{1,2},{20,2}},-- Ôö¼Ó¸öÊı
 		}
@@ -643,5 +586,4 @@ end;
 function Param2String(Param1, Param2, Param3)
 return Param1..","..Param2..","..Param3
 end;
-
 

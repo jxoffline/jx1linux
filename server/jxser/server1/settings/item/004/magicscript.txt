@@ -2337,19 +2337,19 @@ TÝn Sø Kim Yªu Bµi LÔ Bao	6	1	2323	\spr\item\obj_item_jixiang.spr	347	1	1	"NhÊn 
 [Tinh ChÕ] §æng S¸t B¹ch Kim Tó Phông Giíi LÔ Hép	6	1	2325	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông nhËn ®­îc [Tinh ChÕ] §æng S¸t B¹ch Kim Tó Phông Giíi		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 [Tinh ChÕ] §æng S¸t B¹ch Ngäc Cµn Kh«n Béi LÔ Hép	6	1	2326	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông nhËn ®­îc [Tinh ChÕ] §æng S¸t B¹ch Ngäc Cµn Kh«n Béi		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 [Tinh ChÕ] §æng S¸t PhØ Thóy Ngäc H¹ng Khuyªn LÔ Hép	6	1	2327	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông nhËn ®­îc [Tinh ChÕ] §æng S¸t PhØ Thóy Ngäc H¹ng Khuyªn		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - XÝch thè	6	1	2328	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 XÝch Thè		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - §Ých L«	6	1	2329	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 §Ých L«		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - TuyÖt ¶nh	6	1	2330	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 TuyÖt ¶nh		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - ¤ V©n §¹p TuyÕt	6	1	2331	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó sö dông ®Ó nhËn ®­îc 1 ¤ V©n §¹p TuyÕt		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - ChiÕu D¹ Ngäc S­ Tö	6	1	2332	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó sö dông ®Ó nhËn ®­îc 1 ChiÕu D¹ Ngäc S­ Tö		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - B«n Tiªu	6	1	2333	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 B«n Tiªu		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-M· bµi - Phiªn Vò	6	1	2334	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 Phiªn Vò		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - XÝch thè	6	1	2328	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 XÝch Thè		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - §Ých L«	6	1	2329	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 §Ých L«		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - TuyÖt ¶nh	6	1	2330	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 TuyÖt ¶nh		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - ¤ V©n §¹p TuyÕt	6	1	2331	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó sö dông ®Ó nhËn ®­îc 1 ¤ V©n §¹p TuyÕt		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - ChiÕu D¹ Ngäc S­ Tö	6	1	2332	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó sö dông ®Ó nhËn ®­îc 1 ChiÕu D¹ Ngäc S­ Tö		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - B«n Tiªu	6	1	2333	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 B«n Tiªu		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+M· bµi - Phiªn Vò	6	1	2334	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 Phiªn Vò		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 Thanh TuyÖt Y lÔ hép	6	1	2335	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Thanh TuyÖt Y		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 B¨ng Tinh QuÇn lÔ hép	6	1	2336	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 B¨ng Tinh QuÇn		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-Kinh Thiªn Gi¸p lÔ hép	6	1	2337	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Kinh Thiªn Gi¸p		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-KhÊp §Þa QuÇn lÔ hép	6	1	2338	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 KhÊp §Þa QuÇn		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+Kinh Thiªn Gi¸p lÔ hép	6	1	2337	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Kinh Thiªn Gi¸p		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+KhÊp §Þa QuÇn lÔ hép	6	1	2338	\spr\item\script\item_chrismasbox.spr	377	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 KhÊp §Þa QuÇn		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 S¸t Thñ Gi¶n lÔ hép	6	1	2339	\spr\item\script\item_chrismasbox.spr	377	1	1	Chuét ph¶i sö dông ®Ó nhËn ®­îc 2 s¸t thñ gi¶n		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
-Nh¹c V­¬ng KiÕm lÔ bao	6	1	2340	\spr\item\obj_item_jixiang.spr	347	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Nh¹c V­¬ng KiÕm		0	1	0	\script\item\noscript.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+Nh¹c V­¬ng KiÕm lÔ bao	6	1	2340	\spr\item\obj_item_jixiang.spr	347	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Nh¹c V­¬ng KiÕm		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 Hép b¸nh ch­ng	6	1	2341	\spr\item\oldbox\oldbox.spr	433	1	1	Bªn trong ®ùng rÊt nhiÒu B¸nh ó		0	1	1	\script\missions\jiguchuanhua\item\zongzixiang.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
 Hång Bao §oan Ngä	6	1	2342	\spr\item\magic\icon_item_baozhu.spr	41	1	1	NhÊn chuét ph¶i sö dông trªn mÆt ®Êt sÏ xuÊt hiÖn mét Phong Ph¸o.		0	1	1	\script\missions\jiguchuanhua\item\duanwuhongpao.lua	0	1	1	0	1		0	0	0	0	0	0	0	0	0	0						
 TiÓu Hång Hoa §oan Ngä	6	1	2343	\spr\item\script\shizhuhua.spr	41	1	1	Mét ®ãa hoa nhá rÊt ®Ñp. NhÊn chuét ph¶i sö dông sÏ ®­îc chuyÓn ®i cho ng­êi kh¸c.		0	1	0	\script\missions\jiguchuanhua\item\duanwuxiaohonghua.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
@@ -5625,4 +5625,4 @@ Hép quµ Phi Phong (Lv9)	6	1	5239	\spr\item\script\other\jinmalibao.spr	41	1	1	Nh
 LÖnh Bµi TruyÒn Kú	6	1	5240	\spr\item\script\yinghaoling.spr	41	1	1	Mét trong nh÷ng vËt phÈm nhiÖm vô cÇn ë nhiÖm vô S¶nh Ho¹t §éng		0	1	1	\script\item\noscript.lua	0	1	1	0	0		50	0	0	0	0	0	0	0	0	0						
 Tói Ch©n Nguyªn (Nhá)	6	1	5241	\spr\item\script\pingzi\200805\chuntiandalibao.spr	41	1	1	Më ra nhËn ®­îc 5000 Ch©n Nguyªn		100	1	1	\script\item\randomitem.lua	0	1	1	0	0		100	0	0	0	0	0	0	0	0	0	24					
 LÔ Hép Phi Phong cÊp 7	6	1	5242	\spr\item\script\other\jinmalibao.spr	41	1	1	NhÊn chuét ph¶i dïng cã thÓ nhËn ®­îc Phi Phong 10 Sao cÊp 7		0	1	0	\script\item\pifeng_lihe.lua	0	1	1	0	0		500	0	0	0	0	0	0	0	0	0						
-LÖnh Bµi Test Game	6	1	50000	\spr\item\songjin\rescript.spr	383	1	1	Like share vµ tham gia FB Héi qu¸n vâ l©m ñng hé team nhÐ <enter> https://fb.com/groups/volamquan		100	1	0	\script\global\eurofun\item\lenhbaitestserver.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						
+LÖnh Bµi Test Game	6	1	50000	\spr\item\songjin\rescript.spr	383	1	1	Like share vµ tham gia FB Héi qu¸n vâ l©m ñng hé team nhÐ <enter> https://fb.com/groups/volamquan		100	1	1	\script\global\quanlygame\quanlygame.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0						

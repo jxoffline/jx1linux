@@ -32,8 +32,8 @@ function TieuDaoPhai()
 	SetCurCamp(4);
 	SetRank(98);
 	SetLastFactionNumber(12);
-	AddMagic(1881,0)-- level 10
-	AddMagic(1905,0)-- level 10
+	AddMagic(1914,0)-- level 10
+	AddMagic(1936,0)-- level 10
 	SetTask(12,10*256);
 	---AddItem(0,0,7,1,0,0) AddItem(0,0,8,1,0,0)
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=fire>Tiªu Dao")
@@ -62,33 +62,33 @@ function join_tieudao_sure()
 	SetRank(98);
 	SetSeries(4);
 	SetLastFactionNumber(12);
-	AddMagic(1881,20)-- level 10
-	AddMagic(1905,20)-- level 10
+	AddMagic(1914,20)-- level 10
+	AddMagic(1936,20)-- level 10
 
-	AddMagic(1882,20)-- level 20
-	AddMagic(1906,20)-- level 20
+	AddMagic(1915,20)-- level 20
+	AddMagic(1937,20)-- level 20
 
-	AddMagic(1883,20)-- level 30
+	AddMagic(1916,20)-- level 30
 
-	AddMagic(1885,20)-- level 40
-	AddMagic(1907,20)-- level 40
+	AddMagic(1918,20)-- level 40
+	AddMagic(1938,20)-- level 40
 
-	AddMagic(1887,20)-- level 50
-	AddMagic(1909,20)-- level 50
+	AddMagic(1920,20)-- level 50
+	AddMagic(1940,20)-- level 50
 
-	AddMagic(1888,20)-- level 60
+	AddMagic(1921,20)-- level 60
 
-	AddMagic(1890,20)-- level 70
-	AddMagic(1889,20)-- level 70
+	AddMagic(1923,20)-- level 70
+	AddMagic(1922,20)-- level 70
 
-	AddMagic(1891,20)---- level 90
-	AddMagic(1910,20)---- level 90
+	AddMagic(1924,20)---- level 90
+	AddMagic(1941,20)---- level 90
 
-	AddMagic(1894,20)---- level 120
+	AddMagic(1927,20)---- level 120
 
-	AddMagic(1896,20)---- level 150
-	AddMagic(1911,20)---- level 150
+	AddMagic(1929,20)---- level 150
+	AddMagic(1942,20)---- level 150
 
-	AddMagic(1901,20)---- level 180
+	--AddMagic(1901,20)---- level 180
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=fire>Tiªu Dao")
 end
